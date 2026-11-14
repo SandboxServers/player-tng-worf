@@ -1,5 +1,5 @@
 # Journal
- no sleep at the beds (golems). No food; Riker at health 1.8 and needs food most. Going back to the north lake shore at -317,63,265 to try for a salmon. Hunger 15.
+ (golems). No food; Riker at health 1.8 and needs food most. Going back to the north lake shore at -317,63,265 to try for a salmon. Hunger 15.
 - 19:47 Waking 7: status checked, sleep at -270,67,318 worked, reflect step done (summary rewritten, journal cleared). Hunger 17, no food today.
 - 18:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Data's group is at the beds too. I'm going to sleep in the white bed to the north. No food found today."}
 - 18:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
@@ -80,3 +80,6 @@
 - 20:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf here at the bed for the night. No food yet. Trini, Tommy and Riker first at dawn."}
 - 20:23 act: {"actions":[{"do":"sleep"}],"say":"Worf at the white bed with the group. No food yet. Riker and Trini first at dawn."}
 - 20:24 act: {"actions":[{"do":"sleep"}],"say":"Worf at the white bed with the group. No food, hunger 14. Trying to sleep now. Riker and Trini first at dawn."}
+- 20:25 say: {"text":"Worf here, at the white bed. No food yet. Going to sleep for the night; Riker and Trini first when food turns up."}
+- 20:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}]}
+- 20:25 act: {"actions":[{"do":"sleep"}]}
