@@ -83,3 +83,7 @@
 - 20:25 say: {"text":"Worf here, at the white bed. No food yet. Going to sleep for the night; Riker and Trini first when food turns up."}
 - 20:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}]}
 - 20:25 act: {"actions":[{"do":"sleep"}]}
+- 20:27 act: {"actions":[{"do":"sleep"}],"say":"Worf at the white bed -270,67,318, no food, hunger 14. Trying to sleep with the group. Riker and Trini first at dawn.","intent":{"goal":"sleep_through_night_at_beds"
+- 20:28 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":260}}],"say":"Worf: slept, dawn now, no food, hunger 14. Trini and Riker first for anything I find. Scouting far north grass for animals; call ou
+- 20:28 act: {"actions":[],"say":"Worf at the far north grass, -282,67,261. No animals in sight, drop to the north. Hunger 14. Going to walk the grass east of here next."}
+- 20:30 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":261}}],"say":"Worf: morning of day 237, no animals at the far north grass. Walking east along the north grass now. Hunger 14, health steady.","in
