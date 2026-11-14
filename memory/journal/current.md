@@ -92,3 +92,31 @@
 - 20:32 act: {"intent":{"goal":"scout_east_for_food","program":"travel","arguments":{"target":{"x":-185,"y":66,"z":255}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed","
 - 20:36 act: {"actions":[{"do":"unstick"}],"say":"Worf: I'm in a pit at -185,83,255. Climbing out. No food yet, hunger 13."}
 - 20:36 act: {"intent":{"goal":"scout_east_for_food_2","program":"travel","arguments":{"target":{"x":-170,"y":66,"z":255}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"
+- 20:38 act: {"actions":[{"do":"goto","target":{"x":-185,"y":87,"z":255}}],"say":"Going to the item to the south; I'm hungry and need food.","intent":{"goal":"reach_south_item","program":"travel","arguments":{"tar
+- 20:38 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}}],"say":"Worf: nothing to the south, no food. Heading back to the white beds to stay with the group; Riker and Trini first for any food.","i
+- 20:39 act: {"actions":[],"say":"Worf back at the white beds. I found no animals east, north-east or south today, only pits and oak. I have no food, hunger 12. Riker and Trini first for anything found.","intent":
+- 20:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf at the white bed for the night, no food, hunger 12. Riker and Trini first for any food at first light.","intent
+- 20:46 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}},{"do":"sleep"}],"say":"Worf: trying the white bed once more by the group. Phantoms and golems to the south-west, stay alert."}
+- 20:47 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}}],"say":"Worf: moving to the beds to be with Trini and the group. Golems, watch the south."}
+- 20:47 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf at the white bed with Jason and Ezra. No food, hunger 12. Riker and Trini first at light."}
+- 20:47 act: {"actions":[{"do":"goto","target":{"x":-284,"y":66,"z":316}}],"say":"Worf: golems are right beside me. Moving north-west away from them, no food here."}
+- 20:47 act: {"actions":[{"do":"goto","target":{"x":-317,"y":63,"z":265}}],"say":"Worf: dawn. No food yet. Going to the north lake shore to watch for salmon; Riker and Trini first for any fish.","intent":{"goal":"
+- 20:48 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":266}}],"say":"Worf: a zombie is north-west of the shore. Backing off east, no weapon."}
+- 20:48 act: {"intent":{"goal":"scout_salmon_lake","program":"travel","arguments":{"target":{"x":-322,"y":63,"z":258}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"l
+- 20:48 act: {"actions":[{"do":"unstick"}],"say":"Worf: I am in the water. Getting out, then going for the salmon to the south-west."}
+- 20:48 act: {"actions":[{"do":"goto","target":{"x":-336,"y":62,"z":264}}]}
+- 20:49 act: {"intent":{"goal":"reach_salmon_shore","program":"travel","arguments":{"target":{"x":-345,"y":62,"z":277}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"
+- 20:49 act: {"actions":[{"do":"attack","target":"salmon"}],"say":"Worf: salmon all around. I am going for them now."}
+- 20:49 act: {"actions":[{"do":"goto","target":{"x":-350,"y":60,"z":274}},{"do":"attack","target":"salmon"}]}
+- 20:51 act: {"actions":[{"do":"goto","target":{"x":-345,"y":61,"z":269}},{"do":"attack","target":"salmon"}],"say":"Worf: closing in on the salmon to the west."}
+- 20:51 act: {"actions":[{"do":"attack","target":"salmon"}]}
+- 20:51 act: {"actions":[{"do":"attack","target":"salmon"}]}
+- 20:51 act: {"actions":[{"do":"unstick"},{"do":"attack","target":"salmon"}],"say":"Worf: the salmon keep darting off. I will keep trying from the water's edge."}
+- 20:51 act: {"actions":[{"do":"attack","target":"salmon"}]}
+- 20:54 act: {"intent":{"goal":"get_to_dry_land","program":"travel","arguments":{"target":{"x":-310,"y":65,"z":257}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"lim
+- 20:54 act: {"say":"Salmon are out in the water to the west. I am on dry land now, so I will wait for one to come near the shore.","reasoning":"I am on dry land at -310,64,257 with hunger 11. Salmon are 12 to 14 
+- 21:06 act: {"say":"Something is hitting me in the dark. I am moving away from the water.","reasoning":"Health fell from 10.8 to 7.8 after a hit from an unseen attacker, and I was pushed to -301,64,250. No food a
+- 21:06 act: {"say":"A drowned is on me. I am running east.","reasoning":"A drowned is 3 blocks west and attacking. I have no weapon, and drowned are slow on land. I will run further east to break contact.","inten
+- 21:07 act: {"say":"I am badly hurt and I have no food. I am heading toward Picard, away from the golem.","reasoning":"Health 4.8, hit from behind, an iron golem 5 blocks south-west. Picard is about 21 blocks awa
+- 21:07 act: {"say":"Picard, I am hurt and have had no food. Do you have any food?","reasoning":"Picard is two blocks away. Health 4.8 and hunger 10, with a bow drawn somewhere north-east. I need food and to get i
+- 21:10 act: {"say":"Worf here, day 239, dawn. Health 4.8, hunger 10, no food. I am going north with Picard toward the sheep field. Any mutton goes to Riker first, then Trini.","reasoning":"Dawn and the group is h
