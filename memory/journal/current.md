@@ -138,3 +138,6 @@
 - 22:33 act: {"intent":{"goal":"join_west_food_search","program":"travel","arguments":{"target":{"x":-290,"y":66,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"
 - 22:33 say: {"text":"Worf here, at -290,66,317 with Zack and Laforge. No animals in sight yet. I'll stay near and call out anything with fur."}
 - 22:40 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fail
+- 22:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf here, night, no food, hunger 10, health 4.8. Trying the white bed with the group. Trini first when food turns u
+- 22:42 act: {"say":"Worf: sleep refused again, a phantom is near. Staying awake at the beds with the group until light. Trini has a chicken; Trini first.","intent":{"goal":"hold_at_beds_until_light","program":"re
+- 22:44 act: {"actions":[{"do":"sleep"}],"say":"Worf: trying to sleep again in the white bed. No food, hunger 10. Trini first at light."}
