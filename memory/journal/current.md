@@ -53,3 +53,4 @@
 - 19:39 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf: dusk, no food, going to the white bed at -270,67,318 to sleep. Watch the south for bows."}
 - 19:43 act: {"actions":[{"do":"sleep"}],"say":"Worf: night, no food, going to sleep in the white bed here."}
 # Journal
+- 19:45 act: {"actions":[{"do":"sleep"}],"say":"Worf, at the white bed -270,67,318, still no food, hunger 17. Trying to sleep through the night."}
