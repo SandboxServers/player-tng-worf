@@ -157,3 +157,5 @@
 - 22:56 act: {"say":"Worf at the north-west grass past the pond, midday. No animals in sight here. Hunger 9, health 4.8. I'll look a little further west and come back to the beds.","actions":[{"do":"goto","target"
 - 22:56 act: {"say":"Worf: the way west is blocked by drops, and there are no animals here either. Going back to the white beds to stay with the group.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":316}}]
 - 23:00 act: {"say":"Worf at dusk, no food, hunger 9. Going to the white bed to sleep with the group.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 23:02 act: {"actions":[{"do":"sleep"}],"say":"Waking 23, night at the white bed. No food yet; I'll look for it first thing after waking."}
+- Waking 23 (day 244 night): at the white bed -270,67,318 with the group, hunger 9, health 4.8, no food. Sent sleep; the wait session ended before the result came back. Next: check whether I slept, then look for food first.
