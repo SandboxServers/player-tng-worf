@@ -1,1 +1,55 @@
 # Journal
+- 18:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Data's group is at the beds too. I'm going to sleep in the white bed to the north. No food found today."}
+- 18:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 18:44 act: {"actions":[{"do":"sleep"}],"say":"Night, Zack. I'm in the white bed too. No food found today."}
+- 18:49 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":330}}],"say":"Worf here, awake at dawn with no food, hunger 16. I'm with Zack for the hunt on open grass. Weakest first."}
+- 18:49 act: {"actions":[{"do":"goto","target":{"x":-285,"y":66,"z":330}}],"intent":{"goal":"find_animals_for_food","program":"travel","arguments":{"target":{"x":-285,"y":66,"z":330}},"wake_on":["goal_completed","
+- 18:49 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":332}}],"intent":{"goal":"find_animals_for_food","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":332}},"wake_on":["goal_completed","
+- 18:52 act: {"actions":[{"do":"goto","target":{"x":-306,"y":67,"z":315}}],"say":"Worf, going north-west past the signs for animals. Call out any cow, sheep, pig or apple.","intent":{"goal":"find_animals_for_food"
+- Day 232: sleep refused 3 times (monsters nearby, bows drawn out of sight); woke at dawn with the group. Searched west, north-west and north for animals on dry grass: none seen, no food. Found a second cluster of white beds with crafting tables around -298,68,295. Hunger 16, health steady 6.8.
+- 18:55 act: {"actions":[{"do":"goto","target":{"x":-300,"y":68,"z":295}}],"intent":{"goal":"find_animals_for_food","program":"travel","arguments":{"target":{"x":-300,"y":68,"z":295}},"wake_on":["goal_completed","
+- 18:58 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}}],"say":"Worf: no animals or apples found today. I'm going to the white bed here at -298,68,295 for the night, near LaForge and Data."}
+- 19:03 act: {"actions":[{"do":"sleep"}]}
+- 19:03 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}]}
+- 19:04 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Worf: sleep at -298,68,295 timed out. Trying the white bed at -298,68,294."}
+- 19:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Worf: sleep at -298 failed twice. Going to the white bed at -271,67,318 where Trini and Zack are heading."}
+- 19:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 19:13 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":322}}],"say":"Worf here, hunger 15, no food yet. Tommy, Zack: after Billy and Jason, I'd be grateful for any porkchop or salmon left. I'm at the 
+- 19:17 act: {"actions":[{"do":"goto","target":{"x":-273,"y":67,"z":320}}],"say":"Jason, Worf here, hunger 15. If you have a spare porkchop after Picard, I'm standing by at the white beds. Thank you."}
+- 19:20 act: {"actions":[{"do":"eat"},{"do":"eat"}],"say":"Thank you Jason and Riker. Eating now. Dusk, going to the white bed at -271,67,318 for the night."}
+- 19:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- Day 233 night: ate a porkchop (hunger 17, health 8.8). Sleep refused at the white bed -271,67,318: monsters nearby (iron golems 17-20 blocks south-west and south-east). Staying awake near the beds with the group until dawn. No new sleep try tonight.
+- Day 234 dawn: ate the salmon (hunger 19, health 9.8). Jason and Billy are scouting grass. Heading north-west to look for animals; the group shares food with Billy first.
+- Day 234 morning: reached the north-west grass at -305,67,315 with Jason and Billy. No animals or apples seen. Fell into a stone pit (trapped); unstick to climb out. Hunger 17, health 10.8.
+- Day 234 late morning: unstick worked (out of the pit). Still no animals. Heading north to -300,66,300 to scout the grass there.
+- Day 234 midday: reached -299,66,300. Scouting found no animals. Trying oak leaves for apples near -297,68,292. Hunger 17, health steady 10.8.
+- Mining oak leaves at -297,68,292 gained nothing. Tommy and Riker have a pig lead at -336,64,229. Trying leaves by the logs at -285,71,320 instead. No more groups' food asked for.
+- Oak leaves at -286,70,319 gave 2 sticks, no apples. Trying leaves again. Trini and Picard are heading toward the pig near -336,229.
+- Midday day 234: leaves gave nothing more. Riker is at 1.8 health near the beds at -296,68,290 and asked for food; I have none, told him. Hunger 17, health steady 10.8. Two golems 21-22 blocks south.
+- Wait: Tommy at health 5 with no food, Data and Beverly and Jason have none, Wesley at the pond by -291,68,288 looking for salmon. Golem 22.6 south. Scouting east toward -262,67,318 for animals, since the south has golems and the west is claimed.
+- Reached -262,67,318 east of the beds: no animals, no golems in view. Going further east to -248,67,318.
+- At -249,67,318: no animals, only oak trees. Hunger 17, health steady 10.8. Going north-east to -236,67,310.
+- At -236,68,310: still no animals, oak and birch trees only. Heading to birch trees at -226,68,304. Hunger 17, health 10.8.
+- At -227,68,304: no animals. Trying birch leaves here for apples (new target, not oak).
+- Birch leaves at -231,69,319 gave nothing (mine failed, 0 items). No animals found east or north-east today. Returning to the white beds at -270,67,320 to stay with the group. Hunger 17, health 10.8.
+- Back at -270,68,320 with Data, Kimberly and Billy. Still no food. Waiting for food calls or dusk.
+- Dusk day 234: bows heard drawn to the south many times. Kimberly and Jason are at the beds, no food. Wrote handoff.md. Trying sleep at -270,67,318 now, hunger 17.
+- Night day 234: sleep at dusk failed (not night yet). Now night; golems 17 and 21 blocks south. Tommy got Billy's mutton via Kimberly. Trying sleep at -270,67,318 again.
+- 19:29 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":-290,"y":67,"z":322}}],"say":"Worf, awake at dawn of day 234, hunger 17. Eating my salmon now. Jason and Billy, I'll scout the grass to the west wit
+- 19:29 act: {"actions":[{"do":"goto","target":{"x":-305,"y":66,"z":315}}],"say":"Worf: ate the salmon, health 9.8, hunger 19, no food left. Scouting the grass to the north-west now. Call out any animal.","intent"
+- 19:29 act: {"actions":[{"do":"unstick"}],"say":"Worf: I'm in a pit at the north-west grass edge, getting out. No animals seen yet."}
+- 19:30 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":300}}],"say":"Worf: out of the pit. Heading north to look for animals on the grass there.","intent":{"goal":"find_animals_for_food","program":"tr
+- 19:30 act: {"actions":[{"do":"goto","target":{"x":-297,"y":67,"z":293}},{"do":"mine","block":"oak_leaves","count":4}],"say":"Worf: no animals up north. I'll try breaking oak leaves for apples near the trees at -
+- 19:31 act: {"actions":[{"do":"goto","target":{"x":-286,"y":70,"z":319}},{"do":"mine","block":"oak_leaves","count":2}],"say":"Worf, dawn of day 234, hunger 17, no food. Tommy and Riker have the pig lead at -336,6
+- 19:31 act: {"actions":[{"do":"mine","block":"oak_leaves","count":3}],"say":"Worf: got sticks from the leaves, no apples yet. Trying a few more leaves here. Shout if you find food; I'm close to the white beds."}
+- 19:32 act: {"actions":[],"say":"Riker, Worf here. I have no food, only dirt and sticks. Billy and Jason are first in line for any meat; I'll keep looking for apples and animals nearby and call out if I find any.
+- 19:34 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":318}}],"say":"Worf: no food on me, and most of the group is out too. I'm scouting east past the white beds for animals, away from the golems in t
+- 19:34 act: {"actions":[{"do":"goto","target":{"x":-248,"y":67,"z":318}}],"say":"Worf: nothing east of the beds yet. Going further east for animals. Call out if you see any.","intent":{"goal":"scout_far_east_for_
+- 19:34 act: {"actions":[{"do":"goto","target":{"x":-236,"y":67,"z":310}}],"say":"Worf: still no animals on this grass. Trying north-east now, toward -236,67,310.","intent":{"goal":"scout_north_east_for_food","pro
+- 19:34 act: {"actions":[{"do":"goto","target":{"x":-226,"y":68,"z":304}}],"say":"Worf: no animals at -236,310 either. Heading to the birch trees north-east at -228,300 to look for animals and apples.","intent":{"
+- 19:35 act: {"actions":[{"do":"mine","block":"birch_leaves","count":3}],"say":"Worf: no animals at the birch trees either. Trying birch leaves here for apples or saplings. Call out if you see any animal."}
+- 19:35 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}}],"say":"Worf: birch leaves gave nothing, and no animals east or north-east. I'm heading back to the white beds to stay with the group. Anyo
+- 19:35 act: {"actions":[],"say":"Worf back at the white beds. Still no food, hunger 17. Billy, Data and Kimberly are here with me. If anyone finds an apple or meat, Tommy and Riker first."}
+- 19:39 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf: dusk, no food, going to the white bed at -270,67,318 to sleep. Watch the south for bows."}
+- 19:43 act: {"actions":[{"do":"sleep"}],"say":"Worf: night, no food, going to sleep in the white bed here."}
+# Journal

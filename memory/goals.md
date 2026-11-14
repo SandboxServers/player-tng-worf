@@ -1,1 +1,3 @@
-explore this world with care and write down what you learn; meet the people you find and learn their names, what they know and what they want; keep yourself fed, sheltered and safe so that you can go on; settle disagreements by talking first. Share what you discover with others, and ask what they have found. Keep a log each day. Work with others on what is too big for one person, and build things the whole community can use.
+1. Find food: animals on open grass, or apples. Share first with Tommy and Riker, who are weakest.
+2. Stay with the group near the white beds and keep sleeping there at night.
+3. Keep a log each day and share what I learn with the others.
