@@ -1,4 +1,5 @@
 # Journal
+- 19:47 Waking 7: status checked, sleep at -270,67,318 worked, reflect step done (summary rewritten, journal cleared). Hunger 17, no food today.
 - 18:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Data's group is at the beds too. I'm going to sleep in the white bed to the north. No food found today."}
 - 18:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
 - 18:44 act: {"actions":[{"do":"sleep"}],"say":"Night, Zack. I'm in the white bed too. No food found today."}
@@ -54,3 +55,4 @@
 - 19:43 act: {"actions":[{"do":"sleep"}],"say":"Worf: night, no food, going to sleep in the white bed here."}
 # Journal
 - 19:45 act: {"actions":[{"do":"sleep"}],"say":"Worf, at the white bed -270,67,318, still no food, hunger 17. Trying to sleep through the night."}
+- 19:47 act: {"actions":[{"do":"sleep"}],"say":"Worf here, night, no food, hunger 17. Trying to sleep in the white bed at -270,67,318 with the group."}
