@@ -141,3 +141,14 @@
 - 22:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf here, night, no food, hunger 10, health 4.8. Trying the white bed with the group. Trini first when food turns u
 - 22:42 act: {"say":"Worf: sleep refused again, a phantom is near. Staying awake at the beds with the group until light. Trini has a chicken; Trini first.","intent":{"goal":"hold_at_beds_until_light","program":"re
 - 22:44 act: {"actions":[{"do":"sleep"}],"say":"Worf: trying to sleep again in the white bed. No food, hunger 10. Trini first at light."}
+- 22:48 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"I'm trying the bed now. I have no food; I'll look for salmon at the north lake at first light."}
+- 22:48 act: {"actions":[{"do":"goto","target":{"x":-323,"y":60,"z":262}}],"intent":{"goal":"reach_north_lake_for_food","program":"travel","arguments":{"target":{"x":-323,"y":60,"z":262}},"wake_on":["goal_complete
+- 22:50 act: {"actions":[{"do":"unstick"}]}
+- 22:50 act: {"actions":[{"do":"goto","target":{"x":-310,"y":64,"z":262}}]}
+- 22:50 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":320}}],"say":"No fish reachable from the shore here. Heading back to the beds to search the grass with the group."}
+- 22:50 act: {"actions":[],"say":"Worf back at the beds. Lake shore: salmon out of reach from land, no food found. Who has searched which grass? I'll try the far north grass next, and call out any animal I see."}
+- 22:52 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":295}}]}
+- 22:53 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":265}}]}
+- 22:53 act: {"actions":[{"do":"goto","target":{"x":-248,"y":67,"z":275}}]}
+- 22:53 act: {"actions":[{"do":"goto","target":{"x":-222,"y":67,"z":280}}]}
+- 22:53 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":316}}]}
