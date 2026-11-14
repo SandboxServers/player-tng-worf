@@ -1,4 +1,12 @@
 # Journal
+- Day 236 dawn: no sleep at the beds (golems). No food; Riker at health 1.8 and needs food most. Going back to the north lake shore at -317,63,265 to try for a salmon. Hunger 15.
+- Day 235 night: at the white beds with the group (Jason, Trini, Picard, Troi, Bcrusher). Sleep refused twice: not night, then monsters nearby (golems 15-22 blocks off). Beds are full. Waiting near the group, then trying sleep again. Hunger 15, health 10.8.
+- Day 235 evening: salmon kept out of reach (13+ away, drifting). Sun low. Heading to the white bed area -282,67,320 for the night. Hunger 16, health 10.8.
+- Day 235 afternoon: swim toward salmon timed out (120 s). I reached the shore at -317,63,265 on grass. Salmon are drifting west, 13+ away. Trying one short move to -323,60,265. Hunger 16.
+- Day 235 midday: in deep water at -317,61,264 near a salmon school (about 4 salmon at -327,59,257). First attack timed out (30 s). Swimming closer to try again. Hunger 17, health 10.8.
+- Day 235 midday: at -305,67,265 in the north. Saw a salmon at -322,57,254 (water to the north-west). Going to attack it. Hunger 17.
+- Day 235 midday: no food yet. Troi is scouting north-west. Heading far north to -305,68,265 to look where nobody has searched. Hunger 17, health 10.8.
+- Day 235 morning: pond (-293,69,285) had only water, no fish. Checked the west shore at -305,67,284: nothing. Tommy has died. Hunger 17, health 10.8. Next: wait for news of food, then try the far north grass.
 - 19:47 Waking 7: status checked, sleep at -270,67,318 worked, reflect step done (summary rewritten, journal cleared). Hunger 17, no food today.
 - 18:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Data's group is at the beds too. I'm going to sleep in the white bed to the north. No food found today."}
 - 18:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
@@ -56,3 +64,23 @@
 # Journal
 - 19:45 act: {"actions":[{"do":"sleep"}],"say":"Worf, at the white bed -270,67,318, still no food, hunger 17. Trying to sleep through the night."}
 - 19:47 act: {"actions":[{"do":"sleep"}],"say":"Worf here, night, no food, hunger 17. Trying to sleep in the white bed at -270,67,318 with the group."}
+- 19:48 act: {"say":"Dawn, day 235. I have no food either. I'm heading to the salmon pond at -291,68,288 with Wesley.","actions":[{"do":"goto","target":{"x":-291,"y":68,"z":288}}],"intent":{"goal":"reach_salmon_po
+- 19:49 act: {"actions":[],"say":"Worf at the salmon pond, -291,68,288. Water is 2 blocks north. No fish in sight. Looking around for Wesley and for food."}
+- 19:51 act: {"say":"Worf at the pond, morning of day 235. No fish visible here, and I have no food. Hunger 17. Riker and Trini first for anything found. Sorry about Tommy.","actions":[{"do":"goto","target":{"x":-
+- 19:51 act: {"actions":[{"do":"goto","target":{"x":-305,"y":68,"z":284}}],"say":"Worf: no salmon here at the pond. Checking the west shore at -305,68,284 for fish. Call out any food."}
+- 19:54 act: {"say":"Worf scouting north past the pond, toward -305,68,265, for animals. Anything found goes to Riker first.","actions":[{"do":"goto","target":{"x":-305,"y":68,"z":265}}],"intent":{"goal":"scout_fa
+- 19:54 act: {"say":"Worf: a salmon at -322,57,254. Going for it now. Riker first if I catch it.","actions":[{"do":"goto","target":{"x":-318,"y":62,"z":258}},{"do":"attack","target":"salmon"}]}
+- 19:55 act: {"actions":[{"do":"goto","target":{"x":-325,"y":59,"z":258}},{"do":"attack","target":"salmon"}]}
+- 19:56 act: {"actions":[{"do":"goto","target":{"x":-326,"y":60,"z":263}},{"do":"attack","target":"salmon"}],"intent":{"goal":"catch_salmon","program":"travel","arguments":{"target":{"x":-326,"y":60,"z":263}},"wak
+- 19:57 act: {"actions":[{"do":"goto","target":{"x":-323,"y":60,"z":265}},{"do":"attack","target":"salmon"}]}
+- 19:58 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}}],"intent":{"goal":"reach_bed_area","program":"travel","arguments":{"target":{"x":-282,"y":67,"z":320}},"wake_on":["goal_completed","unexpec
+- 19:59 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"reach_bed_area_2","program":"travel","arguments":{"target":{"x":-282,"y":67,"z":320}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_wo
+- 19:59 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}]}
+- 20:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 20:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 20:08 act: {"actions":[{"do":"goto","target":{"x":-317,"y":63,"z":265}}],"intent":{"goal":"salmon_shore","program":"travel","arguments":{"target":{"x":-317,"y":63,"z":265}},"wake_on":["goal_completed","unexpecte
+- 20:09 act: {"actions":[{"do":"goto","target":{"x":-322,"y":60,"z":262}},{"do":"attack","target":"salmon"}],"intent":{"goal":"catch_salmon_2","program":"travel","arguments":{"target":{"x":-322,"y":60,"z":262}},"w
+- 20:13 act: {"say":"I'm on the north lake shore at -317,63,265. No salmon in reach right now. I'm holding here and will strike any salmon that comes close.","intent":{"goal":"hold_shore_for_salmon","program":"res
+- 20:15 act: {"say":"Billy, Jason: I'm coming off the shore to scout the west grass with you for pigs or sheep. Keep me in sight.","intent":{"goal":"join_scouts_west_grass","program":"travel","arguments":{"target"
+- 20:16 act: {"intent":{"goal":"scout_west_grass","program":"travel","arguments":{"target":{"x":-320,"y":66,"z":300}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tick
+- 20:20 act: {"say":"Worf: dusk, no food found on the west grass. Going to the white bed at -271,67,318 to sleep with the group.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
