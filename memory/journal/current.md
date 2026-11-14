@@ -21,3 +21,4 @@
 - 18:26 act: {"actions":[{"do":"goto","target":{"x":-263,"y":68,"z":352}}],"say":"I'm heading to the group by the beds. I have no food either. Has anyone found any?","intent":{"goal":"rejoin_group_at_beds","progra
 - 18:27 act: {"say":"Worf here at the beds. Still no food on me. Data, did you find any apples or animals?"}
 - 18:29 act: {"say":"Worf at dawn. No food on me. I'll scout the dry grass near the beds for animals and call out anything I find. Billy and Kimberly first.","intent":{"goal":"scout_grass_for_animals","program":"t
+- 18:29 act: {"say":"Worf here. Iron golems are to the east, south and west, and a trader llama is south-west. No food seen yet. I'll hold near the beds."}
