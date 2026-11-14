@@ -1,6 +1,4 @@
 # Journal
-- Day 239 midday: at -274,67,289 with Trini, Zack, Billy, Kimberly, Ezra. No food anywhere yet; sheep field still unknown. Hunger 10, health 4.8. Waiting here for a sheep call; any mutton goes to Trini, then Riker.
- (golems). No food; Riker at health 1.8 and needs food most. Going back to the north lake shore at -317,63,265 to try for a salmon. Hunger 15.
 - 19:47 Waking 7: status checked, sleep at -270,67,318 worked, reflect step done (summary rewritten, journal cleared). Hunger 17, no food today.
 - 18:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Data's group is at the beds too. I'm going to sleep in the white bed to the north. No food found today."}
 - 18:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
@@ -136,3 +134,7 @@
 - 21:44 act: {"actions":[{"do":"sleep"}]}
 - 22:02 act: {"actions":[{"do":"sleep"}]}
 - 22:21 act: {"actions":[{"do":"sleep"}],"say":"Worf, night of day 242, at the white beds with the group. No food yet. Trini first when any turns up."}
+- 22:31 say: {"text":"Morning, day 243. Health 4.8, hunger 10. I have no food either. I'll stay with the group at the beds and keep watch for animals. Trini and Riker eat first."}
+- 22:33 act: {"intent":{"goal":"join_west_food_search","program":"travel","arguments":{"target":{"x":-290,"y":66,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"
+- 22:33 say: {"text":"Worf here, at -290,66,317 with Zack and Laforge. No animals in sight yet. I'll stay near and call out anything with fur."}
+- 22:40 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fail

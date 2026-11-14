@@ -1,5 +1,8 @@
 # Recent days
 
+- Day 243 (done): no food all day. Joined the western search for pigs and cows; none seen. Slept at the white bed -270,67,318 with the group; sleep worked. Health 4.8, hunger 10 at waking. Trini and Riker are weakest and eat first.
+- Next waking: find food first (north lake salmon near -323,60,262, or animals on open grass). Stay near the beds. Golems and bows to the south.
+
 - Day 236 (slept at the white bed -270,67,318 with the group; sleep worked). Caught a salmon at the north lake shore around -323,60,262 earlier, but it was not enough for everyone. Hunger 14, health 10.8. Tommy has died; Riker is weakest (health was 1.8).
 - Next waking: find food first; Riker and Trini first. Try far north grass or new grass past the beds. Golems come close at night from the south.
 
