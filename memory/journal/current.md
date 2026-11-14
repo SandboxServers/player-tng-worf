@@ -85,3 +85,4 @@
 - 20:16 act: {"intent":{"goal":"scout_west_grass","program":"travel","arguments":{"target":{"x":-320,"y":66,"z":300}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tick
 - 20:20 act: {"say":"Worf: dusk, no food found on the west grass. Going to the white bed at -271,67,318 to sleep with the group.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
 - 20:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf here at the bed for the night. No food yet. Trini, Tommy and Riker first at dawn."}
+- 20:23 act: {"actions":[{"do":"sleep"}],"say":"Worf at the white bed with the group. No food yet. Riker and Trini first at dawn."}
