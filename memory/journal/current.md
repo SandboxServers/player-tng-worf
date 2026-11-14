@@ -1,4 +1,5 @@
 # Journal
+- Day 239 midday: at -274,67,289 with Trini, Zack, Billy, Kimberly, Ezra. No food anywhere yet; sheep field still unknown. Hunger 10, health 4.8. Waiting here for a sheep call; any mutton goes to Trini, then Riker.
  (golems). No food; Riker at health 1.8 and needs food most. Going back to the north lake shore at -317,63,265 to try for a salmon. Hunger 15.
 - 19:47 Waking 7: status checked, sleep at -270,67,318 worked, reflect step done (summary rewritten, journal cleared). Hunger 17, no food today.
 - 18:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Data's group is at the beds too. I'm going to sleep in the white bed to the north. No food found today."}
@@ -55,6 +56,7 @@
 - 19:39 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf: dusk, no food, going to the white bed at -270,67,318 to sleep. Watch the south for bows."}
 - 19:43 act: {"actions":[{"do":"sleep"}],"say":"Worf: night, no food, going to sleep in the white bed here."}
 # Journal
+- Day 239 midday: at -274,67,289 with Trini, Zack, Billy, Kimberly, Ezra. No food anywhere yet; sheep field still unknown. Hunger 10, health 4.8. Waiting here for a sheep call; any mutton goes to Trini, then Riker.
 - 19:45 act: {"actions":[{"do":"sleep"}],"say":"Worf, at the white bed -270,67,318, still no food, hunger 17. Trying to sleep through the night."}
 - 19:47 act: {"actions":[{"do":"sleep"}],"say":"Worf here, night, no food, hunger 17. Trying to sleep in the white bed at -270,67,318 with the group."}
 - 19:48 act: {"say":"Dawn, day 235. I have no food either. I'm heading to the salmon pond at -291,68,288 with Wesley.","actions":[{"do":"goto","target":{"x":-291,"y":68,"z":288}}],"intent":{"goal":"reach_salmon_po
@@ -120,3 +122,17 @@
 - 21:07 act: {"say":"I am badly hurt and I have no food. I am heading toward Picard, away from the golem.","reasoning":"Health 4.8, hit from behind, an iron golem 5 blocks south-west. Picard is about 21 blocks awa
 - 21:07 act: {"say":"Picard, I am hurt and have had no food. Do you have any food?","reasoning":"Picard is two blocks away. Health 4.8 and hunger 10, with a bow drawn somewhere north-east. I need food and to get i
 - 21:10 act: {"say":"Worf here, day 239, dawn. Health 4.8, hunger 10, no food. I am going north with Picard toward the sheep field. Any mutton goes to Riker first, then Trini.","reasoning":"Dawn and the group is h
+- 21:14 act: {"intent":{"goal":"join_group_north_sheep_field","program":"travel","arguments":{"target":{"x":-275,"y":67,"z":300}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_
+- 21:15 act: {"say":"Worf at -275,68,300, no food, hunger 10, health 4.8. Trini, I see you 8 blocks off. Which way is the sheep field? I'll follow you north and keep in sight."}
+- 21:17 act: {"intent":{"goal":"join_group_at_zack_spot","program":"travel","arguments":{"target":{"x":-274,"y":67,"z":289}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
+- 21:18 act: {"actions":[{"do":"wait","seconds":120}]}
+- 21:19 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":292}},{"do":"sleep"}],"say":"Worf: dusk, no food, hunger 10. Going to the yellow bed at -274,69,291 to sleep near the group. Mutton still goes to
+- 21:22 act: {"actions":[{"do":"sleep"}],"say":"Worf, night, at the yellow bed with Trini and Billy. No food, hunger 10. Food goes to Trini first at light."}
+- 21:26 act: {"actions":[{"do":"sleep"}]}
+- 21:31 act: {"actions":[{"do":"goto","target":{"x":-272,"y":70,"z":318}},{"do":"mine","block":"oak_log","count":3}],"say":"Worf, dawn day 240, no food, hunger 10, no weapon. Getting logs by the beds for a sword. 
+- 21:32 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"goto","target":{"x":-268,"y":67,"z":325}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Worf: making planks and a wooden sword 
+- 21:32 act: {"say":"Worf: I have a wooden sword now. No food on me. Trini first for any food I find, then Riker.","intent":{"goal":"hunt_food_with_group","program":"follow","arguments":{"target":"ag_riker_01"},"w
+- 21:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 21:44 act: {"actions":[{"do":"sleep"}]}
+- 22:02 act: {"actions":[{"do":"sleep"}]}
+- 22:21 act: {"actions":[{"do":"sleep"}],"say":"Worf, night of day 242, at the white beds with the group. No food yet. Trini first when any turns up."}
