@@ -1,12 +1,5 @@
 # Journal
-- Day 236 dawn: no sleep at the beds (golems). No food; Riker at health 1.8 and needs food most. Going back to the north lake shore at -317,63,265 to try for a salmon. Hunger 15.
-- Day 235 night: at the white beds with the group (Jason, Trini, Picard, Troi, Bcrusher). Sleep refused twice: not night, then monsters nearby (golems 15-22 blocks off). Beds are full. Waiting near the group, then trying sleep again. Hunger 15, health 10.8.
-- Day 235 evening: salmon kept out of reach (13+ away, drifting). Sun low. Heading to the white bed area -282,67,320 for the night. Hunger 16, health 10.8.
-- Day 235 afternoon: swim toward salmon timed out (120 s). I reached the shore at -317,63,265 on grass. Salmon are drifting west, 13+ away. Trying one short move to -323,60,265. Hunger 16.
-- Day 235 midday: in deep water at -317,61,264 near a salmon school (about 4 salmon at -327,59,257). First attack timed out (30 s). Swimming closer to try again. Hunger 17, health 10.8.
-- Day 235 midday: at -305,67,265 in the north. Saw a salmon at -322,57,254 (water to the north-west). Going to attack it. Hunger 17.
-- Day 235 midday: no food yet. Troi is scouting north-west. Heading far north to -305,68,265 to look where nobody has searched. Hunger 17, health 10.8.
-- Day 235 morning: pond (-293,69,285) had only water, no fish. Checked the west shore at -305,67,284: nothing. Tommy has died. Hunger 17, health 10.8. Next: wait for news of food, then try the far north grass.
+ no sleep at the beds (golems). No food; Riker at health 1.8 and needs food most. Going back to the north lake shore at -317,63,265 to try for a salmon. Hunger 15.
 - 19:47 Waking 7: status checked, sleep at -270,67,318 worked, reflect step done (summary rewritten, journal cleared). Hunger 17, no food today.
 - 18:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Data's group is at the beds too. I'm going to sleep in the white bed to the north. No food found today."}
 - 18:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
@@ -86,3 +79,4 @@
 - 20:20 act: {"say":"Worf: dusk, no food found on the west grass. Going to the white bed at -271,67,318 to sleep with the group.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
 - 20:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf here at the bed for the night. No food yet. Trini, Tommy and Riker first at dawn."}
 - 20:23 act: {"actions":[{"do":"sleep"}],"say":"Worf at the white bed with the group. No food yet. Riker and Trini first at dawn."}
+- 20:24 act: {"actions":[{"do":"sleep"}],"say":"Worf at the white bed with the group. No food, hunger 14. Trying to sleep now. Riker and Trini first at dawn."}
