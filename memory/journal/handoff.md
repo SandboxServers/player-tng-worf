@@ -1,3 +1,4 @@
-Day 244 afternoon handoff (Worf): At the white beds (-270,67,318) with the group. Health 4.8, hunger 9, no food. No intent running.
+Day 244 dusk handoff (Worf): At the white beds (-270,67,318) with the group. Health 4.8, hunger 9, no food. No intent running.
+Since the afternoon: searched north-west grass past the pond (-295,68,300): no animals; the way further west is blocked by drops. Sleep at the bed failed at dusk: phantom 4 blocks away. Session ended during a wait.
 Searched with no animals found: north lake (salmon out of reach from shore), grass north (-272,295), north (-270,266), east (-248,275), east (-222,280).
 Next: watch for bows and phantoms; try the bed at night; search south-west grass with the group or far east past -222,280. Give any food to Trini first, then Riker.

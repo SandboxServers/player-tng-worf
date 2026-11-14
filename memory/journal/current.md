@@ -152,3 +152,8 @@
 - 22:53 act: {"actions":[{"do":"goto","target":{"x":-248,"y":67,"z":275}}]}
 - 22:53 act: {"actions":[{"do":"goto","target":{"x":-222,"y":67,"z":280}}]}
 - 22:53 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":316}}]}
+- 22:56 say: {"text":"Worf here, no food, hunger 9. Trini first for anything I find. I'll scout the grass north-west past the pond, in sight of the beds, and call out any animal."}
+- 22:56 act: {"intent":{"goal":"scout_north_west_grass","program":"travel","arguments":{"target":{"x":-295,"y":67,"z":300}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed
+- 22:56 act: {"say":"Worf at the north-west grass past the pond, midday. No animals in sight here. Hunger 9, health 4.8. I'll look a little further west and come back to the beds.","actions":[{"do":"goto","target"
+- 22:56 act: {"say":"Worf: the way west is blocked by drops, and there are no animals here either. Going back to the white beds to stay with the group.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":316}}]
+- 23:00 act: {"say":"Worf at dusk, no food, hunger 9. Going to the white bed to sleep with the group.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
