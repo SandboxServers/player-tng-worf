@@ -87,3 +87,5 @@
 - 20:28 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":260}}],"say":"Worf: slept, dawn now, no food, hunger 14. Trini and Riker first for anything I find. Scouting far north grass for animals; call ou
 - 20:28 act: {"actions":[],"say":"Worf at the far north grass, -282,67,261. No animals in sight, drop to the north. Hunger 14. Going to walk the grass east of here next."}
 - 20:30 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":261}}],"say":"Worf: morning of day 237, no animals at the far north grass. Walking east along the north grass now. Hunger 14, health steady.","in
+- 20:30 act: {"intent":{"goal":"scout_east_for_food","program":"travel","arguments":{"target":{"x":-235,"y":66,"z":258}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],
+- 20:30 act: {"intent":{"goal":"scout_further_east_for_food","program":"travel","arguments":{"target":{"x":-205,"y":66,"z":255}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_f
