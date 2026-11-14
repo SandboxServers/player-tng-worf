@@ -1,5 +1,8 @@
 # Recent days
 
+- Day 244 (done): no food all day. Searched west, north and north-east grass and the north lake shore; no animals, salmon out of reach from land. Slept at the white bed -270,67,318 with the group; sleep worked at night. Health 4.8, hunger 9 at bed. Trini and Riker are weakest; Trini holds the chicken for hunger 6.
+- Next waking: find food first. Stay near the beds. Try a new direction or a way to reach the lake water. Golems and bows to the south.
+
 - Day 243 (done): no food all day. Joined the western search for pigs and cows; none seen. Slept at the white bed -270,67,318 with the group; sleep worked. Health 4.8, hunger 10 at waking. Trini and Riker are weakest and eat first.
 - Next waking: find food first (north lake salmon near -323,60,262, or animals on open grass). Stay near the beds. Golems and bows to the south.
 
