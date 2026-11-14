@@ -1,0 +1,1 @@
+Day 230 dusk handoff (Worf): Health ~6.8 steady, hunger 17, no food found by anyone in the group. Sheltered-ish near the west beds with the group; golems were seen south, now out of sight. Plan: try one free bed near -282,67,320 for the night, then write reflect. Nothing half-done except the food search, which the group is carrying on.
