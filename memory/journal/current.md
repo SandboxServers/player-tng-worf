@@ -17,3 +17,4 @@
 - 18:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
 - 18:21 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":322}}]}
 - 18:21 act: {"actions":[{"do":"sleep"}]}
+- 18:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"Going to try the bed here; the group's food search can start at dawn.","reasoning":"Night, no food, golems wandering
