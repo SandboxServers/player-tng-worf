@@ -15,3 +15,11 @@
 - 15:46 act: {"intent":{"goal":"wall_for_night_dirt","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_block_o
 - 15:47 act: {"say":"Clark, I'm at -226,67,346, health 0.2. Phantoms are around. Come if it's safe, and bring the sword. Walk the grass, not the pit."}
 - 15:48 act: {"say":"Worf, back at the beds with nothing. Jason, Clark, anyone with a spare sword or food: I'm hungry and empty-handed. Stay near the beds till morning."}
+- 15:49 act: {"say":"Worf here at the yellow beds, dawn. I have nothing in my hands and no food. Zack, if you have a spare sword or food, I would be grateful. I'll go with the group to find animals.","actions":[]}
+- 15:49 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"
+- 15:50 act: {"say":"Zack, thank you. I'm at -246,72,377 on a ledge by the water, and my gathering run failed. I'll wait here for your sword, in view of you if you can come.","actions":[]}
+- 15:52 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"say":"Worf, heading back down to the yellow beds to be with the group. Still no sword, but I'm fine for now."}
+- 15:56 act: {"say":"Worf here at the yellow beds, in sight, Zack. Hunger 20 and no weapon. I'll take the sword if you can spare it. Wesley and Trini go first.","actions":[]}
+- 16:00 act: {"say":"Thank you Zack. I don't see a sword in my hands yet, so I'll hold tight here. Dusk is coming, and I will sleep in the yellow bed once it is dark.","actions":[]}
+- 16:01 act: {"say":"Zack, I still have no sword in my hands. Please use give: item wooden_sword, count 1, to Worf. I am at the yellow bed, in your reach.","actions":[]}
+- 16:03 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}}]}
