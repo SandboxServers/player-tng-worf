@@ -254,3 +254,12 @@
 - 02:45 act: {"actions":[{"do":"sleep"}]}
 - 02:47 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
 - 02:51 say: {"text":"Worf at dawn, day 256: hunger 13, no food, still at the white beds. I'll search the grass in sight of the group. Trini gets any meat first."}
+- 02:57 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":318}}],"say":"Worf, day 256. No food, hunger 13. I'll search the grass north-east of the beds, away from the golems in the south-west. Any meat g
+- Day 256 dusk: at -262,67,318 grass north-east of the beds, no animals, wheat unripe, hunger 13, health 4.8. Heading to the white bed -271,67,318 to sleep with the group. Trini first for meat.
+- 02:57 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":318}}],"say":"Worf at the grass north-east of the beds. No animals here, and the wheat is still unripe. Hunger 13. Trini first for any meat; I'll
+- 02:59 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf: dusk, no food, hunger 13, health 4.8. Going to the white bed at -271,67,318 with the group. Trini first for an
+- 03:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf: night of day 256, at the white bed with the group. No food, hunger 13. Trying sleep again. Meat goes to Trini 
+- 03:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}},{"do":"sleep"}],"say":"Worf: golems 6 blocks south of the bed at -272,336. Moving north to the beds at -270,67,318, away from them, and try
+- 03:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}}],"say":"Worf: a creeper 6 blocks away blocked my sleep. Moving north to the beds with Kimberly and Picard. No food, hunger 13."}
+- 03:06 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf: at the north white bed with Riker and Troi, no monsters in sight. Trying sleep. No food, hunger 13."}
+- 03:06 say: {"text":"Worf: sleep blocked again at the north bed. I'm at the south beds, -270,67,337, with Lewis, Picard, Zack and Data near. No food, hunger 13. Meat goes to Trini, then Data."}
