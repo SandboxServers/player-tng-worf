@@ -279,3 +279,5 @@
 - 03:24 act: {"actions":[{"do":"sleep"}],"say":"Worf at the white bed at -270,67,318, night of day 257. No food, hunger 13."}
 - 03:25 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Worf clicking the white bed at -270,67,336 to sleep. No food, hunger 13."}
 - Night day 258: slept at white bed -270,67,336 with Laforge and Trini; sleep worked. Still no food, hunger 13, health 4.8. Trini first for any meat.
+- 03:41 say: {"text":"No food on me, hunger 13. Going to sleep in the white bed here with the group; wheat to the north is still unripe."}
+- 03:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
