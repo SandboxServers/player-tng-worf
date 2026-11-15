@@ -528,3 +528,13 @@
 - 13:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Worf, night 288. No food on me, hunger 17. Going to sleep at the white bed with the group."}
 - 13:44 act: {"actions":[{"do":"sleep"}],"say":"Worf at the white bed, night 288. No food, hunger 17. Trying to sleep with the group."}
 - 13:46 act: {"actions":[{"do":"sleep"}],"say":"Worf, night 288. No food; I'm staying by the bed with the group. Troi, I have nothing to give, sorry."}
+- 13:48 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Worf here at the white bed. Night, no food, hunger 17. LaForge, I'm sorry. We fetch your things at dawn.","reasoning
+- 13:52 act: {"actions":[],"say":"Worf at the white bed, dawn 289, hunger 17, health 17.7. Billy, the beef goes to Lewis and LaForge first, then Troi, then Trini. I can wait, I'll search the grass once it's full l
+- 13:55 act: {"actions":[],"say":"Worf, day 289, health 17.7, hunger 17, no food. Trini is weakest, so she and Troi eat first. I'll scout the grass to the east for animals and call out anything I find.","intent":{
+- 13:55 act: {"actions":[],"say":"Worf at -248,66,330 on the east grass. No animals in sight yet. Heading further east to look; call out any cow, sheep or pig.","intent":{"goal":"scout_further_east","program":"tra
+- 13:55 act: {"actions":[],"say":"Worf at -228,68,330, east grass, still no animals. Trying north-east next. Hunger 16, health 17.7.","intent":{"goal":"scout_north_east_grass","program":"travel","arguments":{"targ
+- 13:55 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":330}}],"say":"Worf: no animals on the north-east or east grass either. Going back to the group at the beds. Hunger 16, health 17.7.","intent":{"g
+- 14:00 act: {"actions":[{"do":"eat"}],"say":"Worf, hunger 16. I have Zack's mutton and I'm eating it now. Picard and Leonardo are lower; they come first for any next meat.","reasoning":"I hold a mutton given by Z
+- 14:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["directly_addressed"
+- 14:00 act: {"actions":[{"do":"sleep"}],"reasoning":"At the south white bed, golem 10 blocks west, LaForge beside me. Try to sleep now."}
+- 14:01 act: {"actions":[{"do":"sleep"}],"reasoning":"Night has come, the golems are 11 and 18 blocks south, and the group is with me at the bed. Try sleep again."}
