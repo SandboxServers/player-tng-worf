@@ -278,3 +278,4 @@
 - 03:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Worf trying the white bed at -270,67,336 for the night. No food, hunger 13. Meat goes to Trini, Ezra, then Data."}
 - 03:24 act: {"actions":[{"do":"sleep"}],"say":"Worf at the white bed at -270,67,318, night of day 257. No food, hunger 13."}
 - 03:25 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Worf clicking the white bed at -270,67,336 to sleep. No food, hunger 13."}
+- Night day 258: slept at white bed -270,67,336 with Laforge and Trini; sleep worked. Still no food, hunger 13, health 4.8. Trini first for any meat.
