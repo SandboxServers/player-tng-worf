@@ -1,4 +1,5 @@
 # Journal
+- Day 265 midday: back on grass at -311,64,262 after scouting SW grass (no animals; bow heard west) and the north lake (stuck in deep water, got out). Salmon 13-17 blocks north-west, out of reach. Holding shore. Hunger 15, health 9.8, 3 rotten flesh.
 - Afternoon day 257: Jason and Tommy planted wheat at -265,66,323; I have no seeds or hoe, so I only point and watch. Plan: sleep at a bed at dusk.
 - Early afternoon day 257: at -268,66,330 with Wesley, Picard, Kimberly, Jason. No golem within 15. Waiting for Tommy's planting call. Hunger 13, health 4.8.
 - Midday day 257: golems 8-22 blocks south-west; Tommy and Riker planting wheat near the beds. Going to -268,67,330 to help. Hunger 13, health 4.8, no food.
@@ -326,3 +327,11 @@
 - 05:40 act: {"say":"Food is short for all of us. I'm staying by the beds for the night. At dawn I'll scout with Jason and Trini first.","intent":{"goal":"rest_at_beds_till_night","program":"rest","arguments":{},"
 - 05:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf at the white bed for the night. No food. Jason first at dawn, then Trini."}
 - 05:45 act: {"actions":[{"do":"sleep"}]}
+- 05:50 act: {"actions":[{"do":"note","text":"Dawn day 265. Hunger 16, health 9.8. Jason and Lewis near. Scouting for animals on open grass, staying near beds."}],"say":"Geldar here, dawn of day 265. No food on me
+- 05:50 act: {"actions":[{"do":"note","text":"Day 265 scouted south-west to -300,66,300: no animals. Heard a bow to the west. Trying north toward the lake shore for salmon."}],"intent":{"goal":"check_north_lake_fo
+- 05:50 act: {"actions":[{"do":"goto","target":{"x":-324,"y":60,"z":256}},{"do":"attack","target":"salmon"}],"say":"Worf: salmon to the north on the lake. Going for them now; Jason and Trini first if I catch one."
+- 05:52 act: {"actions":[{"do":"goto","target":{"x":-325,"y":62,"z":265}},{"do":"attack","target":"salmon"},{"do":"attack","target":"salmon"}]}
+- 05:52 act: {"actions":[{"do":"goto","target":{"x":-310,"y":64,"z":262}}],"say":"Worf: salmon are too far out in the water. Heading back to the shore to wait for them to come in."}
+- 05:52 act: {"actions":[{"do":"unstick"}]}
+- 05:52 act: {"actions":[{"do":"goto","target":{"x":-310,"y":64,"z":262}}]}
+- 05:53 act: {"intent":{"goal":"hold_shore_for_salmon","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":1200,"max_block_operati
