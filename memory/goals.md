@@ -1,6 +1,9 @@
-1. Find food: ripe wheat, salmon at the north lake (-323,60,262), or animals on open grass. Reason: hunger drives every risk here; no food has been found in many days.
-2. Share what I have, in order: Trini, then LaForge, then Picard, then the hungriest. Reason: the group shares, and I am fed when others are not.
-3. Stay with the group at the white beds; do not walk alone. Reason: I died alone on the north road on day 279.
-4. Recover the dropped items at -274,67,297 only in daylight, with company, and no spiders. Reason: they are my tools and seeds; the danger is real.
-5. Keep the wheat at -264,66,318 growing. Reason: it is the group's best near-term food.
-6. Keep a daily log and share what I learn. Reason: the group needs it.
+# Goals (ranked)
+
+1. Find food, and keep it in my hand. Reason: hunger drives every risk; promised food has never arrived.
+2. Stay with the group at the white beds and never walk alone. Reason: spiders killed me alone on the north road around day 280.
+3. Share what I get with the weakest first: Trini, Riker, Lewis, LaForge, Picard, then the hungriest. Reason: the group shares, and the weak die first.
+4. Tend the wheat and the new farmland north of the beds (-264,65,318 and -266,65,322). Reason: a crop is the only food that can come back on its own, though it is slow.
+5. Recover the dropped items at -274,67,297 only in daylight, with company, and with no spiders near. Reason: sword, hoe and seeds matter, and the danger is real.
+6. Try a boat or rod for the north lake salmon, with Riker. Reason: salmon are the one reliable food seen, but out of reach now.
+7. Keep a daily log and share what I learn. Reason: the group needs it.
