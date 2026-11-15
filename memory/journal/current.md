@@ -202,3 +202,55 @@
 - 01:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf at the beds, night of day 251. Riker, the porkchops have not reached me yet; hunger 6. Trini first, then Data, 
 - 01:23 say: {"text":"Riker, Worf is at -272,67,336 by Zack, hunger 6. Please come within arm's reach and hand me one porkchop. I'll wait here. Golems are 11 blocks south."}
 - 01:24 say: {"text":"Riker, you are in reach now. Please give me the porkchops, or Trini the first one if she is closer to hunger 6."}
+- 01:26 say: {"text":"Thank you Riker. I'll eat one at hunger 6 as you said. Is Trini's chicken still there for later?"}
+- 01:27 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}]}
+- 01:27 act: {"actions":[{"do":"sleep"}],"say":"Worf at the white bed -271,67,318 with the group. Hunger 6, waiting on Riker's porkchops. Trying to sleep now."}
+- 01:27 act: {"actions":[{"do":"goto","target":"ag_riker_01"}],"say":"Worf here, hunger 6, no porkchop in my pack yet. Riker, Troi, Wesley: I'm coming to you, please hand the porkchops over. Trini and Data after m
+- 01:28 act: {"actions":[],"say":"Worf at the white beds, -273,67,337, hunger 6, nothing in my pack yet. Riker or Troi holding the porkchops: please give them when you see me. I'm staying still here."}
+- 01:29 act: {"actions":[],"say":"Worf, dawn of day 252, hunger 6, still no food in my pack. Troi, Riker: where is the porkchop now? Trini, Data are weaker than me, so give yours to whoever is lowest. I'll keep wa
+- 01:30 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Trini, Worf here. I haven't got either porkchop; they never reached me. You said you hold a chicken for me at hunger 6. I'm at 6 now, so I'll t
+- 01:30 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}}],"say":"Worf on my way to you, Trini. Coming to arm's reach for the chicken."}
+- 01:30 say: {"text":"Trini, I'm in reach now. Hunger 5. Please give me the chicken."}
+- 01:31 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Trini, I don't see you in reach now. Please give the chicken to me when you're close; I'm at the yellow beds."}
+- 01:33 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Worf coming to you, Trini, by the water. Hand over the chicken when I'm in reach, and then I'll move off away from the golem."}
+- 01:33 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}],"say":"Riker, Worf coming to the white beds now, hunger 5. Trini can't see me; I'm taking your porkchop if you have it."}
+- 01:33 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":351}}],"say":"Worf back at the yellow beds, waiting for Trini with the chicken."}
+- 01:33 say: {"text":"Worf at the yellow beds, hunger 5. Trini, I'm here with the golems to the west. Please hand me the chicken when you see me."}
+- 01:35 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Trini, I'm within reach now, two blocks north of you. Give me the chicken."}
+- 01:35 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":356}}],"say":"Worf: Trini is not in my sight yet. I'm stepping south to the far side of the yellow beds, away from the golems. Trini, call out wh
+- 01:38 act: {"actions":[{"do":"goto","target":{"x":-264,"y":67,"z":353}}],"say":"Trini, I am walking to the west side of the yellow bed, at -264,67,353. Please give me the chicken when you see me.","reasoning":"T
+- 01:38 act: {"actions":[],"say":"Trini, I am in reach at the west side of the yellow bed. Please hand me the chicken. I will eat it right away.","reasoning":"Trini is in reach holding the chicken. Asking her to h
+- 01:40 act: {"actions":[{"do":"goto","target":{"x":-258,"y":68,"z":352}}],"say":"Trini, I am coming to you on the planks, toward -258,68,352. Please hold the chicken and hand it over when I am in reach.","reasoni
+- 01:40 act: {"actions":[],"say":"Trini, I am in reach now. Please give me the chicken.","reasoning":"Trini is 2.5 blocks away and in reach, holding the chicken. Asking again directly."}
+- 01:41 act: {"actions":[{"do":"eat"}],"reasoning":"Hunger rose from 5 to 7 with a reflex eat, so something may be in my hands or the chicken was partly eaten. Trying to eat again in case food is in reach."}
+- 01:41 act: {"actions":[{"do":"goto","target":{"x":-264,"y":67,"z":353}},{"do":"sleep"}],"say":"Worf: I have no food now. The chicken seems to have gone, a reflex eat ran. Going to the yellow bed for the night. R
+- 01:42 act: {"actions":[{"do":"use","at":{"x":-282,"y":69,"z":371}},{"do":"sleep"}],"reasoning":"I am next to a yellow bed at -282,69,371. Clicking it and sleeping, since the earlier sleep timed out."}
+- 01:46 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":372}},{"do":"sleep"}],"reasoning":"No monsters in view now. Trying sleep at the bed again."}
+- 01:50 act: {"actions":[],"say":"Worf, dawn of day 253, awake by the yellow beds at -283,69,372. Hunger 7, no food. Riker, Zack: I'm the weakest in sight, please bring the porkchops here.","reasoning":"Dawn, hung
+- 01:53 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}],"say":"Worf walking to the white beds at -270,67,334 where the group is. Riker, Zack, I'm coming; hold my porkchop.","reasoning":"Group an
+- 01:53 act: {"actions":[],"say":"Riker, I am in reach. Hunger 7, health 4.8. Please give me the porkchop you are holding for me.","reasoning":"Riker is in reach and holds leaf litter, not the porkchops. Asking hi
+- 01:55 act: {"actions":[],"say":"Worf here, at the beds, hunger 7. Trini first if she needs it, then I'm next for the porkchop. Riker, Zack, I'll wait right here.","reasoning":"Zack set the order: Trini first, th
+- 01:57 act: {"actions":[{"do":"goto","target":{"x":-270,"y":66,"z":335}},{"do":"goto","target":{"x":-270,"y":66,"z":334}},{"do":"eat"}],"say":"Thank you Trini and Zack. Riker, if that porkchop is for me, please h
+- 02:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Going to the white bed at -270,67,336 for the night. Food first at dawn: Trini, then me.","reasoning":"Dusk, with th
+- 02:03 act: {"actions":[{"do":"sleep"}],"reasoning":"Creeper gone from view; golems are 12+ blocks away. Retry sleep once."}
+- 02:03 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"White beds are taken or blocked. Try the yellow bed at -263,67,353 that Picard used."}
+- 02:12 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":333}}],"say":"Beverly, Worf here at dawn, hunger 10, health 4.8. If your porkchop is spare after Trini, I'm at the beds and can take it in reach.
+- 02:18 act: {"actions":[{"do":"goto","target":"ag_bcrusher_01"}],"say":"Worf here, hunger 10, no food. Trini eats the porkchop first, then I'm next. I'll stay in sight of the group."}
+- 02:22 act: {"actions":[{"do":"sleep"}]}
+- 02:22 act: {"actions":[{"do":"sleep"}]}
+- 02:23 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 02:24 act: {"actions":[{"do":"goto","target":{"x":-259,"y":66,"z":350}}]}
+- 02:28 say: {"text":"Worf at dawn, hunger 13, no food. Billy, I'll search for pigs north-east with you if you're ready. Meat goes to Trini and Data first."}
+- 02:30 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":351}}],"say":"Worf going to the yellow beds to join the pig search north-east, staying in sight of the group."}
+- 02:30 act: {"actions":[{"do":"goto","target":{"x":-252,"y":66,"z":336}}]}
+- 02:30 act: {"actions":[{"do":"goto","target":{"x":-240,"y":66,"z":325}}]}
+- 02:30 act: {"actions":[{"do":"goto","target":{"x":-255,"y":66,"z":302}}]}
+- 02:31 say: {"text":"Worf here, at -255,68,302, hunger 13, no food. My path north-east was blocked. I'm holding here; if anyone sees a pig or cow, tell me where."}
+- 02:31 act: {"actions":[{"do":"goto","target":{"x":-245,"y":67,"z":312}}]}
+- 02:34 act: {"actions":[{"do":"goto","target":{"x":-241,"y":68,"z":340}}]}
+- 02:34 say: {"text":"Worf: heading to the north-east yellow bed to join Jason and the pig search. Still no food, hunger 13."}
+- 02:38 say: {"text":"Worf, afternoon day 255: hunger 13, no food. I'm holding at the north-east yellow bed with Jason and the group, in sight. Meat goes to Trini, Data, Billy, Jason, then me."}
+- 02:42 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"sleep"}]}
+- 02:45 act: {"actions":[{"do":"sleep"}]}
+- 02:47 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 02:51 say: {"text":"Worf at dawn, day 256: hunger 13, no food, still at the white beds. I'll search the grass in sight of the group. Trini gets any meat first."}
