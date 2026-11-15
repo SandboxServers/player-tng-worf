@@ -345,3 +345,6 @@
 - 06:10 act: {"actions":[{"do":"give","to":"chapman_01","item":"rotten_flesh","count":2}],"say":"Chapman, you are at 8 health; I am giving you 2 rotten flesh. I keep 1. Any meat you find goes to Jason first."}
 - 06:11 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"rotten_flesh","count":2}]}
 - 06:12 act: {"say":"Worf at -277,65,315, midday day 266. No food, hunger 15. I hold 3 rotten flesh for whoever is in reach and starving first, LaForge at 5.4 health included. Say where you are."}
+- 06:14 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"rotten_flesh","count":2}],"say":"LaForge, you're in reach and weakest, so I'm giving you 2 rotten flesh now. Chapman, I'll keep one for you or me 
+- 06:14 act: {"actions":[{"do":"goto","target":"ag_chapman_01"}],"say":"Chapman, I'm coming to you with my last rotten flesh. Hunger 16 for both of us; you're hurt at 8 health.","reasoning":"LaForge got 2 flesh. C
+- 06:15 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"rotten_flesh","count":1}],"say":"Chapman, here is my last rotten flesh. Eat it when you can, and keep scouting with the group.","reasoning":"Chapm
