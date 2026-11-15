@@ -467,3 +467,6 @@
 - 10:53 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"oak_sapling","count":3},{"do":"give","to":"ag_lewis_01","item":"oak_log","count":10},{"do":"give","to":"ag_lewis_01","item":"stick","count":4}],"say
 - 10:53 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"oak_log","count":10},{"do":"give","to":"ag_lewis_01","item":"stick","count":4}],"say":"Lewis, the saplings went to Riker by mistake. Riker, please p
 - 10:53 act: {"actions":[],"say":"Riker, you have the saplings and logs that were meant for Lewis. Please hand them to Lewis. I have 4 sticks and 2 planks left, and I'll give them to whoever needs them.","reasonin
+- 11:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"Going to the yellow bed to sleep. Food is with LaForge, Trini, then Picard when I wake.","reasoning":"Night, bed one
+- 11:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"reasoning":"Previous sleep blocked by path, I was not on the bed. Retry on the bed itself once."}
+- 11:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf: trying the white bed at -271,67,318 with the group. Food goes to LaForge, Trini, then Picard at dawn.","reason
