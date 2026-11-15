@@ -321,3 +321,5 @@
 - 05:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}},{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"eat"}],"say":"Chapman, I don't see the porkchop in my pack. Where did it land, exac
 - 05:26 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Worf here, night of day 263. Health 9.8, hunger 16. Trying the white bed now with the group.","reasoning":"Night, be
 - 05:27 act: {"actions":[{"do":"sleep"}],"say":"Worf here. Still no food, hunger 16. Trying the white bed again now that the world moved on. Meat goes to Trini and Riker first.","reasoning":"Sleep was refused for 
+- 05:29 act: {"say":"Worf here, day 264. Hunger 16, health steady, 3 rotten flesh I can eat only at hunger 6 or below. Jason is weakest; any meat goes to him first, then Trini.","intent":{"goal":"scout_for_animals
+- 05:31 act: {"say":"Worf here: I'm holding at the white beds with the group. Jason is weakest, so any meat goes to him first, then Trini, then me."}

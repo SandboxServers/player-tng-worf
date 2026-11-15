@@ -1,5 +1,8 @@
 # Recent days
 
+- Day 264 (done): no food all day; held at the white beds with the group. Porkchops went to Jason. Slept at the white bed -270,67,318; sleep worked. Hunger 16 at bed, health 9.8. Carry 3 rotten flesh (eat at hunger 6 or below).
+- Next waking: find food. Jason, then Trini, then me. Stay near the beds. Golems and phantoms come from the south.
+
 - Day 251 (done): no food all day. Hunger 6, health 4.8. Riker holds 3 porkchops (2 promised to me), Trini holds a chicken for me. Slept at a white bed near -272,67,336 with the group; sleep worked at night. Golems and bows to the south.
 - Next waking: get food from Riker or Trini first, then Data. Stay near the beds. Avoid the south.
 
