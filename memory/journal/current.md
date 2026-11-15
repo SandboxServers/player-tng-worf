@@ -488,3 +488,23 @@
 - 11:52 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":330}}],"say":"Worf at dawn, day 283. No food, health and hunger 20. Joining the group at the crafting tables. Any meat goes to LaForge, Trini, th
 - 12:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}],"say":"Worf going to the north white bed to sleep with the group. No food on me."}
 - 12:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"sleep"}]}
+- 12:08 act: {"actions":[{"do":"sleep"}],"say":"Worf here, in the yellow bed at -263,67,353. Night, no food yet. Trying to sleep.","reasoning":"Night, bed present, health and hunger full. Sleep to reset days_since
+- 12:11 act: {"actions":[],"say":"Worf, dawn of day 284. I'm at health 20 and hunger 20 but hold no food. Picard and Trini are the weakest; I'll scout east-south for animals and call out anything I find.","intent"
+- 12:11 act: {"actions":[],"say":"Worf at -245,66,346, east of the beds by a pond. No animals in sight, and I have no food. I'll keep watch here and call out anything I see.","reasoning":"Reached scouting spot; no
+- 12:15 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":334}}],"say":"Worf: phantoms are out, and I have no weapon. Going back to the group by the golems near the beds. No food on me.","reasoning":"Alo
+- 12:15 act: {"actions":[],"say":"Worf back with the group by the golems. No food on me. Dropped items lie east near -259,66,332; I'll check what they are if it is safe.","intent":{"goal":"hold_with_group_by_golem
+- 12:19 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Worf: dusk, no food, hunger 20, health 20. Going to the yellow bed at -263,67,353 to sleep. Picard and Trini first f
+- 12:22 act: {"actions":[{"do":"sleep"}],"say":"Worf: night, at the yellow bed. No food, health 20. Sleeping; Picard and Trini first at dawn."}
+- 12:23 act: {"actions":[{"do":"sleep"}],"say":"Worf: trying the yellow bed again. No food; Picard and Trini first at dawn."}
+- 12:28 act: {"actions":[],"say":"Morning. I have no food. Picard and Trini get the first wheat when it ripens; I'll stay near the beds."}
+- 12:40 act: {"actions":[{"do":"sleep"}]}
+- 12:48 act: {"actions":[],"say":"Dawn. I'm full at 20 with no food. LaForge and Trini are first. I'll scout for meat with Zack and bring anything I find to LaForge and Trini."}
+- 12:56 act: {"actions":[],"intent":{"goal":"scout_meat_with_zack","program":"follow","arguments":{"target":"ag_zack_01"},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_
+- 13:00 act: {"actions":[{"do":"sleep"}]}
+- 13:03 act: {"actions":[{"do":"sleep"}]}
+- 13:03 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}]}
+- 13:04 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 13:05 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}}],"say":"Going back to the yellow beds with the group; I'll try sleep when the way is clear."}
+- 13:05 act: {"actions":[{"do":"sleep"}]}
+- 13:06 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"reasoning":"Sleep was blocked again at the yellow bed; I'm now 1 block east of it. Try the nearby yellow bed once more, th
+- 13:08 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":330}}],"say":"Worf here at dawn. I'm full at 20 but have no food. Trini, Troi and Clark first for any meat or bread. I'll scout the grass with an
