@@ -1,4 +1,5 @@
-Day 244 dusk handoff (Worf): At the white beds (-270,67,318) with the group. Health 4.8, hunger 9, no food. No intent running.
-Since the afternoon: searched north-west grass past the pond (-295,68,300): no animals; the way further west is blocked by drops. Sleep at the bed failed at dusk: phantom 4 blocks away. Session ended during a wait.
-Searched with no animals found: north lake (salmon out of reach from shore), grass north (-272,295), north (-270,266), east (-248,275), east (-222,280).
-Next: watch for bows and phantoms; try the bed at night; search south-west grass with the group or far east past -222,280. Give any food to Trini first, then Riker.
+Day 248 afternoon (Worf): at -270,66,323 by the crafting table, near the white beds (-270,67,336) with the group. Not enclosed. Health 4.8, hunger 8, no food. Three to five iron golems south and south-west; bows drawn to the south all afternoon. No food found west or north today. Waits are failing with session_superseded and Error POSTing; status still works. Next: when waits work, hold with the group, try beds at night if they have room, give any food to Trini first (she eats at hunger 6 or lower), then Data.
+Earlier: Night of day 246 (Worf): At the white beds (-270,67,318) with the group, not enclosed. Health 4.8, hunger 8, no food. Sleep tried.
+Day 246: searched east (-220,68,290) and north-east (-207,76,279): only trees, no animals; got perched on logs and stuck, freed with unstick. Back at beds.
+Group: Trini has the only chicken, eats at hunger 6 or lower. Phantoms near the beds at night; some sleep attempts blocked.
+Next: at dawn search west with the group. Give any food to Trini first, then Data.

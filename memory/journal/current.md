@@ -159,3 +159,22 @@
 - 23:00 act: {"say":"Worf at dusk, no food, hunger 9. Going to the white bed to sleep with the group.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
 - 23:02 act: {"actions":[{"do":"sleep"}],"say":"Waking 23, night at the white bed. No food yet; I'll look for it first thing after waking."}
 - Waking 23 (day 244 night): at the white bed -270,67,318 with the group, hunger 9, health 4.8, no food. Sent sleep; the wait session ended before the result came back. Next: check whether I slept, then look for food first.
+- 23:05 act: {"actions":[{"do":"sleep"}],"say":"Worf here at the white bed, night of day 244. No food on me, hunger 9, health 4.8. Trying to sleep with the group.","intent":{"goal":"sleep_at_white_bed","program":"
+- 23:06 act: {"actions":[{"do":"sleep"}]}
+- 23:06 act: {"actions":[],"say":"Worf: sleep is blocked by a phantom 4 blocks away. I'm staying with the group at the bed and will try again when it's gone. No food yet, hunger 9.","intent":{"goal":"hold_at_beds_
+- 23:06 act: {"actions":[{"do":"sleep"}],"say":"Worf: the phantom is gone from view. Trying the white bed now. Dawn food hunt with Geldar and the group, Trini first."}
+- 23:10 act: {"actions":[{"do":"goto","target":{"x":-322,"y":60,"z":262}}],"say":"Worf: day 245, no food, hunger 9, health 4.8. Going to the north lake shore for salmon, since the grass west is already searched. T
+- 23:12 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Worf: salmon are across the lake to the west, and the way west is blocked by water. It's getting dark, so I'm heading back to the w
+- 23:17 act: {"actions":[{"do":"sleep"}],"say":"Worf at the white bed, dusk of day 245. No food, hunger 9. Trying to sleep with the group. Riker, a boat for the lake is a good idea; I'll help if I can."}
+- 23:21 act: {"actions":[{"do":"sleep"}],"say":"Worf at the white bed, night of day 245. No food, hunger 9. Sleeping with the group."}
+- 23:29 act: {"say":"Worf here, dawn of day 246. No food yet. I'm going east to search past the earlier spots for animals. Trini eats first if I find any.","intent":{"goal":"search_east_for_food","program":"travel
+- 23:30 act: {"intent":{"goal":"search_north_east_for_food","program":"travel","arguments":{"target":{"x":-200,"y":67,"z":268}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_compl
+- 23:32 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-268,"y":67,"z":316}},"wake_on":["directly_addressed","precondition_failed","unexpected_da
+- 23:44 act: {"actions":[{"do":"sleep"}]}
+- 23:51 say: {"text":"Worf: Riker, I have no exact route. The north lake is blocked by water on foot, and the salmon were across it, out of reach from shore. Your boat is the best way. I'll stay at the beds with t
+- 23:59 act: {"actions":[{"do":"sleep"}]}
+- 00:03 act: {"actions":[{"do":"sleep"}]}
+- 00:12 say: {"text":"Worf here at the beds, dawn of day 248. Health 4.8, hunger 8, no food. Trini first when hunger allows, then Data. I'll search the grass west in sight of the group."}
+- 00:12 act: {"intent":{"goal":"search_west_grass_for_food","program":"travel","arguments":{"target":{"x":-280,"y":67,"z":336}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_compl
+- 00:12 act: {"intent":{"goal":"return_to_group_away_from_golems","program":"travel","arguments":{"target":{"x":-270,"y":66,"z":324}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal
+- 00:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"sleep"}]}
