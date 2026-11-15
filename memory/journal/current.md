@@ -545,3 +545,19 @@
 - 14:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Night, golems close, hunger 17 with no food. The white bed is two blocks away. Get in and sleep.","say":"Headi
 - 14:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Golems still close; bed is five blocks north. Retry once, then sleep."}
 - 14:22 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep is partly working with Troi and Zack near. Try once more at this bed.","say":"Worf at the yellow bed by the group. No food, hunger 17. Trying to sleep."}
+- 14:23 say: {"text":"Worf here. No food on me, hunger 17. Staying at the beds with Zack and the group until dawn, then we search for food together."}
+- 14:27 say: {"text":"Worf, morning. No food, hunger 17. I'll join the hunt with Lewis, Wesley and LaForge. Any meat goes to Zack and Leonardo first."}
+- 14:29 say: {"text":"Worf joining the east pig hunt now, toward -213,69,351. Meat goes to Zack and Leonardo first."}
+- 14:29 act: {"intent":{"goal":"hunt_pigs_east","program":"travel","arguments":{"target":{"x":-216,"y":68,"z":351}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks"
+- 14:29 say: {"text":"Worf at -216,69,351 with Riker, Clark and Picard. Phantoms 6-10 blocks north-east. No pigs in sight yet. Watching for them."}
+- 14:40 say: {"text":"No pigs found on this side. Dusk is coming, so I'm heading back west to the yellow beds with the group to sleep."}
+- 14:40 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":352}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
+- 14:41 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Worf at the yellow bed for the night. No food yet, hunger 17. Meat to Zack and Leonardo first at dawn."}
+- 14:45 act: {"actions":[{"do":"sleep"}]}
+- 14:45 act: {"intent":{"goal":"food_with_group","program":"travel","arguments":{"target":{"x":-216,"y":69,"z":351}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks
+- 14:45 act: {"intent":{"goal":"return_to_bed_for_dawn","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
+- 14:50 act: {"intent":{"goal":"scout_southeast_for_food","program":"travel","arguments":{"target":{"x":-235,"y":67,"z":368}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
+- 14:50 act: {"intent":{"goal":"scout_far_south_for_animals","program":"travel","arguments":{"target":{"x":-215,"y":66,"z":390}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max
+- 14:50 act: {"actions":[{"do":"unstick"}],"say":"I'm in a pit at -215,67,390. Climbing out. Still no animals here."}
+- 14:53 act: {"intent":{"goal":"rejoin_group_north_west","program":"travel","arguments":{"target":{"x":-228,"y":68,"z":355}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 14:53 say: {"text":"Worf at -228,68,356. No animals in the south grass. A phantom is hovering to the east. Any pig or cow sighting, call it out."}
