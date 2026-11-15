@@ -296,3 +296,9 @@
 - 04:23 act: {"actions":[{"do":"sleep"}],"say":"Worf here, night of 260, hunger 13, no food. Troi, you hold the porkchop and I am in reach. Trini is out of sight, so if you agree I'll take it; Trini gets the next 
 - 04:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Thank you, Troi. I'll eat the porkchop when it's in my hands. Trini gets the next meat. Going to the bed to sleep."}
 - 04:25 act: {"actions":[{"do":"sleep"}],"say":"Worf at the north white bed -270,67,318 with Jason and Zack, night of 260. No food. Trying to sleep here."}
+- 04:29 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}],"say":"Worf at dawn, day 261. No food on me, hunger 13, health 4.8. Trini has the first claim on any meat or wheat. Kimberly, Troi, if the
+- 04:29 act: {"actions":[],"say":"Trini, thank you. I'm at health 4.8 and hunger 13, one of the weakest here. Give the wheat to whoever is lowest when you reach the beds. I'll wait here."}
+- 04:32 act: {"actions":[],"say":"Worf, in reach at -271,67,334, health 4.8, hunger 13. Trini, your wheat and Billy, your beef: please give them to me now. Thank you all. Clark, I'll take the rotten flesh if it's 
+- 04:34 act: {"actions":[],"say":"Tommy, Worf here, two blocks from you. My pack is still empty. Please give me the porkchop, beef and wheat now, one at a time if the toss fails. I'll eat as soon as it's in my han
+- 04:35 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":332}}],"say":"Tommy, I'm stepping two blocks north-west to -274,67,332, clear of the crowd. Throw the porkchop to me here. I'm watching for golem
+- 04:35 act: {"actions":[],"say":"Tommy, I'm at -274,66,332 with Trini two blocks off. Golems are 4 to 5 blocks away, so please throw the porkchop now."}
