@@ -447,3 +447,5 @@
 - 09:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Night has come. I am at full health and the bed is 5 blocks away with no creeper in view. Go and sleep."}
 - 09:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"The sleep was blocked where I stood. Try the other bed at -271,67,336, one block over."}
 - 09:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Two sleep tries were blocked. Try the bed at -271,67,318 next to this one."}
+- 09:52 act: {"actions":[],"say":"Worf, full at 20. Hunters going for the cow near -228,68,209: any beef goes to Trini or Troi first, then Clark. I will stay at the wheat and beds and plant any ground that opens u
+- 10:01 act: {"say":"Worf: going to sleep at the south white bed for the night. Food for Trini first when I wake.","actions":[{"do":"sleep"}]}
