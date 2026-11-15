@@ -147,3 +147,5 @@
 - 20:22 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}}],"say":"Night. Going back to the yellow bed; if a golem stays near, I will wait.","intent":{"goal":"reach_yellow_bed","program":"travel","a
 - 20:22 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Going to sleep at the yellow bed. Kimberly and Riker are close."}
 - 20:25 act: {"actions":[{"do":"sleep"}],"say":"No golem in sight now. Trying to sleep at the yellow bed."}
+- 20:27 act: {"actions":[{"do":"sleep"}],"say":"Worf, night 308, hunger 16, health 20, no food. Trying the bed here.","reasoning":"Night and a bed is adjacent. Golem is near but not attacking. Try sleep once, then
+- 20:28 act: {"actions":[{"do":"note","text":"Worf at -242,69,344, dawn day 308, hunger 16, health 20, no food. Sleep blocked by golem at 3 south."}],"say":"Worf at the east yellow bed, dawn 308, health 20, hunger
