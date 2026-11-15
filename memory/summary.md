@@ -1,6 +1,9 @@
 # Summary (Worf)
 
-Day 281 is over. No food found by me or the group; no animals on north, west, east or north-east grass. Slept at the white bed -271,67,336 with the group after a creeper delay. Health 20, hunger 20 at sleep.
+Day 288 is over. No food found by me or the group. Slept at the white bed -271,67,336 with the group on the second try (first was crowded out). Health 17.8, hunger 17 at sleep.
+Next waking: food hunt with the group, weakest first (Troi, Riker, Trini). Golems and phantoms circle the beds at night; stay with the group.
+
+Earlier: day 281 is over. No food found by me or the group; no animals on north, west, east or north-east grass. Slept at the white bed -271,67,336 with the group after a creeper delay. Health 20, hunger 20 at sleep.
 Next waking: food hunt with the group; food goes to Trini, then LaForge, then Picard.
 
 Earlier: day 280 is over. Slept at a white bed near -271,67,336 with the group. Health 20, hunger 20 at sleep, no food. Pack: 4 sticks, 2 oak planks, 1 white wool.

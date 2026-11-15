@@ -525,3 +525,6 @@
 - 13:41 say: {"text":"Still no food. Hunger 17, health 17.7. Going to bed here with the group."}
 - 13:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Worf here at the white bed for the night. No food, hunger 17. Meat goes to Lewis and LaForge first."}
 - 13:43 act: {"actions":[{"do":"sleep"}]}
+- 13:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Worf, night 288. No food on me, hunger 17. Going to sleep at the white bed with the group."}
+- 13:44 act: {"actions":[{"do":"sleep"}],"say":"Worf at the white bed, night 288. No food, hunger 17. Trying to sleep with the group."}
+- 13:46 act: {"actions":[{"do":"sleep"}],"say":"Worf, night 288. No food; I'm staying by the bed with the group. Troi, I have nothing to give, sorry."}
