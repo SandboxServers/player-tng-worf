@@ -401,3 +401,5 @@
 - 07:52 act: {"intent":{"goal":"return_to_beds_with_group","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":326}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_w
 - 08:00 act: {"intent":{"goal":"sleep_at_north_bed","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":319}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ti
 - 08:04 act: {"intent":{"goal":"sleep_at_north_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":319}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ti
+- 08:14 act: {"say":"Lewis, I'm awake at hunger 10, no food. Any meat or ripe wheat goes to Trini first, then Troi, then me.","intent":{"goal":"wait_for_food_near_beds","program":"rest","arguments":{"near":{"x":-2
+- 08:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Worf: dusk, no food yet. Going to the north white bed at -270,67,318 for the night. Any wheat or meat, call me."}
