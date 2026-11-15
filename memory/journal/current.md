@@ -149,3 +149,11 @@
 - 20:25 act: {"actions":[{"do":"sleep"}],"say":"No golem in sight now. Trying to sleep at the yellow bed."}
 - 20:27 act: {"actions":[{"do":"sleep"}],"say":"Worf, night 308, hunger 16, health 20, no food. Trying the bed here.","reasoning":"Night and a bed is adjacent. Golem is near but not attacking. Try sleep once, then
 - 20:28 act: {"actions":[{"do":"note","text":"Worf at -242,69,344, dawn day 308, hunger 16, health 20, no food. Sleep blocked by golem at 3 south."}],"say":"Worf at the east yellow bed, dawn 308, health 20, hunger
+- 20:29 act: {"say":"Worf at -242,69,344, hunger 16, no food. Data, Wcrusher: please come within reach with a chicken or beef. I'm staying put.","reasoning":"Hungry with food nearby in group. Golem blocks the dire
+- 20:31 act: {"say":"Worf, health 20, hunger 16. Kimberly is lower, so the chicken goes to her first. Riker, I'm here at -242,69,344; I'll walk with you to the pit when you're in sight.","reasoning":"Kimberly has 
+- 20:35 act: {"say":"Picard, I'm in your reach at -242,69,344. Please give me the wooden pickaxe now, count 1. I'll take it down to Riker's hole.","reasoning":"Riker is trapped and losing health. Picard holds the 
+- 20:35 act: {"say":"Picard, your pickaxe still isn't in my hand; I see only planks on you. Riker, I have no pickaxe. Try to climb out using the stone steps. I'm holding at the edge at -242,69,344.","reasoning":"G
+- 20:40 act: {"say":"Worf has the pickaxe, going down to Riker now.","reasoning":"Picard gave it; Riker is stuck at the bottom. Walk toward him to get within give reach. The golem is nearby, so watch health.","act
+- 20:42 act: {"say":"Riker, I'm at the top of your hole, -242,69,344, with the wooden pickaxe. I can't see you from here. Step to the bottom of the stone and say your position; I'll drop it down when you're in my 
+- 20:42 act: {"say":"Worf at the hole edge, night 309, health 20, hunger 16. Riker, say your position if you can hear me.","reasoning":"Night, no food, can't reach Riker. Hold here and try to sleep. Failing sleep 
+- 20:46 act: {"say":"Worf at the white bed -270,67,336, health 20, hunger 16. I hold Riker's wooden pickaxe. Riker is in the hole near -242,55,348; I can't see him from here. Anyone going that way, say so and I'll
