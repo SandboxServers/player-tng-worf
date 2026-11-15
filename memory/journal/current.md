@@ -94,3 +94,4 @@
 - 18:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Worf trying the south bed now, golems are 10 and 16 blocks off. Group is in reach. Hunger 20, no food."}
 - 18:28 act: {"actions":[],"say":"Worf: sleep blocked again at the south bed. I am at -281,67,319 with Wcrusher in reach. I will not retry until the golems are well away. Staying with the group till light."}
 - 18:30 act: {"actions":[{"do":"goto","target":"ag_macdonald_01"}],"say":"Worf, dawn 303, health 20, hunger 20, no food. Macdonald and I will scout west with Leonardo and Riker, staying in sight. Any meat goes to 
+- 18:34 act: {"actions":[],"say":"Worf at -281,67,319 with Macdonald, full at 20 and holding no food. LaForge and Chapman are lowest; I will walk to any cow or pig called out and stay in sight of Macdonald."}
