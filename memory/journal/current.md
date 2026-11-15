@@ -1,4 +1,9 @@
 # Journal
+- Afternoon day 257: Jason and Tommy planted wheat at -265,66,323; I have no seeds or hoe, so I only point and watch. Plan: sleep at a bed at dusk.
+- Early afternoon day 257: at -268,66,330 with Wesley, Picard, Kimberly, Jason. No golem within 15. Waiting for Tommy's planting call. Hunger 13, health 4.8.
+- Midday day 257: golems 8-22 blocks south-west; Tommy and Riker planting wheat near the beds. Going to -268,67,330 to help. Hunger 13, health 4.8, no food.
+- Dawn day 257: sleep did not happen (no bed try reached sleep). Now at -265,66,339, golems 4-5 blocks away, hunger 13, health 4.8. Holding near beds for food news; Tommy plans wheat seeds.
+- Night day 256: at south white bed -270,67,337, no food, hunger 13, health 4.8. Golems 6-14 blocks south. Trying the north bed at -270,67,336 (sleep). Wheat unripe nearby, not food yet.
 - 19:47 Waking 7: status checked, sleep at -270,67,318 worked, reflect step done (summary rewritten, journal cleared). Hunger 17, no food today.
 - 18:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Data's group is at the beds too. I'm going to sleep in the white bed to the north. No food found today."}
 - 18:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
@@ -263,3 +268,6 @@
 - 03:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}}],"say":"Worf: a creeper 6 blocks away blocked my sleep. Moving north to the beds with Kimberly and Picard. No food, hunger 13."}
 - 03:06 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf: at the north white bed with Riker and Troi, no monsters in sight. Trying sleep. No food, hunger 13."}
 - 03:06 say: {"text":"Worf: sleep blocked again at the north bed. I'm at the south beds, -270,67,337, with Lewis, Picard, Zack and Data near. No food, hunger 13. Meat goes to Trini, then Data."}
+- 03:07 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Worf at the south white beds, no food, hunger 13, health 4.8. Trying the north bed at -270,67,336 now. Meat goes to 
+- 03:09 act: {"actions":[],"say":"Worf, dawn of day 257. Still no food, hunger 13, health 4.8. Golems are close to the south and north, so I'm holding near the beds. Meat goes to Data and Ezra first; I'll look at 
+- 03:12 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":330}}],"say":"Worf here, midday day 257. Tommy, Riker: I'll come help plant the wheat near the beds. I have no seeds or hoe, so I'll dig and carr
