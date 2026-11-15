@@ -415,3 +415,21 @@
 - 08:31 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":292}}],"say":"Morning. Heading back to the group at the white bed. Any food, I need it.","reasoning":"Travel to the group failed as blocked. Retr
 - 08:39 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":293}},{"do":"sleep"}],"intent":{"goal":"rest_at_bed_near_group","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damag
 - 08:43 act: {"actions":[{"do":"sleep"}],"reasoning":"It is dusk now; the sleep was refused only because it was not yet night. Try again at the bed."}
+- 08:48 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":316}}],"say":"Morning. Any food? I am low on health, and Trini is first in line.","reasoning":"Dawn. Group is at the north white bed; go there fo
+- 08:48 act: {"actions":[],"say":"Wcrusher, Laforge: I have no food and health 3.8. If either of you has any meat or bread, I need it. Trini first if she is hungrier.","reasoning":"Two of the group are in reach wi
+- 08:51 act: {"actions":[],"say":"Chapman, I have a hoe and can till. Could you give me some wheat seeds? I will plant them by the north beds and share the crop.","reasoning":"Nobody has food. Chapman holds seeds 
+- 08:55 act: {"actions":[{"do":"till","at":{"x":-272,"y":66,"z":316}}],"say":"Thanks Data and Bcrusher. I am tilling here by the north beds now; Chapman, bring the seeds here.","reasoning":"Seeds are coming. Till 
+- 08:55 act: {"actions":[{"do":"till","at":{"x":-270,"y":66,"z":317}}],"reasoning":"The block under me was planks, not dirt. Try a different grass or dirt block nearby."}
+- 08:59 act: {"actions":[],"say":"Chapman, I am right here at -271,67,316, two blocks south of the north bed. Hand the seeds over. I will try the tilling at dusk.","reasoning":"Chapman cannot find me. Tell him my 
+- 09:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":317}},{"do":"sleep"}],"reasoning":"Night with phantoms near and health 3.8. Get to the north white bed with the group and try to sleep."}
+- 09:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":317}}],"reasoning":"A creeper is within 6 blocks, so sleep is refused. Move north to the bed, away from the golem and creeper."}
+- 09:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":317}},{"do":"sleep"}],"reasoning":"It is night, no monster is listed nearby, and I am two blocks from the north white bed. Try sleep there.","say
+- 09:04 act: {"actions":[],"say":"Data, you are next to me. Please hand me the wheat seeds from Chapman and Bcrusher for the north-bed planting.","reasoning":"Seeds are held by Data, who is within reach. Ask him t
+- 09:06 act: {"actions":[],"say":"Thank you, Data, Chapman and Bcrusher. I have 10 seeds. At first light I will mark a grass spot by the north beds and plant them. Trini gets the first wheat.","reasoning":"Seeds a
+- 09:09 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":321}},{"do":"till","at":{"x":-266,"y":66,"z":322}}],"reasoning":"It is dawn. I move to open ground near the north beds and try to till the grass 
+- 09:10 act: {"actions":[{"do":"till","at":{"x":-266,"y":65,"z":321}}],"reasoning":"The earlier till target was air. The grass I stand on is one block lower, at y 65. Try there."}
+- 09:10 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-266,"y":66,"z":322}}],"reasoning":"The soil is tilled. I try to plant one seed on the farmland in front of me, then read the result."}
+- 09:10 act: {"actions":[{"do":"till","at":{"x":-267,"y":64,"z":321}},{"do":"place","block":"wheat_seeds","at":{"x":-267,"y":65,"z":321}}],"reasoning":"Seeds need farmland right below them. I till the ground one b
+- 09:10 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":318}},{"do":"till","at":{"x":-262,"y":65,"z":319}}],"reasoning":"Blocked above that spot. I move to a more open spot to the north-east and till t
+- 09:10 act: {"actions":[{"do":"till","at":{"x":-264,"y":65,"z":318}},{"do":"place","block":"wheat_seeds","at":{"x":-264,"y":66,"z":318}}],"reasoning":"The block above the last spot was not clear, possibly me. I t
+- 09:10 act: {"actions":[{"do":"till","at":{"x":-264,"y":65,"z":316}},{"do":"place","block":"wheat_seeds","at":{"x":-264,"y":66,"z":316}}],"reasoning":"The first seed took and the soil is tilled. I plant a second 
