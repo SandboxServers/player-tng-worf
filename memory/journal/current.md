@@ -522,3 +522,6 @@
 - 13:32 act: {"intent":{"goal":"scout_west_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":320}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed
 - 13:36 act: {"intent":{"goal":"return_to_beds_with_group","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":333}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comple
 - 13:40 act: {"intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":335}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comple
+- 13:41 say: {"text":"Still no food. Hunger 17, health 17.7. Going to bed here with the group."}
+- 13:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Worf here at the white bed for the night. No food, hunger 17. Meat goes to Lewis and LaForge first."}
+- 13:43 act: {"actions":[{"do":"sleep"}]}
