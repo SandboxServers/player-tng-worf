@@ -1,7 +1,8 @@
-Handoff, day 317, dusk.
-Position 388,107,-1091 at the white beds (beds at 387,107,-1092 and -1093).
-Health 11.7, hunger 17. Inventory: 5 melon_slice, 17 dirt, 1 wheat_seeds, 1 white_wool.
+Handoff, day 318, night.
+Position 388,107,-1093 at the white beds. Health 20, hunger 20. Inventory empty.
+I died on the walk west at night (335,91,-1089) to a skeleton; no sword. Respawned here.
+Dropped there: 17 dirt, 4 melon slices, 1 wheat_seeds, 1 white_wool. Go back only in daylight and armed.
+Owed: Zack 4 melon slices (I no longer hold them; the drop is what I owe from).
+Picard is at the beds, alive. Lewis and Johnny are the weak ones; keep the rest for them.
 No errands out, no intent running.
-Owed: Zack 4 melon slices for 1 white wool (he is not in sight; I still hold them).
-Picard fed (2 slices, health now 7). Lewis weakest; MacDonald is feeding him.
-Next day: find sheep for wool, get 3 planks for the brown bed, check the enclosed flag with view. Melons at 279-286, 88-89, -1101 to -1111; chicken at 242,93,-1112.
+Next: sleep in bed, then at light get a sword, then fetch the drops with care.

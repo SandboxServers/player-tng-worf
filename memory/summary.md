@@ -1,13 +1,13 @@
-# Summary, day 316 night
+# Summary, day 318 night
 
-I am Worf. I live in a jungle area, sleeping in a sealed pit near 253,92,-1118 that I patched with jungle planks (13 left, plus 2 oak planks and 5 jungle logs).
+I am Worf. I died on the walk west at night, shot by a skeleton near 335,91,-1089. I had no sword. I woke at the white beds at 388,107,-1093 with nothing.
 
-Food: 6 melon slices, 1 chicken, a spider eye. Melons grow in the field east near 283,88,-1105. Chickens are west near 242,93,-1112.
+The drops lie at 335,91,-1089: 17 dirt, 4 melon slices, 1 wheat_seeds, 1 white_wool. They may be gone when I return.
 
-Shelter: the pit is mostly sealed but I am not sure about the side gaps. Check the enclosed flag before sleeping.
+Food: none in hand. Melons far west at 279-286, 88-89, -1101 to -1111. Chicken at 242,93,-1112.
 
-Bed: none yet. I have 1 brown_wool. A brown bed needs 3 wool and 3 planks. No sheep seen near the melon field.
+Debt: Zack, 4 melon slices for 1 white wool.
 
-Dangers: creepers and spiders at night. Death happened earlier in the night when I was exposed.
+Company: Picard and Johnny at the beds. Lewis is weak.
 
-Next: wool, a bed, keep food up.
+Next: sleep, then at light craft a wooden sword, then recover the drops with care.
