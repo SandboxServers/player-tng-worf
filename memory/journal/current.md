@@ -1,4 +1,5 @@
 # Journal
+- Day 265 dusk: at white beds -270,67,318, hunger 15, health 9.8, 3 rotten flesh. Wandering trader 21 blocks south. Said so to the group; holding at the beds for the night, eat flesh at hunger 6.
 - Day 265 midday: back on grass at -311,64,262 after scouting SW grass (no animals; bow heard west) and the north lake (stuck in deep water, got out). Salmon 13-17 blocks north-west, out of reach. Holding shore. Hunger 15, health 9.8, 3 rotten flesh.
 - Afternoon day 257: Jason and Tommy planted wheat at -265,66,323; I have no seeds or hoe, so I only point and watch. Plan: sleep at a bed at dusk.
 - Early afternoon day 257: at -268,66,330 with Wesley, Picard, Kimberly, Jason. No golem within 15. Waiting for Tommy's planting call. Hunger 13, health 4.8.
@@ -338,3 +339,9 @@
 - 05:56 act: {"actions":[{"do":"note","text":"Day 265 midday at north lake shore. Hunger 15, health 9.8. 3 rotten flesh held for later. 7 salmon at about 12 blocks north-west, in deep water at y=56."}],"say":"Stil
 - 05:59 act: {"intent":{"goal":"reach_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"li
 - 06:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"I'm at the white beds. No salmon came in, so I have no food. I'm going to bed."}
+- 06:00 act: {"say":"Still no food. I have 3 rotten flesh for when hunger drops to 6. A wandering trader is 21 blocks south; I'll stay by the beds at dusk.","intent":{"goal":"rest_near_beds","program":"rest","argu
+- 06:02 act: {"actions":[{"do":"sleep"}],"say":"Worf at the white bed for the night, hunger 15, no food. Meat goes to Jason first, then Trini."}
+- 06:02 act: {"actions":[{"do":"note","text":"Slept at white bed -270,67,318; sleep worked. Hunger 15, health 9.8, 3 rotten flesh. Next at dawn: trader south, animals west and north-east, meat to Jason first."}]}
+- 06:10 act: {"actions":[{"do":"give","to":"chapman_01","item":"rotten_flesh","count":2}],"say":"Chapman, you are at 8 health; I am giving you 2 rotten flesh. I keep 1. Any meat you find goes to Jason first."}
+- 06:11 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"rotten_flesh","count":2}]}
+- 06:12 act: {"say":"Worf at -277,65,315, midday day 266. No food, hunger 15. I hold 3 rotten flesh for whoever is in reach and starving first, LaForge at 5.4 health included. Say where you are."}
