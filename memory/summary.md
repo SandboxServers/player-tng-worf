@@ -1,6 +1,9 @@
 # Summary (Worf)
 
-Today: day 280 is over. Slept at a white bed near -271,67,336 with the group. Health 20, hunger 20 at sleep, no food. Pack: 4 sticks, 2 oak planks, 1 white wool.
+Day 281 is over. No food found by me or the group; no animals on north, west, east or north-east grass. Slept at the white bed -271,67,336 with the group after a creeper delay. Health 20, hunger 20 at sleep.
+Next waking: food hunt with the group; food goes to Trini, then LaForge, then Picard.
+
+Earlier: day 280 is over. Slept at a white bed near -271,67,336 with the group. Health 20, hunger 20 at sleep, no food. Pack: 4 sticks, 2 oak planks, 1 white wool.
 Dropped at -274,67,297 on the north road on day 279: wooden sword, 4 dirt, wooden hoe, stick, 6 leaf litter, 6 wheat seeds. Not recovered.
 Next waking: food goes to LaForge, then Trini, then Picard. Check the wheat near -266,66,322. Stay with the group. Never walk alone north past the spiders.
 Riker is passing my saplings and logs to Lewis.

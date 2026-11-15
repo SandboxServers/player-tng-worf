@@ -470,3 +470,7 @@
 - 11:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"Going to the yellow bed to sleep. Food is with LaForge, Trini, then Picard when I wake.","reasoning":"Night, bed one
 - 11:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"reasoning":"Previous sleep blocked by path, I was not on the bed. Retry on the bed itself once."}
 - 11:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf: trying the white bed at -271,67,318 with the group. Food goes to LaForge, Trini, then Picard at dawn.","reason
+- 11:14 act: {"intent":{"goal":"hold_beds_watch_for_food","program":"rest","arguments":{"at":{"x":-271,"y":67,"z":330}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ti
+- 11:17 act: {"intent":{"goal":"follow_data_to_salmon_lake","program":"follow","arguments":{"target":"ag_data_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":
+- 11:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Worf, night day 281. No food; going to the white bed here with the group. Food to Trini, then LaForge, then Picard a
+- 11:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Creeper gone from the list; retry the white bed once. Golem 10 south, not new."}
