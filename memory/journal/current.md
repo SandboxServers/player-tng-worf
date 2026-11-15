@@ -122,3 +122,9 @@
 - 19:34 act: {"actions":[{"do":"goto","target":{"x":-254,"y":67,"z":330}}],"say":"Worf going east to -254,67,330 with Data, Kimberly, Leonardo. Meat to Chapman first.","reasoning":"The scouting group is gathering 
 - 19:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf going to the north bed for the night with the group. No food, health 20, hunger 20.","reasoning":"Dusk on 306. 
 - 19:41 act: {"actions":[{"do":"sleep"}],"reasoning":"Partial sleep counted. Trying again at the same bed with Zack nearby."}
+- 19:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf here, night 306, health 20, hunger 19, no food. Going to the white bed to sleep."}
+- 19:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Sleep blocked at south bed with a golem 5 blocks south. Moving north to the north bed, away from golems, to tr
+- 19:52 act: {"actions":[],"intent":{"goal":"hunt_with_leonardo","program":"follow","arguments":{"target":"ag_leonardo_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
+- 19:54 act: {"actions":[],"intent":{"goal":"hunt_with_laforge","program":"follow","arguments":{"target":"ag_laforge_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_
+- 19:54 act: {"actions":[{"do":"goto","target":{"x":-257,"y":67,"z":260}}],"say":"Worf heading north-west toward the pig ground after LaForge's group, to join them. Meat goes to Clark and Troi first."}
+- 19:54 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":322}}],"say":"Worf alone at -257,260 with no sword, and the group is held by walls at the beds. Going back to the north beds to be with them."}
