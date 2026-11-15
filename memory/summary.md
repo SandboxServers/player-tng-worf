@@ -1,3 +1,10 @@
+# Summary (Worf)
+
+Today: day 279 is over. I am at the white beds (-272,67,336) with the group, sheltered for the night, full at 20, empty pack.
+Dropped at -274,67,297 on the north road: wooden sword, 4 dirt, wooden hoe, stick, 6 leaf litter, 6 wheat seeds.
+Next waking: wait for daylight with the group, look for food (chicken, cow, sheep), check the wheat near -264,66,318. Give meat to Trini first, then the hungriest.
+Never walk alone north past the spiders.
+
 # Recent days
 
 - Day 264 (done): no food all day; held at the white beds with the group. Porkchops went to Jason. Slept at the white bed -270,67,318; sleep worked. Hunger 16 at bed, health 9.8. Carry 3 rotten flesh (eat at hunger 6 or below).

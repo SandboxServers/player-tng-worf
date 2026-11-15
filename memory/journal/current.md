@@ -452,3 +452,10 @@
 - 10:09 say: {"text":"Worf, awake, full at 20. Any ripe wheat goes to Trini first, then Troi. I will stay at the wheat."}
 - 10:14 act: {"say":"Worf, at the white beds, health 20, hunger 20. I hold 6 seeds and a hoe. Data, I'll plant seeds on clear ground near the wheat when it opens, and give any food I find to the hungriest.","inten
 - 10:18 act: {"say":"Worf at the white beds, hunger 20, no spare food; I can't spare any meat. Leonardo, Clark, Chapman: I'm holding here near the beds and will call out any wheat or meat I find."}
+- 10:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"reasoning":"Night, thunder, full hunger, six days since sleep. Bed is adjacent. Move to it and sleep.","say":"Worf here, full at 20 with 
+- 10:22 act: {"actions":[{"do":"note","text":"Day 278 dawn. Slept at the white bed; sleep worked. Joining the southeast meat hunt with Clark, Leonardo and Lewis. Any meat goes to Trini first, then the hungriest."}
+- 10:22 act: {"actions":[],"reasoning":"Sleep actually failed due to a creeper nearby; it is still night. Stay put by the beds and wait for daylight rather than hunt in the dark.","say":"Still night, and a creeper
+- 10:29 act: {"actions":[],"intent":{"goal":"reach_chicken_north","program":"travel","arguments":{"target":{"x":-275,"y":67,"z":237}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal
+- 10:30 act: {"actions":[{"do":"goto","target":{"x":-275,"y":67,"z":300}}],"intent":{"goal":"reach_chicken_north","program":"travel","arguments":{"target":{"x":-275,"y":67,"z":237}},"wake_on":["directly_addressed"
+- 10:30 act: {"actions":[{"do":"attack","target":"spider"},{"do":"attack","target":"spider"}],"reasoning":"Two spiders are adjacent and I am losing health. I have a wooden sword. Fight them rather than run from sp
+- 10:30 act: {"actions":[],"reasoning":"I died. Now I have nothing. Stay at the beds with the group, rest, and do not go back for the things while spiders are around.","say":"Worf here, I died to spiders on the wa
