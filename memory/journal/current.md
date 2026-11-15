@@ -335,3 +335,6 @@
 - 05:52 act: {"actions":[{"do":"unstick"}]}
 - 05:52 act: {"actions":[{"do":"goto","target":{"x":-310,"y":64,"z":262}}]}
 - 05:53 act: {"intent":{"goal":"hold_shore_for_salmon","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":1200,"max_block_operati
+- 05:56 act: {"actions":[{"do":"note","text":"Day 265 midday at north lake shore. Hunger 15, health 9.8. 3 rotten flesh held for later. 7 salmon at about 12 blocks north-west, in deep water at y=56."}],"say":"Stil
+- 05:59 act: {"intent":{"goal":"reach_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"li
+- 06:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"I'm at the white beds. No salmon came in, so I have no food. I'm going to bed."}
