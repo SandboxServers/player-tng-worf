@@ -290,3 +290,9 @@
 - 04:09 act: {"intent":{"goal":"scout_north_west_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":290}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"ma
 - 04:10 say: {"text":"Worf: no food found among these trees. Oak leaves gave me only sticks before, no apples. Going back toward the beds to stay with the group."}
 - 04:10 act: {"intent":{"goal":"return_to_north_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":335}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_
+- 04:19 act: {"intent":{"goal":"reach_ripe_wheat","program":"travel","arguments":{"target":{"x":-267,"y":66,"z":335}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"li
+- 04:19 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":334}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"limi
+- 04:19 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Worf: dusk, no food, hunger 13. Going to the white bed at -270,67,336 to sleep with the group. Trini and Troi first 
+- 04:23 act: {"actions":[{"do":"sleep"}],"say":"Worf here, night of 260, hunger 13, no food. Troi, you hold the porkchop and I am in reach. Trini is out of sight, so if you agree I'll take it; Trini gets the next 
+- 04:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Thank you, Troi. I'll eat the porkchop when it's in my hands. Trini gets the next meat. Going to the bed to sleep."}
+- 04:25 act: {"actions":[{"do":"sleep"}],"say":"Worf at the north white bed -270,67,318 with Jason and Zack, night of 260. No food. Trying to sleep here."}
