@@ -95,3 +95,17 @@
 - 18:28 act: {"actions":[],"say":"Worf: sleep blocked again at the south bed. I am at -281,67,319 with Wcrusher in reach. I will not retry until the golems are well away. Staying with the group till light."}
 - 18:30 act: {"actions":[{"do":"goto","target":"ag_macdonald_01"}],"say":"Worf, dawn 303, health 20, hunger 20, no food. Macdonald and I will scout west with Leonardo and Riker, staying in sight. Any meat goes to 
 - 18:34 act: {"actions":[],"say":"Worf at -281,67,319 with Macdonald, full at 20 and holding no food. LaForge and Chapman are lowest; I will walk to any cow or pig called out and stay in sight of Macdonald."}
+- 18:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Heading to the north beds for the night. Staying close to you two.","reasoning":"Dusk, no food, long without sleep. Bed is ~11 bloc
+- 18:40 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, at a white bed, 8 days unslept. No food in hand to give."}
+- 18:44 act: {"actions":[{"do":"sleep"}],"say":"Worf at the north bed, night 303, no food, 8 days unslept. Trying sleep now. Anyone under 10 hunger, call out.","reasoning":"Night, bed in reach, group near, no gole
+- 18:45 act: {"actions":[],"say":"Sleep blocked again at the south bed; golems 6 to 10 blocks east and south. Staying with Macdonald, Zack and Bcrusher. I'll try again when they move off.","reasoning":"Golems too 
+- 18:46 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Golems now 13+ blocks away. Try the adjacent bed."}
+- 18:46 act: {"actions":[{"do":"sleep"}],"reasoning":"Golems 13+ away. Plain sleep attempt, no extra use step."}
+- 18:47 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Back to the north bed pair; no golem in view. Try sleep."}
+- 18:47 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Previous sleep was blocked at a distance. Stand on the bed tile and sleep there."}
+- 18:47 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"reasoning":"Still short of the bed; a drop lies south-west. Walk onto the bed tile."}
+- 18:47 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Walk the 7 blocks north to the bed, then sleep. Golem is 12 blocks south."}
+- 18:47 act: {"actions":[{"do":"unstick"}],"reasoning":"Perched and walking failed. Free myself first."}
+- 18:47 act: {"intent":{"goal":"reach_north_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"lim
+- 18:47 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"reasoning":"Walk to the bed tile, then sleep on the next cycle once I arrive."}
+- 18:48 act: {"actions":[{"do":"sleep"}],"reasoning":"I am on the bed tile at night with no golem in view. Try sleep once."}
