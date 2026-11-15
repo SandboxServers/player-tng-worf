@@ -32,3 +32,7 @@
 - 22:28 act: {"actions":[{"do":"goto","target":{"x":254,"y":92,"z":-1119}}],"intent":{"goal":"return_to_pit_shelter","program":"travel","arguments":{"target":{"x":254,"y":92,"z":-1119}},"wake_on":["goal_completed"
 - 22:28 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":254,"y":93,"z":-1118}},{"do":"place","block":"oak_planks","at":{"x":255,"y":92,"z":-1118}},{"do":"place","block":"oak_planks","at":{"x":254,"y"
 - 22:28 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":254,"y":93,"z":-1117}},{"do":"place","block":"oak_planks","at":{"x":255,"y":93,"z":-1118}}],"reasoning":"Remaining gap is up-right, at the leav
+- 22:30 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":254,"y":93,"z":-1117}}],"say":"Checking my pit for the open corner before dark.","reasoning":"Gap is up-right. Try placing a plank on the open 
+- 22:30 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":255,"y":93,"z":-1118}}],"reasoning":"First try produced no visible result and I am still not enclosed. Try the other up-right cell noted before
+- 22:30 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":254,"y":92,"z":-1117}}],"reasoning":"Remaining gap is level on the right, which is the cell south of me. Plank it."}
+- 22:30 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":253,"y":93,"z":-1117}}],"reasoning":"Remaining open cell is leaves up-right, which is 253,93,-1117 facing south."}
