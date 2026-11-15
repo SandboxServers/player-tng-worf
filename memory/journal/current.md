@@ -474,3 +474,17 @@
 - 11:17 act: {"intent":{"goal":"follow_data_to_salmon_lake","program":"follow","arguments":{"target":"ag_data_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":
 - 11:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Worf, night day 281. No food; going to the white bed here with the group. Food to Trini, then LaForge, then Picard a
 - 11:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Creeper gone from the list; retry the white bed once. Golem 10 south, not new."}
+- 11:28 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Worf here, night 281. I have no food, hunger 20. Trini and LaForge need the flesh first.","intent":{"goal":"rest_at_beds","program"
+- 11:28 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 11:31 act: {"say":"Worf, day 282. I'm not hungry yet (20), so my food goes to Trini and Picard. I'm scouting toward the pig lead at -336,64,229.","intent":{"goal":"scout_pig_lead_north_west","program":"travel","
+- 11:32 act: {"intent":{"goal":"return_to_beds_with_group","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":330}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
+- 11:32 act: {"say":"Worf back with the group at -270,66,330. I have no food. Trini, eat the flesh now. I'll go out for animals in the north-east grass next."}
+- 11:40 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Worf going to the yellow bed at -263,67,353 for the night. No food, hunger 20."}
+- 11:41 act: {"actions":[{"do":"wait","seconds":40},{"do":"sleep"}]}
+- 11:42 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}]}
+- 11:46 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 11:46 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Worf at the yellow bed with Clark. No food on me. Trying sleep again."}
+- 11:47 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}},{"do":"sleep"}]}
+- 11:52 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":330}}],"say":"Worf at dawn, day 283. No food, health and hunger 20. Joining the group at the crafting tables. Any meat goes to LaForge, Trini, th
+- 12:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}],"say":"Worf going to the north white bed to sleep with the group. No food on me."}
+- 12:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"sleep"}]}
