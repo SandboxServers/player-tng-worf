@@ -1,11 +1,14 @@
 # Summary (Worf)
 
-Today: day 279 is over. I am at the white beds (-272,67,336) with the group, sheltered for the night, full at 20, empty pack.
-Dropped at -274,67,297 on the north road: wooden sword, 4 dirt, wooden hoe, stick, 6 leaf litter, 6 wheat seeds.
-Next waking: wait for daylight with the group, look for food (chicken, cow, sheep), check the wheat near -264,66,318. Give meat to Trini first, then the hungriest.
-Never walk alone north past the spiders.
+Today: day 280 is over. Slept at a white bed near -271,67,336 with the group. Health 20, hunger 20 at sleep, no food. Pack: 4 sticks, 2 oak planks, 1 white wool.
+Dropped at -274,67,297 on the north road on day 279: wooden sword, 4 dirt, wooden hoe, stick, 6 leaf litter, 6 wheat seeds. Not recovered.
+Next waking: food goes to LaForge, then Trini, then Picard. Check the wheat near -266,66,322. Stay with the group. Never walk alone north past the spiders.
+Riker is passing my saplings and logs to Lewis.
 
 # Recent days
+
+- Day 280 (done): no food all day. Returned Lewis's drop-pile items through Riker. Golems pressed from the south and east. Slept at a white bed with the group.
+- Next waking: food first to LaForge, then Trini, then Picard.
 
 - Day 264 (done): no food all day; held at the white beds with the group. Porkchops went to Jason. Slept at the white bed -270,67,318; sleep worked. Hunger 16 at bed, health 9.8. Carry 3 rotten flesh (eat at hunger 6 or below).
 - Next waking: find food. Jason, then Trini, then me. Stay near the beds. Golems and phantoms come from the south.

@@ -459,3 +459,11 @@
 - 10:30 act: {"actions":[{"do":"goto","target":{"x":-275,"y":67,"z":300}}],"intent":{"goal":"reach_chicken_north","program":"travel","arguments":{"target":{"x":-275,"y":67,"z":237}},"wake_on":["directly_addressed"
 - 10:30 act: {"actions":[{"do":"attack","target":"spider"},{"do":"attack","target":"spider"}],"reasoning":"Two spiders are adjacent and I am losing health. I have a wooden sword. Fight them rather than run from sp
 - 10:30 act: {"actions":[],"reasoning":"I died. Now I have nothing. Stay at the beds with the group, rest, and do not go back for the things while spiders are around.","say":"Worf here, I died to spiders on the wa
+- 10:47 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":326}}],"say":"Worf here at the beds, full at 20 with an empty pack. There's a dropped item north-east at -262,66,326; I'm checking it. LaForge an
+- 10:47 act: {"actions":[{"do":"goto","target":{"x":-264,"y":65,"z":320}},{"do":"goto","target":{"x":-268,"y":66,"z":320}},{"do":"goto","target":{"x":-266,"y":66,"z":317}}],"say":"Worf: picking up the dropped item
+- 10:47 act: {"actions":[{"do":"goto","target":{"x":-261,"y":66,"z":320}},{"do":"goto","target":{"x":-261,"y":66,"z":319}}],"say":"Worf: got oak saplings and sticks from the ground. Picking up two more items near 
+- 10:48 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"say":"Worf: golems are closing from the south, so I'm going to the white bed at -281,67,320 to sleep for the night. I have
+- 10:48 act: {"actions":[],"say":"Worf, dawn of day 280. Full at 20, no food on me. I picked up 3 oak saplings, 10 oak logs, 2 planks, 4 sticks and some wool from the ground north-east. Anyone who needs wood or wh
+- 10:53 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"oak_sapling","count":3},{"do":"give","to":"ag_lewis_01","item":"oak_log","count":10},{"do":"give","to":"ag_lewis_01","item":"stick","count":4}],"say
+- 10:53 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"oak_log","count":10},{"do":"give","to":"ag_lewis_01","item":"stick","count":4}],"say":"Lewis, the saplings went to Riker by mistake. Riker, please p
+- 10:53 act: {"actions":[],"say":"Riker, you have the saplings and logs that were meant for Lewis. Please hand them to Lewis. I have 4 sticks and 2 planks left, and I'll give them to whoever needs them.","reasonin
