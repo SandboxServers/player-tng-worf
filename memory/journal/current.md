@@ -1,1 +1,37 @@
 # Journal
+- Night, day 316. Ate a melon (hunger 20, health 20). Pit still not enclosed: view shows a leafy gap up-left. Holding in the pit with a rest intent until light instead of placing blind in the dark. Next: at light, fix the gap with jungle planks, then get 2 wool for the bed.
+- 22:50 act: {"actions":[{"do":"place","block":"jungle_planks","at":{"x":254,"y":93,"z":-1118}}],"reasoning":"Rest intent ended at once, so I am not held. Block above my head is air. Place a plank there to close t
+- 22:51 act: {"actions":[{"do":"goto","target":{"x":247,"y":93,"z":-1115}},{"do":"attack","target":"skeleton"}],"say":"A skeleton is shooting me. I am going to close with it.","reasoning":"Health falling from a sk
+- 22:51 act: {"actions":[{"do":"attack","target":"skeleton"}],"reasoning":"Skeleton 4 blocks southwest and closing. Health 11. Strike it now with the sword."}
+- 22:51 act: {"actions":[{"do":"attack","target":"zombie"}],"reasoning":"Health 8, zombie and skeleton both on me. Zombie is in melee range and hitting from behind; strike it first."}
+- 22:51 act: {"actions":[{"do":"goto","target":{"x":232,"y":93,"z":-1118}}],"say":"I am at three health. Falling back west out of their reach.","reasoning":"Health 3, zombie and skeleton closing from the east. Fig
+- 22:51 act: {"actions":[{"do":"goto","target":{"x":383,"y":107,"z":-1080}}],"say":"Worf, woken at the beds with nothing. I have lost my wool and planks in the field to the west. Anyone with spare food or a sword,
+- 22:52 act: {"actions":[{"do":"goto","target":{"x":383,"y":107,"z":-1080}}],"reasoning":"Unarmed, a spider is closing. Keep moving toward the beds where others are."}
+- 22:52 act: {"actions":[{"do":"goto","target":{"x":282,"y":89,"z":-1105}},{"do":"mine","block":"melon","count":2}],"reasoning":"No food and no weapon. Melons are close in the east field. Get to them and take two 
+- 22:52 act: {"actions":[{"do":"goto","target":{"x":241,"y":93,"z":-1112}},{"do":"attack","target":"chicken"}],"reasoning":"Hunger 17 and no food in hand. The chicken at 242,93,-1112 is nearest. Go and strike it."
+- 22:52 act: {"actions":[{"do":"goto","target":{"x":241,"y":93,"z":-1118}},{"do":"goto","target":{"x":243,"y":93,"z":-1118}},{"do":"goto","target":{"x":245,"y":93,"z":-1116}}],"reasoning":"Those item entities lyin
+- 22:52 act: {"actions":[{"do":"goto","target":{"x":245,"y":94,"z":-1122}}],"reasoning":"Batched gotos fail as busy, so one at a time. Remaining item lies north-west at 245,94,-1122; walk onto it."}
+- 22:52 act: {"actions":[{"do":"mine","block":"melon","count":2}],"reasoning":"I am beside the melon field now. Mine two melons for food, before the creeper to the north-east gets close."}
+- 22:52 act: {"actions":[{"do":"eat"},{"do":"eat"}],"reasoning":"Hunger is 17 and I have 13 melon slices. Eat now. The creeper 7 blocks east is closing, so I will walk west after."}
+- 22:52 act: {"actions":[{"do":"goto","target":{"x":266,"y":90,"z":-1104}}],"reasoning":"A creeper exploded beside me and health is 13. Get away west from the melon field, away from the creeper."}
+- 22:54 act: {"actions":[{"do":"eat"}],"reasoning":"Hunger 17 and health recovering. Eat a melon slice, then rest here while the sun is up."}
+- 22:54 act: {"actions":[],"intent":{"goal":"reach_beds_for_help","program":"travel","arguments":{"target":{"x":383,"y":107,"z":-1080}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","go
+- 22:55 act: {"actions":[{"do":"eat"}],"say":"Worf here at the beds. I have melon slices and no sword. Does anyone have wool, a sheep, or a spare sword?","reasoning":"Hunger 17 and I am at the beds. Eat, then ask 
+- 22:55 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1072}}],"say":"Shot from the north-west, health 6. Moving east out of the bow's line.","reasoning":"Unseen skeleton keeps shooting from the nort
+- 22:57 act: {"actions":[],"say":"Zack, I can trade 4 melon slices for wool. Come within reach and I will hand them to you. Jason, I will watch the north-west.","reasoning":"Zack has white wool, which I need for t
+- 22:59 act: {"actions":[{"do":"goto","target":{"x":385,"y":107,"z":-1075}}],"say":"Coming into sight of the beds now. Zack, I will give 4 melons for the wool.","reasoning":"Zack and Picard are at the beds and nee
+- 22:59 act: {"actions":[],"say":"Zack, I am at 385,107,-1074, in sight of the beds. Hand over the wool and I will give you 4 melon slices.","reasoning":"I am now at the beds. Call Zack to show himself so the trad
+- 23:01 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"melon_slice","count":4}],"say":"Here are 4 melon slices for the wool, Zack. Thank you.","reasoning":"Wool received, so the deal is kept. Pay Zack 4 m
+- 23:02 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, I am coming to you to pay the 4 melons.","reasoning":"The give failed because Zack was out of reach and I had drifted. I owe him 4 melons 
+- 23:02 act: {"actions":[{"do":"goto","target":{"x":385,"y":107,"z":-1076}}],"say":"Zack, going back to the beds to pay you there.","reasoning":"Zack is heading to the beds for the night. Go there so I can pay the
+- 23:02 act: {"actions":[],"say":"Zack, I am at the beds with your payment ready. Show yourself and I will hand over the 4 melons.","reasoning":"Zack is not in sight. I will hold the melons ready and call him. The
+- 23:06 act: {"actions":[],"say":"Zack, I still owe you 4 melon slices for the wool. I am holding them here at the beds. Come back to me when you can and I will pay.","reasoning":"Zack has left for the melon walk,
+- 23:11 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"melon_slice","count":4}],"say":"Zack, here are your 4 melon slices for the wool. Thank you.","reasoning":"Zack is in reach and owed 4 melons for the 
+- 23:11 act: {"actions":[{"do":"eat"}],"reasoning":"Zack went out of sight before the give. I am idle at the beds with hunger 17, so I eat a slice while I wait for him to return."}
+- 23:14 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1066}}],"say":"Zack, I am walking to you at the white beds to hand over the 4 melons.","reasoning":"Zack is near 388,-1064 and says my melons ne
+- 23:17 act: {"actions":[],"say":"Zack, I still hold your 4 melon slices. When you are in sight again I will hand them over. Does anyone know where sheep are, for more wool?","reasoning":"Zack is fed and out of si
+- 23:19 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1074}}],"say":"Picard, I have melon slices. Where are you? I am coming to the beds to give you one.","reasoning":"Picard is at health 2 and aske
+- 23:21 act: {"actions":[],"say":"Worf here at the beds with 7 melon slices. Beverly, Riker, Kimberly: step into view and I will hand you one each. Zack, I still owe you 4 for the wool.","reasoning":"Several peopl
+- 23:23 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1090}}],"say":"Picard, I am walking to you now with a melon slice.","reasoning":"Picard is weakest at health 2 and is 17 blocks north of me. Wal
+- 23:23 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"melon_slice","count":2}],"say":"Picard, here are two melon slices. Eat them.","reasoning":"Picard is in sight and weakest. Give him two slices."}
+- 23:27 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1092}}],"say":"Going to bed at the white beds for the night. Lewis, Picard, if you need food, step into view and I will come.","reasoning":"Dusk, day
