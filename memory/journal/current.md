@@ -23,3 +23,74 @@
 - 16:00 act: {"say":"Thank you Zack. I don't see a sword in my hands yet, so I'll hold tight here. Dusk is coming, and I will sleep in the yellow bed once it is dark.","actions":[]}
 - 16:01 act: {"say":"Zack, I still have no sword in my hands. Please use give: item wooden_sword, count 1, to Worf. I am at the yellow bed, in your reach.","actions":[]}
 - 16:03 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}}]}
+- 16:03 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"intent":{"goal":"reach_yellow_bed_at_night","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":354}},"wake_on":["directly_addr
+- 16:03 act: {"actions":[],"say":"Jason, Worf here, empty-handed, hunger 20. Do you have a spare wooden sword to hand me? I'm heading to the bed at -241,69,344."}
+- 16:05 act: {"actions":[{"do":"sleep"}]}
+- 16:06 act: {"actions":[{"do":"use","at":{"x":-241,"y":69,"z":344}}]}
+- 16:06 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}},{"do":"use","at":{"x":-263,"y":67,"z":353}}]}
+- 16:06 act: {"actions":[{"do":"sleep"}]}
+- 16:11 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"say":"Worf at dawn 296, empty-handed, health 20 hunger 20. Going to the group at the yellow beds. Anyone with a spare wooden sword, I'm r
+- 16:11 act: {"actions":[{"do":"mine","block":"stripped_oak_log","count":2}],"say":"Worf here, dawn 296. Billy, Troi, Riker, Trini: I'll make my own sword from the stripped logs by the beds, then I'll help hunt me
+- 16:11 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}},{"do":"craft","item":"oak_planks","count":8},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}]}
+- 16:11 act: {"actions":[],"say":"Billy, thank you. Stripped logs won't craft planks, so I need 2 plain oak logs. Could you give me 2 oak logs? I'll make the sword at the table here."}
+- 16:13 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}]}
+- 16:13 act: {"actions":[{"do":"goto","target":{"x":-250,"y":67,"z":353}},{"do":"mine","block":"oak_log","count":1}],"say":"Billy, the logs did not reach my pack, so I'm getting one myself from the oak log by the 
+- 16:13 act: {"actions":[{"do":"goto","target":{"x":-245,"y":68,"z":352}},{"do":"mine","block":"oak_log","count":2}],"say":"Worf, back at the yellow beds after dying in the north-east. I'm getting oak logs for pla
+- 16:14 act: {"actions":[{"do":"goto","target":{"x":-244,"y":68,"z":341}},{"do":"mine","block":"oak_log","count":2}]}
+- 16:14 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"say":"Wesley, I'm at the table making a sword first, t
+- 16:14 act: {"actions":[{"do":"goto","target":{"x":-258,"y":67,"z":353}}],"say":"Worf has a wooden sword now. Leonardo, I'll join your scout west for meat, and Wesley gets the first meat."}
+- 16:14 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":338}}],"say":"Worf, armed with a wooden sword, heading to the white beds to join the group for the food scout."}
+- 16:14 act: {"actions":[],"say":"Worf here with a wooden sword, health 20. I'll scout west with Leonardo and Riker. Meat goes to Wesley first. Say when you leave and I'll stay in your sight."}
+- 16:17 act: {"actions":[{"do":"goto","target":{"x":-284,"y":67,"z":354}}],"say":"Worf coming to Leonardo at -284,67,354 for the west scout."}
+- 16:18 act: {"actions":[],"say":"Worf with Leonardo and Jason at -284,67,353. Golems are close to the east, so I'm staying put beside you. No animals seen yet."}
+- 16:18 act: {"actions":[{"do":"goto","target":{"x":-292,"y":67,"z":353}}],"say":"Moving west with Leonardo and Jason, away from the golems."}
+- 16:18 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":338}}],"say":"It's getting dark and the scouts are out of sight. I'm going back to the white beds with the group."}
+- 16:22 act: {"intent":{"goal":"rest_at_white_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"max
+- 16:30 act: {"say":"Worf here, dawn 297, health 20, no food. I'm going west with Trini to search the grass for animals. Any meat goes to Clark, then Wesley.","actions":[{"do":"goto","target":"ag_trini_01"}],"reas
+- 16:30 act: {"actions":[{"do":"goto","target":{"x":-285,"y":67,"z":320}}],"reasoning":"Scout west with Trini in sight, looking for animals."}
+- 16:30 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":322}}],"reasoning":"No animals here; keep scouting west, Data nearby."}
+- 16:31 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":318}}],"reasoning":"Alone now, and the last goto was blocked. Return toward the group at the west beds."}
+- 16:39 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":322}}],"reasoning":"Group is gathering at the north beds where Clark and Kimberly are. Go there, nothing to give, but stay with them."}
+- 16:45 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Dusk, sheltered with the group. Move to the north bed and try sleep."}
+- 16:45 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":317}},{"do":"sleep"}],"reasoning":"Sleep blocked at the south bed with golems 8 blocks south. Move north to the other beds, away from golems, and
+- 16:46 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Sleep failed at the south bed with the way blocked. I'm still at -270,67,336 with Trini and Bcrusher in reach.
+- 16:51 act: {"actions":[],"say":"Worf, dawn 298, health 20, hunger 20, no food. I'll go east with Chapman and Macdonald to the pigs. Clark and Wesley get any meat first.","reasoning":"Dawn, no food in my pack. Th
+- 16:53 act: {"actions":[{"do":"goto","target":{"x":-266,"y":66,"z":321}}],"say":"Worf here with 1 wheat, picked up from the ground. Clark, Wesley: step into my reach and say so, and it's yours.","reasoning":"I ho
+- 16:53 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"wheat","count":1}],"say":"Troi, here is my 1 wheat. Wesley is at health 2, so please give it to him first; if he is not near, Clark at hunger 17.","r
+- 16:58 act: {"actions":[],"say":"Troi, Wesley is at the white bed -270,67,337 at health 2. Take the wheat and rotten flesh there now. I have no food left.","reasoning":"Wesley is at the bed with Troi's food. The 
+- 17:06 act: {"actions":[{"do":"goto","target":{"x":-259,"y":66,"z":316}}],"reasoning":"Golems are 3-4 blocks around me and a phantom is near. Moving north-east away from the cluster, to a spot the group can reach
+- 17:10 act: {"actions":[{"do":"goto","target":{"x":-257,"y":66,"z":300}}],"say":"Worf, dawn 299, health 20, no food. Joining the hunt north-west toward the chicken ground with Macdonald. Meat goes to Picard first
+- 17:10 act: {"actions":[{"do":"goto","target":{"x":-264,"y":66,"z":318}}],"say":"Worf here, no food, alone at -257,67,300. Coming back to the beds to hunt with Zack and LaForge.","reasoning":"I am alone and the g
+- 17:14 act: {"actions":[],"say":"Worf here at the north beds, health 20, no food. Jason, I have a wooden sword for you. Walk to me and I'll hand it over. Picard and Wesley are fed first, that's right.","reasoning
+- 17:18 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"wooden_sword","count":1}],"say":"Jason, here is my wooden sword. Good hunting.","reasoning":"Jason is in reach with no sword and no food, and he ask
+- 17:18 act: {"actions":[],"intent":{"goal":"hold_with_group","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":3000,"max_block_opera
+- 17:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Worf going to the north white bed for the night. No golem in sight. Food goes to whoever is weakest.","reasoning":"Night has come, 
+- 17:22 act: {"actions":[{"do":"sleep"}],"reasoning":"At the north bed with Trini, Zack, Chapman and Wcrusher in reach, no golem in sight. Try sleep now."}
+- 17:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"A phantom is 10 blocks above, and I drifted to -276,67,322. Get back to the north bed pair and try the other b
+- 17:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Phantom 5 blocks away stopped the last sleep. Go back to the north bed with Kimberly and Wcrusher and try once
+- 17:24 act: {"actions":[{"do":"sleep"}],"reasoning":"I am at the south bed -270,67,336 with Clark in reach and no monster close. The sleep failed once here as blocked. Try once more; if it fails, stay with the gr
+- 17:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":317}},{"do":"sleep"}],"reasoning":"I keep getting pulled back to -280,67,320 and the sleep then fails as blocked. Jason and Zack are at the north
+- 17:25 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":320}}],"intent":{"goal":"hold_with_group_at_night","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":320}},"wake_on":["directly_addre
+- 17:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"No golem or phantom in view, the group is in reach, and the bed at -270,67,318 is 2 blocks away. One try at sl
+- 17:30 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":330}}],"say":"Worf, dawn 300, health 20, no food. Zack at hunger 8, you're the weakest I can see. I'll walk with you to look for animals, not alo
+- 17:33 act: {"actions":[],"say":"Worf, midday 300, health 20, hunger 20, no food. Zack and LaForge are fed. Billy, I'll come to the west pig at -289,254 if you wait for me; say so and I'll walk with you.","reason
+- 17:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Worf, dusk 300, health 20, hunger 20, no food. Going to the south white bed with the group. Billy, Leonardo, I'll walk with you to 
+- 17:41 act: {"actions":[{"do":"sleep"}]}
+- 17:41 act: {"actions":[{"do":"sleep"}],"say":"Worf at the north bed, dusk 300, hunger 20, no food. Zack, you're lowest; I have none, so Jason or Trini please feed him. Trying sleep here now."}
+- 17:41 act: {"actions":[{"do":"note","text":"Night 300: slept at north bed -270,67,318 with Leonardo, Clark, Picard, Billy, Riker nearby; 3 of 10 asleep. Holding 1 beef (picked up). Zack is lowest at hunger 8; gi
+- 17:45 act: {"actions":[],"say":"Worf holding at the north bed with Macdonald, health 20, hunger 20. I still have one beef for whoever drops lowest. Phantoms are about; staying with the group till dawn."}
+- 17:49 act: {"actions":[],"say":"Worf, dawn 301, health 20, hunger 20. Holding one beef. Bcrusher is lowest at 9 and Billy has beef for him too; Bcrusher, step into my reach and I'll hand you mine if Billy hasn't
+- 17:54 act: {"actions":[],"say":"Worf, day 301, health 20, hunger 20, holding one beef for the lowest. Clark, I'll walk east with you, Jason and Data to the cow near -152,100 so no one goes alone. Wait for me at 
+- 17:54 act: {"actions":[],"say":"Worf here at the north bed, 2 blocks from Clark. Clark, Picard, Jason, Data: tell me when you head east and I'll walk right behind you. Beef stays with me for the lowest."}
+- 17:58 act: {"actions":[{"do":"goto","target":{"x":-254,"y":67,"z":319}}],"say":"Worf going east to Picard at -254,67,319 with Billy and Data, toward the cow. Beef still held for the lowest."}
+- 17:58 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}],"say":"Worf: no cow or pig in sight out east with Picard. Heading back to the north beds before dusk, holding one beef for the lowest."}
+- 18:02 act: {"actions":[{"do":"sleep"}],"say":"Worf at the north bed, night 301, hunger 20. Bcrusher, you're lowest at 8: step into my reach and the beef is yours. Trying sleep now."}
+- 18:03 act: {"actions":[],"say":"Sleep was blocked here. Anyone at hunger under 10, call out; the beef goes to the lowest in reach."}
+- 18:06 act: {"actions":[{"do":"give","to":"ag_data_01","item":"beef","count":1}],"say":"Data, you're in reach at hunger 17 and the lowest I can reach. Here's my beef. Golems are three blocks north, so I'm holding
+- 18:12 act: {"actions":[{"do":"goto","target":"ag_data_01"}],"say":"Worf, dawn 302, hunger 20, no food. Going north-west for the sheep with Data, Chapman, Riker and Clark. Call out if you find meat."}
+- 18:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"sleep"}],"say":"Worf, night 302, health 20, hunger 20, no food and no sword. Jason is lowest at health 2: Jason, step into my sight 
+- 18:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}],"say":"Worf here at -258,65,349 by the water, alone and out of the group. Heading back to the south beds now, phantoms to the north-west."
+- 18:24 act: {"actions":[],"say":"Worf back at the south beds with Data, Billy, Troi, Bcrusher, Leonardo in reach. Health 20, hunger 20, no food. A golem is 3 blocks off, so I stay in the group and do not sleep ye
+- 18:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Worf trying the south bed now, golems are 10 and 16 blocks off. Group is in reach. Hunger 20, no food."}
+- 18:28 act: {"actions":[],"say":"Worf: sleep blocked again at the south bed. I am at -281,67,319 with Wcrusher in reach. I will not retry until the golems are well away. Staying with the group till light."}
+- 18:30 act: {"actions":[{"do":"goto","target":"ag_macdonald_01"}],"say":"Worf, dawn 303, health 20, hunger 20, no food. Macdonald and I will scout west with Leonardo and Riker, staying in sight. Any meat goes to 
