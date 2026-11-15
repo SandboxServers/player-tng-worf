@@ -128,3 +128,22 @@
 - 19:54 act: {"actions":[],"intent":{"goal":"hunt_with_laforge","program":"follow","arguments":{"target":"ag_laforge_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_
 - 19:54 act: {"actions":[{"do":"goto","target":{"x":-257,"y":67,"z":260}}],"say":"Worf heading north-west toward the pig ground after LaForge's group, to join them. Meat goes to Clark and Troi first."}
 - 19:54 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":322}}],"say":"Worf alone at -257,260 with no sword, and the group is held by walls at the beds. Going back to the north beds to be with them."}
+- 20:00 act: {"actions":[{"do":"goto","target":{"x":-284,"y":66,"z":323}},{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"wooden_sword","count":1}],"say":"Worf here, no food and no sword. I'll m
+- 20:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}}],"say":"Thanks Zack. I have a wooden sword now. Heading back to the beds to stay with the group.","intent":{"goal":"return_to_beds","progra
+- 20:00 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"wooden_sword","count":1}],"say":"Wcrusher, here is a spare wooden sword. I have no food, but I'll stay at the north bed with the group tonight."}
+- 20:00 act: {"actions":[{"do":"sleep"}]}
+- 20:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 20:02 act: {"actions":[{"do":"sleep"}],"say":"Worf at the north bed, night 307, health 20, hunger 18, no food. Data and Leonardo are lower; meat goes to them first when found."}
+- 20:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}]}
+- 20:03 act: {"actions":[],"say":"Worf here at night 307, no meat. I hold only leaf litter and a red mushroom. Clark, if you can reach me, say so. Golem is 3 east, so I'm staying back.","intent":{"goal":"hold_clea
+- 20:03 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}]}
+- 20:04 act: {"actions":[{"do":"goto","target":{"x":-264,"y":67,"z":350}}],"say":"Worf at night 307, hunger 17, health 20. Golems are 4 to 6 south-west of me and a phantom is south. I'm moving north, away from the
+- 20:06 act: {"actions":[],"say":"Worf here, bright morning, hunger 17, health 20. I hold no food, only a spare sword and leaf litter. Chapman, come to me and stay near Jason. Data, Bcrusher holds the chicken and 
+- 20:09 act: {"actions":[],"say":"Worf, dawn 308, hunger 17, health 20. Chapman and Data are lower than me, so the food goes to them first. Jason, if you go east for animals, I'll come with you. Golems are 8 to 12
+- 20:12 act: {"actions":[],"say":"Worf, day 308, hunger 17, health 20. Kimberly, I'll walk with you and Macdonald to Riker's pit in daylight. I hold no food, but I can carry a sword and keep watch on the way."}
+- 20:16 act: {"actions":[],"intent":{"goal":"follow_kimberly_to_riker_pit","program":"follow","arguments":{"target":"ag_kimberly_01"},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks
+- 20:21 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}},{"do":"sleep"}],"say":"Worf going to the yellow bed for the night 308, hunger 17, health 20. No food on me."}
+- 20:21 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":354}},{"do":"sleep"}]}
+- 20:22 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}}],"say":"Night. Going back to the yellow bed; if a golem stays near, I will wait.","intent":{"goal":"reach_yellow_bed","program":"travel","a
+- 20:22 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Going to sleep at the yellow bed. Kimberly and Riker are close."}
+- 20:25 act: {"actions":[{"do":"sleep"}],"say":"No golem in sight now. Trying to sleep at the yellow bed."}

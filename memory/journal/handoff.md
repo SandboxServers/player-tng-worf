@@ -1,3 +1,5 @@
+Dusk 308 (Worf, latest): at the yellow bed -263,67,353 area with Kimberly, Picard, Jason, Chapman, Riker in reach. Not enclosed, golems 8-17 blocks west. Health 20, hunger 17, no food. Pack: 2 stripped_oak_log, 1 oak_log, 1 stick, 1 red_mushroom, 8 leaf_litter, 2 wooden_sword. No errand running. Next: sleep at the yellow bed if no golem is near; at dawn, food goes to the lowest (Kimberly 8, Riker, Chapman, Data).
+
 Night 306 (Worf): asleep at the north white bed -270,67,318 with Zack beside me. Sleep worked. Not enclosed. Health 20, hunger 19, no food. Pack: 2 stripped_oak_log, 1 oak_log, 1 dirt, 3 stick. No errand running. East scout on morning 306 found no animals. Chapman (health 3) is lowest and holds 3 raw chicken. Next waking: meat hunt east with company, meat to Chapman first.
 
 Dusk 305 (Worf): at the north white bed -270,67,318, nobody in sight, not enclosed. Health 20, hunger 19, no food. Pack: 2 stripped_oak_log, 1 oak_log, 1 dirt, 3 stick. No errand running. Food has gone to Clark and Chapman (lowest). Troi was shot near -153,82 and is at health 8. Next waking: meat hunt only with company, east; give to the lowest first.
