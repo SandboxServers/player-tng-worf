@@ -319,3 +319,5 @@
 - 05:20 act: {"say":"Trini, Worf here at the south bed, -270,67,336. Please share the porkchop: I am at hunger 16 and have no meat. I can see you if you come close."}
 - 05:24 act: {"actions":[{"do":"eat"}],"say":"Thank you Chapman. Worf eating now; Trini gets the next one at dawn."}
 - 05:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}},{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"eat"}],"say":"Chapman, I don't see the porkchop in my pack. Where did it land, exac
+- 05:26 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Worf here, night of day 263. Health 9.8, hunger 16. Trying the white bed now with the group.","reasoning":"Night, be
+- 05:27 act: {"actions":[{"do":"sleep"}],"say":"Worf here. Still no food, hunger 16. Trying the white bed again now that the world moved on. Meat goes to Trini and Riker first.","reasoning":"Sleep was refused for 
