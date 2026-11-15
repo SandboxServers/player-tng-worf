@@ -433,3 +433,17 @@
 - 09:10 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":318}},{"do":"till","at":{"x":-262,"y":65,"z":319}}],"reasoning":"Blocked above that spot. I move to a more open spot to the north-east and till t
 - 09:10 act: {"actions":[{"do":"till","at":{"x":-264,"y":65,"z":318}},{"do":"place","block":"wheat_seeds","at":{"x":-264,"y":66,"z":318}}],"reasoning":"The block above the last spot was not clear, possibly me. I t
 - 09:10 act: {"actions":[{"do":"till","at":{"x":-264,"y":65,"z":316}},{"do":"place","block":"wheat_seeds","at":{"x":-264,"y":66,"z":316}}],"reasoning":"The first seed took and the soil is tilled. I plant a second 
+- 09:14 act: {"actions":[],"say":"Leonardo, till the grass at -262,65,316 and -262,65,320, both with clear air above. Then I will plant. Thank you.","reasoning":"Others are out searching for food. Leonardo has a h
+- 09:18 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-262,"y":66,"z":320}}],"say":"Leonardo, thank you for tilling -262,65,320. I am planting a seed there now.","reasoning":"Leonardo tilled -262,
+- 09:19 act: {"actions":[{"do":"till","at":{"x":-262,"y":65,"z":320}}],"say":"Leonardo, the seed would not go on -262,65,320, so I am tilling that spot myself.","reasoning":"Place failed because the ground under -
+- 09:19 act: {"actions":[{"do":"till","at":{"x":-264,"y":65,"z":320}}],"reasoning":"-262,65,320 belongs to someone else's work. I try a grass spot two blocks west of there, nearer to me."}
+- 09:19 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-264,"y":66,"z":320}}],"say":"Tilled -264,65,320 and planting a second seed there now.","reasoning":"New farmland is ready at -264,65,320. Pla
+- 09:21 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Health 1.8 with a phantom on top of me. Hit it with my sword first, then get to the bed."}
+- 09:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf here. I died and came back with the seeds and hoe. Going to the north white bed to sleep.","reasoning":"Night, 
+- 09:30 act: {"actions":[{"do":"goto","target":{"x":-265,"y":66,"z":320}},{"do":"till","at":{"x":-265,"y":65,"z":321}}],"say":"Worf, dawn day 276. I am back with 8 seeds and my hoe. Tilling near -265,65,321 now. F
+- 09:30 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-265,"y":66,"z":321}}],"reasoning":"The new farmland is tilled. Plant a seed on the air above it."}
+- 09:34 act: {"actions":[],"say":"Worf here, I am full, hunger 20. LaForge, keep your mutton for Troi (hunger 11) or Trini, not me. Leonardo, yes please: till the dirt near -266,65,322 and I will plant the seeds o
+- 09:38 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-266,"y":66,"z":322}}],"say":"Thank you Leonardo. Planting on your farmland at -266,65,322 now. Food goes to Troi and Trini first.","reasoning
+- 09:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Night has come. I am at full health and the bed is 5 blocks away with no creeper in view. Go and sleep."}
+- 09:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"The sleep was blocked where I stood. Try the other bed at -271,67,336, one block over."}
+- 09:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Two sleep tries were blocked. Try the bed at -271,67,318 next to this one."}
