@@ -271,3 +271,10 @@
 - 03:07 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Worf at the south white beds, no food, hunger 13, health 4.8. Trying the north bed at -270,67,336 now. Meat goes to 
 - 03:09 act: {"actions":[],"say":"Worf, dawn of day 257. Still no food, hunger 13, health 4.8. Golems are close to the south and north, so I'm holding near the beds. Meat goes to Data and Ezra first; I'll look at 
 - 03:12 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":330}}],"say":"Worf here, midday day 257. Tommy, Riker: I'll come help plant the wheat near the beds. I have no seeds or hoe, so I'll dig and carr
+- 03:19 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Going to the white bed near -270,67,336 for the night with the group. No food yet, so I'll ask for meat at first light."}
+- 03:20 act: {"actions":[{"do":"sleep"}],"say":"Worf at the white bed with the group, dusk day 257. No food, hunger 13. Trying to sleep now."}
+- 03:20 act: {"actions":[{"do":"sleep"}],"say":"Worf trying the white bed again at dusk, day 257. No food, hunger 13. Meat goes to Ezra, Data, then Trini."}
+- 03:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf moving to the white bed at -270,67,318 to sleep. Creeper near the other bed."}
+- 03:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Worf trying the white bed at -270,67,336 for the night. No food, hunger 13. Meat goes to Trini, Ezra, then Data."}
+- 03:24 act: {"actions":[{"do":"sleep"}],"say":"Worf at the white bed at -270,67,318, night of day 257. No food, hunger 13."}
+- 03:25 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Worf clicking the white bed at -270,67,336 to sleep. No food, hunger 13."}
