@@ -323,3 +323,6 @@
 - 05:27 act: {"actions":[{"do":"sleep"}],"say":"Worf here. Still no food, hunger 16. Trying the white bed again now that the world moved on. Meat goes to Trini and Riker first.","reasoning":"Sleep was refused for 
 - 05:29 act: {"say":"Worf here, day 264. Hunger 16, health steady, 3 rotten flesh I can eat only at hunger 6 or below. Jason is weakest; any meat goes to him first, then Trini.","intent":{"goal":"scout_for_animals
 - 05:31 act: {"say":"Worf here: I'm holding at the white beds with the group. Jason is weakest, so any meat goes to him first, then Trini, then me."}
+- 05:40 act: {"say":"Food is short for all of us. I'm staying by the beds for the night. At dawn I'll scout with Jason and Trini first.","intent":{"goal":"rest_at_beds_till_night","program":"rest","arguments":{},"
+- 05:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf at the white bed for the night. No food. Jason first at dawn, then Trini."}
+- 05:45 act: {"actions":[{"do":"sleep"}]}
