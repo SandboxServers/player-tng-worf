@@ -349,3 +349,4 @@
 - 06:14 act: {"actions":[{"do":"goto","target":"ag_chapman_01"}],"say":"Chapman, I'm coming to you with my last rotten flesh. Hunger 16 for both of us; you're hurt at 8 health.","reasoning":"LaForge got 2 flesh. C
 - 06:15 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"rotten_flesh","count":1}],"say":"Chapman, here is my last rotten flesh. Eat it when you can, and keep scouting with the group.","reasoning":"Chapm
 - 06:18 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Worf awake, day 266, hunger 15, health 9.8, no food. I have 2 oak logs and 2 oak planks. Heading to the white beds to stay with the
+- 06:23 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}}]}
