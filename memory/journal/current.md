@@ -350,3 +350,7 @@
 - 06:15 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"rotten_flesh","count":1}],"say":"Chapman, here is my last rotten flesh. Eat it when you can, and keep scouting with the group.","reasoning":"Chapm
 - 06:18 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Worf awake, day 266, hunger 15, health 9.8, no food. I have 2 oak logs and 2 oak planks. Heading to the white beds to stay with the
 - 06:23 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}}]}
+- 06:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["goal_completed","direct
+- 06:24 act: {"actions":[{"do":"sleep"}],"say":"Worf at the white bed for the night. No food, hunger 14. Riker and Trini first at dawn."}
+- 06:25 act: {"actions":[{"do":"sleep"}]}
+- 06:30 act: {"actions":[{"do":"goto","target":{"x":-250,"y":67,"z":340}}],"intent":{"goal":"scout_south_east_for_animals","program":"travel","arguments":{"target":{"x":-250,"y":67,"z":340}},"wake_on":["goal_compl
