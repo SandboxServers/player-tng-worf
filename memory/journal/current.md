@@ -302,3 +302,10 @@
 - 04:34 act: {"actions":[],"say":"Tommy, Worf here, two blocks from you. My pack is still empty. Please give me the porkchop, beef and wheat now, one at a time if the toss fails. I'll eat as soon as it's in my han
 - 04:35 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":332}}],"say":"Tommy, I'm stepping two blocks north-west to -274,67,332, clear of the crowd. Throw the porkchop to me here. I'm watching for golem
 - 04:35 act: {"actions":[],"say":"Tommy, I'm at -274,66,332 with Trini two blocks off. Golems are 4 to 5 blocks away, so please throw the porkchop now."}
+- 04:38 act: {"actions":[{"do":"eat"}],"say":"Worf here, hunger 17. Tommy, I'm in reach: please give me the porkchop now. Wheat too, thank you all."}
+- 04:38 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wheat","count":1}],"say":"Worf: my eat failed, I have no food. I'm giving my one wheat to Trini for the bread pool. Anyone with meat, call out; I'm 
+- 04:38 say: {"text":"Worf: my wheat went to Billy by mistake, Billy please pass it to Trini for bread. I have no food; any meat or wheat to me or Trini."}
+- 04:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"intent":{"goal":"sleep_at_white_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["direc
+- 04:46 act: {"actions":[{"do":"sleep"}]}
+- 04:46 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}},{"do":"sleep"}],"say":"Worf walking back to the white beds near -270,67,320 to sleep with the group."}
+- 04:51 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":320}}],"say":"Worf at dawn day 262, hunger 16, no food. Clark, I'm walking to the beds at -274,67,320; give me the rotten flesh when you're in re
