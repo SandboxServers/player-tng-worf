@@ -190,3 +190,15 @@
 - 00:57 act: {"say":"Worf: no food on me. I'm heading back to the white beds to stay with the group.","intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wa
 - 01:02 act: {"actions":[{"do":"sleep"}],"say":"Worf: night, no food on me. Trying the white bed by the group."}
 - 01:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf: no food on me. Trying a free white bed for the night."}
+- 01:09 say: {"text":"Geldar here, day 251. No food on me, hunger 6. I'll follow Jason and search the grass for animals in sight of the group."}
+- 01:09 act: {"intent":{"goal":"follow_jason_search","program":"follow","arguments":{"target":"ag_jason_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"m
+- 01:09 say: {"text":"Worf: Jason is out of sight, so the follow ended. I'm staying at the beds with Laforge, Riker and Zack. No food, hunger 6. Trini first for any animal."}
+- 01:16 say: {"text":"Troi, Worf at -271,67,327 with Riker and Zack, hunger 6, health 4.8. If Trini is not here, I am the weakest here. Please give me the porkchop, or give it to Trini when she comes."}
+- 01:18 say: {"text":"Wesley, Troi: I'm Worf, at -271,67,327 by Riker and Laforge, hunger 6. Please hand the porkchop to me now, then Data and Trini. Thank you all."}
+- 01:20 say: {"text":"Worf: I have not received any porkchop yet. Riker, did Troi's porkchop come to you? Wesley, did your porkchops reach me? If so please give them to me directly, I'm at -271,67,327."}
+- 01:21 say: {"text":"Riker, you are right beside me. Please give me the porkchop now, I'm at hunger 6. Trini gets the next one. Then I'll go to the bed at -270,67,318 for the night."}
+- 01:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 01:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}},{"do":"eat"}]}
+- 01:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf at the beds, night of day 251. Riker, the porkchops have not reached me yet; hunger 6. Trini first, then Data, 
+- 01:23 say: {"text":"Riker, Worf is at -272,67,336 by Zack, hunger 6. Please come within arm's reach and hand me one porkchop. I'll wait here. Golems are 11 blocks south."}
+- 01:24 say: {"text":"Riker, you are in reach now. Please give me the porkchops, or Trini the first one if she is closer to hunger 6."}

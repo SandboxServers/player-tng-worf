@@ -1,5 +1,8 @@
 # Recent days
 
+- Day 251 (done): no food all day. Hunger 6, health 4.8. Riker holds 3 porkchops (2 promised to me), Trini holds a chicken for me. Slept at a white bed near -272,67,336 with the group; sleep worked at night. Golems and bows to the south.
+- Next waking: get food from Riker or Trini first, then Data. Stay near the beds. Avoid the south.
+
 - Day 244 (done): no food all day. Searched west, north and north-east grass and the north lake shore; no animals, salmon out of reach from land. Slept at the white bed -270,67,318 with the group; sleep worked at night. Health 4.8, hunger 9 at bed. Trini and Riker are weakest; Trini holds the chicken for hunger 6.
 - Next waking: find food first. Stay near the beds. Try a new direction or a way to reach the lake water. Golems and bows to the south.
 
