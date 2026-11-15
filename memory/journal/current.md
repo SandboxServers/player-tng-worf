@@ -281,3 +281,7 @@
 - Night day 258: slept at white bed -270,67,336 with Laforge and Trini; sleep worked. Still no food, hunger 13, health 4.8. Trini first for any meat.
 - 03:41 say: {"text":"No food on me, hunger 13. Going to sleep in the white bed here with the group; wheat to the north is still unripe."}
 - 03:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 03:42 say: {"text":"Ealdor here at the beds, night of day 258. No food on me; I'll go for the unripe wheat to the north at first light."}
+- 03:46 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}}],"reasoning":"Night, no food, golem 7.7 blocks east. Get into the bed beside the group to pass the night safely."}
+- 03:50 act: {"intent":{"goal":"scout_north_grass","program":"travel","arguments":{"target":{"x":-266,"y":66,"z":315}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tic
+- 03:54 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-269,"y":67,"z":337}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks"
