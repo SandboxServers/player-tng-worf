@@ -178,3 +178,15 @@
 - 00:12 act: {"intent":{"goal":"search_west_grass_for_food","program":"travel","arguments":{"target":{"x":-280,"y":67,"z":336}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_compl
 - 00:12 act: {"intent":{"goal":"return_to_group_away_from_golems","program":"travel","arguments":{"target":{"x":-270,"y":66,"z":324}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal
 - 00:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"sleep"}]}
+- 00:34 act: {"say":"Worf here, day 249, hunger 8, no food on me. Heading west-north-west toward the pig lead at -336,64,229. Any animal found goes to Trini first, then Riker.","actions":[{"do":"goto","target":{"x
+- 00:34 act: {"say":"Worf at the west lake shore, -330,63,235. No animals or fish in sight. Scouting north along the shore now; call out anything you see. Hunger 7.","actions":[{"do":"goto","target":{"x":-320,"y":
+- 00:39 act: {"say":"Worf: I'm in deep water at -320,62,205 with salmon 21 blocks west. Getting out to shore first.","actions":[{"do":"unstick"}]}
+- 00:39 act: {"say":"Worf: still in deep water, sinking. Swimming to the sign at -319,64,219 where the land is.","actions":[{"do":"goto","target":{"x":-318,"y":64,"z":218}}]}
+- 00:39 act: {"say":"Worf: out of the lake, safe on land. Salmon are too far out in deep water to reach. Going back to the white beds to sleep with the group. No food yet, hunger 7.","actions":[{"do":"goto","targe
+- 00:39 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Worf at the white bed for the night, hunger 7, no food yet. Trini and Riker first for anything found at dawn."}
+- 00:44 act: {"actions":[{"do":"sleep"}],"say":"Worf at the bed, night of 249, no food, hunger 7. Trying to sleep with the group. Trini first at light."}
+- 00:49 act: {"say":"Worf, dawn of day 250, hunger 6, no food. Scouting south-west grass past -300,66,360 for sheep or cows, a direction I haven't walked. Food goes to Trini first.","actions":[{"do":"goto","target
+- 00:53 act: {"say":"Worf: my way south-west was blocked, I'm at -296,67,356 with a golem 8 north of me. Zack, where is the sheep field? I'll head there if it's safe.","actions":[]}
+- 00:57 act: {"say":"Worf: no food on me. I'm heading back to the white beds to stay with the group.","intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wa
+- 01:02 act: {"actions":[{"do":"sleep"}],"say":"Worf: night, no food on me. Trying the white bed by the group."}
+- 01:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf: no food on me. Trying a free white bed for the night."}
