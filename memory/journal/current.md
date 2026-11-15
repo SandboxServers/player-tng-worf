@@ -542,3 +542,6 @@
 - 14:11 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":333}}],"say":"Worf, dawn 290, hunger 17, health 19.8, no food. Going to the group at the white beds. Leonardo and Trini first for any meat.","int
 - 14:11 act: {"actions":[{"do":"goto","target":{"x":-273,"y":67,"z":340}}],"say":"Worf, morning of 290, hunger 17, no food. Jason, Kimberly: any animal or food you've seen? Trini and Leonardo first. I'll look west
 - 14:13 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":337}}],"say":"Worf, no food, hunger 17. Golems are close to the south-west, so I'm moving to the north beds. I have a wooden hoe if the tilling n
+- 14:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Night, golems close, hunger 17 with no food. The white bed is two blocks away. Get in and sleep.","say":"Headi
+- 14:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Golems still close; bed is five blocks north. Retry once, then sleep."}
+- 14:22 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep is partly working with Troi and Zack near. Try once more at this bed.","say":"Worf at the yellow bed by the group. No food, hunger 17. Trying to sleep."}
