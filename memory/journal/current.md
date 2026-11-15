@@ -450,3 +450,5 @@
 - 09:52 act: {"actions":[],"say":"Worf, full at 20. Hunters going for the cow near -228,68,209: any beef goes to Trini or Troi first, then Clark. I will stay at the wheat and beds and plant any ground that opens u
 - 10:01 act: {"say":"Worf: going to sleep at the south white bed for the night. Food for Trini first when I wake.","actions":[{"do":"sleep"}]}
 - 10:09 say: {"text":"Worf, awake, full at 20. Any ripe wheat goes to Trini first, then Troi. I will stay at the wheat."}
+- 10:14 act: {"say":"Worf, at the white beds, health 20, hunger 20. I hold 6 seeds and a hoe. Data, I'll plant seeds on clear ground near the wheat when it opens, and give any food I find to the hungriest.","inten
+- 10:18 act: {"say":"Worf at the white beds, hunger 20, no spare food; I can't spare any meat. Leonardo, Clark, Chapman: I'm holding here near the beds and will call out any wheat or meat I find."}
