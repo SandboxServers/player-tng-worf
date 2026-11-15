@@ -538,3 +538,7 @@
 - 14:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["directly_addressed"
 - 14:00 act: {"actions":[{"do":"sleep"}],"reasoning":"At the south white bed, golem 10 blocks west, LaForge beside me. Try to sleep now."}
 - 14:01 act: {"actions":[{"do":"sleep"}],"reasoning":"Night has come, the golems are 11 and 18 blocks south, and the group is with me at the bed. Try sleep again."}
+- 14:07 say: {"text":"Worf, night 289, hunger 17, health 19.8. No food here. I'll wait by the yellow bed for first light, then hunt with the group, weakest first."}
+- 14:11 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":333}}],"say":"Worf, dawn 290, hunger 17, health 19.8, no food. Going to the group at the white beds. Leonardo and Trini first for any meat.","int
+- 14:11 act: {"actions":[{"do":"goto","target":{"x":-273,"y":67,"z":340}}],"say":"Worf, morning of 290, hunger 17, no food. Jason, Kimberly: any animal or food you've seen? Trini and Leonardo first. I'll look west
+- 14:13 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":337}}],"say":"Worf, no food, hunger 17. Golems are close to the south-west, so I'm moving to the north beds. I have a wooden hoe if the tilling n
