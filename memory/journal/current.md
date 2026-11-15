@@ -7,3 +7,11 @@
 - 15:29 act: {"say":"Worf survived the night at health 4. Lewis, I have 1 chicken and 2 rotten flesh; if Riker or Trini is weaker than me, they get the chicken. I will look for animals with the group in daylight."
 - 15:29 act: {"actions":[{"do":"eat"}],"say":"Thank you Lewis. Hunger is 17, just under full, so I am eating my own chicken to start healing. Give yours to Riker or Trini if they are weaker."}
 - 15:33 act: {"say":"Worf, health 4, midday. I hold one raw chicken and 2 rotten flesh. Riker, Bcrusher or Wcrusher, whoever is in sight and weakest, step within reach and I will hand it over."}
+- 15:34 act: {"say":"Worf here, health 4, alone at -226,346. Anyone near with food, please call out. I'm staying put in daylight.","intent":{"goal":"rest_near_group","program":"rest","arguments":{},"wake_on":["dir
+- 15:39 act: {"say":"Clark, thank you. I'll keep the chicken for when my hunger drops to 6 or below. Keep yours for whoever is weakest."}
+- 15:46 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom on me, health 2. Fighting it with my hoe."}
+- 15:46 act: {"actions":[{"do":"eat"}]}
+- 15:46 act: {"intent":{"goal":"wall_for_night","program":"build","arguments":{"blueprint":"wall","block":"leaf_litter"},"wake_on":["unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_block
+- 15:46 act: {"intent":{"goal":"wall_for_night_dirt","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_block_o
+- 15:47 act: {"say":"Clark, I'm at -226,67,346, health 0.2. Phantoms are around. Come if it's safe, and bring the sword. Walk the grass, not the pit."}
+- 15:48 act: {"say":"Worf, back at the beds with nothing. Jason, Clark, anyone with a spare sword or food: I'm hungry and empty-handed. Stay near the beds till morning."}
