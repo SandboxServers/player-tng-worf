@@ -285,3 +285,8 @@
 - 03:46 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}}],"reasoning":"Night, no food, golem 7.7 blocks east. Get into the bed beside the group to pass the night safely."}
 - 03:50 act: {"intent":{"goal":"scout_north_grass","program":"travel","arguments":{"target":{"x":-266,"y":66,"z":315}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tic
 - 03:54 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-269,"y":67,"z":337}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks"
+- 04:09 act: {"intent":{"goal":"scout_far_north_for_animals","program":"travel","arguments":{"target":{"x":-270,"y":66,"z":295}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max
+- 04:09 say: {"text":"Geldar, day 260: reached grass far north at -271,67,296. No animals here, only oak trees. Nothing new to eat yet. Trini first for any meat."}
+- 04:09 act: {"intent":{"goal":"scout_north_west_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":290}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"ma
+- 04:10 say: {"text":"Worf: no food found among these trees. Oak leaves gave me only sticks before, no apples. Going back toward the beds to stay with the group."}
+- 04:10 act: {"intent":{"goal":"return_to_north_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":335}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_
