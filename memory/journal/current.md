@@ -109,3 +109,16 @@
 - 18:47 act: {"intent":{"goal":"reach_north_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"lim
 - 18:47 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"reasoning":"Walk to the bed tile, then sleep on the next cycle once I arrive."}
 - 18:48 act: {"actions":[{"do":"sleep"}],"reasoning":"I am on the bed tile at night with no golem in view. Try sleep once."}
+- 18:48 act: {"say":"Worf at the north white bed, dawn of day 303. I hold no food, hunger 19, health 20. Clark and Wesley, you are the lowest in health; I will go to you for food if you call.","actions":[]}
+- 18:51 act: {"say":"Clark, you are in my reach at health 4. Hand me your chicken if you can spare it, or give it to Chapman or LaForge, whoever is lowest. I'll go with LaForge and Riker for meat now and bring any
+- 18:53 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"rotten_flesh","count":1}],"say":"Clark, Billy's rotten flesh is yours, you are the lowest in reach. I'm heading east with LaForge, Riker and the oth
+- 18:53 act: {"intent":{"goal":"follow_laforge_east_for_meat","program":"follow","arguments":{"target":"ag_laforge_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ti
+- 19:01 act: {"intent":{"goal":"rest_at_north_bed_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"limits":{"max_world_ticks":
+- 19:09 act: {"say":"Worf, dawn 305, health 20, hunger 19, no food. I'm going on the meat hunt east again; I'll walk with Zack, Trini or whoever calls first. Meat goes to Clark and Chapman.","actions":[]}
+- 19:11 act: {"say":"Troi, I'm at the north beds, no food, health 20. I'll walk east with you for the meat; call your position and I'll come into your sight.","actions":[]}
+- 19:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf at the north bed for the night. No food, health 20, hunger 19.","reasoning":"Night has come and the group is he
+- 19:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Sleep blocked at the south bed with golems 5 blocks south. Moving north to the other bed, away from them."}
+- 19:30 act: {"actions":[],"say":"Worf, morning 306, health 20, hunger 19, no food. Chapman and Kimberly first for any meat. I will scout east with whoever goes, staying in sight.","reasoning":"Morning. Food goes 
+- 19:34 act: {"actions":[{"do":"goto","target":{"x":-254,"y":67,"z":330}}],"say":"Worf going east to -254,67,330 with Data, Kimberly, Leonardo. Meat to Chapman first.","reasoning":"The scouting group is gathering 
+- 19:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf going to the north bed for the night with the group. No food, health 20, hunger 20.","reasoning":"Dusk on 306. 
+- 19:41 act: {"actions":[{"do":"sleep"}],"reasoning":"Partial sleep counted. Trying again at the same bed with Zack nearby."}
