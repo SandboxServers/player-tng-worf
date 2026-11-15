@@ -508,3 +508,13 @@
 - 13:05 act: {"actions":[{"do":"sleep"}]}
 - 13:06 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"reasoning":"Sleep was blocked again at the yellow bed; I'm now 1 block east of it. Try the nearby yellow bed once more, th
 - 13:08 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":330}}],"say":"Worf here at dawn. I'm full at 20 but have no food. Trini, Troi and Clark first for any meat or bread. I'll scout the grass with an
+- 13:12 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":322}}],"say":"Worf, day 287. I have no food, full at 20. Golems are 6 blocks south-west, so I'm moving north-east, away from them. Troi, Trini an
+- 13:16 act: {"actions":[],"say":"Worf, midday day 287, full and with no food. LaForge and Lewis first for any meat or apple. I'll break leaves north of here for apples if no one else is."}
+- 13:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf going to the white bed at -270,67,318 for the night. No food, but I'm full. LaForge and Lewis first for any mea
+- 13:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Going to the white bed at -270,67,318 for the night. No food, but I'm full.","reasoning":"Creeper is gone from the s
+- 13:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep at the bed I stood beside was blocked. Try the other white bed at -270,67,336, a different try. I have n
+- 13:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"No monsters in view now. The phantom that blocked sleep is gone. Walk to the white bed at -270,67,336 and slee
+- 13:26 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"reasoning":"I am perched at a lower spot and stuck. Get free first, then walk back toward the white bed at -270,67,336."
+- 13:26 act: {"actions":[{"do":"sleep"}],"reasoning":"I am at the white bed at -270,67,336. Something exploded next to me, so check the sleep result before anything else."}
+- 13:29 act: {"actions":[],"say":"Worf, dawn 288. No food, hunger 17, health 17.8. Will search for animals in sight of the group.","intent":{"goal":"hold_with_group_dawn","program":"rest","arguments":{},"wake_on":
+- 13:30 act: {"actions":[],"say":"Worf, day 288, no food. Going west with Wcrusher toward the pig sighting. Meat goes to Lewis and LaForge first.","intent":{"goal":"follow_wcrusher_west","program":"follow","argume
