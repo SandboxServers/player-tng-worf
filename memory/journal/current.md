@@ -518,3 +518,7 @@
 - 13:26 act: {"actions":[{"do":"sleep"}],"reasoning":"I am at the white bed at -270,67,336. Something exploded next to me, so check the sleep result before anything else."}
 - 13:29 act: {"actions":[],"say":"Worf, dawn 288. No food, hunger 17, health 17.8. Will search for animals in sight of the group.","intent":{"goal":"hold_with_group_dawn","program":"rest","arguments":{},"wake_on":
 - 13:30 act: {"actions":[],"say":"Worf, day 288, no food. Going west with Wcrusher toward the pig sighting. Meat goes to Lewis and LaForge first.","intent":{"goal":"follow_wcrusher_west","program":"follow","argume
+- 13:32 say: {"text":"Worf here, day 288. No food on me either. I'll scout west for animals and report back."}
+- 13:32 act: {"intent":{"goal":"scout_west_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":320}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed
+- 13:36 act: {"intent":{"goal":"return_to_beds_with_group","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":333}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comple
+- 13:40 act: {"intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":335}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comple
