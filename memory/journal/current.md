@@ -354,3 +354,37 @@
 - 06:24 act: {"actions":[{"do":"sleep"}],"say":"Worf at the white bed for the night. No food, hunger 14. Riker and Trini first at dawn."}
 - 06:25 act: {"actions":[{"do":"sleep"}]}
 - 06:30 act: {"actions":[{"do":"goto","target":{"x":-250,"y":67,"z":340}}],"intent":{"goal":"scout_south_east_for_animals","program":"travel","arguments":{"target":{"x":-250,"y":67,"z":340}},"wake_on":["goal_compl
+- 06:33 act: {"intent":{"goal":"scout_east_for_animals","program":"travel","arguments":{"target":{"x":-215,"y":67,"z":340}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
+- 06:33 act: {"intent":{"goal":"scout_far_east_for_animals","program":"travel","arguments":{"target":{"x":-180,"y":67,"z":330}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_
+- 06:35 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":-268,"y":67,"z":320}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
+- 06:37 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"return_west_toward_beds","program":"travel","arguments":{"target":{"x":-230,"y":67,"z":330}},"wake_on":["directly_addressed","unexpected_damage","goal_c
+- 06:39 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"return_west_toward_beds","program":"travel","arguments":{"target":{"x":-230,"y":67,"z":330}},"wake_on":["directly_addressed","unexpected_damage","goal_c
+- 06:39 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":-268,"y":67,"z":320}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
+- 06:39 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf back at the white beds at dusk, hunger 12, no food found today. Sleeping in the bed here with the group.","reas
+- 06:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf at the white bed at night, no food, hunger 12. Trying to sleep with the group.","reasoning":"It is night now. S
+- 06:48 act: {"say":"Worf here, dawn day 268. No food, hunger 12. I'm going west with the group to look for animals. Any meat goes to Trini or Kimberly first, then me.","intent":{"goal":"search_west_for_animals","
+- 06:48 act: {"intent":{"goal":"search_west_for_animals","program":"travel","arguments":{"target":{"x":-310,"y":66,"z":310}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 06:49 act: {"intent":{"goal":"search_north_for_animals","program":"travel","arguments":{"target":{"x":-305,"y":67,"z":292}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
+- 06:49 act: {"actions":[{"do":"goto","target":{"x":-305,"y":68,"z":292}}],"say":"Worf at -305,68,292. Phantom overhead. Is there an item on the ground here? I see one at my feet."}
+- 06:49 act: {"intent":{"goal":"search_northwest_for_animals","program":"travel","arguments":{"target":{"x":-318,"y":66,"z":272}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"ma
+- 06:49 act: {"say":"Worf at the north-west lake shore, -318,67,272. Salmon and squid out in the deep water near -315,60,253 and -330,57,261. No rod, so no way to reach them yet. No land animals here. Hunger 11.",
+- 06:53 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":322}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_
+- 06:53 act: {"actions":[{"do":"note","text":"Day 268 dusk-ish: back at the north white beds, -272,67,322, with Jason nearby. No food found all day. Hunger 11, health 9.8. Next: sleep at a white bed at night if th
+- 07:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf going to the white bed at -271,67,318 for the night. No food, hunge
+- 07:03 act: {"actions":[{"do":"sleep"}]}
+- 07:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"sleep"}]}
+- 07:04 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":333}}]}
+- 07:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"At the group, night, away from water. Try the south white bed once more; no golem listed near.","say":"Going t
+- 07:05 act: {"actions":[{"do":"sleep"}],"reasoning":"Already at a north bed with the group. Retry sleep once here."}
+- 07:10 act: {"intent":{"goal":"join_food_search_west","program":"travel","arguments":{"target":{"x":-290,"y":67,"z":330}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
+- 07:10 act: {"intent":{"goal":"search_grass_northwest_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":316}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits
+- 07:10 act: {"intent":{"goal":"search_west_for_animals","program":"travel","arguments":{"target":{"x":-312,"y":67,"z":306}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 07:10 act: {"intent":{"goal":"search_north_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":290}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
+- 07:10 act: {"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-268,"y":67,"z":333}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 07:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf going to the north white bed for the night. No food, hunger 10. Chapman and Trini first at dawn.","intent":{"go
+- 07:26 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}}],"say":"Worf trying the bed right beside me at -270,67,336. Golems are 7 blocks away."}
+- 07:26 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":322}}],"say":"Worf moving north away from the closing golems, to the group near -268,67,322. Holding there until dawn.","intent":{"goal":"move_aw
+- 07:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"sleep"}],"say":"Worf: no golem in view now. Trying the south white bed once more."}
+- 07:31 act: {"actions":[{"do":"goto","target":{"x":-290,"y":66,"z":328}}],"say":"Worf joining the west search for cows or pigs at dawn. Hunger 10, no food. Any meat goes to Chapman and Trini first.","intent":{"go
+- 07:35 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}}],"say":"Worf: golem 8 blocks south-east. Moving north-west to -282,67,320, away from it, to hold with the group.","intent":{"goal":"hold_aw
+- 07:39 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":322}}],"say":"Worf moving to the group at -270,67,322. No food yet; any meat to Chapman and Trini first.","intent":{"goal":"join_group_north","pr
