@@ -309,3 +309,13 @@
 - 04:46 act: {"actions":[{"do":"sleep"}]}
 - 04:46 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}},{"do":"sleep"}],"say":"Worf walking back to the white beds near -270,67,320 to sleep with the group."}
 - 04:51 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":320}}],"say":"Worf at dawn day 262, hunger 16, no food. Clark, I'm walking to the beds at -274,67,320; give me the rotten flesh when you're in re
+- 04:54 act: {"actions":[{"do":"eat"}],"say":"Clark, thank you for the flesh. I'm eating it now at the beds. Trini is next for any meat.","reasoning":"Holding 3 rotten flesh at hunger 16; eat to restore hunger and
+- 05:03 act: {"intent":{"goal":"reach_north_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"lim
+- 05:05 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep was blocked at the north bed. I am beside the south bed at -271,67,336; try it once more.","say":"Worf trying
+- 05:12 act: {"say":"Worf here at the south white bed, -272,67,336, day 263. Chapman, please give me one pork chop, Trini the other. I'm at hunger 16 and hold 3 rotten flesh.","reasoning":"Chapman has two pork cho
+- 05:18 act: {"intent":{"goal":"hold_at_beds","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block
+- 05:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 05:20 act: {"intent":{"goal":"hold_at_beds_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":3000
+- 05:20 act: {"say":"Trini, Worf here at the south bed, -270,67,336. Please share the porkchop: I am at hunger 16 and have no meat. I can see you if you come close."}
+- 05:24 act: {"actions":[{"do":"eat"}],"say":"Thank you Chapman. Worf eating now; Trini gets the next one at dawn."}
+- 05:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}},{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"eat"}],"say":"Chapman, I don't see the porkchop in my pack. Where did it land, exac
