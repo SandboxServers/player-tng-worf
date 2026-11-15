@@ -449,3 +449,4 @@
 - 09:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Two sleep tries were blocked. Try the bed at -271,67,318 next to this one."}
 - 09:52 act: {"actions":[],"say":"Worf, full at 20. Hunters going for the cow near -228,68,209: any beef goes to Trini or Troi first, then Clark. I will stay at the wheat and beds and plant any ground that opens u
 - 10:01 act: {"say":"Worf: going to sleep at the south white bed for the night. Food for Trini first when I wake.","actions":[{"do":"sleep"}]}
+- 10:09 say: {"text":"Worf, awake, full at 20. Any ripe wheat goes to Trini first, then Troi. I will stay at the wheat."}
