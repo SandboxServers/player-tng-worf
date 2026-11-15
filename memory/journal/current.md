@@ -403,3 +403,15 @@
 - 08:04 act: {"intent":{"goal":"sleep_at_north_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":319}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ti
 - 08:14 act: {"say":"Lewis, I'm awake at hunger 10, no food. Any meat or ripe wheat goes to Trini first, then Troi, then me.","intent":{"goal":"wait_for_food_near_beds","program":"rest","arguments":{"near":{"x":-2
 - 08:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Worf: dusk, no food yet. Going to the north white bed at -270,67,318 for the night. Any wheat or meat, call me."}
+- 08:21 act: {"reasoning":"Sleep failed due to creeper nearby. Move to bed at -270,67,318 and retry sleep.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"use","at":{"x":-270,"y":67,"z":318}}],
+- 08:21 act: {"reasoning":"Use on bed failed; sleep verb is the right way. Retry sleep beside bed.","actions":[{"do":"sleep"}]}
+- 08:23 act: {"reasoning":"Creeper gone. Go to bed and sleep.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}]}
+- 08:24 act: {"reasoning":"Sleep blocked at this bed. Try the neighbouring bed from its side.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"sleep"}]}
+- 08:28 act: {"reasoning":"Dawn, no food. Salmon seen at north lake shore before. Travel there and look for fish.","intent":{"goal":"reach_north_lake_for_salmon","program":"travel","arguments":{"target":{"x":-317,
+- 08:29 act: {"reasoning":"Salmon in reach-ish. Approach and attack nearest salmon.","actions":[{"do":"goto","target":{"x":-321,"y":60,"z":261}},{"do":"attack","target":"salmon"}],"say":"Worf at the north lake, go
+- 08:30 act: {"reasoning":"In water, drowned hitting me. Get to land near the signs at -311,64,256.","actions":[{"do":"goto","target":{"x":-311,"y":64,"z":257}}]}
+- 08:30 act: {"reasoning":"Health 3.8. Drowned stays near water. Move away south-east from the lake.","actions":[{"do":"goto","target":{"x":-306,"y":65,"z":274}}],"say":"Worf hurt by a drowned at the lake, health 
+- 08:31 act: {"reasoning":"Safe on grass, health steady 3.8. Move to the nearby white bed at -298,68,294 to be with the group.","intent":{"goal":"reach_bed_near_group","program":"travel","arguments":{"target":{"x"
+- 08:31 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":292}}],"say":"Morning. Heading back to the group at the white bed. Any food, I need it.","reasoning":"Travel to the group failed as blocked. Retr
+- 08:39 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":293}},{"do":"sleep"}],"intent":{"goal":"rest_at_bed_near_group","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damag
+- 08:43 act: {"actions":[{"do":"sleep"}],"reasoning":"It is dusk now; the sleep was refused only because it was not yet night. Try again at the bed."}
