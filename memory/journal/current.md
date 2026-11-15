@@ -561,3 +561,21 @@
 - 14:50 act: {"actions":[{"do":"unstick"}],"say":"I'm in a pit at -215,67,390. Climbing out. Still no animals here."}
 - 14:53 act: {"intent":{"goal":"rejoin_group_north_west","program":"travel","arguments":{"target":{"x":-228,"y":68,"z":355}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
 - 14:53 say: {"text":"Worf at -228,68,356. No animals in the south grass. A phantom is hovering to the east. Any pig or cow sighting, call it out."}
+- 14:55 act: {"say":"Worf here, hunger 16, no food. I'll scout north-east grass for pigs or cows and call out any I see.","intent":{"goal":"scout_north_east_for_animals","program":"travel","arguments":{"target":{"
+- 14:55 act: {"intent":{"goal":"scout_east_for_animals","program":"travel","arguments":{"target":{"x":-212,"y":67,"z":360}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed
+- 14:55 act: {"actions":[{"do":"unstick"}],"say":"Worf: I'm in a pit near -212,68,360, getting out. Riker, I'll follow you toward the cow near -152,327 if you're still heading there.","intent":{"goal":"reach_cow_e
+- 14:56 act: {"actions":[{"do":"goto","target":{"x":-149,"y":99,"z":332}},{"do":"attack","target":"chicken"}],"say":"Worf: a chicken 7 blocks south-east at -149,99,333. Going for it now."}
+- 14:56 act: {"actions":[{"do":"goto","target":{"x":-158,"y":100,"z":325}},{"do":"attack","target":"cow"}],"say":"Worf: got a chicken. Now a cow at -158,100,323. Riker, Riker's group, come toward -152,99,327 for m
+- 14:56 act: {"actions":[{"do":"attack","target":"zombie_villager"}],"say":"Worf: a zombie villager is hitting me at -162,96,320. Fighting it."}
+- 14:56 act: {"actions":[{"do":"eat"},{"do":"attack","target":"zombie_villager"}],"say":"Worf: eating my chicken, then fighting the zombie villager. Health 11."}
+- 14:56 act: {"actions":[{"do":"goto","target":{"x":-168,"y":91,"z":321}},{"do":"attack","target":"cow"}],"say":"Worf: the cow is at -168,91,319. Going for it; the chicken I keep for hunger 6 or below, so the cow 
+- 14:57 act: {"say":"Worf: I have 3 beef and a chicken. Riker, I'm sending you 2 beef now, hold on for me. Trini, Zack, say if you're hungrier.","actions":[{"do":"give","to":"Riker","item":"beef","count":2}]}
+- 14:58 act: {"actions":[{"do":"goto","target":{"x":-166,"y":93,"z":318}}],"say":"Worf: a skeleton horse is 5 blocks south of me and bows are drawn nearby. Moving north-west away from it. Riker, I have 3 beef for 
+- 15:01 act: {"actions":[{"do":"goto","target":{"x":-145,"y":99,"z":334}}],"say":"Worf: health 6, hit by something. Going to Riker at -145,334 to hand over the beef and stay with the group for the night.","intent"
+- 15:01 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"beef","count":2}],"say":"Riker, here is the beef, two pieces. I have one left and a chicken for when I am hungrier."}
+- 15:02 act: {"actions":[],"intent":{"goal":"wait_out_night_by_riker","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":3000,"ma
+- 15:03 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"A zombie is on me. I am fighting it."}
+- 15:03 act: {"actions":[],"intent":{"goal":"hold_still_until_daylight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operations":
+- 15:12 act: {"actions":[{"do":"goto","target":{"x":-166,"y":91,"z":320}}],"intent":{"goal":"reach_cow_near_riker","program":"travel","arguments":{"target":{"x":-166,"y":91,"z":320}},"wake_on":["directly_addressed
+- 15:12 act: {"actions":[{"do":"goto","target":{"x":-156,"y":100,"z":324}}],"intent":{"goal":"find_cow_east","program":"travel","arguments":{"target":{"x":-156,"y":100,"z":324}},"wake_on":["directly_addressed","go
+- 15:14 act: {"actions":[{"do":"goto","target":{"x":-167,"y":91,"z":319}}],"intent":{"goal":"reach_cow_west_away_from_horse","program":"travel","arguments":{"target":{"x":-167,"y":91,"z":319}},"wake_on":["directly
