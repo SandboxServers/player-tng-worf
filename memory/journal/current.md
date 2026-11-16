@@ -154,3 +154,4 @@
 - 23:21 say: {"text":"Worf still in the pit, health 20. Trini, Beverly: could one of you walk to the north edge at 394,107,-1025 and look straight down at the stone? I am waiting for that."}
 - 23:39 say: {"text":"Worf, still in the pit at 394,107,-1022, health 20. Hold still. Whoever reaches the edge: confirm stone at 394,107,-1025 and I dig only that cell."}
 - 23:43 act: {"actions":[{"do":"wait","seconds":240}],"say":"Worf still in the pit at 394,107,-1022, health 20. Night. Dig nothing until someone at the edge confirms 394,107,-1025."}
+- 23:47 act: {"actions":[{"do":"wait","seconds":240}],"say":"Morning. Worf still in the pit at 394,107,-1022, health 20. Beverly, Riker, Billy: when the walk is called, one of you to the north edge, please confirm
