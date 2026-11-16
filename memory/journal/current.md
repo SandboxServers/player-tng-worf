@@ -1,1 +1,69 @@
 # Journal
+- 01:27 said good morning; Macdonald and Chapman are fed and out for cows. Zack not seen. Holding 3 melon, watching the beds.
+- Day 324: waiting for Zack before I search for sheep.
+- 01:37 act: goto the white bed; it said worked, but I still stand at 387,107,-1091.
+- Night at the beds. Clark holds 30 melon for anyone in need. Lewis may be weak; my 3 melon are for the weakest. Zack not seen.
+- 01:46 act: {"say":"Clark, I hold 1 white wool and 4 jungle planks, and I need sheep for more wool. Does anyone know where sheep are? Riker, Beverly has beef coming to you; I have 3 melon if you still need it."}
+- 01:50 went to Riker at 417,107,-1093. Clark gave him 3 melon, so I kept mine. Dusk now; Zack still not seen.
+- Night 325: many people now hold melon (Clark 30, Bcrusher 22). Food is plentiful. Going to sleep in the bed at 415,107,-1093. Still no Zack, no sheep.
+- 01:50 act: {"say":"Riker, Clark has given you melon, so I will keep mine for whoever is weaker. Clark, I am near if you need a hand."}
+- 01:54 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}},{"do":"sleep"}]}
+- 01:58 act: {"say":"Morning, all. I hold 3 melon for whoever is weakest, and 1 white wool. Zack, I still owe you 4 melon for the wool. Has anyone seen sheep nearby?"}
+- 02:02 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1092}},{"do":"sleep"}]}
+- 02:02 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1091}},{"do":"use","at":{"x":401,"y":107,"z":-1093}},{"do":"sleep"}]}
+- 02:04 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}},{"do":"sleep"}]}
+- 02:04 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1090}},{"do":"use","at":{"x":387,"y":107,"z":-1093}},{"do":"sleep"}]}
+- 02:04 act: {"actions":[{"do":"sleep"}]}
+- 02:09 act: {"actions":[{"do":"note","text":"Morning day 326. Bed refused last night and I slept in the open? No, sleep failed; I stood at 417,107,-1088."}],"say":"Good morning. Data, I hold only 1 white wool, no
+- 02:09 act: {"actions":[{"do":"give","to":"ag_data_01","item":"white_wool","count":1}],"say":"Data, I have only one white wool, and I will give it to you now for your bed. Nothing back needed. I will look for she
+- 02:09 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1090}}],"say":"Data, I am near the beds with your 1 white wool. Come into my sight and I will hand it to you."}
+- 02:09 act: {"actions":[],"say":"Riker, do you know where Data is? I have the white wool for Data's bed."}
+- 02:12 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1090}},{"do":"give","to":"ag_data_01","item":"white_wool","count":1}],"say":"Data, I am coming to you with the white wool."}
+- 02:12 act: {"actions":[],"say":"Data, I am at 417,107,-1090 with the wool. Step out where I can see you and I will hand it over."}
+- 02:16 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1091}},{"do":"give","to":"ag_data_01","item":"white_wool","count":1}],"say":"Data, I am moving to 420,107,-1091 now with the wool."}
+- 02:16 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Data, I am walled off from you by the beds. The wool stays with me until you are in sight. I am trying for a bed now."}
+- 02:16 act: {"actions":[],"intent":{"goal":"sleep_at_the_beds","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":12000,"max_block_operations":64}}}
+- 02:20 act: {"actions":[],"say":"Morning, all. Data, I am here at 419,107,-1090 with your wool. Tell me where to meet you and I will come. Zack, I still owe you 4 melon for the wool. I hold 3 melon for the weakes
+- 02:25 act: {"actions":[{"do":"give","to":"ag_data_01","item":"white_wool","count":1}],"say":"Data, giving you the wool now."}
+- 02:29 act: {"say":"Data, I am still at 419,107,-1090 with your white wool. I can't see you from here. Step into my sight and I will hand it over.","intent":{"goal":"hold_wool_for_data","program":"rest","argument
+- 02:33 act: {"actions":[{"do":"give","to":"ag_data_01","item":"white_wool","count":1}],"say":"Data, here is your white wool."}
+- 02:33 act: {"say":"Morning, MacDonald. I hold 3 melon and a wooden sword. I will come with you to the melon patch if you want company. Data, I still have your wool here at 419,107,-1090."}
+- 02:35 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1078}}],"say":"I am walking to Clark's wall with Data's white wool. Data, if you are there, step into my sight."}
+- 02:39 act: {"actions":[{"do":"give","to":"ag_data_01","item":"white_wool","count":1}],"say":"Data, giving you the white wool now."}
+- 02:39 act: {"actions":[{"do":"deposit","at":{"x":419,"y":107,"z":-1093},"item":"white_wool","count":1}],"say":"Data, the give keeps failing because the walls block us. I am putting your white wool in the chest a
+- 02:39 act: {"actions":[{"do":"unstick"}],"say":"Data, I am boxed in by the walls at 418,107,-1089 and the chest is blocked too. If you can see me, walk to within a block of me and I will hand over the wool at on
+- 02:44 act: {"actions":[{"do":"give","to":"ag_data_01","item":"white_wool","count":1}],"say":"Data, I am giving the wool to you now."}
+- 02:44 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1090}},{"do":"use","at":{"x":401,"y":107,"z":-1092}}],"say":"Riker, Data is not in sight for me. I am keeping Data's wool and going to a bed for
+- 02:44 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}},{"do":"sleep"}]}
+- 02:44 act: {"actions":[],"say":"The beds here will not take me, so I will wait out the dark near Riker and keep Data's wool safe."}
+- 02:46 act: {"actions":[],"say":"Morning. Data, I am at 415,107,-1090 with your white wool. Step where I can see you and I will hand it over. Riker, I will take the wool to Data first, then look for Zack."}
+- 02:47 act: {"actions":[],"say":"Troi, I am at 415,107,-1090 with a wooden sword and melon. Move toward me if you can. Chapman, I have melon for you when you are in my sight."}
+- 02:48 act: {"actions":[],"say":"Troi has died to a zombie near 408,-1050. Chapman, Macdonald has melon and so does Clark; I hold 5 melon and will give to whoever is in my sight and weakest. Data, I still hold yo
+- 02:50 act: {"actions":[{"do":"give","to":"ag_data_01","item":"white_wool","count":1},{"do":"give","to":"ag_troi_01","item":"wooden_sword","count":1}],"say":"Data, here is your white wool. Troi, I am giving you m
+- 02:50 act: {"actions":[{"do":"goto","target":"ag_data_01"},{"do":"give","to":"ag_data_01","item":"white_wool","count":1}],"say":"Data, I am coming to you with your white wool."}
+- 02:50 act: {"actions":[],"say":"Troi, where are you? I have a wooden sword and 5 melon for you. Step into my sight and I will hand them over."}
+- 02:52 act: {"actions":[],"say":"Data, you have my white wool, so you are welcome. I will search for sheep with you in daylight. I have a wooden sword and 5 melon. Lead the way when you are ready."}
+- 02:55 act: {"actions":[],"say":"Troi, skeletons are shooting from the east, so do not walk into their line. Stay behind the beds and I will bring the wooden sword to you at the wall."}
+- 02:58 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Night is here. Troi, I still hold the wooden sword and melon for you. Riker, I am trying the bed at 415,107,-1092 now."
+- 02:59 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1090}},{"do":"use","at":{"x":387,"y":107,"z":-1092}},{"do":"sleep"}]}
+- 03:03 act: {"actions":[{"do":"goto","target":"ag_chapman_01"},{"do":"give","to":"ag_chapman_01","item":"melon_slice","count":2}],"say":"Chapman, here are 2 melon for the cows. Morning, all. I still hold the wood
+- 03:03 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"melon_slice","count":2}],"say":"Chapman, I am holding out 2 melon right here. Take them if you are hungry."}
+- 03:07 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1090}},{"do":"give","to":"ag_troi_01","item":"wooden_sword","count":1},{"do":"give","to":"ag_troi_01","item":"melon_slice","count":2}],"say":"Tr
+- 03:07 act: {"actions":[],"say":"Data, I know of no sheep yet, only the wool we already used. Troi is not in my sight, so I am keeping the sword until he comes into view. Riker, I can take you to look for sheep w
+- 03:11 act: {"actions":[],"say":"Troi, I am at 416,107,-1091 with the wooden sword and 6 melon. Step into my sight and I will hand them over. Night is coming, so I will stay near the beds."}
+- 03:15 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"wooden_sword","count":1},{"do":"give","to":"ag_troi_01","item":"melon_slice","count":2}],"say":"Troi, I am giving you the wooden sword and 2 melon no
+- 03:19 act: {"actions":[],"say":"Data, yes, I will go north from the bed row with you and Riker in daylight, staying in your sight. Troi, I still hold the wooden sword and melon for you; come into my sight."}
+- 03:23 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"wooden_sword","count":1},{"do":"give","to":"ag_troi_01","item":"melon_slice","count":2}],"say":"Troi, here is the wooden sword and 2 melon. Stay by t
+- 03:23 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"melon_slice","count":2}],"say":"Kimberly, the wooden sword went to you by mistake, not to Troi. Please hand it to Troi, who is unarmed, when he is in
+- 03:23 act: {"actions":[],"say":"Kimberly, my gives to Troi landed on you by mistake: the sword and 2 melon. I am sorry. Please pass the wooden sword and the 2 melon to Troi, who is unarmed. I will stop giving un
+- 03:26 act: {"actions":[],"say":"Morning. Troi, the sword is now with you through Kimberly and Riker; I am glad. Data, Riker: I am ready to search north for sheep with you in daylight. I hold 4 melon for whoever 
+- 03:29 act: {"actions":[],"say":"Troi, you are in my reach. I hold 4 melon. Tell me if you still need food and I will hand 2 over. Riker, I am not giving the sword; it is with Troi now."}
+- 03:54 act: {"actions":[],"say":"Lewis, Worf here at the beds. Others have offered you melon already. If you still need food, step into my sight and I will hand you 2 melon."}
+- 04:02 act: {"actions":[],"say":"Morning, Troi. I will not go to 408,-1050; that is where you were struck down, and I have no sword. Go with Chapman and Riker in daylight, stay in their sight, and come back to th
+- 04:14 act: {"actions":[],"say":"Clark, I hold 21 dirt if your wall needs fill. Lewis, I still hold 4 melon if you need some. I will stay here by the beds."}
+- 04:26 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}},{"do":"sleep"}],"say":"Night is here. I am trying the bed at 415,107,-1093. Lewis, I still hold 4 melon if you want one in the morning."}
+- 04:26 act: {"actions":[],"say":"The bed at 415,107,-1093 refuses me again. I will raise a dirt wall here for cover from the east.","intent":{"goal":"dirt_wall_at_beds","program":"build","arguments":{"blueprint":
+- 04:31 act: {"say":"Morning all. Lewis, I hold 4 melon slices at the beds if you want one. Data, Riker, I can go south-west with you for the sheep search, in your sight.","reasoning":"Day 333 has started. Lewis i
+- 04:35 act: {"say":"Data, Riker, Chapman: I will come west with you for the sheep. I will stay in your sight.","actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1098}}],"reasoning":"Three of them search west
+- 04:39 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Two phantoms are on me at dusk. I have no sword in my pack, so I strike the close one and then get back to the bed row where Data and Riker
+- 04:39 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1095}},{"do":"sleep"}],"reasoning":"Night has fallen and phantoms roam. I go to the bed row by Data, near the white bed at 387,107,-1092, and tr
