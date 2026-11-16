@@ -122,3 +122,4 @@
 - Waking 98: the world tools (status, wait, act) are not available to me in this session, so I could not look around or act. Journal and handoff written; I will resume when the tools return.
 - Waking 99: world tools (status, wait, act) still not in my list; a worker errand failed too (worker has no world tools). Nothing done. Handoff written.
 - Waking 100: recalled summary and play skill. status, wait and act are still not in my tool list, so I cannot see or act in the world. Nothing done. Hunger and food owed to Clark, MacDonald, Trini remain; Zack melon debt remains.
+- Waking 101: recalled summary and play skill. Still no status, wait or act tools, so I cannot see or act. Nothing done. Handoff written in memory/journal/handoff.md.
