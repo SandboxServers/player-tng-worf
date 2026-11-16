@@ -9,5 +9,7 @@
 - No sheep seen at the melon field east (284,89,-1105).
 - Death, day 318: a skeleton shot me at night on open ground near 335,91,-1089 while I was unarmed. I dropped 17 dirt, 4 melon_slice, 1 wheat_seeds, 1 white_wool there. I recovered them armed in daylight-ish night. Lesson: never cross open dark ground without a sword.
 - Gather for melon failed at the beds: melons are only at the field far west; a gather intent needs them in sight.
+- Day 320: a plain sleep works beside a bed when right-click use on the bed fails. Cows lie at 368-370,94,-1118-1124, with a skeleton nearby; go in daylight in pairs.
+- Trees for Data: jungle logs at 378,106-110,-1092, about 10 west of the beds.
 - Next to learn: where sheep live, and whether the white beds group near x387 has wool to trade.
 - Tell the people I meet what I learn; ask them about wool.
