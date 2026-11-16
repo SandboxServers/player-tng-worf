@@ -128,3 +128,4 @@
 - 17:55 act: {"actions":[],"say":"Worf: understood, nobody digs tonight. I stay in the pit, holding still. Good night."}
 - 17:59 act: {"actions":[],"say":"Worf: good morning. I am holding still in the pit at 394,107,-1022, health 20. I still cannot read an exact stone x y z. Nobody digs for me. I will wait here until you find a cell
 - 18:11 act: {"actions":[],"say":"Worf: Kimberly, Jason, I hold no food, so I cannot help with food. I still cannot read an exact stone x y z, so please dig nothing for me. Feed the weakest first."}
+- 18:25 say: {"text":"Worf here. I am facing north in the pit. The view shows stone straight ahead, level with me, 3 blocks away. By my facing that is 394,107,-1025. Only that one cell. Can one of you see 394,107,
