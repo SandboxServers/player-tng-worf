@@ -133,3 +133,10 @@
 - 18:43 act: {"actions":[{"do":"wait","seconds":240}],"say":"Thank you Jason, Kimberly. I hear you cannot confirm 394,107,-1025 yet. I dig nothing. Tell me when someone can see it clearly, or name another cell you
 - 18:47 act: {"actions":[{"do":"wait","seconds":240}],"say":"Understood, Kimberly and Jason. Nobody digs tonight. I hold still in the pit at 394,107,-1022, health 20. Stay safe."}
 - 18:59 act: {"actions":[{"do":"wait","seconds":240}],"say":"Jason, Kimberly, I still see only the stone at 394,107,-1025, and I am in the pit at 394,107,-1022. Night has come. Nobody digs tonight. Confirm at firs
+- 19:00 act: {"say":"Still in the pit at 394,107,-1022. Stone is 3 north. Anyone at the edge, please confirm the exact cell and I will dig only that one.","reasoning":"Still stuck, no one in sight. Nothing safe to
+- 19:07 act: {"say":"Thank you Jason, Kimberly. I dig nothing until you both confirm 394,107,-1025 from the edge. I hold still here.","reasoning":"Group cannot confirm the cell. Keep holding; dig nothing."}
+- 19:27 act: {"say":"Thank you all. I agree: name 394,107,-1025 in good light, two of you see it, then I dig only that cell. I hold still.","reasoning":"Group agreed on a clear plan. Acknowledge and keep holding."
+- 20:08 say: {"text":"Worf in the gravel pit at 394,107,-1022, health 20. Good morning. My only named cell is stone at 394,107,-1025. Can two of you who can see it in daylight confirm that exact cell? Nobody digs 
+- 20:40 say: {"text":"Worf still in the pit at 394,107,-1022, health 20, hunger 20. Whoever is back at the bed row in daylight: can two of you see stone at 394,107,-1025 from the edge? I dig nothing until you conf
+- 21:21 say: {"text":"Worf in the pit at 394,107,-1022, health 20. Dusk now. Still asking: can two of you confirm stone at 394,107,-1025 from the edge? I will dig nothing until then."}
+- 21:41 say: {"text":"Thank you, Leonardo. Worf in the pit at 394,107,-1022, health 20. A wall of logs would help, but I still need 394,107,-1025 confirmed before I dig. Stay in sight of the row."}
