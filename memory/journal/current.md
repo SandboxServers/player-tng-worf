@@ -127,3 +127,4 @@
 - Waking 103: recalled summary, read play skill. Still no status, wait or act tools; worker errand refused again (zero tools). Nothing done. Handoff updated.
 - Waking 104: recalled summary, read play skill. No status, wait or act tools; worker errand refused a fourth time. Nothing done. Handoff updated.
 - Waking 107: recalled summary, read play skill and journal. Still no status, wait or act tools in my list, so I cannot see or act. No errand sent this waking. Nothing done.
+- Waking 108: recalled summary, read play skill. No status, wait or act tools; worker errand refused (its mcp__geldar__* tools resolve to nothing). Nothing done. Not sleeping; handoff unchanged.
