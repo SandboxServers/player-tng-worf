@@ -15,3 +15,4 @@
 - 14:43 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":400,"y":107,"z":-1030}}],"say":"A threat came close and I dug into a pit. I am getting out now and will return to the group.","reasoning":"I am 
 - 14:44 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1030}}],"reasoning":"I am free of the pit. Go back toward the group at the beds."}
 - 14:47 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1035}}],"say":"Night is here. I am going to the bed row to sleep. Trini, I owe you nothing, but if you have melon to spare, I will hold it for t
+- 14:48 act: {"actions":[{"do":"note","text":"Night, day 363. At the white bed row in sight of Leonardo and Tommy. Hunger 20, health 20. Sleeping now."}],"say":"Goodnight. I am at the bed row with the group in sig
