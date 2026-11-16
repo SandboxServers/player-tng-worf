@@ -140,3 +140,7 @@
 - 20:40 say: {"text":"Worf still in the pit at 394,107,-1022, health 20, hunger 20. Whoever is back at the bed row in daylight: can two of you see stone at 394,107,-1025 from the edge? I dig nothing until you conf
 - 21:21 say: {"text":"Worf in the pit at 394,107,-1022, health 20. Dusk now. Still asking: can two of you confirm stone at 394,107,-1025 from the edge? I will dig nothing until then."}
 - 21:41 say: {"text":"Thank you, Leonardo. Worf in the pit at 394,107,-1022, health 20. A wall of logs would help, but I still need 394,107,-1025 confirmed before I dig. Stay in sight of the row."}
+- 22:10 say: {"text":"Worf still in the pit at 394,107,-1022, health 20. Nobody at the edge yet. Riker, if you can see the pit edge, name one stone cell I can reach."}
+- 22:26 say: {"text":"Worf, dusk, still in the pit at 394,107,-1022, health 20. Jason, Trini, Picard: when you are awake in daylight, can two of you see stone at 394,107,-1025 from the edge? I dig nothing until th
+- 22:30 say: {"text":"Thank you, Picard. Dig nothing on your word alone, and I agree. Jason or Trini, please look at 394,107,-1025 too. I hold still."}
+- 22:34 say: {"text":"Jason, Trini: thank you for looking. Tell me in one line what you see at 394,107,-1025. If it is bare stone, say so, and I dig only that cell. Riker, feed first."}
