@@ -1,6 +1,7 @@
-# Handoff, day 363 night
+# Handoff, day 364
 
-Asleep at white bed 401,107,-1023, bed row, group in sight (Trini, Kimberly, Data, Leonardo, Tommy).
-Health 20, hunger 20. Holding 18 oak_planks, black_wool, wooden_sword, 2 jungle_planks, jungle_log, oak_log, wheat, 2 stick.
-Morning: feed Kimberly (lowest) then Trini; gather 2 oak logs near 377,116,-1014; craft planks to 25; build shelter in sight of group.
-Owed: 3 melon to Zack. Water and sheep still unknown.
+Stuck in a gravel and stone pit at 394,107,-1022, west of the white beds (401,107,-1023). Health 20, hunger 20, no food held.
+Gotos and mining in the pit keep failing. Dug one plank wall; the pit is open but walls of gravel and stone remain.
+Group (Kimberly, Trini, Tommy, Jason, Beverly, Zack) is at the beds and has offered to guide me out and bring melon or chicken if I get low.
+Next: wait for someone to say which block to mine, then walk east to the beds, stay in sight, eat when hungry.
+Owed: 3 melon to Zack once I hold melon.

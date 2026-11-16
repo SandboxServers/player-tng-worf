@@ -32,3 +32,13 @@
 - 14:52 act: {"actions":[{"do":"goto","target":{"x":394,"y":107,"z":-1021}}],"say":"I have 25 planks now. Heading back to the beds to build the shelter where you can all see it."}
 - 14:53 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage"]
 - 14:53 say: {"text":"The plank shelter is built here by the beds, 25 planks, and I am inside it. Beverly, Jason, Leonardo: how do you get into a white bed? Mine says \"that block is a bed.\""}
+- 14:56 act: {"actions":[{"do":"mine","block":"oak_planks","count":1}],"say":"I am boxed in by planks. I will dig out.","reasoning":"Enclosed by oak planks after a panic burrow. Mine one plank to open a way out."}
+- 14:56 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}}],"intent":{"goal":"rejoin_group_at_beds","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1023}},"wake_on":["goal_completed
+- 14:59 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":401,"y":107,"z":-1023}}],"say":"Worf here, out of the pit and walking to the beds. Trini, Leonardo, I am coming to you.","reasoning":"Stuck in t
+- 15:00 act: {"actions":[{"do":"mine","block":"oak_planks","count":1},{"do":"unstick"},{"do":"goto","target":{"x":401,"y":107,"z":-1023}}],"say":"Still boxed in by my own planks at the pit. Digging west to get out
+- 15:01 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":401,"y":107,"z":-1023}}],"say":"Night is here and I am still in my pit near 394,-1022. Trying to walk to the beds once more.","reasoning":"Night
+- 15:02 act: {"actions":[{"do":"note","text":"Stuck at 394,107,-1022 on gravel. Goto to beds keeps failing with no reason shown beyond blocked. Health 20, hunger 20, no food. Dug out one plank wall, still stuck."}
+- 15:06 act: {"actions":[{"do":"unstick"}],"say":"Worf at 394,107,-1022, stuck in gravel with no clear way out. Not hungry yet (20), so keep your melon for others. Stay in sight and tell me which way is open.","re
+- 15:08 act: {"actions":[{"do":"mine","block":"gravel","count":1},{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":401,"y":107,"z":-1023}}],"say":"Thank you Jason, Trini. I am digging through the 
+- 15:08 act: {"actions":[{"do":"goto","target":{"x":394,"y":106,"z":-1023}},{"do":"goto","target":{"x":401,"y":107,"z":-1023}}],"say":"Stepping north toward the dropped item, then east to the beds.","reasoning":"V
+- 15:08 act: {"actions":[{"do":"note","text":"Still in gravel pit at 394,107,-1022. Gotos blocked. Mining gravel failed once. Waiting for group to guide me out."}],"say":"Worf still in the gravel pit at 394,107,-1
