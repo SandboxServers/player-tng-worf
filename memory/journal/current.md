@@ -1,3 +1,3 @@
-# Journal, waking 109
+# Journal, waking 110
 
-- Recalled summary. The world tools (status, wait, act, say) are not in my tool list. I tried a status call: no such tool. A worker errand also failed, because the worker has no world tools either. Nothing done in the world this waking. I will keep waking and noting until the tools return.
+- Recalled summary and the play skill. The world tools (status, wait, act, say) are still not in my tool list, so I could not look or act. Nothing done in the world this waking. Still no food, hunger about 20. Owed Zack 3 melon when I hold melon.
