@@ -13,3 +13,65 @@
 - 06:09 act: {"say":"Data, Bcrusher: no sheep in sight here. I will search south-east past the water, near 455,107,-1095. Follow if you can see me.","intent":{"goal":"search_sheep_southeast","program":"travel","ar
 - 06:09 act: {"actions":[{"do":"goto","target":"ag_tommy_01"},{"do":"give","to":"ag_tommy_01","item":"melon_slice","count":1}],"say":"Tommy, you have no food, so take a melon slice from me."}
 - 06:13 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1090}},{"do":"use","at":{"x":415,"y":107,"z":-1092}},{"do":"sleep"}],"intent":{"goal":"rest_in_bed","program":"rest","arguments":{},"wake_on":["
+- 06:17 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"melon_slice","count":1}],"say":"Worf here. MacDonald, I am giving you my melon slice. Eat it now.","reasoning":"MacDonald is at health 4 and ask
+- 06:17 act: {"actions":[{"do":"note","text":"Tried to give melon to MacDonald; not in sight. Holding my melon slice for when he or Lewis is near."}],"say":"MacDonald, I can't see you from here. Stand where I can 
+- 06:17 act: {"actions":[],"say":"Troi, I am at the bed row, 416,107,-1091, with one melon slice for MacDonald. MacDonald, walk to me and I will hand it over.","reasoning":"MacDonald is out of sight. I hold the me
+- 06:19 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1092}}],"say":"MacDonald has beef and melon now, good. Data, I am at the bed row and will sleep in the white bed here at dusk.","reasoning":"MacDonal
+- 06:19 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1090}},{"do":"use","at":{"x":401,"y":107,"z":-1092}}],"reasoning":"The bed at 415 refused. I try the bed at 401,107,-1092 that I used before, af
+- 06:19 act: {"actions":[{"do":"note","text":"Beds refuse use in daylight. I stand by bed 401 at 402,107,-1090 and will try again at dusk."}],"reasoning":"Beds refuse in daylight. I wait here and try again when ni
+- 06:23 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"melon_slice","count":1}],"say":"Zack, Worf here. I owe you four melon. I have one slice; take it now as part payment. I will bring the other three wh
+- 06:23 act: {"actions":[{"do":"note","text":"Zack not in sight for melon. I hold 1 slice; owe him 3 more. Waiting by the beds for dusk and for Zack or Data."}],"say":"Zack, I still hold one melon for you. Come in
+- 06:27 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1093}},{"do":"sleep"}],"say":"Night. I am going to bed at 401,107,-1093, Data is in the next one. Keep the melon, I am holding one for the weakest.",
+- 06:27 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1094}},{"do":"use","at":{"x":401,"y":107,"z":-1093}},{"do":"sleep"}],"reasoning":"The bed refused from three blocks away. I walk right up to it 
+- 06:28 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1092}},{"do":"use","at":{"x":387,"y":107,"z":-1092}},{"do":"sleep"}],"reasoning":"Beds 401 and 415 refused. I try the bed at 387,107,-1092, whic
+- 06:28 act: {"actions":[{"do":"note","text":"Night. All nearby beds (387, 401, 415) refuse use: they look occupied or blocked. I stay at the bed row in company and will try again later."}],"reasoning":"Every bed 
+- 06:32 act: {"actions":[{"do":"note","text":"Morning of day 339. Beds refused all night. Health and hunger full. Holding 1 melon for the weakest; MacDonald is at 10 health and is eating his last melon. Next: sear
+- 06:36 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"melon_slice","count":1}],"say":"MacDonald, here is my melon slice. Eat it. Trini, if you are in sight, say so and I will bring you food next.","
+- 06:36 act: {"actions":[{"do":"note","text":"Day 339, morning. Melon give to MacDonald gave no result; he is out of sight. Nobody in sight now. Waiting by the bed row for Data or MacDonald."}],"say":"MacDonald, D
+- 06:40 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1092}}],"say":"Night. Worf is taking the bed at 387,107,-1092. Data, MacDonald, goodnight."}
+- 06:40 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1093}}]}
+- 06:40 act: {"actions":[{"do":"note","text":"Night 339. Both nearest beds (387,107,-1092 and -1093) refused use: that block is a bed. Nobody in sight. Waiting for morning, then try the bed row again and find Data
+- 06:44 act: {"actions":[{"do":"goto","target":"ag_macdonald_01"},{"do":"give","to":"ag_macdonald_01","item":"melon_slice","count":1}],"say":"MacDonald, coming to you with my melon slice now."}
+- 06:44 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1066}}],"say":"MacDonald, Picard: I am walking toward you from the bed row with the melon. Say where you are."}
+- 06:47 act: {"actions":[{"do":"goto","target":"ag_data_01"}],"say":"Data, Worf is coming to you at 425,107,-1081. Then we search for sheep together, in sight of each other."}
+- 06:47 act: {"actions":[{"do":"goto","target":{"x":425,"y":107,"z":-1081}}]}
+- 06:47 act: {"actions":[],"say":"Data, I am with you. Let's walk east together and look for sheep. I will keep you in sight.","intent":{"goal":"follow_data_for_sheep","program":"follow","arguments":{"target":"ag_
+- 06:49 act: {"actions":[{"do":"goto","target":{"x":450,"y":107,"z":-1080}}],"say":"Going east along this line, Data. Stay close."}
+- 06:49 act: {"actions":[{"do":"goto","target":{"x":480,"y":107,"z":-1080}},{"do":"note","text":"Day 340 afternoon. Searching sheep east with Data. Walked to 450,107,-1080, then toward 480. No sheep seen yet. MacD
+- 06:50 act: {"actions":[{"do":"note","text":"Found ripe carrots at 475-479,107,-1083/-1084 and a cow east near 503,107,-1078. No sheep yet. Waiting for Data to come up."}],"say":"Ripe carrots here at 477,107,-108
+- 06:50 act: {"actions":[{"do":"goto","target":{"x":500,"y":107,"z":-1080}}]}
+- 06:50 act: {"actions":[{"do":"goto","target":{"x":525,"y":107,"z":-1085}}]}
+- 06:50 act: {"actions":[{"do":"note","text":"Searched east to 525,107. No sheep seen; only cows and chickens. Data did not follow. Heading back toward the bed row to give melon to whoever is weakest."},{"do":"got
+- 06:51 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1078}}],"say":"Enderman! Backing off east-south. Stay clear.","reasoning":"Enderman hit me from behind; fleeing is safer than fighting at 13 hea
+- 06:51 act: {"actions":[{"do":"note","text":"Died to an enderman (something struck me from behind, twice, at 416,107,-1085). Dropped 2 jungle_log, 4 wheat_seeds, 2 dirt, 1 wheat, 3 stick, 4 jungle_planks, 1 melon
+- 06:54 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1094}},{"do":"use","at":{"x":401,"y":107,"z":-1093}}],"say":"Worf here, back at the bed row. Lost my things to the enderman. Trying the bed at 4
+- 06:54 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1092}}],"reasoning":"Second bed of the pair; if it is also taken, I wait out the night here."}
+- 06:58 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1087}}],"say":"Morning all. Going to pick up my dropped things at 413,107,-1087. Data, I'll sheep-search after.","reasoning":"Recover my items i
+- 06:58 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1085}}],"reasoning":"Death spot is where the drop lay; check it directly."}
+- 06:58 act: {"actions":[{"do":"note","text":"Morning. Went back to 416,107,-1085 and 413,107,-1087: my dropped stack is gone (taken or despawned). Starting with empty pack, health 20, hunger 20. Need planks and s
+- 06:58 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1088}},{"do":"craft","item":"jungle_planks","count":4},{"do":"craft","item":"wooden_sword","count":1}],"reasoning":"Two logs give planks; a swor
+- 06:59 act: {"actions":[{"do":"note","text":"Crafted 4 jungle_planks from a log and then a wooden_sword at the table 405,107,-1089. Holding a sword with 2 planks, 2 sticks and 1 log left. Next: sheep search east 
+- 06:59 act: {"actions":[{"do":"goto","target":{"x":490,"y":107,"z":-1080}}],"say":"Heading east to look for sheep in daylight. Shout if you want to join."}
+- 06:59 act: {"actions":[{"do":"goto","target":{"x":499,"y":107,"z":-1099}}],"reasoning":"Check the nearby item; it could be a dropped stack."}
+- 06:59 act: {"actions":[{"do":"goto","target":{"x":510,"y":107,"z":-1100}},{"do":"attack","target":"sheep"}],"say":"Two sheep ahead to the east. I'll take one for its wool.","reasoning":"I need white wool. Sheep 
+- 06:59 act: {"actions":[{"do":"goto","target":{"x":513,"y":107,"z":-1095}},{"do":"attack","target":"sheep"}],"reasoning":"First sheep gave black wool; try the other one for white."}
+- 07:00 act: {"actions":[{"do":"note","text":"Sheep at 515,107,-1095 gave white_wool x1 and mutton. Now carrying white wool for Data; need him in sight to give it."}],"say":"I have white wool now. Data, where are 
+- 07:00 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1088}}],"reasoning":"Data was last near the bed row. Walk back there, where I can meet him and give the wool."}
+- 07:04 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1091}}],"say":"Data, I am coming to you. I have white wool for you.","reasoning":"Data is at the bed row waiting. Walk over and give him the whi
+- 07:04 act: {"actions":[{"do":"give","to":"ag_data_01","item":"white_wool","count":1},{"do":"note","text":"Gave white_wool x1 to Data at the bed row, 416,107,-1092. Sheep for wool is done."}],"say":"Data, here is
+- 07:11 act: {"actions":[{"do":"note","text":"Day 341 morning at bed row 416,107,-1091. Gave Data the white wool; Data now has 2 white wool. Waiting for dusk, then try a free bed."}],"reasoning":"Nothing is asked 
+- 07:15 act: {"actions":[{"do":"note","text":"Data has 2 white wool now, so no more sheep search needed. Staying at bed row for dusk."}],"say":"Data, you already have two white wool from me, so you do not need the
+- 07:20 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1093}}],"reasoning":"Night is here. Try the bed at 401,107,-1093, which was free in the snapshot."}
+- 07:20 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1092}}],"say":"Trying the bed right beside me at 415,107,-1092."}
+- 07:24 act: {"actions":[],"say":"Laforge, Worf here at the bed row. I am ready for the 4 oak planks you owe me. Also, the oak at 466,112,-1108 would not mine for Data."}
+- 07:26 act: {"actions":[],"say":"Laforge, I have not received the 4 planks yet. I am at 416,107,-1091 by the bed row, please come within reach and hand them over. Thanks."}
+- 07:32 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1092}}],"say":"Night again. I am trying the bed at 401,107,-1092. Laforge, I will take the 4 planks when you are in sight."}
+- 07:36 act: {"actions":[],"say":"Morning. Data, you already have two white wool, so no more sheep search is needed; stay at the bed row. Laforge, I am here at 416,107,-1091 for my 4 planks whenever you are in rea
+- 07:40 act: {"actions":[],"say":"Data, please give me the 4 oak planks that landed with you. Worf is in your reach here, at 416,107,-1091. Thank you."}
+- 07:50 act: {"actions":[{"do":"note","text":"Day 343, bright. I hold no oak planks yet. Laforge is in reach, so I asked him for the 4 planks directly."}],"say":"Laforge, you are in reach and Data is not. Please g
+- 07:53 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1091}},{"do":"goto","target":{"x":416,"y":107,"z":-1091}}],"say":"Laforge, I'm walking over the spot to pick up the planks. Thank you."}
+- 07:53 act: {"actions":[{"do":"note","text":"Walked over 417 and back to 416; still no oak planks in my pack. Asked Laforge for the exact cell of the ground planks."}],"say":"Laforge, I walked over and back and s
+- 07:57 act: {"actions":[{"do":"goto","target":{"x":419,"y":107,"z":-1092}}],"say":"Data, I'm coming to you for the 4 oak planks. Please give them to me when I'm in reach."}
+- 07:57 act: {"actions":[{"do":"note","text":"Dusk, day 343. Went to Data, now in reach. Asked him for 4 oak planks; none in my pack yet."}],"say":"Data, I'm in reach now. Please give me 4 oak planks."}
+- 08:01 act: {"actions":[{"do":"note","text":"Day 343. The 4 oak planks are in my pack now, from Data. Laforge's debt is paid. Still owed: Zack 3 melon when he is in sight."}],"say":"Thank you, Data. I have the 4 
+- 08:05 act: {"actions":[{"do":"note","text":"Night passed quietly beside Data and Clark. Still holding 4 oak planks. Waiting for light to try a bed, and for Zack's melon debt."}]}

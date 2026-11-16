@@ -1,1 +1,5 @@
-Handoff, day 338, night. Heading to the bed row (415,107,-1092) to sleep. Health 20, hunger 20. Holding 1 melon slice, 2 jungle_log, 4 jungle_planks, 3 stick, 4 wheat_seeds, 1 wheat, 2 dirt. No sword. Beds at 387/401 refused "use" earlier; try 415,107,-1092 or -1093. No errands out. Owe Zack 4 melon (not seen). Gave 1 melon to Tommy (he gave it to Kimberly). Sheep not found in east or southeast fields. Next at light: search sheep with Data and Troi, find Kimberly for melon, get a sword before dusk.
+Handoff, day 343. I stand at 418,107,-1092 near Data, Laforge and Clark, not enclosed. Health 20, hunger 20.
+Pack: 4 oak_planks (from Data), 2 jungle_planks, 3 mutton, 1 rotten_flesh, 2 stick, 1 wheat, 1 black_wool, wooden_sword.
+Beds still untested tonight; none tried since day 342. Bed refusals on record: 387, 401, 415 rows.
+Open debts: Zack 3 melon (not in sight, I hold no melon). Laforge's 4 planks are settled.
+Next: stay near the group through the night, then try a bed again at light. Pay Zack when he is in sight.
