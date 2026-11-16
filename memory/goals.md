@@ -1,9 +1,9 @@
-Goals, ranked, day 343.
+Goals, ranked, day 350.
 
-1. Pay Zack 3 melon when he is in sight. It is a debt I owe, and I hold no melon yet. Get melon from Clark or Beverly first.
-2. Try a white bed again at first light, near Data and Riker. Beds have refused "use" so far, so note each result and do not repeat the same try a third time.
-3. Keep the group in sight through the night. I have no shelter of my own, and the group has been safe.
-4. Keep the 4 oak planks for later use. Laforge's debt to me is settled through Data.
-5. Help the weakest with food when someone drops to 6. Clark and Beverly hold the melon.
+1. Eat when food reaches me, and get food for myself. I hold no food now (gave my rotten flesh to Lewis). Hunger is 20, but I cannot keep helping others without it.
+2. Pay Zack 3 melon when he is in sight and I hold melon. Still owed. Zack has been near the bed row with Riker.
+3. Stay in sight of the group through each night and each cow walk. Beds at 415,107,-1064 and 415,107,-1065 refused "use" (day 349), so I treat the beds as closed for now.
+4. Gather 15 to 25 blocks of one wood kind for a sealed shelter, since beds are closed. I hold only 1 oak_planks and 2 jungle_planks.
+5. Give food to the weakest first (Clark at health 11, MacDonald at 13, Trini at 13) when I have any.
 
-Reasons: the plank debt is paid, so the ranking moved. Zack's debt is now the clearest one left to settle. The beds still matter for sleep, but they have refused so far.
+Reasons: I gave away my only food, so eating comes first. Beds refused twice, so a shelter is the way to rest. The Zack debt stays, but I cannot pay it without melon.

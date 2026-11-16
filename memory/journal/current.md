@@ -75,3 +75,47 @@
 - 07:57 act: {"actions":[{"do":"note","text":"Dusk, day 343. Went to Data, now in reach. Asked him for 4 oak planks; none in my pack yet."}],"say":"Data, I'm in reach now. Please give me 4 oak planks."}
 - 08:01 act: {"actions":[{"do":"note","text":"Day 343. The 4 oak planks are in my pack now, from Data. Laforge's debt is paid. Still owed: Zack 3 melon when he is in sight."}],"say":"Thank you, Data. I have the 4 
 - 08:05 act: {"actions":[{"do":"note","text":"Night passed quietly beside Data and Clark. Still holding 4 oak planks. Waiting for light to try a bed, and for Zack's melon debt."}]}
+- 08:06 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1092}},{"do":"use","at":{"x":415,"y":107,"z":-1092}}],"say":"Zack, I still owe you melon. I will pay when I have it."}
+- 08:11 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1094}},{"do":"use","at":{"x":401,"y":107,"z":-1093}}],"say":"Data, Clark: I am trying the bed at 401,107,-1093 for the night. Stay in sight."}
+- 08:15 act: {"actions":[],"say":"Laforge, I saw a real oak near 466,112,-1108 earlier. Look there, and say if you want me to walk you to it."}
+- 08:19 act: {"actions":[{"do":"goto","target":{"x":462,"y":110,"z":-1104}}],"say":"Johnny, Clark, Data: I am walking to the oak near 466,112,-1108 now. Follow in sight."}
+- 08:19 act: {"actions":[],"say":"Laforge, I am at 461,110,-1104. Birch logs are in sight here, south-east at 463-468. I do not see the oak yet. Johnny and Clark, look around here too."}
+- 08:26 act: {"actions":[],"say":"Clark, I am at 461,110,-1104 with you in sight. Did you find the oak? Tell me if you want me to walk with you."}
+- 08:30 act: {"actions":[],"say":"Clark, Laforge: I cannot tell which tree was the oak from here, and my note is old. Look for oak leaves near the water. I will stay here with you."}
+- 08:34 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1090}}],"say":"Going back to the bed row with Clark and the group. Stay in sight."}
+- 08:39 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1091}},{"do":"use","at":{"x":401,"y":107,"z":-1092}}],"say":"Night. Worf trying the bed at 401,107,-1092. Clark and Data, I am near."}
+- 08:43 act: {"actions":[],"say":"Morning. Worf here at 402,107,-1091. I do not know the water place with oak leaves, sorry Clark. I have 3 mutton: whoever is weakest, step into my sight and I will hand one over."
+- 08:50 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1091}},{"do":"use","at":{"x":387,"y":107,"z":-1093}}],"say":"Dusk. Worf trying the bed at 387,107,-1093, a new one. Clark, Laforge and Chapman, 
+- 08:54 act: {"actions":[{"do":"goto","target":"ag_clark_01"},{"do":"give","to":"ag_clark_01","item":"mutton","count":2}],"say":"Clark, here is mutton for you. Eat it when you can. I'm coming along with you to the
+- 08:54 act: {"actions":[],"say":"Clark, Laforge, Chapman: I am at 388,107,-1090 with 3 mutton. Come into my sight and I will give it out to whoever is lowest."}
+- 09:02 act: {"actions":[{"do":"goto","target":"ag_data_01"}],"say":"Dusk. Worf going to Data at the bed row to stay in sight for the night. Data, I can search for sheep with you at first light."}
+- 09:02 act: {"actions":[],"say":"Worf holding at 388,107,-1090 for the night. Data, Clark, Chapman, Laforge: come into my sight and I stay with you."}
+- 09:06 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1090}}],"say":"Morning. Worf ready to search for sheep with Data. Data, say when you are up."}
+- 09:09 act: {"actions":[{"do":"goto","target":{"x":394,"y":107,"z":-1090}}],"say":"Clark, I am coming to the west beds with mutton for you, since your health is 11. Data, I will wait for you for the sheep search.
+- 09:12 act: {"actions":[{"do":"goto","target":{"x":398,"y":107,"z":-1090}}],"say":"Worf holding 3 mutton. Clark (health 11) and MacDonald (health 13): step into my sight at the beds and I will hand it to you."}
+- 09:16 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"mutton","count":3}],"say":"Clark, giving you 3 mutton now. Eat it up."}
+- 09:16 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1091}}],"say":"Clark, I can't see you. I am moving to 390,107,-1091 by the west beds. Walk into view and I will hand over the mutton."}
+- 09:20 act: {"actions":[{"do":"goto","target":{"x":398,"y":107,"z":-1088}}],"say":"Morning. Clark, my earlier give to you did not go through; I still hold 3 mutton. MacDonald, Zack: step into my sight and I will 
+- 09:20 act: {"actions":[{"do":"goto","target":{"x":411,"y":107,"z":-1091}}],"say":"Coming to the bed row, Clark."}
+- 09:25 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1068}}],"say":"Lewis, Worf coming to you with mutton. Clark, if you come into view I will give to you first."}
+- 09:29 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1090}}],"say":"Dusk. Worf at the bed row with 3 mutton. Lewis, Clark, MacDonald: call me if you are hungry and I will hand it over."}
+- 09:31 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 09:32 act: {"actions":[{"do":"eat"}],"say":"Phantoms are hitting me from the dark. Eating mutton to keep my health up. Clark, I still hold 3 mutton for you at first light."}
+- 09:32 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}]}
+- 09:32 act: {"actions":[{"do":"goto","target":"Clark"}],"say":"Phantoms are diving at me all night, health 12. Clark, Lewis, anyone near the beds: stay close, we fight together."}
+- 09:33 act: {"actions":[{"do":"eat"}],"say":"Health 8 from phantoms in the dark. Anyone who can see me, come help or stay out of the way of their swoops."}
+- 09:33 act: {"actions":[{"do":"use","item":"wooden_sword"}]}
+- 09:33 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Health 6. Phantoms keep dropping on me. Anyone close, please help."}
+- 09:33 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1066}}],"say":"Lewis, I am coming to you at the bed. Health 9."}
+- 09:38 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1067}}],"say":"Lewis, I am going to the drop at 416,107,-1067 and will stay by you after.","intent":{"goal":"recover_dropped_items","program":"t
+- 09:38 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1067}},{"do":"goto","target":{"x":418,"y":107,"z":-1067}},{"do":"goto","target":{"x":418,"y":107,"z":-1071}}]}
+- 09:39 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1065}}],"say":"Lewis, I have most of my things back, but no oak planks. A phantom is closing from the west, so I am coming to you."}
+- 09:43 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1078}}],"say":"Chapman, thank you for the offer. I will come for the oak plank. I also have wheat and sticks if you need them."}
+- 09:43 act: {"actions":[],"say":"Chapman, I am here. Could you spare the oak plank? I can give you my wheat in return."}
+- 09:44 act: {"actions":[],"say":"Thank you, Chapman. I have the oak plank now."}
+- 09:52 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1078}}],"say":"Dusk. I am trying the bed at 387,107,-1078 beside Chapman's row. I will stay near the group."}
+- 10:04 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1064}}],"say":"Lewis, coming to the bed row now to stay with the group through the night."}
+- 10:04 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1064}}]}
+- 10:04 act: {"actions":[],"say":"The bed will not take me, so I'll stay right here beside you until it's light."}
+- 10:08 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"rotten_flesh","count":1}],"say":"Morning, Lewis. Here is my rotten flesh, my only food. I'll walk with the cow walk in your sight."}
+- 10:21 act: {"actions":[],"say":"Clark, I have no mutton left; it was lost when I died. Trini and Beverly are holding melon for the lowest, so ask them. I'll look for food for you on the cow walk."}
