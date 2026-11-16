@@ -1,1 +1,15 @@
 # Journal
+- 05:48 act: {"say":"Data, I am here at the beds with you. I will walk east with you for the sheep, and keep you in sight.","intent":{"goal":"follow_data_sheep_search","program":"follow","arguments":{"target":"ag_
+- 05:48 act: {"say":"Data, the follow ended, so I am walking east now to 443,107,-1083. Stay in sight and I will wait for you there.","intent":{"goal":"walk_east_sheep_search","program":"travel","arguments":{"targ
+- 05:48 act: {"say":"I am at 442,107,-1083 now. Data, Chapman, Bcrusher, come to me; I will wait here for the sheep search."}
+- 05:51 act: {"say":"Jason, Bcrusher, I am here at 442,107,-1083. Kimberly is weakest, so MacDonald's melon should go to her first. I still have sheep to look for, but Data is not in sight yet."}
+- 05:55 act: {"say":"Data, I see you. I will walk east with you now, slowly, so you stay in sight. Watch for sheep.","intent":{"goal":"sheep_search_east_with_data","program":"travel","arguments":{"target":{"x":470
+- 05:59 act: {"say":"Night is falling. I am walking back to the beds to sleep. Data, come if you can.","intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-109
+- 06:00 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Data, I am at the beds. I am going to my bed for the night. Sleep well."}
+- 06:00 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1093}},{"do":"sleep"}]}
+- 06:00 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1092}},{"do":"use","at":{"x":387,"y":107,"z":-1092}},{"do":"sleep"}],"intent":{"goal":"rest_in_bed","program":"rest","arguments":{},"wake_on":["
+- 06:06 act: {"say":"Worf here. Data, I am walking east to the sheep field near 443,107,-1083. Come along, I'll wait where you can see me.","intent":{"goal":"walk_to_sheep_field","program":"travel","arguments":{"t
+- 06:06 act: {"say":"Worf here, at the sheep field east at 442,107,-1083. No sheep in sight yet. I have 2 melon slices for whoever is weakest. Kimberly, where are you?"}
+- 06:09 act: {"say":"Data, Bcrusher: no sheep in sight here. I will search south-east past the water, near 455,107,-1095. Follow if you can see me.","intent":{"goal":"search_sheep_southeast","program":"travel","ar
+- 06:09 act: {"actions":[{"do":"goto","target":"ag_tommy_01"},{"do":"give","to":"ag_tommy_01","item":"melon_slice","count":1}],"say":"Tommy, you have no food, so take a melon slice from me."}
+- 06:13 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1090}},{"do":"use","at":{"x":415,"y":107,"z":-1092}},{"do":"sleep"}],"intent":{"goal":"rest_in_bed","program":"rest","arguments":{},"wake_on":["
