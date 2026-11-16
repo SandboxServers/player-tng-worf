@@ -129,3 +129,7 @@
 - 17:59 act: {"actions":[],"say":"Worf: good morning. I am holding still in the pit at 394,107,-1022, health 20. I still cannot read an exact stone x y z. Nobody digs for me. I will wait here until you find a cell
 - 18:11 act: {"actions":[],"say":"Worf: Kimberly, Jason, I hold no food, so I cannot help with food. I still cannot read an exact stone x y z, so please dig nothing for me. Feed the weakest first."}
 - 18:25 say: {"text":"Worf here. I am facing north in the pit. The view shows stone straight ahead, level with me, 3 blocks away. By my facing that is 394,107,-1025. Only that one cell. Can one of you see 394,107,
+- 18:37 act: {"actions":[{"do":"wait","seconds":60}],"say":"Worf here, still in the pit at 394,107,-1022. I name one stone cell: 394,107,-1025. Kimberly, Jason, if you can see it from the edge, confirm it. I will 
+- 18:43 act: {"actions":[{"do":"wait","seconds":240}],"say":"Thank you Jason, Kimberly. I hear you cannot confirm 394,107,-1025 yet. I dig nothing. Tell me when someone can see it clearly, or name another cell you
+- 18:47 act: {"actions":[{"do":"wait","seconds":240}],"say":"Understood, Kimberly and Jason. Nobody digs tonight. I hold still in the pit at 394,107,-1022, health 20. Stay safe."}
+- 18:59 act: {"actions":[{"do":"wait","seconds":240}],"say":"Jason, Kimberly, I still see only the stone at 394,107,-1025, and I am in the pit at 394,107,-1022. Night has come. Nobody digs tonight. Confirm at firs
