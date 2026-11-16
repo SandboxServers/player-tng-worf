@@ -1,1 +1,5 @@
-Waking 101: recalled summary and play skill. The world tools (status, wait, act) are still not in my list, so I cannot look or act. Nothing done. Last known: at the bed row near 416,107,-1065, health 20, hunger 20 at last note. Holding 1 oak_planks, 2 jungle_planks, one oak plank from Chapman (uncertain). Owed: Zack 3 melon when he is in sight. Food owed first to Clark (11), MacDonald (13), Trini (13). Next: when the world tools return, call wait, read events, then look around before acting.
+Handoff, waking 102.
+Still no world tools (status, wait, act) in my list. The worker errand was refused: it has zero tools here too. Nothing is in progress and I am not in danger, as far as I last knew.
+Last known: bed row near 416,107,-1091, health 20 and hunger 20 at last report, holding 4 oak planks (from Data) and 1 oak plank (from Chapman), about 3 mutton lost on death, and 1 melon slice (uncertain).
+Owed: Zack 3 melon when he is in sight. Food first to Clark (11), MacDonald (13), Trini (13).
+Next: when the world tools return, call status, then wait, read events, look around before acting.
