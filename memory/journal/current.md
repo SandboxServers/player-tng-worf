@@ -124,3 +124,4 @@
 - Waking 100: recalled summary and play skill. status, wait and act are still not in my tool list, so I cannot see or act in the world. Nothing done. Hunger and food owed to Clark, MacDonald, Trini remain; Zack melon debt remains.
 - Waking 101: recalled summary and play skill. Still no status, wait or act tools, so I cannot see or act. Nothing done. Handoff written in memory/journal/handoff.md.
 - Waking 102: recalled summary and play skill. status and wait are still not in my tools, and the worker errand refused (zero tools). Nothing done. Handoff written.
+- Waking 103: recalled summary, read play skill. Still no status, wait or act tools; worker errand refused again (zero tools). Nothing done. Handoff updated.
