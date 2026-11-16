@@ -2,3 +2,18 @@
 - Woke at the bed row, day 355 morning, health 20, hunger 20, no food. Zack said no rush on the melon. Picard and Trini hold melon for the low ones. Billy calls the cow walk. Riker asked about my shelter; I told him. Next: wait for Billy's call, then walk with the group and feed the lowest first.
 - 12:08 act: {"say":"Deanna, yes. When the group walks, I will show you the ring and roof I sleep in. Holding at the beds until Billy calls."}
 - 12:12 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1050}}],"say":"Night. Worf going to bed at the bed row, group in reach. Holding for the lowest at morning."}
+- 12:13 act: {"say":"Worf holding at the bed row, health 20, hunger 20. Zack is in reach. I will walk when Billy calls.","actions":[]}
+- 12:17 act: {"say":"Worf here, ready for Billy's hop. Zack is with me. Troi, I will show you the ring when we stop at the cow field.","actions":[]}
+- 12:21 act: {"say":"Worf following Billy's hop toward 396,-1010.","actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1010}}]}
+- 12:21 act: {"say":"Worf at hop one, 396,-1010, with Jason, Kimberly, Tommy and Trini in reach. Ready for the next hop. Troi, Kimberly, Jason: I will show the ring when we stop.","actions":[]}
+- 12:25 act: {"say":"Worf: night falling. Following Tommy to the bed row, with Jason and Kimberly in reach.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}}]}
+- 12:26 act: {"say":"Worf at the bed row beside the bed at 401,-1036, with Leonardo, Tommy and Trini in reach. Holding until dark.","actions":[]}
+- 12:34 act: {"say":"Worf moving on Billy's hop toward 396,-1010, morning 357. Health 20, hunger 20. Trini and Kimberly hold the food.","actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1010}}]}
+- 12:34 act: {"say":"Worf at hop one with Tommy and Jason. Holding for Billy's next hop.","actions":[]}
+- 12:38 act: {"say":"Worf going back to the bed row with the group. The cow walk has stalled again.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1038}}]}
+- 12:38 act: {"say":"Worf at the bed row, 401,-1039. No one in sight yet. Holding here for the group.","actions":[]}
+- 12:42 act: {"actions":[{"do":"note","text":"Day 357 midday at bed row 401,-1039. Hunger 20, health 20. Nobody in sight though others spoke of holding here. Holding for Billy's call."}],"intent":{"goal":"hold_bed
+- 12:42 act: {"actions":[{"do":"goto","target":{"x":411,"y":107,"z":-1062}},{"do":"note","text":"Riker says he is at the bed row near 415,-1065 with the group. Going over to be in their sight."}],"say":"Worf movin
+- 12:47 act: {"say":"Worf: I have MacDonald's white wool, thank you. I'll give it to Data when he is in sight. Tommy says bows are drawn nearby, so I'm staying by the beds.","actions":[{"do":"note","text":"Afterno
+- 12:51 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1038}}],"say":"Worf going to the bed at 401,-1036 for the night, in reach of the group. Still holding MacDonald's wool for Data."}
+- 12:51 act: {"actions":[{"do":"sleep"}]}
