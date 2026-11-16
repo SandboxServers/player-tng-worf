@@ -126,3 +126,4 @@
 - Waking 102: recalled summary and play skill. status and wait are still not in my tools, and the worker errand refused (zero tools). Nothing done. Handoff written.
 - Waking 103: recalled summary, read play skill. Still no status, wait or act tools; worker errand refused again (zero tools). Nothing done. Handoff updated.
 - Waking 104: recalled summary, read play skill. No status, wait or act tools; worker errand refused a fourth time. Nothing done. Handoff updated.
+- Waking 107: recalled summary, read play skill and journal. Still no status, wait or act tools in my list, so I cannot see or act. No errand sent this waking. Nothing done.
