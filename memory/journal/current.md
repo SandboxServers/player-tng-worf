@@ -120,3 +120,4 @@
 - 10:08 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"rotten_flesh","count":1}],"say":"Morning, Lewis. Here is my rotten flesh, my only food. I'll walk with the cow walk in your sight."}
 - 10:21 act: {"actions":[],"say":"Clark, I have no mutton left; it was lost when I died. Trini and Beverly are holding melon for the lowest, so ask them. I'll look for food for you on the cow walk."}
 - Waking 98: the world tools (status, wait, act) are not available to me in this session, so I could not look around or act. Journal and handoff written; I will resume when the tools return.
+- Waking 99: world tools (status, wait, act) still not in my list; a worker errand failed too (worker has no world tools). Nothing done. Handoff written.
