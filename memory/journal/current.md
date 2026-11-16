@@ -1,1 +1,20 @@
 # Journal
+- 00:23 act: {"actions":[{"do":"goto","target":"ag_chapman_01"},{"do":"give","to":"ag_chapman_01","item":"melon_slice","count":1}],"say":"Johnny, I am coming to you with a melon slice. Stay at the beds."}
+- 00:23 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1091}}],"say":"Johnny, if you hear me, I am at the beds with melon for you."}
+- 00:24 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"melon_slice","count":1}],"say":"Johnny, here is a melon slice. Eat it, and tell me if you are still weak."}
+- 00:24 Gave Johnny (Chapman) 1 melon slice at the beds; it worked. I hold 3 melon now. Still owe Zack 4 melon.
+- 00:26 act: {"actions":[{"do":"goto","target":{"x":370,"y":94,"z":-1122}}],"say":"Chapman, I walk with you, armed, in daylight. Stay close behind me.
+- 00:27 Walked to cow spot 370,93,-1122 armed. No cows or Chapman in sight yet; shaded by trees. Waiting here."}
+- 00:29 act: {"actions":[{"do":"goto","target":{"x":395,"y":107,"z":-1091}}],"say":"No cows here and Johnny has gone back. I return to the beds, armed."}
+- 00:30 Back at the beds (395,107,-1091), armed, 3 melon. No cows found at the spot; Johnny went back. Waiting at the beds for anyone weak.
+- 00:36 Night passed; it is morning, day 321. Macdonald and Chapman are going to the cows with a sword. I hold 3 melon, 1 white wool, 4 planks; no sheep seen yet. Staying at the beds.
+- 00:45 act: {"actions":[],"say":"Picard, I am well: health 20, hunger 20. I hold 3 melon and will give one to anyone who is weak. Zack, I still owe you 4 melon.","intent":{"goal":"hold_at_beds_for_weak","program"
+- 00:49 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1092}}],"say":"Night is coming. I am going to a bed at the beds, with 3 melon for anyone weak."}
+- 00:53 act: {"actions":[],"say":"Johnny, you are in reach and eating your slice. Troi has melon at the west edge, and Picard has a chicken. I hold 3 melon; tell me if your hunger drops below 10."}
+- 01:01 act: {"actions":[],"say":"Macdonald, the last cow spot I saw was 370,93,-1124, and it was empty. I am going to my bed for the night with 3 melon. Call out if you are weak."}
+- 01:05 act: {"actions":[],"say":"Chapman, I can hear you but I do not see you yet. Step into my sight, and I will give you one melon slice."}
+- 01:08 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1093}},{"do":"give","to":"ag_chapman_01","item":"melon_slice","count":1}],"say":"Chapman, I am coming to you with one melon slice."}
+- 01:08 act: {"actions":[],"say":"Chapman, I am at the beds, near the white beds on the east side, but I cannot see you. Step into my sight and I will hand you the melon."}
+- 01:09 act: {"intent":{"goal":"look_for_sheep","program":"travel","arguments":{"target":{"x":370,"y":95,"z":-1100}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks
+- 01:09 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":395,"y":107,"z":-1091}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tick
+- 01:10 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1092}}],"say":"Back at the beds, armed, with 3 melon for whoever is weak or for Zack. Going to a bed as night comes."}

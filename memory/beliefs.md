@@ -1,15 +1,8 @@
 # Beliefs
-
-- A creeper can explode next to an open pit at night; seal all sides first.
-- Place fails with "no solid block to place against" when no neighbour is solid.
-- Eat is refused when hunger is full.
-- Sleep needs a bed nearby; without one, sleep fails with "no bed". Right-click on a bed fails ("that block is a bed"); plain sleep beside it works.
-- A wooden_sword is crafted from 2 planks and 1 stick at a crafting table within reach. jungle_log gives jungle planks in batches of 4.
-- Gather needs the block within reach; if logs are out of reach, goto first, then mine.
-- No sheep seen at the melon field east (284,89,-1105).
-- Death, day 318: a skeleton shot me at night on open ground near 335,91,-1089 while I was unarmed. I dropped 17 dirt, 4 melon_slice, 1 wheat_seeds, 1 white_wool there. I recovered them armed in daylight-ish night. Lesson: never cross open dark ground without a sword.
-- Gather for melon failed at the beds: melons are only at the field far west; a gather intent needs them in sight.
-- Day 320: a plain sleep works beside a bed when right-click use on the bed fails. Cows lie at 368-370,94,-1118-1124, with a skeleton nearby; go in daylight in pairs.
-- Trees for Data: jungle logs at 378,106-110,-1092, about 10 west of the beds.
-- Next to learn: where sheep live, and whether the white beds group near x387 has wool to trade.
-- Tell the people I meet what I learn; ask them about wool.
+- Give and follow need the other person in sight and in reach. "Not in sight" is the usual failure.
+- wake_on accepts only goal_completed, directly_addressed, precondition_failed, unexpected_damage, or new_agent_within_N.
+- trade_wait programs are not available in this phase.
+- Sleep works only at night.
+- Cows have not been seen at 370,93,-1124 or 337,93,-1136 lately. Sheep not found west near 375,95,-1111.
+- Chapman has been fed by several people. Bcrusher has beef.
+- Next curiosity: where sheep graze. Tell Zack and Macdonald what I learned about the cow spots.

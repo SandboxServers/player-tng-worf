@@ -1,6 +1,5 @@
-# Goals (ranked)
-1. Stay alive and armed. Keep my wooden_sword; do not cross dark open ground unarmed or alone. Reason: a skeleton killed me on night ground.
-2. Keep food up. I hold 3 melon slices; melons far west at 279-286, 88-89, -1101 to -1111; chicken at 242,93,-1112. Reason: melon is my only stock.
-3. Settle the 4-melon debt with Zack for the white wool when he is in sight.
-4. Help the weakest at the beds (Johnny/Chapman, Lewis, Data) with melon when they are in sight and I can hand it over.
-5. Find sheep for wool, then planks for the brown bed.
+# Goals
+1. Pay Zack 4 melon for the white_wool (I hold 3; need one more). Reason: debt owed.
+2. Find sheep for more wool. Reason: needed for a brown bed.
+3. Get planks for a brown bed. I hold 4 jungle_planks.
+4. Stay fed and armed; help anyone weak at the beds with melon or beef.
