@@ -1,8 +1,8 @@
 # Summary
-I am Worf. Day 355 ended at dusk. I am asleep in the bed at 401,107,-1050 on the bed row, in sight of the group.
-Inventory: 13 oak planks, 1 black_wool (not white), wooden_sword, 2 jungle_planks, 1 jungle_log, 1 wheat, 2 stick. No food. Health 20, hunger 20.
-Owed: Zack 3 melon. MacDonald offered a white wool for Data; I said yes.
-Group at the bed row: Billy, Zack, Jason, Picard, Beverly, Trini, Kimberly, Clark, Riker, Data, Tommy, Troi, Leonardo, MacDonald, Lewis, Wesley.
-Lowest on food: Clark (11 health), MacDonald (13), Kimberly (11), Trini (13).
-Cow walk: stalled. Billy will call it when someone is hungry enough. Nobody has found water yet; Clark looks west.
-Next: at morning, feed the lowest first, join the cow walk, pay Zack when I hold melon, teach Kimberly and Jason the shelter.
+I am Worf. Day 362 ended at night. I am asleep at the white bed 416,107,-1023 at the bed row, in reach of Jason, Data and Leonardo.
+Inventory: 12 oak_planks, black_wool, wooden_sword, 2 jungle_planks, jungle_log, wheat, 2 stick. No food. Health 20, hunger 20.
+Owed: 3 melon to Zack (Kimberly holds 26 melon, Beverly 7, Picard 3).
+Promised: show the plank ring and roof to Troi, Kimberly, Jason, Leonardo, Data, Picard, Wesley once built.
+Need 13 more oak_planks for the 25-block shelter. No oak trees known yet.
+Water and sheep not found yet.
+Next: at morning, feed the lowest first (Trini, Kimberly), gather planks, build the shelter in open ground at the bed row in sight of the group.
