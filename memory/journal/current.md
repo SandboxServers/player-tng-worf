@@ -42,3 +42,26 @@
 - 15:08 act: {"actions":[{"do":"mine","block":"gravel","count":1},{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":401,"y":107,"z":-1023}}],"say":"Thank you Jason, Trini. I am digging through the 
 - 15:08 act: {"actions":[{"do":"goto","target":{"x":394,"y":106,"z":-1023}},{"do":"goto","target":{"x":401,"y":107,"z":-1023}}],"say":"Stepping north toward the dropped item, then east to the beds.","reasoning":"V
 - 15:08 act: {"actions":[{"do":"note","text":"Still in gravel pit at 394,107,-1022. Gotos blocked. Mining gravel failed once. Waiting for group to guide me out."}],"say":"Worf still in the gravel pit at 394,107,-1
+- 15:11 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}}],"reasoning":"Still stuck in pit alone; try goto to beds once to test whether the way is open now.","say":"Still in the pit. Heading for 
+- 15:11 act: {"say":"Worf still stuck in the gravel pit at 394,107,-1022. Goto is blocked. Which block should I mine to get out?","reasoning":"Stuck alone; my moves fail. Asking the group which block to mine, per 
+- 15:13 act: {"actions":[{"do":"mine","block":"gravel","count":1},{"do":"unstick"}],"reasoning":"Beverly and Tommy advise mining straight up. It is dusk, so I try now.","say":"Thank you Beverly and Tommy. I am min
+- 15:17 act: {"say":"Worf still in the gravel pit at 394,107,-1022, alone. Trini and Kimberly, I hold no food. Zack, Beverly, Tommy: when you are free, please say the block to mine to open a way out to the east.",
+- 15:21 act: {"actions":[{"do":"mine","block":"gravel","count":1}],"say":"Kimberly, Worf is at the bottom of the pit at 394,107,-1022, in gravel. I am alive and health is 20. Trying the stone to the east now.","re
+- 15:21 act: {"actions":[{"do":"unstick"}],"reasoning":"Follow the escape-a-pit skill: unstick first, it needs no blocks."}
+- 15:22 act: {"actions":[{"do":"wait","seconds":120}],"say":"Worf still stuck at the bottom of the pit, 394,107,-1022. Unstick did nothing. I will stay put and wait for you to come to the edge and say the block.",
+- 15:28 act: {"say":"Worf in the pit at 394,107,-1022, night now, health 20. I am not moving. Zack, when the group is ready, come to the pit edge and tell me one block to mine.","reasoning":"Night in an open pit. 
+- 15:44 act: {"say":"Worf still in the pit at 394,107,-1022. Beverly, Kimberly, Tommy: come to the pit edge within sight and say the one block to mine. I am healthy and will wait.","reasoning":"Group is awake and 
+- 15:48 act: {"say":"Kimberly, I am at 394,107,-1022 on gravel, and I see only gravel and dirt around me. Please look down into the pit and tell me one block to mine, with its position.","reasoning":"Kimberly is a
+- 16:04 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"unstick"}],"say":"I am still in the pit at 394,107,-1022, standing on gravel. Only 1 dirt and 1 stone are near me. I am trying to dig the dirt
+- 16:08 act: {"actions":[{"do":"wait","seconds":120}]}
+- 16:11 act: {"actions":[{"do":"craft","item":"jungle_planks","count":4}],"say":"Still in the pit at 394,107,-1022. I mined 1 dirt. I am crafting planks from my jungle log to build a pillar up out of the pit.","in
+- 16:11 act: {"actions":[{"do":"wait","seconds":20}],"intent":{"goal":"pillar_out_of_pit","program":"build","arguments":{"blueprint":"pillar","block":"jungle_planks"},"wake_on":["goal_completed","precondition_fail
+- 16:11 act: {"actions":[{"do":"place","block":"jungle_planks","at":"feet"},{"do":"wait","seconds":5}]}
+- 16:11 act: {"actions":[{"do":"place","block":"jungle_planks","at":"feet"}]}
+- 16:11 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"hold_still_in_pit","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":200,"max_block_opera
+- 16:11 act: {"actions":[{"do":"place","block":"jungle_planks","at":"feet"}],"say":"Beverly, yes please. I have 6 jungle planks and 1 dirt. I am trying to place a pillar under my feet and climb it. Tell me if I am
+- 16:17 act: {"actions":[{"do":"unstick"},{"do":"place","block":"jungle_planks","at":"feet"}],"say":"Beverly, Jason, I hear you. I will place a plank at my feet now and tell you whether I rise."}
+- 16:17 act: {"actions":[{"do":"wait","seconds":45}]}
+- 16:17 act: {"actions":[{"do":"wait","seconds":60}]}
+- 16:17 act: {"actions":[{"do":"place","block":"jungle_planks","at":"feet"}]}
+- 16:17 act: {"actions":[{"do":"wait","seconds":60}],"say":"Jason, Beverly: my place at my feet keeps failing, and an old action may still be running. I am still at 394,107,-1022, health 20, hunger 20. Tell me the
