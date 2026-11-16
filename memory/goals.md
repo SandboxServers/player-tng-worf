@@ -1,7 +1,7 @@
 # Goals
-1. Get a sword and keep it in my pack. Reason: phantoms struck me at dusk on day 333 and I had nothing to fight with.
-2. Pay Zack 4 melon for the white_wool. Reason: debt owed; I hold 4 melon, so pay when he is in sight.
-3. Stay fed; give melon to Lewis or anyone weak at the beds. Reason: Lewis was at 14 health and asked for melon.
-4. Help Data and the others search for sheep in daylight, in their sight. Reason: Data needs 2 more white wool for a brown bed.
-5. Get planks for a brown bed, once wool is found. Reason: I hold 4 jungle_planks.
-6. Find a safe night spot. Reason: the bed refused me before, and the dirt wall is not enclosed.
+1. Get a sword and keep it in my pack. Reason: phantoms come at dusk and I have none.
+2. Help Data find two white wool for his brown bed, searching in his sight in daylight. I hold 4 jungle_planks for that bed.
+3. Pay Zack 4 melon for the white_wool. Reason: debt owed; I hold 2 melon, so I need more or must find Zack first.
+4. Stay fed; give melon to whoever is weak at the beds, Lewis first.
+5. Tell Laforge the oak at 466,112,-1108 would not mine for Data.
+6. Sleep in the white bed at 387,107,-1092 or 402,107,-1090 at night, with Data and Riker near.

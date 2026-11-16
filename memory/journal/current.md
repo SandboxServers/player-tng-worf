@@ -67,3 +67,35 @@
 - 04:35 act: {"say":"Data, Riker, Chapman: I will come west with you for the sheep. I will stay in your sight.","actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1098}}],"reasoning":"Three of them search west
 - 04:39 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Two phantoms are on me at dusk. I have no sword in my pack, so I strike the close one and then get back to the bed row where Data and Riker
 - 04:39 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1095}},{"do":"sleep"}],"reasoning":"Night has fallen and phantoms roam. I go to the bed row by Data, near the white bed at 387,107,-1092, and tr
+- 04:40 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":387,"y":107,"z":-1092}}],"say":"Worf here, night at the beds. I ate a melon slice and will sleep in my white bed.","reasoning":"Night, near bed, hun
+- 04:40 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1092}},{"do":"sleep"}],"reasoning":"Sleep worked, but it is still night. Try the bed once more to rest properly."}
+- 04:44 act: {"say":"Morning. Data, I will go north with you for sheep in daylight. Tell me when you leave and I will keep in your sight. Riker, I hold 3 melon for whoever is weak.","intent":{"goal":"follow_data_s
+- 04:50 act: {"say":"Riker, Worf here at the bed row, 388,107,-1092. Data is not in my sight yet. When you see Data, tell me and I will walk north with you both.","reasoning":"Data has not reached the beds. Stay h
+- 04:54 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Night, Riker and Data. Worf is trying the white bed at 387,107,-1092. Sheep search at first light, and I will be in sig
+- 04:55 act: {"actions":[{"do":"eat"}],"say":"Morning, Riker. The bed would not take me in the dark, so I am awake at 388,107,-1092 and well. Data, I am ready to go north for sheep when you are in sight.","reasoni
+- 04:55 act: {"actions":[],"intent":{"goal":"await_data_for_sheep_search","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations
+- 04:55 act: {"actions":[{"do":"note","text":"Day 334 daytime at bed row. Data not in sight. Riker here. Waiting for sheep search to start."}],"say":"Riker, I'm with you at the bed row. I'll go north with you and 
+- 04:59 act: {"actions":[],"say":"Data, thank you for trying north. Worf still holds 2 melon and 4 jungle planks, and I'll go with you to another direction when you choose one.","reasoning":"Data searched north an
+- 05:03 act: {"actions":[{"do":"goto","target":"ag_data_01"}],"say":"Data, I am coming to you now. I will walk east with you and keep you in sight.","reasoning":"Data asked me to walk east for sheep in daylight. G
+- 05:03 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1090}}],"say":"Data, I am walking to the bed row near you at 401,107. Tell me when you see me, and we go east together.","reasoning":"Data is no
+- 05:03 act: {"actions":[],"intent":{"goal":"follow_data_east_for_sheep","program":"follow","arguments":{"target":"ag_data_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_
+- 05:06 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Dusk, Data. Worf is trying the bed at 401,107,-1092, next to you. Tomorrow we search east at first light.","reasoning":
+- 05:10 act: {"intent":{"goal":"follow_data_east_for_sheep","program":"follow","arguments":{"target":"ag_data_01"},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":6000,"max_block_o
+- 05:11 act: {"intent":{"goal":"follow_data_east_for_sheep","program":"follow","arguments":{"target":"ag_data_01"},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":6000,"max_block_o
+- 05:16 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1081}}],"say":"Data, Worf is walking to you at 402,107,-1081. I can see you once I am there.","reasoning":"Data is out of sight at the bed row. 
+- 05:16 act: {"intent":{"goal":"follow_data_east_for_sheep","program":"follow","arguments":{"target":"ag_data_01"},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":6000,"max_block_o
+- 05:16 act: {"actions":[{"do":"goto","target":{"x":425,"y":107,"z":-1082}}],"say":"Data, I am walking east now toward 425,107,-1082 to look for sheep. Come if you can.","reasoning":"Follow keeps ending; I will wa
+- 05:19 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1090}}],"say":"Data, Worf is walking back to the bed row now for the night.","reasoning":"Dusk, alone in the open. Return to the bed row near Da
+- 05:24 act: {"say":"Data, I am with you. Let us go east together and look for sheep. Stay in sight.","intent":{"goal":"search_sheep_east_with_data","program":"follow","arguments":{"target":"ag_data_01"},"wake_on"
+- 05:24 act: {"say":"Data, I will walk east to 425,107,-1083 now. Come along.","intent":{"goal":"walk_east_to_sheep_area","program":"travel","arguments":{"x":425,"y":107,"z":-1083},"wake_on":["directly_addressed",
+- 05:24 act: {"intent":{"goal":"walk_east_to_sheep_area","program":"travel","arguments":{"target":{"x":425,"y":107,"z":-1083}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
+- 05:24 act: {"say":"I am at 424,107,-1083, east of the beds, out in the open. Data, Bcrusher, come into sight and I will wait here."}
+- 05:26 act: {"say":"Data, Chapman, I see you both. Let us go further east and look for sheep, staying close.","intent":{"goal":"search_east_for_sheep","program":"travel","arguments":{"target":{"x":445,"y":107,"z"
+- 05:26 act: {"say":"I am at 444,107,-1083. Data, Chapman, catch up and tell me when you can see me. I will wait here."}
+- 05:28 act: {"say":"Data and Chapman are with me. Going further east to 470,107,-1083 to look for sheep. Bcrusher, follow us.","intent":{"goal":"search_far_east_for_sheep","program":"travel","arguments":{"target"
+- 05:30 act: {"say":"Data, I am at 470,107,-1083 by the wheat. The way east is blocked, so I will walk back to 443,107,-1083 to meet you.","intent":{"goal":"rejoin_data_at_443","program":"travel","arguments":{"tar
+- 05:30 act: {"say":"Data, dusk is coming and no sheep yet. Let us walk back west to the bed row together and stay in sight.","intent":{"goal":"return_to_bed_row_before_night","program":"travel","arguments":{"targ
+- 05:35 act: {"say":"Data, Laforge wants to know where real oak trees are. You said 466,112,-1108 and 475,113,-1112. Shall we check those together before dark? I have 4 jungle planks for your brown bed when we fin
+- 05:39 act: {"say":"Troi, I have not seen a boat or saplings. Data and I will check the oak at 466,112 together. Lewis is weak; I have two melon, Riker has Bcrusher's, so I will leave it to them.","intent":{"goal
+- 05:42 act: {"intent":{"goal":"return_to_bed_row","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1090}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 05:47 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1092}}]}

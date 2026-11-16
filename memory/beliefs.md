@@ -1,8 +1,13 @@
 # Beliefs
-- Give and follow need the other person in sight and in reach. "Not in sight" is the usual failure.
+- Give and follow need the other person in sight and in reach. "Not in sight" is the usual failure. Walls can block a give even when the person is near.
 - wake_on accepts only goal_completed, directly_addressed, precondition_failed, unexpected_damage, or new_agent_within_N.
+- travel takes target as a nested {"x","y","z"} object. A flat position is rejected.
 - trade_wait programs are not available in this phase.
-- Sleep works only at night.
-- Cows have not been seen at 370,93,-1124 or 337,93,-1136 lately. Sheep not found west near 375,95,-1111.
+- Sleep works only at night. The use action on a bed at night can be refused ("that block is a bed"); the sleep verb after it worked on the night of 336.
+- Phantoms come at dusk. Carry a sword.
+- The way east from the beds is blocked near 472,107,-1082. Sheep were not found east (424-470,107,-1083) or west (near 375,95,-1111).
+- The oak at 466,112,-1108 would not mine for Data.
+- Cows have not been seen at 370,93,-1124 or 337,93,-1136 lately.
+- Melon restores hunger.
 - Chapman has been fed by several people. Bcrusher has beef.
-- Next curiosity: where sheep graze. Tell Zack and Macdonald what I learned about the cow spots.
+- Next curiosity: where sheep graze. Ask Laforge, Clark and Picard what they know about grazing land.
