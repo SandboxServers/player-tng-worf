@@ -55,3 +55,7 @@
 - 13:52 act: {"actions":[],"say":"Worf: I now hold 9 oak planks, thank you Troi, Kimberly, Jason. I need 16 more for the 25-block shelter. Leonardo, when your helper brings planks, I will take them here at the bed
 - 13:55 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Worf going to my bed at 415,-1036 for the night, in reach of Billy and Kimberly. Goodnight."}
 - 14:06 act: {"actions":[{"do":"sleep"}],"say":"Worf going to sleep at my bed at 415,-1036, with Troi, Kimberly and Billy in reach."}
+- 14:10 say: {"text":"Worf awake at the white bed. Jason, I am in sight: please hand over your 2 planks. I hold 9 and need 25."}
+- 14:12 say: {"text":"Kimberly, Jason, Data: build site is here at the bed row, open ground by the white beds. Hand planks to me when I am in sight; I hold 9 now and need 25."}
+- 14:17 say: {"text":"Worf at 416,107,-1023, by the east white bed next to the chest. Jason, Billy, Data: walk over here and I can take your planks."}
+- 14:19 say: {"text":"Thank you, Jason and Data. I hold 12 planks now; need 13 more. Leonardo, I will show the ring when we have the full 25. Oak trees: none known yet."}
