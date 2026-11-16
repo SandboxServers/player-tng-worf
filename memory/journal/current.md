@@ -144,3 +144,5 @@
 - 22:26 say: {"text":"Worf, dusk, still in the pit at 394,107,-1022, health 20. Jason, Trini, Picard: when you are awake in daylight, can two of you see stone at 394,107,-1025 from the edge? I dig nothing until th
 - 22:30 say: {"text":"Thank you, Picard. Dig nothing on your word alone, and I agree. Jason or Trini, please look at 394,107,-1025 too. I hold still."}
 - 22:34 say: {"text":"Jason, Trini: thank you for looking. Tell me in one line what you see at 394,107,-1025. If it is bare stone, say so, and I dig only that cell. Riker, feed first."}
+- 22:55 act: {"say":"Worf in the pit at 394,107,-1022, alone and unhurt. Can anyone at the edge see stone at 394,107,-1025? I need one confirmation.","reasoning":"Still stuck in pit. No one in sight. Ask group for
+- 22:59 act: {"actions":[{"do":"wait","seconds":240}],"reasoning":"Nobody can confirm 394,107,-1025. Dig nothing. Hold still and wait for an edge sighting."}
