@@ -16,3 +16,11 @@
 - 14:44 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1030}}],"reasoning":"I am free of the pit. Go back toward the group at the beds."}
 - 14:47 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1035}}],"say":"Night is here. I am going to the bed row to sleep. Trini, I owe you nothing, but if you have melon to spare, I will hold it for t
 - 14:48 act: {"actions":[{"do":"note","text":"Night, day 363. At the white bed row in sight of Leonardo and Tommy. Hunger 20, health 20. Sleeping now."}],"say":"Goodnight. I am at the bed row with the group in sig
+- 14:49 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Worf here, at the bed row, in sight of the group. Going to sleep for the night.","reasoning":"Night, at the bed row wit
+- 14:49 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"use","at":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"reasoning":"Bed use failed at the first bed. Try the other bed in the row 
+- 14:49 act: {"actions":[{"do":"goto","target":{"x":377,"y":116,"z":-1014}},{"do":"mine","block":"oak_log","count":2}],"say":"Morning. Bed use keeps failing, so I will sleep another night. Going to the oak at 377,
+- 14:49 act: {"actions":[{"do":"mine","block":"oak_log","count":2}],"reasoning":"I am beside the oak column at 377,112. Mine the nearby logs directly rather than walk."}
+- 14:49 act: {"actions":[{"do":"goto","target":{"x":391,"y":107,"z":-1020}},{"do":"craft","item":"oak_planks","count":12}],"say":"Got three oak logs. Walking to the crafting table at 391,107 to make planks, then b
+- 14:50 act: {"intent":{"goal":"build_oak_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_address
+- 14:50 act: {"actions":[{"do":"unstick"}],"say":"Shelter is 23 of 25 blocks; two walls were blocked by something. I am inside it now, getting out.","reasoning":"I am enclosed in the shelter in a pit. Get out firs
+- 14:50 act: {"actions":[{"do":"note","text":"Shelter: 23 of 25 placed, north and west walls blocked. I am out at 391,107,-1022 with 11 planks left. Next: look at the blocked wall spots and finish them."}],"say":"
