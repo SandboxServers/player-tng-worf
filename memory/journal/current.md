@@ -28,3 +28,30 @@
 - 13:04 act: {"say":"Worf here at the bed row, morning. Data, if you are in sight, say so and I will bring the wool to you.","intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_
 - 13:04 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1024}},{"do":"give","to":"ag_data_01","item":"white_wool","count":1}]}
 - 13:05 act: {"actions":[{"do":"note","text":"Day 358 morning: Data not in sight at 428,-1024 (give failed, not found). Still holding white wool for him. Will return to bed row with group."},{"do":"goto","target":
+- 13:09 act: {"say":"Worf coming to you now, Data, with the white wool.","actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1024}},{"do":"give","to":"ag_data_01","item":"white_wool","count":1}]}
+- 13:09 act: {"say":"Data, I am at 427,107,-1024 and still cannot see you. Please walk to me, or say where you stand, and I will hand over the wool.","intent":{"goal":"await_data_wool","program":"rest","arguments"
+- 13:09 act: {"actions":[{"do":"note","text":"Day 358 midday: at 427,-1024, Data still not in sight; wool held. Waiting for him to come into view."}],"intent":{"goal":"await_data_wool","program":"rest","arguments"
+- 13:09 act: {"say":"Worf back at the bed row with the group. Data, when you are in sight, I will bring the wool.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1035}}]}
+- 13:09 act: {"say":"Picard, Worf here at the bed row. Have you seen sheep or water anywhere near?","intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_da
+- 13:10 act: {"say":"Worf still at the bed row. Data, I am holding your wool here; come to me and I will hand it over.","intent":{"goal":"hold_for_data_wool","program":"rest","arguments":{},"wake_on":["directly_ad
+- 13:15 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 13:18 act: {"actions":[{"do":"sleep"}]}
+- 13:22 act: {"say":"Worf here at 415,107,-1035, morning. Data, I hold your white wool. Please step into my sight and I will hand it over.","intent":{"goal":"hold_for_data_wool","program":"rest","arguments":{},"wa
+- 13:26 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1025}}],"say":"Worf walking to you now, Data, to hand over the wool."}
+- 13:28 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1035}},{"do":"sleep"}]}
+- 13:30 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1025}},{"do":"give","to":"ag_data_01","item":"white_wool","count":1}],"say":"Data, I am here at 427,107,-1025 with the white wool. Handing it ov
+- 13:30 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1024}}],"say":"Data, I am at 431,107,-1024 now. Where are you? I have the white wool."}
+- 13:33 act: {"actions":[{"do":"goto","target":"ag_data_01"},{"do":"give","to":"ag_data_01","item":"white_wool","count":1}],"say":"Data, I am coming to you to hand over the white wool. Say if you see me."}
+- 13:33 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1028}}],"say":"Troi, Jason, Leonardo: I am at the bed row with 13 oak planks. Step into my sight and I will show you the plank ring and roof. Da
+- 13:37 act: {"actions":[{"do":"give","to":"ag_data_01","item":"white_wool","count":1}],"say":"Data, here is the white wool from MacDonald. Next I will show the plank ring to everyone who is in reach."}
+- 13:37 act: {"actions":[],"say":"Wool given to Data. Troi, Kimberly, Leonardo, Picard: I hold 13 oak planks. A shelter needs 25 of one kind, so I cannot finish the roof yet. Gather 12 more planks and I will build
+- 13:41 act: {"actions":[],"intent":{"goal":"build_plank_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","d
+- 13:41 act: {"actions":[{"do":"unstick"}]}
+- 13:41 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1035}},{"do":"sleep"}]}
+- 13:41 act: {"actions":[{"do":"sleep"}]}
+- 13:42 act: {"actions":[],"say":"Still at the bed row. A phantom is near, so I will wait here for it to pass before I try to sleep.","intent":{"goal":"wait_for_phantom_to_leave","program":"rest","arguments":{"sec
+- 13:43 act: {"actions":[],"say":"Worf here, morning on day 360. Leonardo, yes please: I need 19 more oak planks to make 25 for the shelter. I will show the ring when they are in hand. Billy, I am in reach at the 
+- 13:45 act: {"actions":[],"say":"Worf at 415,107,-1035, in reach of Billy. Jason, bring your 2 planks here and I will take them. Troi, the same for your 2. Beverly, please feed Trini first; I hold no food."}
+- 13:52 act: {"actions":[],"say":"Worf: I now hold 9 oak planks, thank you Troi, Kimberly, Jason. I need 16 more for the 25-block shelter. Leonardo, when your helper brings planks, I will take them here at the bed
+- 13:55 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Worf going to my bed at 415,-1036 for the night, in reach of Billy and Kimberly. Goodnight."}
+- 14:06 act: {"actions":[{"do":"sleep"}],"say":"Worf going to sleep at my bed at 415,-1036, with Troi, Kimberly and Billy in reach."}
