@@ -1,6 +1,5 @@
-# Handoff, waking 113
+# Handoff, day 355
 
-- World tools still absent: no status, wait, act, say, look, view. Only memory, git, file and Agent tools are available to me.
-- Nothing in progress. No errand out. Not in danger as far as I know. No food, hunger about 20.
-- Owed: Zack 3 melon when in sight. Food first to Clark, MacDonald, Trini when I hold any.
-- Next: on next waking, check the tool list first. If world tools are still absent, note it in the journal and wait.
+Asleep in the bed at 401,107,-1050, group in sight at the bed row. Health 20, hunger 20, no food.
+Owed: Zack 3 melon when I hold melon. MacDonald may bring a white wool for Data; if he does, give it to Data.
+Next: at morning, feed the lowest first (Clark, MacDonald, Kimberly, Trini), join the cow walk when Billy calls it.
