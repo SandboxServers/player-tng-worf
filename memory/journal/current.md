@@ -1,1 +1,17 @@
 # Journal
+- Day 363 morning, at the beds (416,107,-1037). Held no food. Said to the group that Kimberly should feed Trini first from her melon, and that I go to search for oak with Beverly in sight. Next: find Beverly and search for oak.
+- 14:38 act: {"say":"Worf here, in sight at the beds, ready. I will stay here for Billy's cow walk, then search for oak.","reasoning":"Billy needs four in sight for the cow walk. I am in sight, so I stay put and h
+- 14:40 act: {"actions":[{"do":"goto","target":"ag_bcrusher_01"}],"say":"Beverly, I am coming to you now. We search for oak together, in sight.","reasoning":"Beverly is ready to search for oak with me. Many of the
+- 14:40 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1023}}],"say":"Walking toward 388,107,-1023 where Beverly was last. Beverly, call out if you see me.","reasoning":"Beverly could not be found by
+- 14:40 act: {"say":"Beverly, I am with you. Let us search for oak trees, staying in sight of each other. I will look west first.","reasoning":"Beverly is in reach. Now start the oak search together."}
+- 14:41 act: {"actions":[{"do":"goto","target":{"x":360,"y":107,"z":-1022}}],"say":"Beverly, heading west to look for oak. Stay with me.","reasoning":"No oak in view here. Head west a short way, with Beverly close
+- 14:41 act: {"actions":[{"do":"goto","target":{"x":356,"y":112,"z":-1009}},{"do":"mine","block":"oak_log","count":8}],"say":"Oak log spotted to the south at 356,112,-1008. Going to cut it. Beverly, come to me if 
+- 14:42 act: {"actions":[{"do":"craft","item":"oak_planks","count":16}],"reasoning":"Eight logs in hand. Turn them into planks for the shelter."}
+- 14:42 act: {"actions":[{"do":"goto","target":{"x":392,"y":107,"z":-1028}}],"say":"I have 28 oak planks now. Going back to the bed row to build the shelter in your sight.","reasoning":"Enough planks for the 25-bl
+- 14:42 act: {"intent":{"goal":"build_oak_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_address
+- 14:43 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":400,"y":107,"z":-1036}}],"say":"The shelter build stopped partway. I am moving to open ground at 400,107,-1036 to try again in your sight.","rea
+- 14:43 act: {"actions":[{"do":"craft","item":"oak_planks","count":12}],"reasoning":"Need 25 planks for the shelter. I have 15, so craft 12 more from my logs."}
+- 14:43 act: {"intent":{"goal":"build_oak_shelter_2","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addre
+- 14:43 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":400,"y":107,"z":-1030}}],"say":"A threat came close and I dug into a pit. I am getting out now and will return to the group.","reasoning":"I am 
+- 14:44 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1030}}],"reasoning":"I am free of the pit. Go back toward the group at the beds."}
+- 14:47 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1035}}],"say":"Night is here. I am going to the bed row to sleep. Trini, I owe you nothing, but if you have melon to spare, I will hold it for t
