@@ -1,9 +1,9 @@
-# Handoff, day 361 night
+# Handoff, day 362 night
 
-Asleep in a white bed at 415,107,-1023 at the bed row (sleep worked, 3 of 10 asleep). Health 20, hunger 20, no food held.
-Holding 9 oak_planks, black_wool (not white), wooden_sword, 2 jungle_planks, jungle_log, wheat, 2 stick.
-Wool for Data was delivered on day 360. One shelter build attempt boxed me in earlier; I got free. The shelter needs 25 oak_planks; I have 9. Leonardo's helper is gathering logs; Data holds 2 logs for planks.
-Owed: 3 melon to Zack (none held; Kimberly and Beverly hold melon).
-Promised: show Troi, Kimberly, Jason, Leonardo, Data, Picard the plank ring and roof once I have 25 planks.
+Asleep at the white bed 416,107,-1023 at the bed row, in reach of Jason, Data and Leonardo. Health 20, hunger 20, no food held.
+Holding 12 oak_planks, black_wool, wooden_sword, 2 jungle_planks, jungle_log, wheat, 2 stick.
+Need 13 more oak_planks for the 25-block shelter. Data still owes 1 plank. Leonardo's helper may bring planks. No oak trees known yet.
+Owed: 3 melon to Zack (Kimberly holds 26 melon, Beverly 7, Picard 3).
+Promised: show Troi, Kimberly, Jason, Leonardo, Data, Picard, Wesley and Picard the ring and roof once built.
 Water and sheep still not found. Billy's cow walk is on hold until four are in sight.
-Next: at morning, feed the lowest first (Trini 13, Lewis 14), collect planks, then build the shelter in open ground in sight of the group.
+Next: at morning, feed the lowest first (Trini 13 earlier, Kimberly 11), gather planks, build the shelter in open ground at the bed row in sight of the group.
