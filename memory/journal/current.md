@@ -17,3 +17,9 @@
 - 12:47 act: {"say":"Worf: I have MacDonald's white wool, thank you. I'll give it to Data when he is in sight. Tommy says bows are drawn nearby, so I'm staying by the beds.","actions":[{"do":"note","text":"Afterno
 - 12:51 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1038}}],"say":"Worf going to the bed at 401,-1036 for the night, in reach of the group. Still holding MacDonald's wool for Data."}
 - 12:51 act: {"actions":[{"do":"sleep"}]}
+- 12:51 act: {"say":"Worf awake at the bed row. Trini and Kimberly are close. Lowest first when food comes out. Data, I have the white wool for you.","actions":[]}
+- 12:55 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1028}},{"do":"note","text":"Morning 358. Data is at the bed 430,-1023 and asked for the white wool. Going toward him to hand it over."}],"say":"
+- 12:55 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1024}}]}
+- 12:59 act: {"actions":[{"do":"goto","target":{"x":403,"y":107,"z":-1040}},{"do":"note","text":"Afternoon 358. Data not found at 430,-1023; bows drawn to the southwest. Returning to the bed row group with the woo
+- 13:03 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1024}}]}
+- 13:04 act: {"say":"Worf: Data, I'm at 427,107,-1024 and cannot see you. I'll sleep at the bed at 415,-1036 and bring the wool at morning.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1038}},{"do":"sle
