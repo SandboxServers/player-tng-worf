@@ -23,3 +23,8 @@
 - 12:59 act: {"actions":[{"do":"goto","target":{"x":403,"y":107,"z":-1040}},{"do":"note","text":"Afternoon 358. Data not found at 430,-1023; bows drawn to the southwest. Returning to the bed row group with the woo
 - 13:03 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1024}}]}
 - 13:04 act: {"say":"Worf: Data, I'm at 427,107,-1024 and cannot see you. I'll sleep at the bed at 415,-1036 and bring the wool at morning.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1038}},{"do":"sle
+- 13:04 act: {"say":"Worf: Data, I'm coming to the beds at 430 to hand you the white wool.","actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1024}},{"do":"give","to":"ag_data_01","item":"white_wool","count":
+- 13:04 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1035}},{"do":"note","text":"Day 358 night: Data not in sight at 430,-1023; wool still held. Moved to bed 415,-1036 to sleep with group near."},{
+- 13:04 act: {"say":"Worf here at the bed row, morning. Data, if you are in sight, say so and I will bring the wool to you.","intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_
+- 13:04 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1024}},{"do":"give","to":"ag_data_01","item":"white_wool","count":1}]}
+- 13:05 act: {"actions":[{"do":"note","text":"Day 358 morning: Data not in sight at 428,-1024 (give failed, not found). Still holding white wool for him. Will return to bed row with group."},{"do":"goto","target":

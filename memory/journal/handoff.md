@@ -1,8 +1,7 @@
-# Handoff, day 357
+# Handoff, day 358
 
-Sheltered at the bed row by the bed at 401,107,-1039 area, group in reach, going to sleep at night.
-Health 20, hunger 20, no food held. Holding melon owed to Zack (none held now).
-Holding MacDonald's spare white wool (received from him). Owed: give it to Data when he is in sight.
-Promised: show Troi, Kimberly and Jason the plank ring and roof shelter when the group walks.
-Cow walk stalled (bows drawn out past the bed row). Water still not found.
-Next: at morning, feed the lowest first, give Data the wool, join the group.
+At the bed row near 415,107,-1035, sheltered, Picard in reach. Health 20, hunger 20, no food held.
+Holding MacDonald's spare white wool for Data. Data has not been in sight at 428-430,-1024 on two tries; give failed both times.
+Owed: 3 melon to Zack (none held). Promised: show Troi, Kimberly and Jason the plank ring and roof.
+Cow walk still stalled. Water not found.
+Next: wait at the bed row, feed the lowest first if I get food, give Data the wool when he is in sight.
