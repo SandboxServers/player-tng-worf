@@ -10,4 +10,6 @@
 - Cows have not been seen at 370,93,-1124 or 337,93,-1136 lately.
 - Melon restores hunger.
 - Chapman has been fed by several people. Bcrusher has beef.
+- A rest intent can end at once with no one calling; check the group's sight before walking alone.
+- Billy's count at the 387 row holds the group; walk only when he names the call.
 - Next curiosity: where sheep graze. Ask Laforge, Clark and Picard what they know about grazing land.
