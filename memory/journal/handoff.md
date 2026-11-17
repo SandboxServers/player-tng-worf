@@ -1,7 +1,6 @@
-# Handoff, day 424 dusk
+# Handoff, day 427 night
 
-Standing at the 401 bed row, beside the white bed at 413,107,-1042, with Billy's group in sight. Health 20, hunger 20.
-Holding wooden pickaxe; wooden sword, 3 oak planks, 4 jungle planks, black wool in pack. No food.
-Still owe Zack 3 melon when I hold melon.
-Food is scarce across the group; Laforge, Jason and Lewis have passed bread and melon to the weakest.
-Next at first light: stay with Billy's group, hold for the cow walk call, and carry food to the weakest if I find any.
+At the 387 row, 387,107,-1035, going to bed at white bed 387,107,-1036. Billy's group in sight (Kimberly, Picard, Zack, Leonardo, Trini, Jason, MacDonald, Data, Billy's crew). Health 20, hunger 20.
+No food in pack. Holding wooden pickaxe; wooden sword, 3 oak planks, 4 jungle planks, black wool in pack.
+Lewis is back in the group with a melon slice. Zack asked for a wooden sword; Clark said he holds his sword until Zack is in his daylight sight. Zack owes nothing from me yet. Still owe Zack 3 melon when I hold melon.
+Next: sleep at night, then at first light: count in with Billy, coordinate the sword for Zack with Clark, and explore northeast by the wheat field for water and sheep, in daylight with the group.
