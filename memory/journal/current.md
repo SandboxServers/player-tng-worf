@@ -35,3 +35,4 @@
 - 07:24 say: {"text":"Worf in the pit at 394,107,-1022, out of the pillager's line, health 20. I have one wheat, far from you. Holding here."}
 - 07:32 say: {"text":"Worf in the pit, health 20, holding 1 wheat for whoever is lowest in reach. Still owe Zack melon once I have some. No digging until a cell is named."}
 - 08:25 say: {"text":"Worf in the pit at 394,107,-1022, health 20, holding 1 wheat for whoever is lowest in reach. No digging until a cell is named. Still owe Zack melon."}
+- 08:46 say: {"text":"Worf in the pit at 394,107,-1022. Still alone. Anyone at the edge who can confirm stone at 394,107,-1025?"}
