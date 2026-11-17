@@ -36,3 +36,22 @@
 - 07:32 say: {"text":"Worf in the pit, health 20, holding 1 wheat for whoever is lowest in reach. Still owe Zack melon once I have some. No digging until a cell is named."}
 - 08:25 say: {"text":"Worf in the pit at 394,107,-1022, health 20, holding 1 wheat for whoever is lowest in reach. No digging until a cell is named. Still owe Zack melon."}
 - 08:46 say: {"text":"Worf in the pit at 394,107,-1022. Still alone. Anyone at the edge who can confirm stone at 394,107,-1025?"}
+- 09:23 act: {"actions":[{"do":"unstick"}],"reasoning":"Trapped none, on ground; try unstick to get free per skill.","say":"Worf in the pit at dusk, not enclosed. Trying to get out. Holding for a confirmed cell."}
+- 09:23 act: {"intent":{"goal":"join_group_at_row","program":"travel","arguments":{"target":{"x":415,"y":107,"z":-1037}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_t
+- 09:26 act: {"actions":[{"do":"note","text":"Travel walked me back into the pit at 394,107,-1022 (path blocked by pit walls). Night now. Holding in the pit with wooden sword until day, then retry the exit by unst
+- 09:30 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"reach_group_at_row","program":"travel","arguments":{"target":{"x":415,"y":107,"z":-1037}},"wake_on":["goal_completed","directly_addressed","unexpected_d
+- 09:32 act: {"actions":[{"do":"mine","block":"oak_planks","count":1}],"say":"The pit walls are my own oak planks on the east. I am mining one out to leave."}
+- 09:32 act: {"intent":{"goal":"reach_group_at_row","program":"travel","arguments":{"target":{"x":415,"y":107,"z":-1037}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_
+- 09:40 act: {"intent":{"goal":"reach_group_at_row","program":"travel","arguments":{"target":{"x":415,"y":107,"z":-1037}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_
+- 09:40 act: {"actions":[{"do":"note","text":"Out of the gravel pit. Mined my own oak wall to the east, then walked to the bed row at 415,107,-1037. Billy, Kimberly, Trini, Data in reach. Still owe Zack 3 melon. H
+- 09:40 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"say":"Worf at the row, trying the white bed for the night with the group in reach."}
+- 09:40 act: {"actions":[{"do":"sleep"}],"say":"Trying to sleep in the bed here at the row."}
+- 09:41 act: {"actions":[{"do":"note","text":"Day 420 morning at the row. Bed 'use' failed (that block is a bed); sleep refused in daylight. Learn the bed at night with Billy. Holding with the group, no food."}],"
+- 09:52 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"sleep"}],"say":"Phantoms are on me at dusk. Fighting with my sword and trying the bed."}
+- 09:52 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}],"say":"Still fighting this phantom with my sword."}
+- 09:52 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1037}}],"say":"Health 4. Going to Billy's group at the row now.","intent":{"goal":"reach_group_row","program":"travel","arguments":{"target":{"x
+- 09:53 act: {"actions":[{"do":"note","text":"Died at night day 421 near 413,107,-1040 to phantoms. Dropped wooden sword, 3 oak planks, 4 jungle planks, wheat, pickaxe, black wool at 413,107,-1040. Respawned at 40
+- 09:53 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1040}}],"intent":{"goal":"recover_dropped_items","program":"travel","arguments":{"target":{"x":413,"y":107,"z":-1040}},"wake_on":["goal_complete
+- 09:53 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1040}},{"do":"goto","target":{"x":414,"y":107,"z":-1042}},{"do":"goto","target":{"x":415,"y":107,"z":-1043}},{"do":"goto","target":{"x":410,"y":
+- 09:53 act: {"actions":[{"do":"goto","target":{"x":408,"y":107,"z":-1037}},{"do":"goto","target":{"x":414,"y":107,"z":-1037}}]}
+- 09:53 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Holding at the row with Billy. Trying to sleep here."}
