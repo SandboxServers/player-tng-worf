@@ -2,3 +2,12 @@
 - 12:36 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1033}}],"say":"Morning. Worf walking to the 387 row with Billy's group, in daylight."}
 - 12:36 act: {"actions":[],"say":"Worf is at the row with the group, in daylight. Billy, I walk northeast with you when you call."}
 - 12:46 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"use","at":{"x":387,"y":107,"z":-1036}}],"say":"Dusk. Worf going to the white bed at 387,-1036 in Billy's sight for the night."}
+- 12:47 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1035}}],"say":"Going to the white bed at 387,-1036 beside Zack and Lewis, in Billy's sight, for the night.","intent":{"goal":"reach_night_bed","
+- 12:47 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Here by the bed in Billy's sight. Standing guard for the night."}
+- 12:47 act: {"actions":[{"do":"sleep"}]}
+- 12:55 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1032}}],"say":"Worf walking to the 387 row to hold in Billy's sight."}
+- 13:03 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Dusk. Worf to the bed at 387,-1036 beside Clark, in Billy's sight, to sleep."}
+- 13:07 act: {"actions":[{"do":"note","text":"Day 430 morning at the 387 row, health 20, hunger 20, no food. Holding in Billy's sight for his count and the northeast walk."}],"say":"Worf here at the row, counted w
+- 13:15 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Worf at dusk, in Billy's sight at the row. I hold at 388,107,-1035, beside the bed row, and will sleep here. No wa
+- 13:16 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1035}}],"say":"Worf here at 416,-1036, not at the row; my walk went wrong and I am heading back to 389,-1035 to be in Billy's sight."}
+- 13:16 act: {"actions":[{"do":"note","text":"Day 431: my night walk drifted me to 416,-1036; walked back to 389,-1035 in Billy's sight. Still no food, hunger 20. Holding for Billy's call and dusk."}]}
