@@ -23,3 +23,5 @@
 - 01:44 act: {"actions":[],"say":"Worf still at the pit edge, 393,106,-1022, safe on dirt. Leonardo or Beverly, when Billy calls the walk, please name one plank or path I can mine toward the row.","reasoning":"The
 - 01:57 say: {"text":"Worf still at the pit edge, 394,107,-1022, safe on gravel. Holding until Billy calls the walk or someone names a cell."}
 - 02:13 say: {"text":"Worf counted at 394,107,-1022, health 20, hunger 20, on gravel. Still holding. Billy, when you call the walk, please name one plank or cell from the edge."}
+- 03:02 say: {"text":"Worf at the pit edge, 394,107,-1022, health 20, hunger 20. I hold still. Who sees a clear plank or path from the edge? I will dig only a cell someone confirms."}
+- 03:18 say: {"text":"Morning, Worf still at the pit edge 394,107,-1022, health 20, hunger 20. Billy, when you have a cell to name from the edge, say its exact coordinates and I will dig only that one."}
