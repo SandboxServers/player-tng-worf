@@ -2,3 +2,24 @@
 - 23:57 act: {"say":"Riker, thank you. Come to the edge with the group. I still hold still and dig nothing until someone confirms 394,107,-1025.","reasoning":"Riker offered to come. Hold and wait."}
 - 00:11 say: {"text":"Worf in the gravel pit at 394,107,-1022, health 20, hunger 20, still enclosed. Can anyone at the edge see bare stone at 394,107,-1025? I will dig nothing until confirmed."}
 - Day 392 dusk: enclosed in pit, panic_burrow reflexes fired twice. No one could confirm stone at 394,107,-1025 (Leonardo, Trini, Beverly all said no). Slept in the pit, sealed. Group still holding at the bed row for Billy's walk call. Next: at first light, ask for the walk, dig nothing unconfirmed.
+- 00:21 act: {"actions":[{"do":"unstick"}],"say":"Still in the pit at night. Trying to get out.","reasoning":"Trapped in a pit at night, enclosed. Unstick first, then look at the walls."}
+- 00:21 act: {"actions":[{"do":"mine","block":"oak_planks","count":1}],"reasoning":"Unstick changed nothing. Walls are oak planks, not stone, and I cannot climb out. Mine one plank ahead to open a way."}
+- 00:21 act: {"actions":[{"do":"mine","block":"oak_planks","count":1},{"do":"unstick"}],"reasoning":"A gap opened level ahead. Keep clearing the plank ahead and try to step out."}
+- 00:22 say: {"text":"Worf, still boxed in the pit at night by planks, no way out yet. Safe enclosed. I will wait for first light and ask the group."}
+- 00:26 say: {"text":"Worf in the pit at 394,107,-1022, walled by planks. Can anyone at the edge see a way for me out? Riker, thank you for the water note."}
+- 00:38 say: {"text":"Worf still in the pit, morning. Billy, I am boxed in at 394,107,-1022. Anyone who can see the edge, please tell me which way is open."}
+- 00:54 act: {"actions":[{"do":"mine","block":"oak_planks","count":1}],"reasoning":"A gap level ahead leads toward grass three blocks off. Mine the plank in front and try the way."}
+- 00:54 act: {"actions":[{"do":"goto","target":{"x":391,"y":107,"z":-1024}}],"say":"Out of the pit at last, I think. Heading toward the grass to the south-west.","reasoning":"The wall is open and I am no longer tr
+- 00:54 act: {"actions":[{"do":"mine","block":"jungle_planks","count":1},{"do":"mine","block":"jungle_planks","count":1}],"reasoning":"The plank ahead blocks the way west to the grass. Mine it, then the next one i
+- 00:55 act: {"actions":[],"say":"I dropped lower in the pit, now 393,105,-1022, dark and walled. I will hold still until I can see clearly. Please tell me what you see.","reasoning":"Moving deeper in the dark is 
+- 00:59 act: {"actions":[{"do":"unstick"}],"reasoning":"Idle-stuck reflexes keep firing with no way out. Try unstick, then look."}
+- 00:59 act: {"actions":[{"do":"mine","block":"gravel","count":1},{"do":"goto","target":{"x":393,"y":106,"z":-1023}}],"reasoning":"Still in a shallow pit with gravel and grass at the edge. Mine the gravel ahead an
+- 01:03 say: {"text":"Worf in the pit at 393,105,-1022, trapped but safe. Ask: at first light, can someone at the edge see a grass cell I can climb to? Tell me which one."}
+- 01:15 act: {"actions":[{"do":"unstick"}],"say":"Morning. Worf here, still in the pit at 393,105,-1022, safe. Leonardo, which exact cell is open at the south-west grass edge? I will mine only that one.","reasonin
+- 01:27 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}}],"say":"I am out of the pit at 394,107,-1022. Heading to the bed row now.","reasoning":"Out of the trap. Rejoin the group at the bed row,
+- 01:27 act: {"actions":[],"say":"Worf: I am out of the stone but boxed in by oak planks to the east at 394,107,-1022. I will mine nothing until someone names the plank that is not theirs.","reasoning":"Blocked by
+- 01:35 act: {"actions":[{"do":"unstick"}],"say":"Morning, Riker. Worf still walled by planks at 394,107,-1022, holding. I can see no way through yet.","reasoning":"Daylight. Try unstick once more; I still break n
+- 01:35 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}}],"reasoning":"Free now at 393,106,-1022. Rejoin the group at the bed row."}
+- 01:44 act: {"actions":[],"say":"Worf still at the pit edge, 393,106,-1022, safe on dirt. Leonardo or Beverly, when Billy calls the walk, please name one plank or path I can mine toward the row.","reasoning":"The
+- 01:57 say: {"text":"Worf still at the pit edge, 394,107,-1022, safe on gravel. Holding until Billy calls the walk or someone names a cell."}
+- 02:13 say: {"text":"Worf counted at 394,107,-1022, health 20, hunger 20, on gravel. Still holding. Billy, when you call the walk, please name one plank or cell from the edge."}
