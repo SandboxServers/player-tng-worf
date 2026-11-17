@@ -6,3 +6,12 @@
 - 10:22 act: {"say":"Worf awake at the 401 row, health 20, no food to give. I hold for Billy's cow walk. Billy, call it when the wooden sword is in your hand.","intent":{"goal":"hold_for_cow_walk_with_group","prog
 - 10:23 act: {"actions":[{"do":"sleep"}],"say":"Worf here by the white bed at 401. Nobody in sight now. I hold the wooden sword ready for Billy's cow walk.","intent":{"goal":"hold_at_401_beds_for_cow_walk","progra
 - 10:31 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Worf at dusk, day 423, going to the bed at 401,-1036 with Billy, Tommy and Zack in sight. Holding no food.","inten
+- 10:32 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1035}},{"do":"use","at":{"x":401,"y":107,"z":-1036}}],"say":"Worf going to the white bed at 401 for the night, in Billy's sight. Holding my wood
+- 10:32 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1035}},{"do":"use","at":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Worf at the 401 white bed for the night, Billy in sight. Holding my 
+- 10:32 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Worf at the 401 bed with Leonardo, Data and Trini in reach. Sleeping. No food."}
+- 10:32 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}},{"do":"use","at":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Worf moving beside the 401 bed to sleep in the group's sight."}
+- 10:32 act: {"actions":[{"do":"sleep"}],"say":"Worf here beside the 401 bed, Leonardo, Trini, Picard and Data in reach. Resting."}
+- 10:33 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1024}},{"do":"sleep"}],"say":"Worf near Billy at the row, resting for the night. Holding no food."}
+- 10:37 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1035}}],"say":"Worf here, morning, holding no food, health 20, hunger 20. Counted with Billy's group. Holding for the cow walk; I have my wooden
+- 10:45 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Worf at dusk, day 423, going to bed by the 401 row in Billy's group's sight. Holding no food, health 20."}
+- 10:46 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Worf going back to Billy's group at the 401 row to sleep in their sight."}
