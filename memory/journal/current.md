@@ -24,3 +24,5 @@
 - 14:27 act: {"say":"Billy, Worf holds at 390,107,-1035 in your sight, nothing in hand, health 20. I have no named cell yet. Name it when you can, and I will walk only with four in sight.","reasoning":"Dawn. I hav
 - 15:08 act: {"actions":[{"do":"note","text":"Morning day 436: no cell for Worf yet. Holding at 390,107,-1035 in Billy's sight. Pack has 1 black wool, 3 oak planks, 4 jungle planks; a bed needs 3 white wool."}],"s
 - 15:37 act: {"say":"Worf holds at 390,107,-1035 in the row, in Billy's sight. No walk in the dark.","intent":{"goal":"hold_at_row_through_night","program":"rest","arguments":{},"wake_on":["directly_addressed","pr
+- 16:31 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Worf here, dusk, walking to the bed at 387,107,-1036 in Billy's sight to lie down with the group.","reasoning":"Du
+- 16:33 say: {"text":"Worf holds still through the night at 388,107,-1023. At first light I come to the row when Billy calls."}
