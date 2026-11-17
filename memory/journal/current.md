@@ -25,3 +25,13 @@
 - 02:13 say: {"text":"Worf counted at 394,107,-1022, health 20, hunger 20, on gravel. Still holding. Billy, when you call the walk, please name one plank or cell from the edge."}
 - 03:02 say: {"text":"Worf at the pit edge, 394,107,-1022, health 20, hunger 20. I hold still. Who sees a clear plank or path from the edge? I will dig only a cell someone confirms."}
 - 03:18 say: {"text":"Morning, Worf still at the pit edge 394,107,-1022, health 20, hunger 20. Billy, when you have a cell to name from the edge, say its exact coordinates and I will dig only that one."}
+- 03:54 say: {"text":"Worf here, in the gravel pit at 394,107,-1022, health 20, hunger 20. Morning, day 403. Holding at the edge. Name the cell when two of you confirm it."}
+- 04:06 say: {"text":"Worf in the pit, no food on me, hunger 20. Tommy, Kimberly, whoever has melon: feed Tommy first. I hold my cell at the edge."}
+- 05:19 say: {"text":"Worf here, in the gravel pit at 394,107,-1022. Morning, day 408. Health 20, hunger 20, no food. I hold until a group member confirms an exact cell to dig."}
+- 05:43 say: {"text":"Worf still in the pit at 394,107,-1022, alone, health 20, hunger 20. Billy or Trini, if you can name one exact cell from the bed row, I will dig only that one. Otherwise I hold."}
+- 06:48 say: {"text":"Worf here, still in the pit at 394,107,-1022. Holding, no digging. Name an exact cell and I will dig only that one."}
+- 07:00 say: {"text":"Worf still in the pit at 394,107,-1022, health 20. Billy, when the cow walk is set I will come to the row if you name the exact cell to dig first, or I hold here."}
+- 07:12 say: {"text":"Worf in the pit at 394,107,-1022 for the night, alone, health 20. Not enclosed. Holding, no digging."}
+- 07:24 say: {"text":"Worf in the pit at 394,107,-1022, out of the pillager's line, health 20. I have one wheat, far from you. Holding here."}
+- 07:32 say: {"text":"Worf in the pit, health 20, holding 1 wheat for whoever is lowest in reach. Still owe Zack melon once I have some. No digging until a cell is named."}
+- 08:25 say: {"text":"Worf in the pit at 394,107,-1022, health 20, holding 1 wheat for whoever is lowest in reach. No digging until a cell is named. Still owe Zack melon."}
