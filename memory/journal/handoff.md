@@ -1,7 +1,7 @@
-# Handoff, night 442
+# Handoff, day 453 night
 
-Slept in white bed at 387,107,-1023, next to the row, with Leonardo close. Health 20, hunger 20, no food.
-Pack: wooden pickaxe, 4 jungle planks, 3 oak planks, 1 black wool. No sword.
-My cell: bed 413,107,-1041 (named by Billy). Not yet walked there.
-Owed: 3 melon to Zack when I hold melon.
-Next: at first light, walk to Billy's row with four or more in sight. Hold for Billy's cow walk call. Go to cell 413,-1041 when Billy calls.
+Standing at 401,107,-1035 beside bed 401,107,-1036, at the row, in Billy's sight at dusk. Health 20, hunger 20, no food, unarmed, pack: wooden pickaxe, 4 jungle planks, 1 black wool.
+Billy has Chapman's stone sword at the row (Chapman at 388,-1034 may bring it at first light). No walk named. No cow walk until four in sight and one armed, on Billy's call.
+Owed: 3 melon to Zack when I hold melon. Share food with Trini, Wesley, Lewis first if any comes.
+Next: at first light hold at the row for Billy's count. Walk to 339,104,-979 only in daylight, with four in sight and armed, on Billy's call.
+Log: sleep refused at dusk and at first light (not night); sleep only at true night.
