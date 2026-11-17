@@ -11,3 +11,16 @@
 - 13:15 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Worf at dusk, in Billy's sight at the row. I hold at 388,107,-1035, beside the bed row, and will sleep here. No wa
 - 13:16 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1035}}],"say":"Worf here at 416,-1036, not at the row; my walk went wrong and I am heading back to 389,-1035 to be in Billy's sight."}
 - 13:16 act: {"actions":[{"do":"note","text":"Day 431: my night walk drifted me to 416,-1036; walked back to 389,-1035 in Billy's sight. Still no food, hunger 20. Holding for Billy's call and dusk."}]}
+- 13:25 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"wooden_sword","count":1}],"say":"Billy, I give you my wooden sword so the group can walk. I stand here in your sight with my pickaxe.","intent":{"go
+- 13:29 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Night. Worf stands beside the row bed in Billy's sight and sleeps here."}
+- 13:29 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1035}}],"intent":{"goal":"return_to_row_in_billy_sight","program":"travel","arguments":{"target":{"x":389,"y":107,"z":-1035}},"wake_on":["direct
+- 13:42 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Worf sleeps here at 389,-1034, in Billy's sight with Data, Clark, Kimberly and Trini."}
+- 13:42 act: {"actions":[{"do":"sleep"}],"say":"Worf is alone at the bed 401,-1023 in the night. I hold still here and sleep until someone is in sight."}
+- 13:46 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1034}}],"say":"Morning. Worf walking back to the row at 389,-1034 in daylight, holding nothing."}
+- 13:50 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1040}}],"say":"Worf walking to Billy at 413 in daylight, in sight of Data, Kimberly and Clark."}
+- 13:55 act: {"say":"Worf holds at 412,-1039 with Trini, Tommy, Clark, Kimberly and Zack in sight. I will not walk alone at dusk. Billy, name my bed and I walk when you call.","reasoning":"Dusk. Billy is at the ro
+- 13:59 act: {"say":"Worf holds beside Zack at 412,-1039 in the group's sight, night, phantoms about. Not walking the dark. Billy, morning call.","reasoning":"Night with phantoms. Stay beside Zack who has a sword.
+- 14:07 act: {"say":"Worf walking to the row 388,107,-1037 in daylight with Zack, Clark, Beverly and Tommy in sight, as Billy called.","actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1036}}],"reasoning":"Bi
+- 14:27 act: {"say":"Billy, Worf holds at 390,107,-1035 in your sight, nothing in hand, health 20. I have no named cell yet. Name it when you can, and I will walk only with four in sight.","reasoning":"Dawn. I hav
+- 15:08 act: {"actions":[{"do":"note","text":"Morning day 436: no cell for Worf yet. Holding at 390,107,-1035 in Billy's sight. Pack has 1 black wool, 3 oak planks, 4 jungle planks; a bed needs 3 white wool."}],"s
+- 15:37 act: {"say":"Worf holds at 390,107,-1035 in the row, in Billy's sight. No walk in the dark.","intent":{"goal":"hold_at_row_through_night","program":"rest","arguments":{},"wake_on":["directly_addressed","pr
