@@ -1,2 +1,4 @@
 - Day 391 cycle: still in gravel pit 394,107,-1022, health 20, hunger 20. Pillar build failed (changed nothing). Holding still; no group in sight. Asked group to come to edge. Next: wait for an edge sighting of stone 394,107,-1025 before any dig.
 - 23:57 act: {"say":"Riker, thank you. Come to the edge with the group. I still hold still and dig nothing until someone confirms 394,107,-1025.","reasoning":"Riker offered to come. Hold and wait."}
+- 00:11 say: {"text":"Worf in the gravel pit at 394,107,-1022, health 20, hunger 20, still enclosed. Can anyone at the edge see bare stone at 394,107,-1025? I will dig nothing until confirmed."}
+- Day 392 dusk: enclosed in pit, panic_burrow reflexes fired twice. No one could confirm stone at 394,107,-1025 (Leonardo, Trini, Beverly all said no). Slept in the pit, sealed. Group still holding at the bed row for Billy's walk call. Next: at first light, ask for the walk, dig nothing unconfirmed.
