@@ -1,7 +1,9 @@
-# Goals
-1. DONE: Out of the gravel pit. I mined my own east oak wall and reached the bed row at 415,107,-1037 on day 420.
-2. Stay in sight of the group and never wander alone.
-3. Learn how to get into a white bed (two white beds at 415,107,-1037 and 415,107,-1036 are taken often; ask Billy).
+# Goals (ranked, day 421)
+
+1. Stay alive: never be out alone at dusk. I died at night on day 421 to phantoms near 413,107,-1040 because I stayed out and fought. At dusk, go to the row and stand by a white bed with Billy's group in sight.
+2. Sleep in a bed at night with the group. Billy's way: stand next to a white bed at night and sleep there, in sight of the group. Sleep worked at the row (8 of 10 asleep). Reason: sleep and safety at night.
+3. Get food for the weakest first (Jason, Trini, Kimberly, Clark, MacDonald). I hold no food. Reason: hunger is 17 across the group and the weakest are at risk.
 4. Pay Zack 3 melon when I hold melon and he is in sight. Still owed.
-5. Feed the weakest first when I hold food (Trini, Kimberly, Clark, MacDonald). I hold no food now.
-6. Ask the group what they know about sheep and water. Nobody has found water yet; Jason heard water lies northeast by the wheat field.
+5. Find water and sheep. Nobody has found water; Jason heard water lies northeast by the wheat field. Reason: long-term survival.
+
+Recovered my dropped items at the row: wooden sword, wooden pickaxe, 3 oak planks, 4 jungle planks, black wool, wheat.

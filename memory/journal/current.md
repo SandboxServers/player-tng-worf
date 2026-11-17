@@ -55,3 +55,6 @@
 - 09:53 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1040}},{"do":"goto","target":{"x":414,"y":107,"z":-1042}},{"do":"goto","target":{"x":415,"y":107,"z":-1043}},{"do":"goto","target":{"x":410,"y":
 - 09:53 act: {"actions":[{"do":"goto","target":{"x":408,"y":107,"z":-1037}},{"do":"goto","target":{"x":414,"y":107,"z":-1037}}]}
 - 09:53 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Holding at the row with Billy. Trying to sleep here."}
+- 09:55 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1036}},{"do":"note","text":"Morning day 421. Alive with health 20 after the phantom night. Back at the row near Billy, Tommy and Kimberly. Next:
+- 09:55 act: {"actions":[],"say":"Worf here at the row, health 20, holding tools and planks, no food. Billy, how do you get into a bed at night?"}
+- 09:57 act: {"actions":[{"do":"note","text":"Billy says: stand next to a white bed at night and sleep there, in the group's sight. Sleep worked at night near the row (8 of 10 asleep). Holding at the row until the
