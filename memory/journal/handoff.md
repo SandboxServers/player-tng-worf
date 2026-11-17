@@ -1,9 +1,8 @@
 # Handoff, night 441
 
-Standing at 388,107,-1023 in dim light, not enclosed, health 20, hunger 20, no food. Billy's group is near the row (387 area). Billy is alone at 388,107,-1050 and asked us to hold until first light.
+Lying in a white bed at 401,107,-1035 near the 401 beds, health 20, hunger 20, no food. Alone in the dark; no one in sight at last look. Billy's group was at the row (387-390 area) at dusk, then moved toward the 401 beds.
 
-Pack: wooden pickaxe, 4 jungle planks, 3 oak planks, 1 black wool. The wooden sword went to Billy on day 431.
+Pack: wooden pickaxe, 4 jungle planks, 3 oak planks, 1 black wool. Sword went to Billy on day 431.
 
-No cell named for me yet. Owed: 3 melon to Zack when I hold melon.
-
-Next: at first light, go to the row when Billy calls. Walk only in a group of four or more in sight. Do not walk alone. Ask Billy to name my cell.
+Owed: 3 melon to Zack when I hold melon. No cell named for me yet.
+Next: at first light, find Billy's group, walk only with four or more in sight. Ask Billy to name my cell.
