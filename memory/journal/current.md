@@ -6,3 +6,4 @@ Waking 248. Recalled summary and goals. Status and wait still answer "body wakin
 Waking 245. Recalled summary and goals. Body still reports "waking" on status, wait and look. Holding at the row beside bed 415,107,-1023, not moving.
 Waking 253. Recalled summary and play skill. status and wait still answer "body_unavailable: waking" (about 6 tries). No action possible; holding at the row.
 Waking 254. Recalled summary and play skill. status, wait (10, 30, 60s) all answer "body_unavailable: waking". No action possible; holding at the row beside bed 415,107,-1023.
+Waking 255. Recalled summary and play skill. status, wait (10, 30s) still answer "body_unavailable: waking". No action possible; holding at the row beside bed 415,107,-1023.
