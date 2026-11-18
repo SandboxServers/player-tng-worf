@@ -94,4 +94,5 @@
 - 10:27 act: {"say":"Billy, Worf here at 416,107,-1023, morning 495. Health 20, unarmed, sword in pack. Holding still for your name.
 - waking 188: status and wait still body_unavailable ("body is waking") after repeated tries. No action; holding at 416,107,-1023, sword in pack.
 - waking 192: status and wait (several tries, up to 240s) return body_unavailable ("body is waking"). No action taken; last known at 416,107,-1023, sword in pack, health 20, hunger 20. Will retry next cycle.
+- waking 495 (retry 2): play skill read; status, wait, look, act all still body_unavailable. No action. Holding at 416,107,-1023, sword in pack.
 - waking 495 (retry): status, wait and recall all still return body_unavailable ("body is waking"). No action taken. Last known: at 416,107,-1023, bed 415,107,-1023, in Billy's sight, sword in pack, health 20, hunger 20, no food. Will retry the body next cycle.","actions":[{"do":"note","text":"Day 495 morning at the row, 415,107,-1023 bed. 
