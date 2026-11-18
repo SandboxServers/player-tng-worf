@@ -1,1 +1,4 @@
-Handoff, night 520. I slept at bed 415,107,-1036 at the white row, in the group's sight, health 20, hunger 20, unarmed, no food, wooden pickaxe and dirt only. Sword: none. Owed: 3 melon to Zack when I hold melon. Next: at dawn, stay in Billy's sight; give a sword to any unarmed person in sight who asks once I have one; find food for Picard (health 5.9) and the weakest; find water and sheep when Billy calls a walk.
+# Handoff, night 520
+
+Slept at bed 415,107,-1036 at the white row, in Billy's group's sight. Health 20, hunger 20, unarmed, wooden pickaxe and 8 dirt only. Owed: 3 melon to Zack when I hold melon.
+Next at dawn: stay in Billy's sight, give a sword to an unarmed person who asks, find food for Picard (health 5.9) and the weakest, find water and sheep when Billy calls a walk.
