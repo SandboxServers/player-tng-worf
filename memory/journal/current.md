@@ -87,4 +87,5 @@
 - 10:23 act: {"say":"Dusk. Worf going to my bed at 415,107,-1023 in Billy's sight. Unarmed, sword in pack. No walk.","actions":[{"do":"use","at":{"x":415,"y":107,"z":-1023}},{"do":"sleep"},{"do":"note","text":"Dus
 - 10:23 act: {"actions":[{"do":"sleep"}]}
 - waking 495: status and wait both return body_unavailable ("body is waking") on every try so far. No action taken. Still at 416,107,-1023, in Billy's sight, sword in pack.
+- 10:30 play: status, wait and act all return body_unavailable ("body is waking") on every try. No action taken; will retry.
 - 10:27 act: {"say":"Billy, Worf here at 416,107,-1023, morning 495. Health 20, unarmed, sword in pack. Holding still for your name.","actions":[{"do":"note","text":"Day 495 morning at the row, 415,107,-1023 bed. 
