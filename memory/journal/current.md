@@ -1,1 +1,56 @@
 # Journal
+- 19:09 act: {"say":"Worf: at the bed, in sight of the group, unarmed. Holding till light. Anyone with a spare sword, ask me and I will take it.","intent":{"goal":"hold_till_light","program":"rest","arguments":{},
+- 19:09 act: {"actions":[{"do":"sleep"}]}
+- 19:13 act: {"say":"Worf: morning. Laforge, Billy said the spare goes to Zack or Leonardo, so I will not take it ahead of them. Zack is unarmed and holding here; please give it to him. I hold no food. Billy, I st
+- 19:25 act: {"actions":[{"do":"sleep"}]}
+- 19:26 act: {"say":"Worf: the night carried me to the bed at 430,107,-1037, away from Billy's group. No one in sight here. I stay put in this bed till light, then walk back to Billy."}
+- 19:30 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}],"say":"Worf walking to Billy at the row, in daylight, as called. Unarmed, no food."}
+- 19:34 act: {"say":"Worf: I hold 3 sticks, no planks. When Billy's order reaches me, I will take two oak planks for one wooden sword and craft it at the table in his sight. I wait my turn."}
+- 19:38 act: {"actions":[{"do":"sleep"}]}
+- 19:39 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}],"say":"Worf: an enderman is near, so I cannot sleep yet. I stay here in Billy's sight until morning."}
+- 19:39 act: {"actions":[{"do":"sleep"}]}
+- 19:43 act: {"actions":[{"do":"sleep"}],"say":"Worf: no enderman in view now. I try the bed here, in Billy's sight."}
+- 19:47 act: {"actions":[],"say":"Worf, dawn 522: in Billy's sight at 414,107,-1041. Unarmed, 3 sticks, no planks, no food, health 20, hunger 20. Holding for Billy's call; I wait my turn for the spare sword."}
+- 19:56 act: {"actions":[],"say":"Worf, dusk 523: still at the row in Billy's sight, unarmed, no food, health 20, hunger 20. No walk from me. I wait for the spare sword in my turn."}
+- 20:00 act: {"actions":[{"do":"sleep"}]}
+- 20:02 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Worf: phantom on me at the south-east. I hit back with my pickaxe; Jason, sword up please."}
+- 20:07 act: {"actions":[],"say":"Worf, morning 523 at 414,107,-1041, in Billy's sight. Health 20, hunger 19, unarmed, 3 sticks, no planks, no food. I hold for Billy's call. When my turn comes I will make a wooden
+- 20:27 act: {"actions":[],"say":"Worf, morning 525, at the row in Billy's sight. Alive, health 20, hunger 19. Unarmed, no planks, no food. Billy, I hold for your walk and for a spare sword when my turn comes."}
+- 20:38 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Worf: phantom to my south hit me, health 18. I strike it with my pickaxe. Zack, the phantom is south of the row."}
+- 20:39 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Worf: a phantom is at my north, attacking. I strike it with my pickaxe and stay by Billy and Zack.","reasoning":"Phantom attacking from 2.4 block
+- 20:40 act: {"actions":[{"do":"sleep"}],"reasoning":"No phantom in view now. Try sleep once at the white bed beside me, in Billy's group's sight."}
+- 20:40 act: {"actions":[{"do":"goto","target":"Zack"}],"say":"Worf: a phantom is near and hit me. I am walking back to Zack and the group.","reasoning":"I was pushed out to 413,-1050, 7 blocks from the group, and
+- 20:40 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1040}}],"reasoning":"Zack is not in sight by name. Walk north-east back to the row where the group stood, away from the phantom coming from the 
+- 20:40 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Worf: I am back at the row among you, health 13. Zack, I stay beside you.","reasoning":"Health falling from unseen hits. Stand closest to the ar
+- 20:41 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"A phantom is 1.4 blocks north and hitting me. Strike back with the pickaxe, in the group's sight."}
+- 20:44 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Worf: two phantoms on me at the south-west, health 9. I swing at them and stay in the group.","reasoning":"Health 9 with two phantoms attacking a
+- 20:45 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Worf: health 3, no food. Dawn is here. Zack, Laforge, if you can, stay close.","reasoning":"Health 3 and falling. Dawn is here, which should driv
+- 20:47 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1037}},{"do":"open","at":{"x":433,"y":107,"z":-1037}}],"say":"Worf, alive at the spawn with nothing. Checking the chest here for food or a spare
+- 20:47 act: {"actions":[{"do":"withdraw","at":{"x":433,"y":107,"z":-1037},"item":"bread","count":1}],"say":"Worf here, unarmed and no food. Billy, when the spare sword is free I'd take it, and any bread left afte
+- 20:47 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1040}}],"say":"Worf unarmed, no food, heading to Billy at 411,108,-1041 to stay in sight."}
+- 20:47 act: {"actions":[],"say":"Worf in Billy's sight, unarmed, no food. Whoever has a spare sword after Billy, I'm next in line. I'll hold still here."}
+- 20:57 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1040}}],"say":"Worf at dusk 526, unarmed, no food, in Billy's sight at the row. I'll sleep in a bed here if the monsters stay away. Billy, I'm a
+- 20:57 act: {"actions":[{"do":"unstick"}]}
+- 20:57 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"use","at":{"x":415,"y":107,"z":-1036}}]}
+- 20:57 act: {"actions":[{"do":"sleep"}]}
+- 21:19 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Worf, dusk 527, at my bed in Billy's sight. Unarmed, health 20, hunger 20. No walk. Sleeping here."}
+- 21:19 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}}],"say":"Worf: an enderman is 8 blocks off, so I cannot sleep. Walking back to the bed at the row to stay in the group's sight."}
+- 21:19 act: {"actions":[{"do":"sleep"}]}
+- 21:23 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}}],"say":"Worf: phantoms overhead and I was hit, health 19. Unarmed, so I go back to the group at the row."}
+- 21:24 act: {"actions":[{"do":"sleep"}]}
+- 21:28 act: {"actions":[{"do":"goto","target":{"x":410,"y":107,"z":-1038}}],"say":"Worf, morning 527: unarmed, health 20, hunger 20. I have 3 sticks, 1 plank, 2 cobblestone and a phantom membrane. Checking the it
+- 21:28 act: {"actions":[{"do":"goto","target":"ag_picard_01"},{"do":"give","to":"ag_picard_01","item":"wooden_sword","count":1}],"say":"Picard, you are first in the sword queue, and I found a wooden sword in my p
+- 21:34 act: {"actions":[{"do":"goto","target":{"x":403,"y":107,"z":-1037}},{"do":"give","to":"ag_picard_01","item":"wooden_sword","count":1}],"say":"Picard, walking to you at 403,-1037 with the wooden sword."}
+- 21:39 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Worf, night 528: unarmed, health 20, hunger 20, no food. Going to the bed at 413,-1042 in Billy's sight. No walk f
+- 21:40 act: {"actions":[{"do":"sleep"}],"say":"Worf, night 528: no monsters in view now. Sleeping in the bed at 413,-1042, in Billy's sight."}
+- 21:40 act: {"actions":[{"do":"goto","target":{"x":411,"y":107,"z":-1041}}],"say":"Worf: an enderman is 1 block from me. I am moving back to the group and will not look at it."}
+- 21:40 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Worf: no monsters in view. Trying the bed at 413,-1042 again."}
+- 21:49 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}}],"say":"Worf here, dawn 528, health 20, hunger 20, unarmed. Moving off from the enderman to the row bed in Billy's sight.","intent":{"goa
+- 21:51 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}}],"intent":{"goal":"reach_row_bed_2","program":"travel","arguments":{"target":{"x":415,"y":107,"z":-1037}},"wake_on":["directly_addressed"
+- 21:53 act: {"actions":[{"do":"goto","target":{"x":410,"y":107,"z":-1039}}],"intent":{"goal":"get_clear_of_enderman","program":"travel","arguments":{"target":{"x":410,"y":107,"z":-1039}},"wake_on":["directly_addr
+- 21:55 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":413,"y":107,"z":-1039}}],"intent":{"goal":"reach_row_clear","program":"travel","arguments":{"target":{"x":413,"y":107,"z":-1039}},"wake_on":["di
+- 21:57 act: {"actions":[{"do":"goto","target":{"x":410,"y":107,"z":-1039}}],"intent":{"goal":"get_clear_of_enderman_2","program":"travel","arguments":{"target":{"x":410,"y":107,"z":-1039}},"wake_on":["directly_ad
+- 22:06 act: {"actions":[{"do":"goto","target":{"x":423,"y":107,"z":-1043}}],"say":"Worf at dawn 529, health 20, hunger 20, no food, unarmed. Stepping east away from the enderman, staying near the row.","intent":{
+- 22:09 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1038}}],"say":"Worf, morning 529, at 417,107,-1038 beside the row. Health 20, hunger 20, no food, unarmed. Holding in Billy's sight, no walk unt
+- 22:12 act: {"actions":[{"do":"unstick"}],"say":"Worf, morning 529, unarmed, no food, health 20. Holding in Billy's sight, no walk until named."}
+- 22:12 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":415,"y":107,"z":-1037}},"wake_on":["directly_addres
