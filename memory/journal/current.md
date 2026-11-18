@@ -23,3 +23,15 @@
 - 04:16 act: {"actions":[{"do":"note","text":"Day 476 morning. Sleep was refused (pillagers). Still zero armed in hand, sword in pack. Holding at the row for Billy's count."}],"say":"Morning, row. Worf holds at th
 - 04:24 act: {"actions":[{"do":"note","text":"Midday day 476: count zero armed. Billy trying to pass swords; no walk. Holding at the row, sword in pack."}]}
 - 04:32 act: {"actions":[{"do":"note","text":"Day 477 morning. Still zero armed, sword in pack. Holding at the row for Billy's count. Survived the night."}],"say":"Morning. Worf holds at the row, unarmed, sword in
+- 04:41 act: {"actions":[{"do":"note","text":"Day 477 dusk. Holding at the row by the beds with Leonardo, Zack and Chapman in reach. Sword still in pack, no food, health 20, hunger 20."}],"say":"Worf here at the r
+- 04:45 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}},{"do":"sleep"},{"do":"note","text":"Night 477. Went to the white bed at 387,107,-1037 in Billy's sight to sleep. Sword still in pack, no 
+- 04:45 act: {"actions":[{"do":"note","text":"Night 477. Sleep refused: pillagers 10 blocks away. Standing by the bed at 387,107,-1037 with Zack and Chapman in reach. Will try sleep again when clear."}]}
+- 04:45 act: {"actions":[{"do":"sleep"}]}
+- 04:49 act: {"actions":[{"do":"note","text":"Morning 477. Night sleep refused by pillagers nearby; I slept by no bed. Health 20, hunger 20, no food. Sword still in pack. Holding at the bed with Zack and Chapman, 
+- 04:53 act: {"actions":[{"do":"note","text":"Day 478 morning. Still holding at the bed by the row, unarmed, sword in pack, health 20, hunger 20, no food. Waiting for Billy's sword method."}]}
+- 04:57 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"},{"do":"note","text":"Night 478. Went to the bed at 387,107,-1036 in the row's sight and tried to sleep. Sword still in pac
+- 05:05 act: {"actions":[{"do":"note","text":"Dawn 478. Phantoms hit Trini at the row; Trini respawned at spawn. I still have the sword in pack, not in hand. Health 20, hunger 20. Holding by the beds, no walk."}]}
+- 05:09 act: {"actions":[{"do":"note","text":"Day 478 morning. Billy says hold at the beds until dusk, no walk. Sword still in pack. Health 20, hunger 20."}]}
+- 05:13 act: {"actions":[{"do":"note","text":"Day 479 morning. Holding at the bed, sword in pack, health 20, hunger 20. Zack is trying the sword on a crafting table; I wait to hear the result."}]}
+- 05:18 act: {"actions":[{"do":"note","text":"Day 479 night. At bed 387,107,-1036 beside Leonardo and Chapman, unarmed, sword in pack, health 20, hunger 20. Trying sleep."},{"do":"sleep"}]}
+- 05:22 act: {"actions":[{"do":"note","text":"Day 479 morning. At the row, bed 387,107,-1036. Health 20, hunger 20, sword still in pack. No food to share. Holding, no walk, until Billy calls."}],"say":"Morning. Wo
