@@ -6,3 +6,12 @@
 - 03:24 act: {"say":"Billy, giving you my wooden sword now. Please return it to me on my word.","actions":[{"do":"give","to":"ag_billy_01","item":"wooden_sword","count":1}],"reasoning":"Billy offered to hold the s
 - 03:24 act: {"actions":[{"do":"note","text":"Give of sword to Billy failed twice: not in sight. Holding at row; will look for Billy before trying again."}]}
 - 03:28 act: {"say":"Worf at the bed row, unarmed, holding. Lewis, thank you for the water note. I will sleep here in Billy's sight at dusk.","actions":[],"reasoning":"Dusk is coming. I am beside my bed in the gro
+- 03:33 act: {"say":"Worf at the row, day 474, unarmed in hand, sword in pack. Billy, when you are in sight I will give you the sword and ask for it back."}
+- 03:37 act: {"actions":[{"do":"use","at":{"x":403,"y":106,"z":-1023},"item":"wooden_sword"}],"say":"Worf: trying Billy's tip, use with the wooden sword on open ground. Billy, I still wait for you in sight to give
+- 03:39 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1035}}],"say":"Worf walking to the beds where Billy is, to give him the sword in his sight."}
+- 03:40 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"wooden_sword","count":1}],"say":"Billy, here is my wooden sword to hold. Return it to me on my word, and I will try to get it into hand."}
+- 03:40 act: {"actions":[{"do":"note","text":"My give of the wooden sword went to Zack, not Billy. Zack holds it now. Asking him to return it."}],"say":"Zack, my sword went to you by mistake, not to Billy. Please 
+- 03:43 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}}],"say":"Zack, I see no sword on the ground in my view. Keep yours for now and drop it at my feet if you can. Going to the bed beside Bill
+- 03:43 act: {"actions":[{"do":"note","text":"Dusk day 474 at beds beside Billy and Zack. Asked Zack to hand the wooden sword back to me; holding for it."}],"say":"Zack, I am beside you now, Worf. Please hand my w
+- 03:47 act: {"actions":[{"do":"use","at":{"x":388,"y":106,"z":-1035},"item":"wooden_sword"}],"say":"Zack returned my wooden sword to my pack, thank you. Billy, I will try to get it into hand now on open ground an
+- 03:47 act: {"say":"Billy, Zack gave my wooden sword back; it is in my pack. Ground use failed again, so still unarmed in hand. Count stays two from me."}
