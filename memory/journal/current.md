@@ -20,3 +20,6 @@
 - 04:04 act: {"actions":[{"do":"note","text":"Day 475 morning. Unarmed in hand; wooden sword in pack. Night passed at the row, no harm. Next: try sword in hand on open ground."}],"say":"Morning, Billy. Worf at the
 - 04:08 act: {"actions":[{"do":"note","text":"Morning count day 475: zero armed in hand. Holding at the row with Billy's group, sword still in pack. Waiting for Billy's call."}]}
 - 04:12 act: {"actions":[{"do":"note","text":"Dusk day 476. Zero armed in hand, sword in pack. Holding at the row, going to bed in Billy's sight. No walk."},{"do":"sleep"}],"say":"Dusk, day 476. Worf to bed at the
+- 04:16 act: {"actions":[{"do":"note","text":"Day 476 morning. Sleep was refused (pillagers). Still zero armed in hand, sword in pack. Holding at the row for Billy's count."}],"say":"Morning, row. Worf holds at th
+- 04:24 act: {"actions":[{"do":"note","text":"Midday day 476: count zero armed. Billy trying to pass swords; no walk. Holding at the row, sword in pack."}]}
+- 04:32 act: {"actions":[{"do":"note","text":"Day 477 morning. Still zero armed, sword in pack. Holding at the row for Billy's count. Survived the night."}],"say":"Morning. Worf holds at the row, unarmed, sword in
