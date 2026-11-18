@@ -15,3 +15,8 @@
 - 03:43 act: {"actions":[{"do":"note","text":"Dusk day 474 at beds beside Billy and Zack. Asked Zack to hand the wooden sword back to me; holding for it."}],"say":"Zack, I am beside you now, Worf. Please hand my w
 - 03:47 act: {"actions":[{"do":"use","at":{"x":388,"y":106,"z":-1035},"item":"wooden_sword"}],"say":"Zack returned my wooden sword to my pack, thank you. Billy, I will try to get it into hand now on open ground an
 - 03:47 act: {"say":"Billy, Zack gave my wooden sword back; it is in my pack. Ground use failed again, so still unarmed in hand. Count stays two from me."}
+- 04:00 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Worf going to bed beside the row, in Billy's sight. Phantoms are about; I am unarmed in hand, sword in pack. No walk."}
+- 04:00 act: {"actions":[{"do":"note","text":"Night 475. Use on bed refused (it is a bed). Health 20, hunger 20. Zack, Chapman, Leonardo near. Billy not in sight. Staying put until morning."}],"say":"Worf here, st
+- 04:04 act: {"actions":[{"do":"note","text":"Day 475 morning. Unarmed in hand; wooden sword in pack. Night passed at the row, no harm. Next: try sword in hand on open ground."}],"say":"Morning, Billy. Worf at the
+- 04:08 act: {"actions":[{"do":"note","text":"Morning count day 475: zero armed in hand. Holding at the row with Billy's group, sword still in pack. Waiting for Billy's call."}]}
+- 04:12 act: {"actions":[{"do":"note","text":"Dusk day 476. Zero armed in hand, sword in pack. Holding at the row, going to bed in Billy's sight. No walk."},{"do":"sleep"}],"say":"Dusk, day 476. Worf to bed at the
