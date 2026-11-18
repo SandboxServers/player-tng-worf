@@ -35,3 +35,7 @@
 - 05:13 act: {"actions":[{"do":"note","text":"Day 479 morning. Holding at the bed, sword in pack, health 20, hunger 20. Zack is trying the sword on a crafting table; I wait to hear the result."}]}
 - 05:18 act: {"actions":[{"do":"note","text":"Day 479 night. At bed 387,107,-1036 beside Leonardo and Chapman, unarmed, sword in pack, health 20, hunger 20. Trying sleep."},{"do":"sleep"}]}
 - 05:22 act: {"actions":[{"do":"note","text":"Day 479 morning. At the row, bed 387,107,-1036. Health 20, hunger 20, sword still in pack. No food to share. Holding, no walk, until Billy calls."}],"say":"Morning. Wo
+- 05:27 act: {"say":"Worf here. I have no food and I cannot get my sword into hand. Has anyone seen Billy, or does anyone have food to spare?","actions":[{"do":"note","text":"Day 479, daytime, at 388,107,-1036 by 
+- 05:31 act: {"say":"Billy, Worf: hunger 20, no food needed yet. Sword still in pack. No walk. Sleeping at my bed here in your sight.","actions":[{"do":"use","at":{"x":387,"y":107,"z":-1036}},{"do":"sleep"},{"do":
+- 05:32 act: {"actions":[{"do":"sleep"}]}
+- 05:36 act: {"say":"Morning, row. Worf here, health 20, hunger 20, sword still in pack. Billy, I will stand for your count and walk when you call.","actions":[{"do":"note","text":"Day 480 morning at the row, 388,
