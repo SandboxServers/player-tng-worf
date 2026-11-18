@@ -139,3 +139,8 @@
 - 01:50 act: {"actions":[{"do":"note","text":"Day 468 night passed beside bed 401,107,-1023; first light at the row, unarmed. Holding for Billy's count, no walk named."}],"say":"Worf at the row, unarmed, holding f
 - 01:54 act: {"actions":[{"do":"note","text":"Day 469 morning at the row, unarmed. Billy handed his stone sword to Laforge. No walk named; still holding."}],"reasoning":"Morning count. No walk named and I have no 
 - 01:59 say: {"text":"Worf at the row, dusk. Holding here, unarmed, for Billy's count at first light."}
+- Day 469 dusk: sleep refused (not night). Pillagers 9-10 blocks off, Zack and Laforge going to bed. Holding at bed 401,107,-1023 in the group's sight, unarmed, health 20, hunger 20.
+- Day 469 night: slept in bed 401,107,-1023 (1 of 10 asleep). Morning: Billy counted only Laforge armed; no cow walk. Holding at the row, unarmed, hunger 20.
+- 01:59 act: {"say":"Worf here. I hold by the bed at 401,107,-1023 with my pickaxe. Pillagers are close, so I stay near the group and watch.","intent":{"goal":"hold_at_bed_for_night","program":"rest","arguments":{
+- 01:59 act: {"actions":[{"do":"sleep"}]}
+- 02:04 act: {"say":"Morning. Worf at the row, unarmed, health 20, hunger 20. Holding for Billy's count; no walk for me.","intent":{"goal":"hold_at_row_for_count","program":"rest","arguments":{},"wake_on":["direct
