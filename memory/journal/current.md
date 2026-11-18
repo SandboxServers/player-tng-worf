@@ -62,3 +62,79 @@
 - 20:28 act: {"actions":[{"do":"note","text":"Day 452, morning. Counted by Billy's group at the row, still unarmed, no walk named. Chapman holds a stone sword in pack; Billy hopes to take it. Holding."}]}
 - 20:32 act: {"actions":[{"do":"note","text":"Day 453, morning. Still at the row at 401,-1035, counted, unarmed, hunger 20. Billy has the stone sword from Chapman. Holding for his walk call."}]}
 - 20:36 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Day 453 night. At the row beside bed 401,-1036, in Billy's sight. Going to sleep. Still unarmed, no food, no walk named."}]}
+- 20:37 act: {"say":"Worf holds at the row, unarmed, health 20, hunger 20. Waiting for Billy's call."}
+- Day 453, daytime. Holding at 402,107,-1037 in Billy's sight, unarmed, no food, health 20, hunger 20. No walk named; waiting.
+- Day 453 morning. Billy counted four (Zack, Kimberly, Worf, Picard) and walked to Chapman for the stone sword. I was not named to walk; I held at the row, said I am counted and holding.
+- Day 453 morning. Billy still cannot get the stone sword into hand; no walk. Holding at the row, unarmed, health 20, hunger 20.
+- Day 453 dusk. Billy's group going to beds at the row; no walks tonight. I go to bed 401,-1036 in sight, to sleep.
+- 20:41 act: {"say":"Billy, Worf counted in your sight at the row, unarmed. I hold here and do not walk unless you name me."}
+- 20:49 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Worf goes to the bed at 401,-1036 in Billy's group's sight. Unarmed, hunger 20, no walks in the dark."}
+- 20:49 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1023}},{"do":"sleep"}],"say":"A spider is near, so I move to the bed at 401,-1023 and try to sleep there. Unarmed, hunger 20."}
+- 20:49 act: {"actions":[{"do":"note","text":"Day 453 night: spider cleared, slept in bed 401,107,-1023 with the group in sight. Woke at 401,-1021, health 20, hunger 20. Still unarmed, no food. Holding at the row 
+- 20:49 act: {"actions":[],"say":"Worf here, at 401,-1021 by the beds. I am unarmed too. Picard, get to the bed and stay in the group's sight. Holding for Billy."}
+- 20:53 act: {"actions":[{"do":"note","text":"Day 454 morning, bright. I stand at 402,107,-1023 by the row, health 20, hunger 20, unarmed. Holding for Billy's count of four; no walk named."}],"say":"Morning. Worf 
+- 21:02 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"},{"do":"note","text":"Day 454 dusk: holding at the row, no walk named. Going to bed 401,107,-1023 in the group's sight to s
+- 21:06 act: {"actions":[{"do":"note","text":"Day 455 morning, bright. Slept at 401,-1023 in the night (3 of 10 asleep, woke fine). Still at the row, unarmed, health 20, hunger 20. No walk named; holding for Billy
+- 21:14 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"},{"do":"note","text":"Day 455 dusk: still at the row, no walk named, unarmed, health 20, hunger 20. Going to bed 401,107,-1
+- 21:18 act: {"intent":{"goal":"hold_at_row_for_billys_count","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_
+- 21:22 act: {"actions":[{"do":"note","text":"Day 455 morning: still holding at the row at 402,107,-1023. Billy has not named a walk. Picard is trading planks with Clark; nothing for me to do yet."}]}
+- 21:26 act: {"actions":[{"do":"note","text":"Day 455 dusk: still at the row, no walk named by Billy, unarmed, health 20, hunger 20. Holding by the bed 401,107,-1023 in sight of the group until true night, then sl
+- 21:30 act: {"actions":[{"do":"note","text":"Day 455 bright again: still at 402,107,-1023 by the row. Billy has named no walk; I hold unarmed with no food. Waiting for his count."}]}
+- 21:34 act: {"actions":[{"do":"note","text":"Day 456 morning, bright. Still at 402,107,-1023 at the row, unarmed, health 20, hunger 20. Billy says no walk until a sword is in his hand; holding for his word."}]}
+- 21:38 act: {"actions":[{"do":"note","text":"Day 456 dusk: at 402,107,-1023 by the row. Heard a bow drawn to the south twice; nothing in view. Staying near the group, unarmed, health 20, hunger 20."}]}
+- 21:43 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"},{"do":"note","text":"Day 456 dusk: going to bed 401,107,-1023 in the row's sight. Ag_bcrusher_01 two blocks off, no threat
+- 21:43 act: {"actions":[{"do":"note","text":"Day 456 daylight: sleep refused, not night. Holding at 402,107,-1023 by the row, bcrusher two blocks off, no threat. Health 20, hunger 20, unarmed."}],"intent":{"goal"
+- 21:47 act: {"actions":[{"do":"note","text":"Day 457 morning: Billy holds the row, no walk until a spider is in reach and a sword in hand. I hold at 402,107,-1023, unarmed, health 20, hunger 20. Bcrusher is Bever
+- 21:55 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"},{"do":"note","text":"Day 457 night: going to bed 401,107,-1023 in the row's sight, unarmed, health 20, hunger 20. Wesley a
+- 21:59 act: {"actions":[{"do":"note","text":"Day 458 morning: at 402,107,-1023 holding at the row for Billy's call. Wesley hungry (17) and I have no food to give. Health 20, hunger 20, unarmed."}]}
+- 22:10 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 22:18 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"},{"do":"note","text":"Day 458 night: at bed 401,107,-1023 in the row's sight, trying sleep. Unarmed, no food, health 20, hu
+- 22:23 act: {"actions":[{"do":"note","text":"Day 458 morning: slept at bed 401,107,-1023 (9 of 10 asleep), woke fine. At 402,107,-1023 by the row, health 20, hunger 20, unarmed, no food. Holding for Billy's call.
+- 22:27 act: {"actions":[{"do":"note","text":"Day 458 midday: holding at 402,107,-1023 by the row. Beverly and Zack talk about moving the sword into hand; no walk named. Unarmed, no food, health 20, hunger 20."}]}
+- 22:31 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"},{"do":"note","text":"Day 458 night, thunder: at bed 401,107,-1023 in the row's sight, trying sleep. Unarmed, no food, heal
+- 22:35 act: {"actions":[{"do":"note","text":"Day 459 morning: slept at bed 401,107,-1023 (6 of 10 asleep, woke fine). At the row, health 20, hunger 20, unarmed, no food. Zack has a sword in hand; Billy still name
+- 22:39 act: {"actions":[{"do":"note","text":"Day 459 morning, bright: still holding at the row beside bed 401,107,-1023. No walk named. Picard at health 5.9 hunger 17; Chapman offers rotten flesh. I have no food 
+- 22:43 act: {"actions":[{"do":"note","text":"Day 459 dusk: holding at the row beside bed 401,107,-1023, in sight of the group. No walk named. Waiting for true night before trying sleep."}]}
+- 22:43 act: {"actions":[{"do":"note","text":"Day 459 night: slept at bed 401,107,-1023 in the row's sight; woke with days_since_sleep 0. Still unarmed, no food, health 20, hunger 20. Holding at the row for Billy'
+- 22:47 act: {"actions":[{"do":"note","text":"Day 459 morning (second): still at the row beside bed 401,107,-1023, health 20, hunger 20, unarmed, no food. No walk named. Holding."}]}
+- 22:55 act: {"actions":[{"do":"note","text":"Day 460 dusk: at the row beside bed 401,107,-1023, in sight of Billy's group. Health 20, hunger 20, unarmed, no food. No walk named. Will sleep when it is true night."
+- 23:00 act: {"actions":[{"do":"note","text":"Day 460 day, bright, at the row beside bed 401,107,-1023. Health 20, hunger 20, no food, unarmed. Zack in reach. No walk named; holding for Billy's count."}],"say":"Wo
+- 23:12 act: {"actions":[{"do":"note","text":"Day 461 morning, bright, at the row beside bed 401,107,-1023. Health 20, hunger 20, no food, unarmed. No walk named; Billy is still trying to get a sword into hand. Ho
+- 23:16 act: {"actions":[{"do":"note","text":"Day 461 night: slept at bed 401,107,-1023 in the row's sight; woke, days_since_sleep 0. Health 20, hunger 20, unarmed, no food. Holding at the row for Billy's call."}]
+- 23:20 act: {"actions":[{"do":"note","text":"Day 461 daytime, bright, at row 402,107,-1023, health 20, hunger 20, no food, unarmed. Nothing new named. Holding for Billy's count."}],"intent":{"goal":"hold_at_row",
+- 23:24 act: {"actions":[{"do":"note","text":"Day 461 still bright here. Row says dusk and night; all holding, no walks. Staying at 402,107,-1023. Waiting for first light and Billy's call."}]}
+- 23:29 act: {"actions":[{"do":"note","text":"Morning day 461. Row holding, Billy has not named a walk. No food, no sword; Leonardo, Wesley, Picard, Zack all hungry. Holding at 402,107,-1023."}]}
+- 23:33 act: {"actions":[{"do":"note","text":"Day 462 bright. Slept on night 461 at bed 401,107,-1023. Still no walk named by Billy. Holding at the row, no food, no sword."}]}
+- 23:37 act: {"actions":[{"do":"note","text":"Night of day 462. Slept at bed 401,107,-1023 beside the row; days_since_sleep 0. No walks named. Holding for first light."}]}
+- 23:37 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1023}}]}
+- 23:37 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1023}},{"do":"note","text":"Morning day 462. Drifted in sleep to 415,107,-1028; walking back to the row bed at 402,107,-1023. No walk named."}]}
+- 23:37 act: {"actions":[{"do":"note","text":"Day 462 morning: now at 417,107,-1035 with Zack in reach, holding a wooden pickaxe, no food. Still walking back to the row at 402,-1023. No walk named."}]}
+- 23:37 act: {"actions":[{"do":"note","text":"Back at 402,107,-1022 beside the row beds. Holding for Billy's count. Troi is holding still at 416,-1023. No walk named."}],"say":"Morning. I am back at the row, holdi
+- 23:41 act: {"actions":[{"do":"note","text":"Midday day 462 at the row 402,-1022. Billy is seeking grass or dirt for the sword try; I am unarmed, so I hold and will not walk. Chapman has rotten flesh for hunger 6
+- 23:49 act: {"actions":[{"do":"note","text":"Dusk day 462. Holding at the row beside bed 401,107,-1022 in sight of Wesley, Beverly, Chapman, Tommy, Troi. No walks. Going to sleep here."},{"do":"sleep"}]}
+- 23:53 act: {"actions":[{"do":"note","text":"Morning day 463. Woke at the row 402,107,-1023 by bed 401,107,-1023. Holding for Billy's count; unarmed, no walk. Slept well, health 20, hunger 20."}],"say":"Morning. 
+- 00:02 act: {"actions":[{"do":"note","text":"Dusk day 463. Holding at the row beside bed 401,107,-1023, unarmed, no walk named. Going to sleep here."},{"do":"sleep"}]}
+- 00:06 act: {"actions":[{"do":"note","text":"Morning day 464. Woke at the row, 402,107,-1023, health 20, hunger 20. Holding for Billy's count; unarmed, no food, no walk named."}],"say":"Worf here at the row, heal
+- 00:10 act: {"actions":[{"do":"note","text":"Day 464 morning. Billy gave his spare wooden sword to Trini; Zack armed. Need four armed in sight before any walk. I am unarmed, holding at the row, 402,107,-1023."}]}
+- 00:14 act: {"actions":[{"do":"note","text":"Dusk day 464. Holding at the row beside bed 401,107,-1023, unarmed, no walk named. Going to sleep here."},{"do":"sleep"}]}
+- 00:18 act: {"actions":[{"do":"note","text":"Bright, day 464 again. Still holding at the row, 402,107,-1023, unarmed, no food. Billy walks only with four armed in sight; Trini and Zack are armed so far."}]}
+- 00:26 act: {"actions":[{"do":"note","text":"Dusk day 464 again. No walk tonight; Billy counted two armed. Sleeping beside bed 401,107,-1023 at the row, unarmed."},{"do":"sleep"}]}
+- 00:31 act: {"actions":[{"do":"note","text":"Day 464 morning, bright, at 402,107,-1023 at the row. Health 20, hunger 20, unarmed, no food. Holding for Billy's count; no walk named."}],"say":"Worf here at the row,
+- 00:31 act: {"actions":[{"do":"note","text":"Morning 464: Billy's count is two armed (Trini, Zack). No walk named. I hold at the row, unarmed, no food."}],"intent":{"goal":"hold_row_for_count","program":"rest","a
+- 00:35 act: {"actions":[{"do":"note","text":"Day 465 morning: Trini armed, Beverly trying her sword, Billy's count not yet four. No walk named. I hold at the row, unarmed, no food."}],"say":"Worf holding at the r
+- 00:39 act: {"actions":[{"do":"note","text":"Day 465 dusk, at the row, unarmed, no food. No walk named by Billy. Going to bed beside 401,107,-1023."},{"do":"sleep"}]}
+- 00:43 act: {"actions":[{"do":"note","text":"Morning after the night of 465: Billy holds at the row for the count, Trini and Zack armed. No walk named. I hold, unarmed, no food."}]}
+- 00:55 act: {"actions":[{"do":"note","text":"Night of day 466 at the row, unarmed, no food. No walk named. Sleeping beside bed 401,107,-1023."},{"do":"sleep"}]}
+- 00:59 act: {"actions":[{"do":"note","text":"Morning of day 466 at the row. Billy counts two armed (Trini, Zack); no walk named. I am unarmed and holding at 402,107,-1023. Hunger 20, no food."}],"say":"Worf here,
+- 01:08 act: {"actions":[{"do":"note","text":"Dusk of day 466. Holding at the row with the group, unarmed, hunger 20. Going to sleep beside bed 401,107,-1023 in the row's sight."},{"do":"sleep"}]}
+- 01:12 act: {"actions":[{"do":"note","text":"Morning of day 467 at the row. Billy's count: two armed (Zack, Trini). No walk. I am unarmed, holding at 402,107,-1023. Hunger 20, no food."}]}
+- 01:20 act: {"actions":[{"do":"note","text":"Night of day 467 at the row, holding for Billy's count. Unarmed, hunger 20. Sleeping beside bed 401,107,-1023."},{"do":"sleep"}]}
+- 01:25 act: {"actions":[{"do":"note","text":"Day 467, daylight. Holding at the row at 402,107,-1023, unarmed, health 20, hunger 20, no food. Billy's count: no walk named."}],"say":"Worf here at the row, holding f
+- 01:29 act: {"actions":[{"do":"note","text":"Day 467 morning. Billy's count: armed count zero, no walk to the cows. Holding at the row, unarmed."}]}
+- 01:33 act: {"actions":[{"do":"note","text":"Day 468 dusk. Holding at the row beside bed 401,107,-1023, unarmed, health 20, hunger 20. Going to bed in Billy's sight."}],"say":"Dusk, Billy. Worf in bed beside 401,
+- 01:33 act: {"actions":[{"do":"note","text":"Day 468 night. Slept at the row beside bed 401,107,-1023, unarmed, health 20, hunger 20, no food. Nothing new was asked of me."}]}
+- 01:37 act: {"actions":[{"do":"note","text":"Day 468 morning. Billy: no walk until four armed in sight. Holding at the row, unarmed, health 20, no food."}]}
+- 01:41 act: {"actions":[{"do":"note","text":"Day 468 morning. Billy holds his stone sword for Laforge; no walk. I am unarmed and hold at the row."}],"say":"Billy, Worf here at the row, unarmed. I hold for your co
+- 01:46 act: {"actions":[{"do":"note","text":"Day 468 dusk: held at the row, unarmed. Billy gave his sword to Kimberly's bed; no walk named. Going to bed beside 401,107,-1023."},{"do":"sleep"}],"reasoning":"Dusk, 
+- 01:50 act: {"actions":[{"do":"note","text":"Day 468 night passed beside bed 401,107,-1023; first light at the row, unarmed. Holding for Billy's count, no walk named."}],"say":"Worf at the row, unarmed, holding f
+- 01:54 act: {"actions":[{"do":"note","text":"Day 469 morning at the row, unarmed. Billy handed his stone sword to Laforge. No walk named; still holding."}],"reasoning":"Morning count. No walk named and I have no 

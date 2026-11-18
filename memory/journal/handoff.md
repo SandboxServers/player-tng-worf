@@ -1,7 +1,7 @@
-# Handoff, day 453 night
+# Handoff, day 468 dusk (second)
 
-Standing at 401,107,-1035 beside bed 401,107,-1036, at the row, in Billy's sight at dusk. Health 20, hunger 20, no food, unarmed, pack: wooden pickaxe, 4 jungle planks, 1 black wool.
-Billy has Chapman's stone sword at the row (Chapman at 388,-1034 may bring it at first light). No walk named. No cow walk until four in sight and one armed, on Billy's call.
-Owed: 3 melon to Zack when I hold melon. Share food with Trini, Wesley, Lewis first if any comes.
-Next: at first light hold at the row for Billy's count. Walk to 339,104,-979 only in daylight, with four in sight and armed, on Billy's call.
-Log: sleep refused at dusk and at first light (not night); sleep only at true night.
+Going to bed at 402,107,-1023 beside bed 401,107,-1023, at the row, in the row's sight (Billy at the row, Troi, Leonardo at bed 413,107,-1041). Health 20, hunger 20, no food, unarmed. Pack: wooden pickaxe, 4 jungle planks, 1 black wool.
+Billy gave his stone sword to Kimberly at her bed; Laforge is coming to the row for it. No walk named. I do not walk unless Billy names it, four armed are in sight, and I hold a sword.
+Owed: 3 melon to Zack when I hold melon. Share any food with Trini, Wesley, Lewis, Picard first. Leonardo is short of food.
+Cows reported at 339,104,-979, daylight only, when Billy names it.
+Next: at first light hold at the row for Billy's count. Sleep only at night or dusk, at bed 401,107,-1023 or the row beds.
