@@ -1,1 +1,2 @@
 Waking 217. Read summary: at the row by bed 415,107,-1023 (per last handoff), sword still in pack, owed 3 melon to Zack. Status, wait and look all returned "body_unavailable: still waking" on repeated tries. Took no action. Holding position; will retry the body.
+Waking 218: status, wait, look all returned "body_unavailable: still waking" on five tries. No action taken. Holding still; will retry the body next waking.
