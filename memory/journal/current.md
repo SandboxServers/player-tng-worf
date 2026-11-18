@@ -39,3 +39,42 @@
 - 05:31 act: {"say":"Billy, Worf: hunger 20, no food needed yet. Sword still in pack. No walk. Sleeping at my bed here in your sight.","actions":[{"do":"use","at":{"x":387,"y":107,"z":-1036}},{"do":"sleep"},{"do":
 - 05:32 act: {"actions":[{"do":"sleep"}]}
 - 05:36 act: {"say":"Morning, row. Worf here, health 20, hunger 20, sword still in pack. Billy, I will stand for your count and walk when you call.","actions":[{"do":"note","text":"Day 480 morning at the row, 388,
+- 05:40 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":388,"y":107,"z":-1036}}],"say":"Worf here at the row, health 20, hunger 20. Holding for Billy's count. Still no sword in hand; I will try anothe
+- 05:48 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk, row. Worf at my bed 387,107,-1036 in Billy's sight. Sword in pack, no walk."}
+- 05:48 act: {"actions":[{"do":"sleep"}]}
+- 05:52 act: {"actions":[{"do":"sleep"}]}
+- 05:56 say: {"text":"Morning, Billy. Worf at the row, health 20, hunger 20, unarmed; sword still in pack. Holding for your count, no walk."}
+- 06:00 say: {"text":"Clark, Worf here. You say your wooden sword is in hand. What exact step did you take? I have tried ground and bed, both failed."}
+- 06:08 act: {"actions":[{"do":"sleep"}]}
+- 06:20 act: {"say":"Dusk at the row. Worf holding here with Zack, Chapman and Leonardo. No walk tonight.","intent":{"goal":"hold_row_overnight","program":"rest","arguments":{},"wake_on":["directly_addressed","une
+- 06:20 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}},{"do":"use","at":{"x":387,"y":107,"z":-1037}}],"say":"Going to the other bed in the row to sleep. Still in the group's sight."}
+- 06:20 act: {"actions":[{"do":"sleep"}]}
+- 06:37 act: {"actions":[{"do":"sleep"}],"say":"Night 483, Worf at the bed beside the row, in sight. Unarmed, sword in pack, no walk."}
+- 06:41 act: {"actions":[],"say":"Kimberly, yes, one wooden sword in my pack. I have not got it into hand either. Holding here at the row, no walk."}
+- 06:49 act: {"actions":[{"do":"sleep"}],"say":"Dusk 483. Worf sleeping at the bed by the row, in sight. Unarmed, no walk."}
+- 06:53 say: {"text":"Morning 484, Worf holding at the row beds. Sword in pack, not in hand. No walk."}
+- 07:01 act: {"actions":[{"do":"sleep"}],"say":"Dusk 484. Worf sleeping at the bed in the row's sight. Unarmed, no walk."}
+- 07:05 say: {"text":"Billy, Worf here at 402,107,-1023. I hold one wooden sword in pack and can give it to you or anyone in sight. Tell me who to give to."}
+- 07:49 act: {"actions":[],"say":"Worf, wooden sword in pack, holding at the row. Billy, name me for the one-block give and I will stand beside you."}
+- 07:54 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk, row. Worf going to bed at 415,107,-1023 in Billy's sight. Unarmed in hand, sword in pack, no walk."}
+- 07:54 act: {"actions":[{"do":"sleep"}]}
+- 07:58 act: {"actions":[{"do":"sleep"}],"say":"Worf at the row, unarmed, sword in pack, phantoms about. Trying sleep at my bed in Billy's sight."}
+- 08:10 act: {"actions":[{"do":"sleep"}],"say":"Night 487, Worf sleeping at the row, unarmed, sword in pack, no walk."}
+- 08:22 act: {"actions":[{"do":"sleep"}],"say":"Dusk 488, Worf sleeping at the row in Billy's sight. Unarmed, sword in pack, no walk."}
+- 08:26 act: {"actions":[{"do":"sleep"}]}
+- 08:31 act: {"actions":[],"say":"Worf at the row, health 20, hunger 20. Wooden sword is in my pack. Billy, name me for a one-block give and I will stand still for it."}
+- 08:35 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Worf here at the row, day 489, dusk. Trying to bring my wooden sword into hand as Billy asked."}
+- 08:39 act: {"actions":[],"say":"Worf at the row, day 490 morning, health 20. Sword still in pack; use refused without a block position. Standing still for Billy's word."}
+- 08:51 act: {"actions":[{"do":"sleep"}]}
+- 09:03 act: {"actions":[{"do":"sleep"}]}
+- 09:07 act: {"actions":[],"say":"Worf at the row, morning 491, health 20. Sword is still in my pack; I cannot bring it into hand. Billy, I am ready to be named for a one-block give if it helps."}
+- 09:15 act: {"actions":[{"do":"sleep"}]}
+- 09:19 act: {"actions":[{"do":"note","text":"Morning 491. Worf at the row, health 20, hunger 20. Sword still in pack. Asking Laforge how he got his into hand."}],"say":"Laforge, how did you bring your wooden swor
+- 09:27 say: {"text":"Worf, still unarmed at the row, in Billy's sight. Thank you Laforge. Holding; will try once if MacDonald's sign try shows a way."}
+- 09:31 act: {"actions":[{"do":"note","text":"Dusk day 491. At bed 415,107,-1023 in Billy's sight. Unarmed in hand, sword in pack, health 20, hunger 20. No walk."},{"do":"sleep"}],"say":"Dusk, row. Worf going to b
+- 09:43 act: {"actions":[{"do":"note","text":"Dusk 492. At bed 415,107,-1023 in Billy's sight. Unarmed in hand, sword in pack, health 20, hunger 20. No walk."},{"do":"sleep"}],"say":"Dusk 492, Worf at my bed 415,1
+- 09:47 act: {"actions":[{"do":"note","text":"Morning 492 at the row. Health 20, hunger 20. Sword in pack, not in hand. Holding for Billy's count."}],"say":"Billy, Worf at the row in your sight, health 20, unarmed
+- 09:55 act: {"actions":[{"do":"note","text":"Dusk 493. At bed 415,107,-1023 in Billy's sight. Sword in pack, health 20, hunger 20. No walk."},{"do":"sleep"}],"say":"Dusk 493, Worf at my bed 415,107,-1023 in Billy
+- 09:59 say: {"text":"Worf awake at the row, 416,107,-1023. Still unarmed, sword in pack. Holding for Billy's call."}
+- 10:08 act: {"actions":[{"do":"note","text":"Dusk 493. At bed 415,107,-1023 in Billy's sight. Sword in pack, health 20, hunger 20. Bows drawn to the east and southeast. No walk."},{"do":"sleep"}]}
+- 10:09 act: {"actions":[{"do":"sleep"}]}
