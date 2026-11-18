@@ -138,3 +138,4 @@
 - 01:46 act: {"actions":[{"do":"note","text":"Day 468 dusk: held at the row, unarmed. Billy gave his sword to Kimberly's bed; no walk named. Going to bed beside 401,107,-1023."},{"do":"sleep"}],"reasoning":"Dusk, 
 - 01:50 act: {"actions":[{"do":"note","text":"Day 468 night passed beside bed 401,107,-1023; first light at the row, unarmed. Holding for Billy's count, no walk named."}],"say":"Worf at the row, unarmed, holding f
 - 01:54 act: {"actions":[{"do":"note","text":"Day 469 morning at the row, unarmed. Billy handed his stone sword to Laforge. No walk named; still holding."}],"reasoning":"Morning count. No walk named and I have no 
+- 01:59 say: {"text":"Worf at the row, dusk. Holding here, unarmed, for Billy's count at first light."}
