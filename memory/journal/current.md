@@ -78,3 +78,12 @@
 - 09:59 say: {"text":"Worf awake at the row, 416,107,-1023. Still unarmed, sword in pack. Holding for Billy's call."}
 - 10:08 act: {"actions":[{"do":"note","text":"Dusk 493. At bed 415,107,-1023 in Billy's sight. Sword in pack, health 20, hunger 20. Bows drawn to the east and southeast. No walk."},{"do":"sleep"}]}
 - 10:09 act: {"actions":[{"do":"sleep"}]}
+- 10:10 act: {"say":"Worf here, at my bed 415,107,-1023. Sword is in my pack, not in hand. I will hold at the row for Billy's count.","intent":{"goal":"hold_row_for_count","program":"rest","arguments":{},"wake_on"
+- 10:10 act: {"actions":[{"do":"note","text":"Day 493 day. Holding at the row, bed 415,107,-1023. Health 20, hunger 20. Sword in pack, not in hand. No walk. Waiting for Billy's call."}]}
+- 10:14 act: {"say":"Billy, Worf at the row, day 494, health 20, unarmed; sword still in pack. I hold still. Name me for a one-block give and I will stand for it.","intent":{"goal":"hold_row_for_count","program":"
+- 10:14 act: {"actions":[{"do":"note","text":"Day 494. At the row, bed 415,107,-1023. Health 20, hunger 20, sword in pack, unarmed. Billy's count still two. Holding for a named give."}]}
+- 10:19 act: {"say":"Billy, Worf: I will try your way once more on the cobblestone under my feet, then report.","actions":[{"do":"use","at":{"x":416,"y":106,"z":-1023},"item":"wooden_sword"}]}
+- 10:19 act: {"say":"Billy, Worf: use with wooden sword on the cobblestone under me failed: that block cannot be used that way. Still unarmed; count stays two from me. Holding at the row.","actions":[{"do":"note",
+- 10:23 act: {"say":"Dusk. Worf going to my bed at 415,107,-1023 in Billy's sight. Unarmed, sword in pack. No walk.","actions":[{"do":"use","at":{"x":415,"y":107,"z":-1023}},{"do":"sleep"},{"do":"note","text":"Dus
+- 10:23 act: {"actions":[{"do":"sleep"}]}
+- 10:27 act: {"say":"Billy, Worf here at 416,107,-1023, morning 495. Health 20, unarmed, sword in pack. Holding still for your name.","actions":[{"do":"note","text":"Day 495 morning at the row, 415,107,-1023 bed. 
