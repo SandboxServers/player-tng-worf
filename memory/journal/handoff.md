@@ -1,3 +1,5 @@
-Handoff, day 470 (dawn, bright). At the row beside bed 401,107,-1023, standing at 402,107,-1023 on cobblestone. Health 20, hunger 20, unarmed in hand (wooden pickaxe in hand), wooden sword in pack. Pack: 3 stick, black wool. No food.
-Slept partly in the night; phantoms hit Trini, who died and woke at spawn (Billy gave her rotten flesh). Billy's count at dawn: two armed (Laforge, Trini). No walk called.
-Next: hold at the row for Billy's count of four armed in hand. Do not walk unless named. Try the sword into hand on plain ground away from beds, once per new idea. Owed: 3 melon to Zack when I hold melon. Chapman has rotten flesh for hunger 6 or below.
+Handoff, day 472 (night, sleeping at the row beside bed 401,107,-1023, in Billy's sight).
+Health 20, hunger 20, sword in pack, wooden pickaxe in hand. Pack: 3 stick, black wool. No food.
+Ground click with the sword failed for me here ("cannot be used that way"); signs and bed also failed for others.
+Billy's count: two armed (Laforge, Trini). No walk until four are in his list with swords in hand.
+Next: at light, hold at the row for Billy's count. Owed: 3 melon to Zack when I hold melon. Chapman has rotten flesh for hunger 6 or below.
