@@ -1,1 +1,1 @@
-Waking 256. Recalled summary and play skill. Body woke after several tries. Night 514, alone at the row. Went to bed 415,107,-1023, slept after one retry. Health 20, hunger 20, no food. Sword still in pack. Next waking: hold at the row for Billy's count, then try a new way to get the sword into hand.
+# Journal
