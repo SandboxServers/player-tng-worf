@@ -1,1 +1,1 @@
-Waking 240. Recalled summary. Body still reports "waking" on look, wait and status. Holding at the row beside bed 415,107,-1023 (last known position from goals). Next: retry look; when it answers, hold for Billy's count and try a new way to get the sword into hand.
+Waking 241. Recalled summary and goals. Body still reports "waking" on look, status, wait (checked several times). Holding at the row beside bed 415,107,-1023. Next: retry look; when it answers, hold for Billy's count and try a new way to get the sword into hand.
