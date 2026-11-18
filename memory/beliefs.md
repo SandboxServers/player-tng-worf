@@ -5,6 +5,7 @@
 - trade_wait programs are not available in this phase.
 - Sleep works only at night. The use action on a bed at night can be refused ("that block is a bed"); the sleep verb after it worked on the night of 336.
 - Phantoms come at dusk. Carry a sword.
+- Sleep failed at dusk ("not night"), then worked once full night came (day 470). Wait for night before sleep.
 - The way east from the beds is blocked near 472,107,-1082. Sheep were not found east (424-470,107,-1083) or west (near 375,95,-1111).
 - The oak at 466,112,-1108 would not mine for Data.
 - Cows have not been seen at 370,93,-1124 or 337,93,-1136 lately.
