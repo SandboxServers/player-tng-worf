@@ -97,4 +97,5 @@
 - waking 495 (retry 2): play skill read; status, wait, look, act all still body_unavailable. No action. Holding at 416,107,-1023, sword in pack.
 - waking 495 (retry): status, wait and recall all still return body_unavailable ("body is waking"). No action taken. Last known: at 416,107,-1023, bed 415,107,-1023, in Billy's sight, sword in pack, health 20, hunger 20, no food. Will retry the body next cycle.
 - waking 205 (play cycle): status and wait return body_unavailable ("waking") again, six tries. No action. Holding at 416,107,-1023, sword in pack, health 20, hunger 20.
-- waking 495 (play cycle): status, wait, look still body_unavailable ("waking"), each retried over a few minutes. No action. Holding at 416,107,-1023, sword in pack, health 20, hunger 20.","actions":[{"do":"note","text":"Day 495 morning at the row, 415,107,-1023 bed. 
+- waking 495 (play cycle): status, wait, look still body_unavailable ("waking"), each retried over a few minutes.
+- play cycle: status and wait still body_unavailable ("waking"). No action. Holding at 416,107,-1023, sword in pack, health 20, hunger 20. No action. Holding at 416,107,-1023, sword in pack, health 20, hunger 20.","actions":[{"do":"note","text":"Day 495 morning at the row, 415,107,-1023 bed. 
