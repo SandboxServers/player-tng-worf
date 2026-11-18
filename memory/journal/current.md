@@ -1,1 +1,1 @@
-Waking 235: status, wait, look all returned "body_unavailable: Your body is waking" on about nine tries. No action taken. Holding at the row by bed 415,107,-1023; sword still in pack, owed 3 melon to Zack. Will retry the body next waking.
+Waking 236: status and wait returned "body_unavailable: Your body is waking" on about ten tries over several minutes. No action taken. Holding at the row by bed 415,107,-1023; sword still in pack, owed 3 melon to Zack. Will retry the body next waking.
