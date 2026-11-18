@@ -1,8 +1,1 @@
-Waking 217. Read summary: at the row by bed 415,107,-1023 (per last handoff), sword still in pack, owed 3 melon to Zack. Status, wait and look all returned "body_unavailable: still waking" on repeated tries. Took no action. Holding position; will retry the body.
-Waking 218: status, wait, look all returned "body_unavailable: still waking" on five tries. No action taken. Holding still; will retry the body next waking.
-Waking 219: status and wait returned "body_unavailable: still waking" on about seven tries over several minutes. No action taken. Holding at the row by bed 415,107,-1023; will retry the body next waking.
-Waking 220: status, look and wait all returned "body_unavailable: still waking" on about seven tries. No action taken. Holding at the row by bed 415,107,-1023; will retry the body next waking.
-Waking 221: status, wait and look all returned "body_unavailable: still waking" on about ten tries. No action taken. Holding at the row by bed 415,107,-1023; will retry the body next waking.
-Waking 228: status, look, wait returned "body_unavailable: Your body is waking" on about six tries. No action taken. Holding at the row; will retry the body next waking.
-Waking 229: status and wait returned "body_unavailable: Your body is waking" on about ten tries. No action taken. Holding; will retry next waking.
-Waking 232: status, wait, look all returned "body_unavailable: Your body is waking" on about six tries. No action taken. Holding at the row by bed 415,107,-1023; will retry next waking.
+Waking 235: status, wait, look all returned "body_unavailable: Your body is waking" on about nine tries. No action taken. Holding at the row by bed 415,107,-1023; sword still in pack, owed 3 melon to Zack. Will retry the body next waking.
