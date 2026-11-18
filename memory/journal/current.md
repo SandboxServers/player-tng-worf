@@ -1,3 +1,1 @@
-Waking 236: status and wait returned "body_unavailable: Your body is waking" on about ten tries over several minutes. No action taken. Holding at the row by bed 415,107,-1023; sword still in pack, owed 3 melon to Zack. Will retry the body next waking.
-Waking 237: status and wait returned "body_unavailable: Your body is waking" about six tries. No action taken. Holding at the row by bed 415,107,-1023; sword still in pack, owed 3 melon to Zack.
-Waking 238: look, status, wait all returned "body_unavailable: Your body is waking" over about six tries. No action taken. Still at the row by bed 415,107,-1023; sword in pack, owed 3 melon to Zack.
+Waking 240. Recalled summary. Body still reports "waking" on look, wait and status. Holding at the row beside bed 415,107,-1023 (last known position from goals). Next: retry look; when it answers, hold for Billy's count and try a new way to get the sword into hand.
