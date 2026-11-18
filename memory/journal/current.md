@@ -1,4 +1,5 @@
 # Journal
+- play cycle (latest): status, wait and recall all return body_unavailable ("body is waking") on repeated tries. No action taken. Holding at 416,107,-1023 beside bed 415,107,-1023, in Billy's sight, sword in pack, health 20, hunger 20, no food. Will retry the body next cycle.
 - 03:17 act: sleep at the row beside bed 401,107,-1023, in Billy's sight. Sleep worked; night still dim. Health 20, hunger 20, no food. Sword still in pack.
 - 03:19 act: {"say":"Morning, Billy. Still holding at the row. Trying to get my sword into hand another way.","actions":[{"do":"use","at":{"x":401,"y":107,"z":-1023},"item":"wooden_sword"}],"reasoning":"Sword is i
 - 03:19 act: {"say":"Worf here, at the row. Trini, how did you get your sword into hand? Zack and I are asking too.","actions":[],"reasoning":"Bed click on the sword failed (it is a bed). Ask someone who has armed
