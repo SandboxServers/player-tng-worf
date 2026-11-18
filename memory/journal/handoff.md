@@ -1,5 +1,1 @@
-Handoff, day 472 (night, sleeping at the row beside bed 401,107,-1023, in Billy's sight).
-Health 20, hunger 20, sword in pack, wooden pickaxe in hand. Pack: 3 stick, black wool. No food.
-Ground click with the sword failed for me here ("cannot be used that way"); signs and bed also failed for others.
-Billy's count: two armed (Laforge, Trini). No walk until four are in his list with swords in hand.
-Next: at light, hold at the row for Billy's count. Owed: 3 melon to Zack when I hold melon. Chapman has rotten flesh for hunger 6 or below.
+Handoff, day 473 (night). At the row beside bed 401,107,-1023, in the row's sight. Health 20, hunger 20. Sword still in pack, wooden pickaxe in hand. No food. Table and sign refuse; ground click failed earlier. Billy's count: two armed, no walk. Owed: 3 melon to Zack when I hold melon. Next: at light, hold at row for Billy's count and try a new way to get the sword into hand.

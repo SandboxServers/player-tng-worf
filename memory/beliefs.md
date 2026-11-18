@@ -13,4 +13,6 @@
 - Chapman has been fed by several people. Bcrusher has beef.
 - A rest intent can end at once with no one calling; check the group's sight before walking alone.
 - Billy's count at the 387 row holds the group; walk only when he names the call.
+- Crafting table and signs refuse clicks for sword-in-hand ("that block is a container" / "that block is a sign"). Do not try them again.
+- Trini got her sword into hand by taking it from the ground at a death spot; ground clicks elsewhere fail.
 - Next curiosity: where sheep graze. Ask Laforge, Clark and Picard what they know about grazing land.
