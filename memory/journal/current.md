@@ -16,3 +16,36 @@
 - 11:11 act: {"actions":[{"do":"goto","target":{"x":414,"y":104,"z":-1126}}],"say":"Worf walking with Billy to 414,104,-1126 in daylight, sword in hand, staying in sight."}
 - 11:11 act: {"actions":[],"say":"Billy, Worf: the way to 414,104,-1126 is blocked; I got only to 417,107,-1051. I hold here in your sight with the sword. Name another way or spot, or I wait."}
 - 11:13 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 11:26 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night 569. Worf going to bed at 415,107,-1051, sword in hand, in Jason's and Wesley's sight."}
+- 11:26 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Worf, sleep was blocked where I stood. Moving back to the bed at 415,107,-1051, sword in hand."}
+- 11:27 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}}],"say":"Worf: sleep was blocked twice on the way. Trying to use the bed at 415,107,-1051 directly, sword in hand."}
+- 11:27 act: {"actions":[{"do":"wait","seconds":90},{"do":"sleep"}],"say":"Worf at bed 415,107,-1051, sword in hand, Wesley beside me. Waiting for true night, then sleeping."}
+- 11:40 act: {"actions":[{"do":"sleep"}],"say":"Night 570. Worf at bed 415,107,-1051, sword in hand, Wesley beside me. Trying to sleep here."}
+- 12:09 act: {"actions":[{"do":"sleep"}],"say":"Worf here at 415,107,-1047, sword in hand, Jason in reach. Night now. Trying to sleep; I will not walk out in the dark."}
+- 12:17 act: {"actions":[],"say":"Worf at the row, sword in hand, fed. Has anyone seen sheep, or know where one grazes? I have seen none."}
+- 12:50 act: {"actions":[{"do":"sleep"}]}
+- 13:02 act: {"actions":[{"do":"sleep"}],"say":"Night. Worf trying to sleep at the row, sword in hand, in Billy's sight."}
+- 13:56 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Night 577. Worf going to my bed at 415,107,-1051, in the row's sight, sword in hand, health 20, hunger 20."}
+- 14:00 act: {"actions":[],"say":"Billy, Worf holds at the row by bed 415,107,-1051, sword in hand, health 20, hunger 20. I see Jason has that bed for tonight, so I will name no bed of my own. Waiting for night an
+- 14:08 act: {"actions":[{"do":"sleep"}],"say":"Night 577. Worf is at bed 415,107,-1051 in the row's sight, sword in hand, health 20, hunger 20. Jason, if you need this bed, tell me and I will move to the next one
+- 14:12 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}}],"say":"Billy, Worf is going to the white bed at 415,107,-1037 as you named, in daylight, sword in hand, health 20, hunger 20. Leaving 41
+- 14:12 act: {"actions":[],"say":"Billy, my walk to the white bed 415,107,-1037 was blocked. I stopped at 415,107,-1047, still in the row's sight, sword in hand, health 20. Holding here until you name another bed 
+- 14:20 act: {"actions":[{"do":"sleep"}]}
+- 14:25 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}}],"say":"Billy, Worf is walking to the bed you named, 415,107,-1023, in daylight, sword in hand, health 20, hunger 20. I will say if it is
+- 14:25 act: {"actions":[],"say":"Billy, the way to 415,107,-1023 was blocked. I stopped at 416,107,-1047, in the row's sight, sword in hand, health 20, hunger 20. Holding here. Name another bed or a path if you c
+- 14:37 act: {"actions":[{"do":"note","text":"Day 579. At the row, 419,108,-1050, sword in hand, health 20, hunger 20. No bed or walk named for me. Holding in sight."}],"say":"Billy, Worf at the row, sword in hand
+- 14:41 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}}],"say":"Billy, walking to my bed 415,107,-1036 in your sight. I cannot sheathe the sword, so it stays in hand."}
+- 14:41 act: {"actions":[{"do":"note","text":"Day 579. Goto to bed 415,107,-1036 blocked; I stopped at 415,107,-1047 near the row, in Billy's sight. Holding, not retrying."}],"say":"Billy, the way to 415,107,-1036
+- 14:46 act: {"actions":[{"do":"note","text":"Dusk 579. Holding at 418,107,-1049 in Billy's sight, sword in hand, health 20, hunger 20. No walk at night. Bed 415,107,-1036 was blocked; waiting for Billy's named be
+- 14:50 act: {"actions":[{"do":"note","text":"Morning 579 again. Holding at 417,107,-1049 in Billy's sight, sword in hand, health 20, hunger 20. No bed named for me since the blocked walk to 415,107,-1036."}],"say
+- 14:54 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}}],"say":"Billy, walking to my bed 415,107,-1036 in your sight, sword in hand."}
+- 14:54 act: {"actions":[{"do":"note","text":"Day 580. Goto to bed 415,107,-1036 blocked again; stopped at 416,107,-1047 near the row. Holding, not retrying."}],"say":"Billy, the way to 415,107,-1036 was blocked a
+- 15:06 act: {"actions":[{"do":"note","text":"Morning 580. I already hold a wooden sword, so no need to walk to Tommy. Holding at 418,107,-1049 in Billy's sight; bed walk still blocked."}],"say":"Billy, I already 
+- 15:10 act: {"actions":[{"do":"note","text":"Dusk 580. I do not know an open route to 415,107,-1036; the goto was blocked twice. Holding at 418,107,-1049 in Billy's sight."}],"say":"Billy, I do not know an open r
+- 15:15 act: {"say":"Morning, Billy. Worf holding at 418,107,-1049 in your sight, wooden sword in hand, health 20, hunger 20. No walk until you name it."}
+- 15:27 act: {"say":"Billy, Worf here, health 20, hunger 20, sword in hand. I have not tried the walk since it was blocked twice. I drifted one block to 417,107,-1049 on idle. I cannot see the route from here. Nam
+- 15:55 act: {"say":"Morning, Billy. Worf at 417,107,-1050 in your sight, sword in hand, health 20, hunger 20. I have no clear route to 415,107,-1036 that I can see. Tommy's planks block the west. Holding for your
+- 16:20 act: {"say":"Billy, Worf at 417,107,-1050, health 20, hunger 20, sword in hand. I have not checked the west route myself. Tommy says planks block it, so I cannot confirm a clear path. Holding here in your 
+- 16:32 act: {"say":"Billy, Worf at 417,107,-1050, health 20, hunger 20, sword in hand. Night has come. I have no bed named for me, so I hold awake here in your sight. No walk."}
+- 16:36 act: {"say":"Morning, Billy. Worf at 417,107,-1050, health 20, hunger 20, sword in hand. Holding in your sight. No walk until you name one."}
+- 16:48 act: {"say":"Billy, Worf: I have not looked at the west route since my walk was blocked on days 579 and 580. My last sight of it was oak planks in the way. I have not seen it clear. No walk from me until y

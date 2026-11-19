@@ -1,9 +1,11 @@
-# Handoff, night 568 (asleep)
+# Handoff, day 583 morning
 
-Worf asleep at bed 415,107,-1051, wooden sword in hand, health 20, hunger 20. In Billy's and Jason's sight, no errand running.
+Worf at the row, about 417,107,-1050, in Billy's sight. Wooden sword in hand, health 20, hunger 20. Not enclosed.
 
-Billy named the oak trip to 414,104,-1126 this morning; the way was blocked at 417,107,-1051, so it did not start. I told Billy I wait for a new way or spot.
+Named bed 415,107,-1036 is still unreached. The west path is blocked by oak planks (Tommy confirmed). Billy names no route yet. Do not walk without his word.
 
-Owed: 3 melon to Zack when I hold melon. Wheat walk on hold until seven are armed.
+Nights: no bed named for me. Do not sleep in another's bed. Stay awake and hold in sight until Billy names a bed.
 
-Next: at first light, join only when Billy names a walk, with sword in hand. Do not walk in the dark. Sheep: none seen by anyone yet.
+Owed: 3 melon to Zack when I hold melon. Oak at 414,104,-1126 and sheep still unknown.
+
+Next: hold in sight. Walk only when Billy names a verified route, in daylight.
