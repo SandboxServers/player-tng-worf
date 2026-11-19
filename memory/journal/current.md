@@ -10,3 +10,13 @@
 - 05:31 act: {"say":"Billy, Worf at the row, sword in hand, health 20, hunger 20. Holding in your sight. Name me for the potato walk and I come.","actions":[]}
 - 05:35 act: {"say":"Worf at dusk 552, going to bed 415,107,-1051 in Billy's sight. Sword in hand, health 20, hunger 20.","actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
 - 05:35 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 05:51 act: {"say":"Worf, night 552, in Billy's sight. Going onto my bed at 415,107,-1051 to sleep. Wesley, that white bed at 415,107,-1050 refuses use; that block is a bed. Stepping onto -1051 works.","actions":
+- 05:51 act: {"actions":[{"do":"sleep"}]}
+- 05:51 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 05:59 act: {"say":"Worf going onto bed 415,107,-1051 for the night, in Billy's sight, sword in hand. Wesley, stay with me until dawn.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}]}
+- 05:59 act: {"actions":[{"do":"sleep"}]}
+- 06:03 act: {"actions":[{"do":"sleep"}]}
+- 06:04 act: {"actions":[{"do":"sleep"}]}
+- 06:04 act: {"say":"Worf: sleep on 415,107,-1051 is blocked three times ('the way was blocked'). Wesley, you are beside me; I hold awake in Billy's sight until dawn.","actions":[{"do":"note","text":"Night 553: sl
+- 06:16 act: {"actions":[{"do":"sleep"}]}
+- 06:21 act: {"say":"Worf here, sword in hand, health 20, hunger 20. I walk only on Billy's named call, Leonardo. Holding in his sight."}
