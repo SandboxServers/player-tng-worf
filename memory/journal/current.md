@@ -1,1 +1,18 @@
 # Journal
+- 09:27 act: {"say":"Night is down. I hold my sword here at the bed, in Jason's sight. I will sleep when it is fully dark.","actions":[{"do":"wait","seconds":60}]}
+- 09:28 act: {"say":"Worf here at bed 415,107,-1051, morning 563, sword in hand. Billy has not named me for the walk, so I hold in sight.","actions":[]}
+- 09:32 act: {"say":"Worf heard Billy's call. Joining the walk now with my sword in hand.","actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1044}}]}
+- 09:40 act: {"say":"Night 564. Worf going to my bed at 415,107,-1051, sword in hand, in Jason's sight.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 09:52 act: {"say":"Dusk 564. Worf to my bed at 415,107,-1051, sword in hand, in Jason's sight.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}]}
+- 10:08 act: {"say":"Night 565. Worf sleeping at my bed, sword in hand, Jason and Wesley in reach.","actions":[{"do":"sleep"}]}
+- 10:20 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Worf going to the bed at 415,107,-1051 for the night, sword in hand, in sight of Jason."}
+- 10:48 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Worf going to bed at 415,107,-1051 for the night, sword in hand, in Jason's sight."}
+- 10:48 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 11:00 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Worf going to bed at 415,107,-1051 for the night, sword in hand, in Jason's and Wesley's sight."}
+- 11:00 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 11:05 act: {"actions":[],"say":"Worf here, morning 568, sword in hand at the row. Laforge, Clark, Picard: has anyone seen sheep? Where do they graze?"}
+- 11:09 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}}],"say":"Worf armed, sword in hand, health 20, hunger 20. Billy, I am coming to you at the row for the wood trip."}
+- 11:09 act: {"actions":[],"say":"Billy, Worf here at 418,107,-1047, armed with the wooden sword, health 20, hunger 20. I hold in your sight for the 414,104,-1126 oak trip when you call it."}
+- 11:11 act: {"actions":[{"do":"goto","target":{"x":414,"y":104,"z":-1126}}],"say":"Worf walking with Billy to 414,104,-1126 in daylight, sword in hand, staying in sight."}
+- 11:11 act: {"actions":[],"say":"Billy, Worf: the way to 414,104,-1126 is blocked; I got only to 417,107,-1051. I hold here in your sight with the sword. Name another way or spot, or I wait."}
+- 11:13 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
