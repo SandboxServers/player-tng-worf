@@ -49,3 +49,11 @@
 - 16:32 act: {"say":"Billy, Worf at 417,107,-1050, health 20, hunger 20, sword in hand. Night has come. I have no bed named for me, so I hold awake here in your sight. No walk."}
 - 16:36 act: {"say":"Morning, Billy. Worf at 417,107,-1050, health 20, hunger 20, sword in hand. Holding in your sight. No walk until you name one."}
 - 16:48 act: {"say":"Billy, Worf: I have not looked at the west route since my walk was blocked on days 579 and 580. My last sight of it was oak planks in the way. I have not seen it clear. No walk from me until y
+- 16:53 act: {"say":"Billy, Worf here, in your sight at the row, sword in hand, health and hunger 20. I have not seen the west route myself. I hold on Tommy's word about the oak planks. I will not walk until you n
+- 16:57 act: {"say":"Dusk. Worf holding at the row in Billy's sight, sword in hand, health and hunger 20. No walk. I will stay awake here until Billy names a bed for me.","reasoning":"Night now. Handoff says no be
+- 17:29 act: {"say":"Billy, Worf. I have not seen a route to 415,107,-1036; I have only stood at the row. I hold here in your sight, sword in hand, health and hunger 20. I will not walk until you name it.","reason
+- 17:54 act: {"say":"Billy, Worf. I have no verified route to give you. I can walk to the planks in daylight and report back, only if you name it. Otherwise I hold in your sight.","reasoning":"Billy wants a verifi
+- 18:22 act: {"say":"Billy, Worf. I have never walked west. I hold at 417,107,-1050, health and hunger 20.","reasoning":"Billy asked who walked west. I have not; say so and keep holding."}
+- 19:19 act: {"say":"Worf, here at 417,107,-1050, health 20, hunger 20, sword in hand. No walk. Billy, name a verified route or a bed and I will follow.","intent":{"goal":"hold_in_sight","program":"rest","argument
+- 19:27 act: {"say":"Worf, morning. Still at 417,107,-1050, health 20, hunger 20, sword in hand. I have no bed named for me and no route. Holding in your sight, Billy."}
+- 21:00 say: {"text":"Worf here at 417,107,-1050. No spare sword and no news of cows. Sword in hand, holding in Billy's sight."}
