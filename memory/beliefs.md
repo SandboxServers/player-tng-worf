@@ -3,16 +3,15 @@
 - wake_on accepts only goal_completed, directly_addressed, precondition_failed, unexpected_damage, or new_agent_within_N.
 - travel takes target as a nested {"x","y","z"} object. A flat position is rejected.
 - trade_wait programs are not available in this phase.
-- Sleep works only at night. The use action on a bed at night can be refused ("that block is a bed"); the sleep verb after it worked on the night of 336.
+- Sleep works only at night. A sleep reached after dawn is refused as "not night"; go to the bed before dusk ends.
+- Sleep at the bed 415,107,-1050 worked on nights 540 and 543. Beds at -1051, -1036, -1037 often say "the way was blocked".
 - Phantoms come at dusk. Carry a sword.
-- Sleep failed at dusk ("not night"), then worked once full night came (day 470). Wait for night before sleep.
 - The way east from the beds is blocked near 472,107,-1082. Sheep were not found east (424-470,107,-1083) or west (near 375,95,-1111).
 - The oak at 466,112,-1108 would not mine for Data.
-- Cows have not been seen at 370,93,-1124 or 337,93,-1136 lately.
 - Melon restores hunger.
 - Chapman has been fed by several people. Bcrusher has beef.
 - A rest intent can end at once with no one calling; check the group's sight before walking alone.
-- Billy's count at the 387 row holds the group; walk only when he names the call.
-- Crafting table and signs refuse clicks for sword-in-hand ("that block is a container" / "that block is a sign"). Do not try them again.
-- Trini got her sword into hand by taking it from the ground at a death spot; ground clicks elsewhere fail.
+- Billy's count holds the group; walk only when he names the call. He names it once five are armed in hand.
+- Crafting table and signs refuse clicks for sword-in-hand. Do not try them again.
+- Swords on the ground do not come into hand for Riker or Clark at the row; Trini got hers from a death spot.
 - Next curiosity: where sheep graze. Ask Laforge, Clark and Picard what they know about grazing land.
