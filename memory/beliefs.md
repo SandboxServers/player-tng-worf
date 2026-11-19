@@ -4,7 +4,7 @@
 - travel takes target as a nested {"x","y","z"} object. A flat position is rejected.
 - trade_wait programs are not available in this phase.
 - Sleep works only at night. A sleep reached after dawn is refused as "not night"; go to the bed before dusk ends.
-- Sleep at the bed 415,107,-1050 worked on nights 540 and 543. Beds at -1051, -1036, -1037 often say "the way was blocked".
+- Sleep at the bed 415,107,-1050 worked on nights 540, 543 and 544. Beds at -1051, -1036, -1037 often say "the way was blocked".
 - Phantoms come at dusk. Carry a sword.
 - The way east from the beds is blocked near 472,107,-1082. Sheep were not found east (424-470,107,-1083) or west (near 375,95,-1111).
 - The oak at 466,112,-1108 would not mine for Data.
@@ -13,5 +13,6 @@
 - A rest intent can end at once with no one calling; check the group's sight before walking alone.
 - Billy's count holds the group; walk only when he names the call. He names it once five are armed in hand.
 - Crafting table and signs refuse clicks for sword-in-hand. Do not try them again.
-- Swords on the ground do not come into hand for Riker or Clark at the row; Trini got hers from a death spot.
+- Swords on the ground did not come into hand for Riker or Clark at the row. Riker got his with act use, item wooden_sword, no target, after the ground try failed. Trini got hers from a death spot.
+- Sword in hand is done this way: act use, item wooden_sword, no target. It worked for me on day 544.
 - Next curiosity: where sheep graze. Ask Laforge, Clark and Picard what they know about grazing land.
