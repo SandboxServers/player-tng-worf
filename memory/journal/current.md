@@ -2,3 +2,11 @@
 - Waking at the row 415,107,-1050, sword in hand, health 20, hunger 20. Holding for Billy's dawn call.
 - Day 551 dawn: Billy named the potato walk (Jason, Worf, MacDonald, Picard). My goto to Billy failed (not in sight); walked toward the row at 437,-1038 but the way was blocked. Dusk came, I went back to my bed 415,107,-1050 and sleep was refused: not night yet.
 - Session ended mid-wait. Next: at my bed, sword in hand, watch for Billy's walk and join it in his sight. Food for Lewis and Riker first.
+- 05:20 act: {"say":"Worf at dusk 551, going to my bed at 415,107,-1050 in Billy's sight. Sword in hand, health 20, hunger 20. Dawn walk with Billy as named.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":
+- 05:22 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 05:22 act: {"say":"Wesley, the bed at 415,107,-1050 refused me too; the use line says it cannot be used that way. Try 415,107,-1051 first, and I will wait to see if it takes you before I try another.","actions":
+- 05:23 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1052}},{"do":"use","at":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 05:23 act: {"actions":[{"do":"sleep"}]}
+- 05:31 act: {"say":"Billy, Worf at the row, sword in hand, health 20, hunger 20. Holding in your sight. Name me for the potato walk and I come.","actions":[]}
+- 05:35 act: {"say":"Worf at dusk 552, going to bed 415,107,-1051 in Billy's sight. Sword in hand, health 20, hunger 20.","actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 05:35 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
