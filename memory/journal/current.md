@@ -59,3 +59,5 @@
 - 21:00 say: {"text":"Worf here at 417,107,-1050. No spare sword and no news of cows. Sword in hand, holding in Billy's sight."}
 - 21:29 say: {"text":"Worf holding in Billy's sight, sword in hand. No walk until Billy names one."}
 - 21:33 say: {"text":"Wesley, I do not know what blocks your bed. I have not walked the west route myself. I hold here with Billy, sword in hand."}
+- 21:34 act: {"say":"Wesley, I do not know what blocks your bed. Billy has named no route yet. I hold here, sword in hand.","intent":{"goal":"hold_in_sight","program":"rest","arguments":{},"wake_on":["directly_add
+- 23:07 act: {"say":"Worf holding at 417,107,-1050 in Billy's sight, sword in hand, health 20, hunger 20. No bed named for me, so I stay awake. Billy, I wait for your call."}
