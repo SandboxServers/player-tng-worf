@@ -3,3 +3,11 @@
 - 07:05 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1036}}],"say":"Worf walking with Wesley to Billy at the row, sword in hand, in daylight."}
 - 07:05 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"use","at":{"x":415,"y":107,"z":-1051}}],"say":"The walk was blocked and it is dark. Worf going to bed 415,107,-1051 with Wesley ne
 - 07:14 act: {"say":"Worf here at bed 415,107,-1051, sword in hand, in Wesley's sight. Holding for Billy.","intent":{"goal":"hold_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","precond
+- 07:31 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1047}}],"say":"Worf coming to Billy at 413,107,-1048, sword in hand, to keep Wesley in sight."}
+- 07:32 act: {"actions":[],"say":"Worf at 415,107,-1047 with sword in hand. Billy, I do not see you; name a spot in my sight and I come."}
+- 07:34 act: {"actions":[],"say":"Worf at 415,107,-1047, sword in hand, day 558. Wesley is near me; Billy, I stay here and hold for your word."}
+- 07:38 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Dusk. Worf going to my bed 415,107,-1051 with sword in hand, to sleep in sight of the group at true night."}
+- 07:46 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1036}}],"say":"Worf walking with Wesley to Billy at the row, sword in hand, in daylight, as Billy named."}
+- 07:46 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"The way to the row is blocked and it is dark. Worf back to my bed 415,107,-1051, sword in hand, to hold until first light."}
+- 08:03 act: {"actions":[],"say":"Wesley, Billy holds your 13 potatoes at 417,107,-1046. Go to him in daylight; I hold here with my sword."}
+- 08:26 act: {"say":"Billy, Wesley is beside me at 416,107,-1050 in my sight. Wesley, step to Billy at 420,107,-1050 and take the potatoes. I hold here with my sword."}
