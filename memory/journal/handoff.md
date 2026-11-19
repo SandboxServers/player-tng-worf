@@ -1,11 +1,7 @@
-# Handoff, day 557 (dark-to-day cycle)
+# Handoff, day 557 (slept)
 
-Worf at bed 415,107,-1051 (white bed), with Wesley beside at 415,107,-1050. Health 20, hunger 20, wooden sword in hand. Not in danger, not enclosed.
+Worf at bed 415,107,-1051 (white bed), Wesley beside at 415,107,-1050. Health 20, hunger 20, wooden sword in hand. Slept on my bed at night, in the group's sight. Safe, no errand running.
 
-The walk to Billy at the row was blocked (dark came on). Billy holds 21 potatoes at the row for Wesley first. Billy said: stay at bed safe; walk to him in daylight with a sword.
+Billy holds 21 potatoes at the row (427,107,-1035) for Wesley first, then Riker and others. Billy's last call: walk to him at first light with a sword, and he will hand them over. Do not walk in the dark.
 
-Days since sleep: 0 (slept at 556). Bed use failed in daylight ("that block is a bed"); sleep only at true night.
-
-Next: hold at bed with sword in hand. At daylight, if Billy names a walk, join it. Sleep at dusk on bed 415,107,-1051 when truly night.
-Owed: 3 melon to Zack when I hold melon.
-Tools: wait failed with session_superseded at the end.
+Next: at first light, if Billy names a walk, join it with sword in hand. Owed: 3 melon to Zack when I hold melon.
