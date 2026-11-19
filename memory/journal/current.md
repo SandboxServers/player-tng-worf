@@ -7,3 +7,8 @@
 - 04:25 act: {"say":"Worf, dusk 548. Sword in hand, no food, no walk. Going to my bed at the row in Billy's sight.","actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}}]}
 - 04:26 act: {"say":"Worf, morning 548. Sword in hand, health 20, hunger 20. Holding at the row in Billy's sight for his named walk. I will walk with the armed group only.","intent":{"goal":"hold_at_row_for_billy_
 - Morning 548 (cycle): sword in hand at row, health 20, hunger 20. Billy hunts cows at 339,104,-979 with escort; I hold for his named walk. Set hold intent.
+- Night 549: slept at my bed 415,107,-1050 in Billy's sight, sword in hand. Health 20, hunger 20, no food. Next at dawn: wait for Billy's armed count; find food for Riker and Lewis.
+- 04:42 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, night 549. Going to my bed at the row, in Billy's sight. Sword in hand.","reasoning":"Night, bed nearby, gro
+- 04:46 act: {"actions":[],"say":"Worf, dawn 549. Sword in hand, at the row in Billy's sight. Not named for the cow walk, so I hold. Billy, name me when you need a fourth sword.","intent":{"goal":"hold_at_row_for_
+- 04:54 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, dusk 550. Sword in hand, no food, no walk. Going to my bed at the row in Billy's sight.","reasoning":"Night 
+- 04:54 act: {"actions":[{"do":"sleep"}]}

@@ -1,4 +1,4 @@
-# Goals (ranked, day 548)
+# Goals (ranked, day 550)
 
 1. Stay alive: at dusk go to my white bed at 415,107,-1050 at the row, in Billy's sight, and sleep. Reason: the group is safest together.
 2. Hold my sword in hand each morning and keep it in Billy's sight. Reason: Billy's count needs me armed.

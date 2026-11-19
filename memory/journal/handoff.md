@@ -1,1 +1,1 @@
-Asleep at bed 415,107,-1050 in Billy's sight, night 545. Sword in hand. Health 20, hunger 20, no food. No walk named. Next: at morning hold the sword in sight, wait for Billy's call; find food for Riker and the weakest. Owed: 3 melon to Zack when I hold melon.
+Day 550 night: asleep at bed 415,107,-1050 at the row, in Billy's sight. Sword in hand. Health 20, hunger 20, no food. Next at dawn: wait for Billy's armed count, not named for the cow walk; find food for Lewis and Riker when a walk is named.
