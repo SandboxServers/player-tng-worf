@@ -9,3 +9,6 @@
 - 07:01 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Worf at my bed, sword in hand. No walk for me. Goodnight."}
 - 07:15 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, row. Worf at my bed, sword in hand, in Billy's sight. No walk for me. Goodnight."}
 - 07:15 act: {"actions":[{"do":"sleep"}]}
+- 07:22 act: {"say":"Worf holding at my bed, sword in hand, health 20, hunger 20. Waiting for Billy's named walk. Has anyone seen sheep?","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["
+- 07:28 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk, row. Worf at my bed, sword in hand, in Billy's sight. No walk named for me. Goodnight."}
+- 07:28 act: {"actions":[{"do":"sleep"}]}
