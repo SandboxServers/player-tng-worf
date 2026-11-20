@@ -1,4 +1,4 @@
-# Goals (ranked, day 650)
+# Goals (ranked, day 655)
 
 1. Stay alive: at dusk, on a free bed in Billy's sight (415,107,-1050 or -1051), sleep when it is truly night. Reason: the group is safest together.
 2. Hold my sword in hand and keep it in Billy's sight. Reason: Billy's count needs me armed.
