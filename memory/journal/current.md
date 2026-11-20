@@ -6,3 +6,4 @@
 - Day 674 day: said holding at bed, sword in hand, hunger 18. Row still holding, no walk named, no food seen. Waited.
 - 22:27 act: {"intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_
 - 22:35 act: {"actions":[{"do":"note","text":"Day 675 morning: holding at bed 416,107,-1050, sword in hand, health 20, hunger 18. No walk or food named for me."}],"say":"Good morning, Billy. Worf holding at my bed
+- 22:44 act: {"say":"Worf holding at my bed, sword in hand, health 20, hunger 18. Still no named walk; waiting for Billy.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addres
