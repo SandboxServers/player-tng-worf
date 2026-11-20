@@ -1,6 +1,6 @@
-# Goals (ranked, day 613)
+# Goals (ranked, day 625)
 
-1. Stay alive: at dusk, on bed 415,107,-1051 in Billy's sight, sleep when it is truly night. Reason: the group is safest together.
+1. Stay alive: at dusk, on my bed 415,107,-1050 (or -1051) in Billy's sight, sleep when it is truly night. Reason: the group is safest together.
 2. Hold my sword in hand and keep it in Billy's sight. Reason: Billy's count needs me armed.
 3. Walk only on Billy's named walk, and join it when he names me. Reason: nobody walks alone.
 4. Keep Wesley, Deanna and Riker fed first when potatoes move. Reason: they are the hungriest.

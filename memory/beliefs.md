@@ -17,4 +17,6 @@
 - Sword in hand is done this way: act use, item wooden_sword, no target. It worked for me on day 544.
 - Day 612: Jason's bed 416,107,-1050 is his; Wesley was told to use his own bed 415,107,-1050 at dusk, in sight. My bed 415,107,-1051 worked for sleep at night 612.
 - Day 613: sleep at my bed 415,107,-1051 at dusk worked again, in Billy's sight.
+- Day 625: the west walk along z -1050 stopped at 413,107,-1050 (path blocked); Picard and Tommy turned back. Walks stop when the path is blocked; do not follow a stopped walk alone.
+- Day 625: sleep at night at bed 415,107,-1050 worked.
 - Next curiosity: where sheep graze. Ask Laforge, Clark and Picard what they know about grazing land.
