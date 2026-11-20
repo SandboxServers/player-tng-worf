@@ -32,3 +32,7 @@
 - 04:24 act: {"actions":[{"do":"sleep"}]}
 - 04:28 act: {"actions":[],"say":"Morning, row. Worf awake at 416,107,-1049, health 20, hunger 20, sword in hand. No walk for me; holding for Billy. Laforge, Clark, Picard: where do sheep graze?"}
 - 04:36 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk, Worf to my bed 415,107,-1051, sword in hand. No walk. Sleeping for the night."}
+- 04:49 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk, Worf to my bed 415,107,-1051 in Billy's sight, sword in hand. No walk named. Sleeping for the night.","inten
+- Day 621 dusk: act goto bed 415,107,-1051 then sleep, sword in hand, intent hold_at_bed_for_night. Billy's row: Lewis and Laforge hold at beds, no walk.
+- 04:53 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Worf back at my bed 415,107,-1051 in Billy's sight, sword in hand, health 20, hunger 20. Holding, no walk named.","intent":{"goal
+- Day 622 morning: at bed 415,107,-1051 in Billy's sight, sword in hand, health 20, hunger 20. No walk named for me; Billy's walk is for Tommy and Picard. Holding.
