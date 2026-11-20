@@ -15,4 +15,5 @@
 - Crafting table and signs refuse clicks for sword-in-hand. Do not try them again.
 - Swords on the ground did not come into hand for Riker or Clark at the row. Riker got his with act use, item wooden_sword, no target, after the ground try failed. Trini got hers from a death spot.
 - Sword in hand is done this way: act use, item wooden_sword, no target. It worked for me on day 544.
+- Day 612: Jason's bed 416,107,-1050 is his; Wesley was told to use his own bed 415,107,-1050 at dusk, in sight. My bed 415,107,-1051 worked for sleep at night 612.
 - Next curiosity: where sheep graze. Ask Laforge, Clark and Picard what they know about grazing land.
