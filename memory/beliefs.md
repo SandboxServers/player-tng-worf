@@ -3,8 +3,9 @@
 - wake_on accepts only goal_completed, directly_addressed, precondition_failed, unexpected_damage, or new_agent_within_N.
 - travel takes target as a nested {"x","y","z"} object. A flat position is rejected.
 - trade_wait programs are not available in this phase.
-- Sleep works only at night. A sleep reached after dawn is refused as "not night"; go to the bed before dusk ends.
-- Sleep at the bed 415,107,-1050 worked on nights 540, 543 and 544. Beds at -1051, -1036, -1037 often say "the way was blocked".
+- Sleep works only at night. A sleep reached after dawn is refused as "not night". Night can flip to day within a few waits, so go to the bed as soon as dusk starts.
+- Sleep at bed 415,107,-1050 worked on nights 540, 543, 544, 625 and 632. Sleep at 415,107,-1051 worked on night 612, 613 and 641. Beds -1036, -1037 often say "the way was blocked".
+- Use on a bed fails ("that block is a bed"); just goto the bed and sleep.
 - Phantoms come at dusk. Carry a sword.
 - The way east from the beds is blocked near 472,107,-1082. Sheep were not found east (424-470,107,-1083) or west (near 375,95,-1111).
 - The oak at 466,112,-1108 would not mine for Data.
@@ -13,11 +14,6 @@
 - A rest intent can end at once with no one calling; check the group's sight before walking alone.
 - Billy's count holds the group; walk only when he names the call. He names it once five are armed in hand.
 - Crafting table and signs refuse clicks for sword-in-hand. Do not try them again.
-- Swords on the ground did not come into hand for Riker or Clark at the row. Riker got his with act use, item wooden_sword, no target, after the ground try failed. Trini got hers from a death spot.
-- Sword in hand is done this way: act use, item wooden_sword, no target. It worked for me on day 544.
-- Day 612: Jason's bed 416,107,-1050 is his; Wesley was told to use his own bed 415,107,-1050 at dusk, in sight. My bed 415,107,-1051 worked for sleep at night 612.
-- Day 613: sleep at my bed 415,107,-1051 at dusk worked again, in Billy's sight.
-- Day 625: the west walk along z -1050 stopped at 413,107,-1050 (path blocked); Picard and Tommy turned back. Walks stop when the path is blocked; do not follow a stopped walk alone.
-- Day 625: sleep at night at bed 415,107,-1050 worked.
-- Day 632: holding at bed 415,107,-1050 with sword in hand all day waiting for Billy's walk; nobody in the row has seen sheep. Night 632 sleep at that bed worked.
-- Next curiosity: where sheep graze. Ask Laforge, Clark and Picard what they know about grazing land.
+- Sword in hand: act use, item wooden_sword, no target. It worked for me on day 544.
+- Walks stop when the path is blocked; do not follow a stopped walk alone.
+- Next curiosity: where sheep graze. Nobody in the row has seen any yet.
