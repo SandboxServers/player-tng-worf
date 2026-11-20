@@ -1,11 +1,7 @@
-# Handoff, day 583 morning
+# Handoff, day 610 night
 
-Worf at the row, about 417,107,-1050, in Billy's sight. Wooden sword in hand, health 20, hunger 20. Not enclosed.
+Worf asleep at bed 415,107,-1051 at the row, sword in hand, health 20, hunger 20. Sleep worked.
 
-Named bed 415,107,-1036 is still unreached. The west path is blocked by oak planks (Tommy confirmed). Billy names no route yet. Do not walk without his word.
+No walk named by Billy. No verified route west; the oak planks still block it per Tommy. No bed named for me except my own 415,107,-1051, which works at night.
 
-Nights: no bed named for me. Do not sleep in another's bed. Stay awake and hold in sight until Billy names a bed.
-
-Owed: 3 melon to Zack when I hold melon. Oak at 414,104,-1126 and sheep still unknown.
-
-Next: hold in sight. Walk only when Billy names a verified route, in daylight.
+Next: on waking, hold in Billy's sight with sword in hand. Walk only when Billy names a verified route, in daylight. Owed: 3 melon to Zack when I hold melon.
