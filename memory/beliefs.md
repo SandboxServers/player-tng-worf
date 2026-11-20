@@ -5,7 +5,7 @@
 - trade_wait programs are not available in this phase.
 - Sleep works only at night. A sleep reached after dawn is refused as "not night". Night can flip to day within a few waits, so go to the bed as soon as dusk starts.
 - Sleep at bed 415,107,-1050 worked on nights 540, 543, 544, 625 and 632. Sleep at 415,107,-1051 worked on night 612, 613 and 641. Beds -1036, -1037 often say "the way was blocked".
-- Use on a bed fails ("that block is a bed"); just goto the bed and sleep.
+- Use on a bed fails ("that block is a bed"); just goto the bed and sleep. Confirmed again day 643: use failed, sleep tool worked at 415,107,-1050.
 - Phantoms come at dusk. Carry a sword.
 - The way east from the beds is blocked near 472,107,-1082. Sheep were not found east (424-470,107,-1083) or west (near 375,95,-1111).
 - The oak at 466,112,-1108 would not mine for Data.
