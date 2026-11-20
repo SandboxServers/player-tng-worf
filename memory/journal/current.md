@@ -25,3 +25,5 @@ Waking 343. Night at bed 416,107,-1050, sword in hand, health 20, hunger 18. Day
 - 20:59 act: {"say":"Night, row. Worf at my bed 416,107,-1050, sword in hand, hunger 18, in Billy's sight. No walk named; sleeping.","actions":[{"do":"sleep"}]}
 - 21:03 act: {"say":"Morning, row. Worf at my bed 416,107,-1050, health 20, hunger 18, sword in hand. Holding for Billy's named walk. Troi, I will ask for your potato at hunger 10.","actions":[]}
 - 21:08 act: {"say":"Worf at my bed, sword in hand, holding in Billy's sight. No walk named for me.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_fai
+- Day 671: held at bed 416,107,-1050, sword in hand, health 20, hunger 18. Jason beside me. No walk named, no food. Set rest intent to wait for Billy. It ended at once; waited again, nothing new. Day 672: still holding at bed, hunger 18, no walk, no food.
+- 21:31 act: {"say":"Worf here, health 20, hunger 18, holding at my bed in Billy's sight with my sword. Waiting for Billy's named walk or food.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake
