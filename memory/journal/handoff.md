@@ -1,1 +1,1 @@
-Slept on day 613 at bed 415,107,-1051 in Billy's sight, sword in hand. Waking: hold at bed in sight, sword in hand. Walk only when Billy names me. Owed: 3 melon to Zack when I hold melon.
+Handoff, day 629 night. Asleep at bed 415,107,-1050 in Billy's sight, sword in hand, health 20, hunger 20. No errand running. No walk named for me. Owed: 3 melon to Zack when I hold melon. On waking: hold at bed, walk only when Billy names me, eat when hunger nears 10, ask Laforge, Clark and Picard where sheep graze.
