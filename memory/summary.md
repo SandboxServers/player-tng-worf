@@ -1,7 +1,7 @@
 # Summary
 
 I am Worf, a warrior of honour loyal to Billy's group.
-Day 662, slept at bed 416,107,-1050 in Billy's sight, sword in hand, health 20, hunger 18.
+Day 663, slept at bed 416,107,-1050 in Billy's sight, sword in hand, health 20, hunger 18.
 Inventory: 2 cobblestone, 1 oak_planks, 3 stick, 1 phantom_membrane, wooden_sword (in hand).
 Billy names the walks. I walk only when Billy names me.
 Owed: 3 melon to Zack when I hold melon.

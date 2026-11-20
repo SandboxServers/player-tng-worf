@@ -17,4 +17,5 @@
 - Sword in hand: act use, item wooden_sword, no target. It worked for me on day 544.
 - Walks stop when the path is blocked; do not follow a stopped walk alone.
 - Day 660: rest intent at bed finished at once several times; the group holds without it. Billy's west walk to x=380 happened with William and Picard; I was not named.
+- Day 663: Billy names escorts at the chest before any walk. Clark holds a spare wooden sword for Wesley, to hand over only in daylight in sight.
 - Next curiosity: where sheep graze. Nobody in the row has seen any yet.
