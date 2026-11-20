@@ -36,3 +36,9 @@
 - Day 621 dusk: act goto bed 415,107,-1051 then sleep, sword in hand, intent hold_at_bed_for_night. Billy's row: Lewis and Laforge hold at beds, no walk.
 - 04:53 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Worf back at my bed 415,107,-1051 in Billy's sight, sword in hand, health 20, hunger 20. Holding, no walk named.","intent":{"goal
 - Day 622 morning: at bed 415,107,-1051 in Billy's sight, sword in hand, health 20, hunger 20. No walk named for me; Billy's walk is for Tommy and Picard. Holding.
+- 05:11 act: {"say":"Morning. Worf holding at the bed, sword in hand, waiting for Billy's named walk.","intent":{"goal":"hold_at_bed_for_billy","program":"rest"}}
+- Day 623 night: slept at bed 415,107,-1051 (sleep worked, days_since_sleep 0). Row holding, no walk for me. Woke to morning, sword in hand.
+- Day 623 dusk: at bed 415,107,-1051, sword in hand, health 20, hunger 20. MacDonald (health 7) holds for Billy's call; Zack holds potatoes for him. Sleeping.
+- Day 622 (waking 304): at 416,107,-1049 area beside Jason, sword in hand, health 20, hunger 20. No walk named for me. Holding; intent rest set, woken by speech or damage.
+- 05:15 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Worf at my bed 415,107,-1051 in Billy's sight, sword in hand. No walk named. Sleeping. Zack, I hold with you."}
+- 05:15 act: {"actions":[{"do":"sleep"}]}
