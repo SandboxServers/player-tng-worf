@@ -14,3 +14,13 @@ Waking 343. Night at bed 416,107,-1050, sword in hand, health 20, hunger 18. Day
 - Day 667 morning: sleep failed, it was not night. Still holding at bed with sword, hunger 18. Zack asks Billy for his word on a walk; I wait for Billy.
 - Day 667 later: Billy's walk stopped at 436,107,-1042; he gathered Zack, Picard, Riker back. Not named for me. Still holding at bed, hunger 18.
 - 20:06 act: {"actions":[{"do":"sleep"}],"say":"Evening, row. Worf at my bed 416,107,-1050, sword in hand, hunger 18, in Billy's sight. No walk named; sleeping."}
+- Night 667: slept at bed in Billy's sight; sleep worked (partial, then full). Sword in hand, hunger 18, no food, no walk named.
+- Day 668 morning: woke at bed, sword in hand, health 20, hunger 18. Row still holding; no walk named for me; Leonardo still asks where sheep graze. Holding.
+- Day 668 night to morning: slept at bed in Billy's sight; woke with sword in hand, hunger 18, health 20. Still no walk named, no food. Holding.
+- 20:06 act: {"actions":[{"do":"sleep"}]}
+- 20:19 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Worf at my bed 416,107,-1050, sword in hand, hunger 18, in Billy's sight. No walk named; sleeping."}
+- 20:31 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Worf at my bed 416,107,-1050, sword in hand, hunger 18, in Billy's sight. No walk named; sleeping."}
+- Day 669 morning: sleep failed at dusk (not night yet); now day, at bed with sword, hunger 18, health 20. No walk named for me. Holding; Clark offers Data potatoes at hunger 10.
+- 20:47 act: {"say":"Dusk, row. Worf at my bed 416,107,-1050, sword in hand, hunger 18, in Billy's sight. No walk named; sleeping.","actions":[{"do":"sleep"}]}
+- 20:59 act: {"say":"Night, row. Worf at my bed 416,107,-1050, sword in hand, hunger 18, in Billy's sight. No walk named; sleeping.","actions":[{"do":"sleep"}]}
+- 21:03 act: {"say":"Morning, row. Worf at my bed 416,107,-1050, health 20, hunger 18, sword in hand. Holding for Billy's named walk. Troi, I will ask for your potato at hunger 10.","actions":[]}
