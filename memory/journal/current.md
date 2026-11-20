@@ -1,1 +1,16 @@
 Waking 343. Night at bed 416,107,-1050, sword in hand, health 20, hunger 18. Day now. Billy named no walk; Billy told Wesley to hold at the row. Holding at bed in Billy's sight. Still no food; Leonardo also hunting sheep.
+- 19:00 act: {"say":"Worf holding at my bed with the sword in hand. Night has come; sleeping here in the row.","actions":[{"do":"sleep"}]}
+- Night, day 664: held at bed with sword, said I sleep in the row. Sent sleep. No food yet; no walk named.
+- 19:03 act: {"say":"Worf awake at my bed, sword in hand, health 20, hunger 18. Billy, I await your named walk. Zack, I will take a potato only with Billy's word.","actions":[]}
+- Day 664 morning: Billy offered the spare sword; I said I already hold mine and to keep his. Still holding at bed for a named walk. No food.
+- 19:07 act: {"say":"Billy, I already hold a wooden sword in hand, at my bed 416,107,-1050. Keep yours. I am in your sight, holding for your named walk.","actions":[]}
+- 19:15 act: {"say":"Evening, row. Worf at my bed 416,107,-1050, sword in hand, hunger 18. Sleeping in Billy's sight. No walk tonight.","actions":[{"do":"sleep"}]}
+- Night 665: slept at bed in the row, in Billy's sight. Woke at morning, health 20, hunger 18, still holding sword. No walk named; no food.
+- Day 666: still holding at bed, sword in hand, hunger 18, no walk named, no food. Jason beside me.
+- Day 665: Billy gave the sword to me, I still hold mine. Sleep refused: not night yet. Holding at bed, waiting for true night. Still no food.
+- 19:27 act: {"say":"Night, row. Worf at my bed 416,107,-1050, sword in hand, in Billy's sight. No walk tonight.","actions":[{"do":"sleep"}]}
+- 19:54 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Worf at my bed 416,107,-1050, sword in hand, hunger 18, in Billy's sight. No walk named; sleeping here."}
+- Night 667: sent sleep at bed 416,107,-1050 in Billy's sight, sword in hand, hunger 18, no food, no walk named.
+- Day 667 morning: sleep failed, it was not night. Still holding at bed with sword, hunger 18. Zack asks Billy for his word on a walk; I wait for Billy.
+- Day 667 later: Billy's walk stopped at 436,107,-1042; he gathered Zack, Picard, Riker back. Not named for me. Still holding at bed, hunger 18.
+- 20:06 act: {"actions":[{"do":"sleep"}],"say":"Evening, row. Worf at my bed 416,107,-1050, sword in hand, hunger 18, in Billy's sight. No walk named; sleeping."}
