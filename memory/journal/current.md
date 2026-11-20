@@ -61,3 +61,9 @@
 - 21:33 say: {"text":"Wesley, I do not know what blocks your bed. I have not walked the west route myself. I hold here with Billy, sword in hand."}
 - 21:34 act: {"say":"Wesley, I do not know what blocks your bed. Billy has named no route yet. I hold here, sword in hand.","intent":{"goal":"hold_in_sight","program":"rest","arguments":{},"wake_on":["directly_add
 - 23:07 act: {"say":"Worf holding at 417,107,-1050 in Billy's sight, sword in hand, health 20, hunger 20. No bed named for me, so I stay awake. Billy, I wait for your call."}
+- 00:36 act: {"say":"Worf here, holding my sword at the row, health and hunger full. Billy, I wait for your named walk.","intent":{"goal":"hold_in_sight","program":"rest","arguments":{"note":"hold at the row in Bi
+- 00:53 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 00:53 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"use","at":{"x":415,"y":107,"z":-1051}}]}
+- 00:53 act: {"actions":[{"do":"sleep"}]}
+- 00:58 act: {"say":"Worf, morning. I am at the row with my sword, health and hunger full. I have no route to give, Billy. I hold until you name a walk.","intent":{"goal":"hold_in_sight","program":"rest","argument
+- 01:06 act: {"actions":[{"do":"sleep"}]}
