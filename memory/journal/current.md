@@ -1,1 +1,1 @@
-# Journal
+Waking 343. Night at bed 416,107,-1050, sword in hand, health 20, hunger 18. Day now. Billy named no walk; Billy told Wesley to hold at the row. Holding at bed in Billy's sight. Still no food; Leonardo also hunting sheep.
