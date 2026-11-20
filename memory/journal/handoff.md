@@ -1,1 +1,1 @@
-Worf asleep at bed 415,107,-1051 at the row, sword in hand, health 20, hunger 20. Sleep worked (9 of 10 asleep). No walk named for me; Billy named only Jason's walk to 416,107,-1050. Owed: 3 melon to Zack when I hold melon. Next: on waking, hold in Billy's sight with sword in hand; walk only when Billy names me.
+Slept on day 613 at bed 415,107,-1051 in Billy's sight, sword in hand. Waking: hold at bed in sight, sword in hand. Walk only when Billy names me. Owed: 3 melon to Zack when I hold melon.
