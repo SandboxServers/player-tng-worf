@@ -1,14 +1,1 @@
 # Journal
-- 06:14 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, row. Worf at my bed, sword in hand, in Billy's sight. Sleeping now."}
-- Night 626: slept at bed 415,107,-1050 in Billy's sight, sword in hand. Woke at day; holding at the row, no walk named.
-- Day 627: slept (5 of 10 asleep, did not fully rest). Held at the row, sword in hand, no walk named. Tommy's walk to Wesley blocked at 413,107,-1050; I stayed.
-- 06:29 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, row. Worf at my bed, sword in hand. No walk for me."}
-- Day 628: holding at bed 415,107,-1050 in Billy's sight, sword in hand, health 20, hunger 20. No walk named. Sleep only partly takes (5 of 10 asleep).
-- 06:48 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Worf at my bed, sword in hand, in Billy's sight. No walk for me. Goodnight."}
-- Day 629 night: held in the row at 416,107,-1050, sword in hand, health 20, hunger 20, no walk named. Going to bed 415,107,-1050 to sleep (days_since_sleep 4).
-- 07:01 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Worf at my bed, sword in hand. No walk for me. Goodnight."}
-- 07:15 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, row. Worf at my bed, sword in hand, in Billy's sight. No walk for me. Goodnight."}
-- 07:15 act: {"actions":[{"do":"sleep"}]}
-- 07:22 act: {"say":"Worf holding at my bed, sword in hand, health 20, hunger 20. Waiting for Billy's named walk. Has anyone seen sheep?","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["
-- 07:28 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk, row. Worf at my bed, sword in hand, in Billy's sight. No walk named for me. Goodnight."}
-- 07:28 act: {"actions":[{"do":"sleep"}]}
