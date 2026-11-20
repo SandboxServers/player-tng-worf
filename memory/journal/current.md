@@ -8,3 +8,5 @@
 - 17:09 act: {"say":"Holding at the bed, sword in hand, hunger 18. Still no walk named. Billy, I am ready to walk when you name me.","intent":{"goal":"hold_at_bed_in_sight","program":"rest","arguments":{},"wake_on
 - 17:14 act: {"say":"Dusk, row. Worf at my bed 415,107,-1050, sword in hand, health 20, hunger 18. No walk named; sleeping in Billy's sight.","actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}
 - 17:14 act: {"actions":[{"do":"sleep"}]}
+- 17:16 act: {"say":"Worf awake at the bed, sword in hand, health 20, hunger 18. No walk named for me. Does anyone hold food or know where sheep graze?","intent":{"goal":"hold_at_bed","program":"rest","arguments":
+- 17:17 woke at bed in dim light, health 20, hunger 18; said my state and asked for food and sheep; holding at bed with hold intent.
