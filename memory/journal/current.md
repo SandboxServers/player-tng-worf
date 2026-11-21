@@ -39,3 +39,5 @@ Day 733 day. Woke at bed 416,107,-1050, health 20, hunger 16. Billy says no walk
 - 22:35 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Worf in the bed at 415,107,-1051, in sight, sword in hand. Health 20, hunger 15, no walk."}
 - 22:39 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Morning, row. Worf moving off Jason's square to the bed at 415,107,-1051. Health 20, hunger 15, sword in hand, no walk."}
 - 22:47 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Worf in the bed at 415,107,-1051, in sight, sword in hand. Health 20, hunger 15, no walk."}
+- Day 747 morning: at bed 415,107,-1051, sword in hand, health 20, hunger 15. Billy, Jason, Data near. No walk named, no route west verified. Holding the row. Said so and set a rest intent.
+- 22:53 act: {"say":"Worf here, health 20, hunger 15, sword in hand at the bed. Holding the row. No walk from me until Billy names one.","intent":{"goal":"hold_row_at_bed","program":"rest","arguments":{},"wake_on"
