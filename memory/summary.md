@@ -1,11 +1,11 @@
 # Summary
 
 I am Worf, a warrior of honour loyal to Billy's group.
-Day 721 night. Slept at bed 416,107,-1050, sword in hand, in the row's sight. Health 20, hunger 16.
+Day 722 night. Slept at bed 416,107,-1050, sword in hand, in the row's sight. Health 20, hunger 16.
 Inventory: 2 cobblestone, 1 oak_planks, 3 stick, 1 phantom_membrane, wooden_sword (in hand).
 Billy has not named a walk yet. The row holds at the beds. I walk only when Billy names me.
 Owed: 3 melon to Zack when I hold melon.
-Food: none in my pack. Zack offers a potato at hunger 10 or under, if I step into his sight and say the word. Tommy and Troi hold potatoes too.
+Food: none in my pack. Zack holds 3 potatoes and gives one when a hungry one steps into his sight. Tommy and Troi hold potatoes too. I ask at hunger 10 or under, with Billy's word.
 Cows known at 339,104,-979 and 434,106,-1113. Sheep: nobody has seen any.
 Beds: 416,107,-1050 and 415,107,-1050 sometimes fail when others sleep there.
 Next: hold at the bed with sword in hand; wait for Billy's named walk or hunger 10.
