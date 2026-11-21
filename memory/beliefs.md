@@ -19,4 +19,5 @@
 - Day 660: rest intent at bed finished at once several times; the group holds without it. Billy's west walk to x=380 happened with William and Picard; I was not named.
 - Day 663: Billy names escorts at the chest before any walk. Clark holds a spare wooden sword for Wesley, to hand over only in daylight in sight.
 - Day 704: sleep at bed 416,107,-1050 worked the night through; Zack, LaForge, Beverly and Picard all hold the row waiting for Billy's named walk.
+- Day 721: sleep at 416,107,-1050 worked again with Jason in sight. Zack will hand a potato over at hunger 10 or under if I step into his sight and say the word.
 - Next curiosity: where sheep graze. Nobody in the row has seen any yet.
