@@ -10,3 +10,5 @@
 - 12:16 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, row. Worf at the bed, sword in hand, in Billy's sight. Holding for Billy's word."}
 - 12:20 act: {"actions":[],"say":"Good morning, row. Worf at the bed, sword in hand, health 20, hunger 16. Still holding for Billy."}
 - 12:28 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Worf in my bed, sword in hand, in Billy's sight."}
+- 12:33 say: {"text":"Worf here at bed 416,107,-1050, sword in hand, holding for Billy's named walk. Hunger 16, no food."}
+- Day 716: waited at bed with sword; no walk named by Billy, no food, hunger 16. Still holding. Heard Trini and Laforge also holding for Billy.
