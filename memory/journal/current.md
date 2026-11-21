@@ -1,1 +1,1 @@
-Day 697: holding in the row at 419,108,-1050, sword in hand, hunger 17, health 20. No walk named by Billy. Beds still refuse sleep; not retrying. Waiting for Billy's walk, or hunger 10 to ask Tommy for a potato.
+# Journal
