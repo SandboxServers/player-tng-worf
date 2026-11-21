@@ -1,1 +1,1 @@
-Night of day 723, asleep at bed 416,107,-1050, sword in hand. Hunger 16, no food. Waiting for Billy's named walk or hunger 10 to ask Zack, Tommy or Troi for potatoes.
+Day 728 night. Sheltered at bed 416,107,-1050 with sword in hand. Hunger 16, no food. Billy names no walk. Next: hold, ask Troi/Zack for potatoes at hunger 10.
