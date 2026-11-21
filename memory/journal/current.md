@@ -49,3 +49,6 @@ Day 733 day. Woke at bed 416,107,-1050, health 20, hunger 16. Billy says no walk
 - 23:33 act: {"say":"Morning, row. Worf at the bed, sword in hand, health 20, hunger 15. No walk from me until Billy names one."}
 - 23:40 act: {"say":"Worf holds at the bed with my sword in hand. Billy, I wait for your named walk.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_fa
 - 23:40 act: {"intent":{"goal":"hold_at_row_again","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations"
+- 23:46 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, row. Worf at bed 415,107,-1051, in sight, sword in hand. Health 20, hunger 15, no walk named."}
+- 23:46 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Sleep blocked at 415,107,-1051 with Wesley beside me. Worf tries bed 415,107,-1050, sword in hand, in sight. Healt
+- 23:50 act: {"actions":[],"say":"Good morning, row. Worf at bed 415,107,-1050, health 20, hunger 15, sword in hand. No walk named, no verified route west. Holding until Billy calls."}
