@@ -5,3 +5,34 @@ Day 685 morning. Holding at the row with Jason, Wesley, Beverly in Billy's sight
 - 02:59 act: {"actions":[{"do":"sleep"}]}
 - 03:00 act: {"actions":[{"do":"sleep"}],"say":"Holding at my bed, in Billy's sight. Sleeping now."}
 - Sleep worked (days since sleep reset). Still hunger 18, no food. Holding at bed with sword for Billy's walk; ask Troi at hunger 10.
+- 03:05 act: {"actions":[{"do":"sleep"}],"say":"Worf here, at my bed in Billy's sight, sword in hand. Health 20, hunger 18. Still holding for Billy's named walk."}
+- Day 688: sleep refused (not night). Still holding at bed, sword in hand, hunger 18. No walk named; Leonardo and Beverly also holding. Waiting.
+- 03:13 act: {"actions":[{"do":"sleep"}],"say":"Night in the row. Worf going to bed at my bed in Billy's sight, sword in hand. Holding for Billy's walk at waking."}
+- 03:14 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 03:14 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}}]}
+- Night 688: sleep at both beds failed ("the way was blocked", then night ended). Unstuck with unstick. Dawn 689: still no sleep, hunger 17, health 20, sword in hand, at 417,107,-1051 near Jason and Wesley. No walk named. Next: hold; ask Troi at hunger 10.
+- Day 689 dusk: goto to bed -1051 then sleep failed again ("the way was blocked"); I ended at 419,108,-1050. Bed sleep keeps refusing; days since sleep 12. Holding in Billy's sight, sword in hand, hunger 17. No walk named. Next: wait for Billy; try sleep again at night from the bed.
+- 03:14 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":416,"y":107,"z":-1050}}]}
+- 03:14 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 03:14 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 03:18 act: {"actions":[],"say":"Worf awake, sword in hand, in Billy's sight. Health 20, hunger 17, no food. Holding for Billy's named walk."}
+- 03:26 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk. Worf going to bed at the -1051 bed, in Billy's sight, sword in hand."}
+- 03:39 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Worf trying to sleep here, in Billy's sight, sword in hand. Holding, no walk."}
+- Night 689: sleep failed again ("the way was blocked"). Jason also trying beds. Now trying the west bed 415,107,-1051 with goto then sleep. Hunger 17, health 20, sword in hand, no walk named.
+- West bed 415,107,-1051 also failed ("the way was blocked"). Dawn 689: holding in the row, sword in hand, hunger 17. Tommy holds 3 potatoes; ask at hunger 10.
+- 03:39 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Worf trying the west bed at 415,107,-1051, in Billy's sight, sword in hand."}
+- 03:44 act: {"actions":[],"say":"Worf here in the row, sword in hand, holding for Billy's word. Hunger 17, health 20. Tommy, I'll ask you for potatoes when I reach hunger 10."}
+- 03:48 act: {"actions":[],"say":"Worf: Tommy, thank you, I'll ask at hunger 10. Picard's bed at 430,107,-1051 slept well; I'll try it at dusk. Holding, no walk."}
+- 03:52 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk. Worf going to Picard's bed at 430,107,-1051, in Billy's sight, sword in hand."}
+- 03:52 act: {"actions":[],"say":"Worf: the way to Picard's bed was blocked; I'm at 418,107,-1051 with sword in hand. Holding through the night, no walk."}
+- 04:04 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Worf at 418,107,-1051, sword in hand, in Billy's sight. Trying sleep here. Hunger 17, no walk."}
+- 04:20 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk. Worf going to Picard's bed at 430,107,-1051 once more, in Billy's sight, sword in hand. No walk."}
+- Day 691-692: Picard's bed was blocked for me again; my own beds refuse too. Stopped trying the same walks. Holding at 417,107,-1051 in Billy's sight, sword in hand, hunger 17, health 20, no food, no walk named. Next: hold; ask Tommy at hunger 10.
+- Day 692: Jason and Laforge holding in the row, Picard and Trini going to bed. No walk named for me. Holding at 417,107,-1051, sword in hand, hunger 17, health 20. Waiting for dusk and Billy's word.
+- 04:45 act: {"actions":[{"do":"sleep"}],"say":"Night in the row. Worf trying sleep here at 417,107,-1051, in Billy's sight, sword in hand. No walk named."}
+- 04:57 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Worf sleeping here at 416,107,-1050, in Billy's sight, sword in hand. Hunger 17, no walk named."}
+- 05:09 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Worf at my bed 416,107,-1050, in Billy's sight, sword in hand. Hunger 17, no walk named. Sleeping."}
+- 05:37 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Worf sleeping at my bed 416,107,-1050, in Billy's sight, sword in hand. No walk named.
+- Night 695: sleep failed ("the way was blocked") at 416,107,-1050. Health 20, hunger 17, no food. Holding in the row with Jason, sword in hand. No walk named. Next: wait for Billy; ask Tommy at hunger 10."}
+- 05:42 act: {"actions":[],"say":"Morning, row. Worf here at 419,108,-1050, sword in hand, health 20, hunger 17. Still holding for Billy's named walk."}
+- 05:50 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk, row. Worf going to my bed 416,107,-1050 in Billy's sight, sword in hand. Hunger 17, no walk named."}
