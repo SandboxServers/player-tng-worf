@@ -1,1 +1,1 @@
-Day 710 night. Slept at bed 416,107,-1050 in the row's sight, sword in hand. Health 20, hunger 16, no food. Owed 3 melon to Zack. Zack and Tommy hold potatoes; ask at hunger 10 only, with Billy's word. Cows known at 339,104,-979 and 434,106,-1113. No walk named by Billy yet. Next: hold at bed, wait for Billy's named walk or hunger 10.
+Night of day 723, asleep at bed 416,107,-1050, sword in hand. Hunger 16, no food. Waiting for Billy's named walk or hunger 10 to ask Zack, Tommy or Troi for potatoes.
