@@ -5,3 +5,5 @@
 - Day 714 morning: Woke at bed 416,107,-1050, sword in hand, health 20, hunger 16. Row (Trini, Wesley, Jason, Zack) holds for Billy's walk; no walk named. Said I hold; set intent hold_at_bed.
 - 11:55 act: {"say":"Worf here, holding at my bed with sword in hand. Health 20, hunger 16. Waiting for Billy's word.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed"
 - 11:55 act: {"intent":{"goal":"hold_at_bed_again","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":6000,"max_block_operations"
+- 12:04 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, row. Worf holding at the bed in Billy's sight, sword in hand."}
+- 12:08 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Good morning, row. Worf at the bed, sword in hand, health 20, hunger 16. Still holding for Billy's named walk.","intent":{"goal":
