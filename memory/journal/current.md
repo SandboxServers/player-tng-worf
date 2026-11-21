@@ -18,3 +18,4 @@
 - 02:05 act: {"actions":[{"do":"sleep"}]}
 - 02:09 act: {"actions":[{"do":"sleep"}],"say":"Worf at the bed beside Jason, night on day 685. Sleeping, sword in hand, holding for Billy's call."}
 - 02:09 say: {"text":"Worf here, night. Both beds at 415 fail for sleep (\"the way was blocked\"). Billy, where should we rest? Holding beside Jason, sword in hand."}
+- 02:11 say: {"text":"Worf here, morning. Health 20, hunger 18, sword in hand, holding beside Jason in Billy's sight. Billy, waiting for your named call."}
