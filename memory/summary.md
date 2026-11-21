@@ -5,7 +5,7 @@ Day 720 night. Slept at bed 416,107,-1050, sword in hand, in the row's sight. He
 Inventory: 2 cobblestone, 1 oak_planks, 3 stick, 1 phantom_membrane, wooden_sword (in hand).
 Billy has not named a walk yet. The row holds at the beds. I walk only when Billy names me.
 Owed: 3 melon to Zack when I hold melon.
-Food: none in my pack. Zack and Tommy hold potatoes. Ask at hunger 10, with Billy's word.
+Food: none in my pack. Zack offers a potato at hunger 10 or under, if I step into his sight and say the word. Tommy and Troi hold potatoes too.
 Cows known at 339,104,-979 and 434,106,-1113. Sheep: nobody has seen any.
 Beds: 416,107,-1050 and 415,107,-1050 sometimes fail when others sleep there.
 Next: hold at the bed with sword in hand; wait for Billy's named walk or hunger 10.
