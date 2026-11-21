@@ -23,4 +23,5 @@
 - Day 728: sleep at 416,107,-1050 worked at day-end with 3 asleep then 9 of 10 in the row. Billy still names no walk; he asks for hunger reports and wants potatoes to Troi first.
 - Day 730: an intent with max_block_operations 0 is rejected as invalid; use plain say and wait to hold instead.
 - Day 730: Zack gave a potato to Troi at hunger 16 when she asked in his sight. Trini and MacDonald are next in line.
+- Day 733: sleep at 416,107,-1050 began at night with Billy, Trini and Jason in the row. Billy and Trini said goodnight with no walk named.
 - Next curiosity: where sheep graze. Nobody in the row has seen any yet.

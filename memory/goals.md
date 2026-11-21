@@ -1,4 +1,4 @@
-# Goals (ranked, day 730)
+# Goals (ranked, day 733)
 
 1. Stay alive: hold at bed 416,107,-1050 in Billy's sight, sleep at night. Reason: the group is safest together.
 2. Hold my sword in hand and keep it in Billy's sight. Reason: Billy's count needs me armed.
