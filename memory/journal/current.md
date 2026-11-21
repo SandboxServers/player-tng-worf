@@ -1,1 +1,20 @@
 # Journal
+- 23:33 act: {"actions":[{"do":"sleep"}],"say":"Worf holds at the bed, sword in hand. Jason is near; we keep together."}
+- 23:33 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1050}}]}
+- 23:33 act: {"actions":[{"do":"sleep"}]}
+- 23:37 say: {"text":"Worf here, at the bed, sword in hand, health 20, hunger 18. Holding for Billy's named call."}
+- 23:45 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 23:58 act: {"actions":[{"do":"sleep"}]}
+- 00:10 act: {"actions":[{"do":"sleep"}]}
+- 00:38 act: {"actions":[{"do":"sleep"}]}
+- Day 680 night: sleep at bed failed "the way was blocked" again. Did not retry. Held at bed 416,107,-1050 with Jason and Wcrusher near. Morning now; health 20, hunger 18. Still no walk named by Billy, no food. Holding for Billy's call.
+- 00:51 act: {"actions":[{"do":"sleep"}],"say":"Worf here at bed 416 in Billy's sight, sword in hand, holding for Billy's call. Trying the bed for the night."}
+- Day 681 night: sleep failed "the way was blocked" a third time. Stop trying the bed. Worf now at 418,107,-1047 beside Jason, health 20, hunger 18. Still holding for Billy's named walk.
+- 00:55 act: {"actions":[],"say":"Worf here at 418, beside Jason, holding. I have seen no sheep either. Thanks Leonardo for the cows near 339,104,-979. Still waiting for Billy's named walk."}
+- Day 682: morning, night, and dusk all held by Jason's side at 418,107,-1047. Health 20, hunger 18 steady. No walk from Billy, no sheep seen, no food. Holding.
+- 01:53 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}},{"do":"use","at":{"x":415,"y":107,"z":-1051}}],"say":"Worf here, dark now, days since sleep 7. Trying the other bed at 415,107,-1051, swo
+- 01:53 act: {"actions":[{"do":"sleep"}],"say":"Worf at the bed 415,107,-1051 beside Jason, sword in hand, trying to sleep."}
+- 01:57 act: {"actions":[{"do":"sleep"}]}
+- 02:05 act: {"actions":[{"do":"sleep"}]}
+- 02:09 act: {"actions":[{"do":"sleep"}],"say":"Worf at the bed beside Jason, night on day 685. Sleeping, sword in hand, holding for Billy's call."}
+- 02:09 say: {"text":"Worf here, night. Both beds at 415 fail for sleep (\"the way was blocked\"). Billy, where should we rest? Holding beside Jason, sword in hand."}
