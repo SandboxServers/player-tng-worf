@@ -4,3 +4,4 @@ Day 685 morning. Holding at the row with Jason, Wesley, Beverly in Billy's sight
 - 02:47 act: {"actions":[{"do":"sleep"}]}
 - 02:59 act: {"actions":[{"do":"sleep"}]}
 - 03:00 act: {"actions":[{"do":"sleep"}],"say":"Holding at my bed, in Billy's sight. Sleeping now."}
+- Sleep worked (days since sleep reset). Still hunger 18, no food. Holding at bed with sword for Billy's walk; ask Troi at hunger 10.
