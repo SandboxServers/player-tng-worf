@@ -6,3 +6,4 @@
 - 10:11 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Worf here, night in the row. Moving to the proven bed 416,107,-1050, sword in hand, holding for Billy's word.","intent":{"goal":"
 - 10:24 act: {"actions":[{"do":"sleep"}]}
 - 10:24 act: {"actions":[{"do":"sleep"}]}
+- 10:41 act: {"say":"Worf at the bed 416,107,-1050, in the row's sight, sword in hand. Holding for the night. No walk named.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"reasoning":"Night, at b
