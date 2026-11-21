@@ -1,14 +1,1 @@
 # Journal
-- 11:39 act: said I hold at bed 416,107,-1050 with sword, health 20, hunger 16; set intent hold_at_bed (rest) to wait for Billy's named walk.
-- Heard: Zack has 3 potatoes and offered one to Troi at hunger 16. Not mine to take; I wait for hunger 10 and Billy's word.
-- 11:50 act: {"actions":[{"do":"sleep"}],"say":"Worf at bed 416,107,-1050, sword in hand, in Billy's sight. Holding for Billy's word. Good night, row."}
-- Day 714 morning: Woke at bed 416,107,-1050, sword in hand, health 20, hunger 16. Row (Trini, Wesley, Jason, Zack) holds for Billy's walk; no walk named. Said I hold; set intent hold_at_bed.
-- 11:55 act: {"say":"Worf here, holding at my bed with sword in hand. Health 20, hunger 16. Waiting for Billy's word.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed"
-- 11:55 act: {"intent":{"goal":"hold_at_bed_again","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":6000,"max_block_operations"
-- 12:04 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, row. Worf holding at the bed in Billy's sight, sword in hand."}
-- 12:08 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Good morning, row. Worf at the bed, sword in hand, health 20, hunger 16. Still holding for Billy's named walk.","intent":{"goal":
-- 12:16 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, row. Worf at the bed, sword in hand, in Billy's sight. Holding for Billy's word."}
-- 12:20 act: {"actions":[],"say":"Good morning, row. Worf at the bed, sword in hand, health 20, hunger 16. Still holding for Billy."}
-- 12:28 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Worf in my bed, sword in hand, in Billy's sight."}
-- 12:33 say: {"text":"Worf here at bed 416,107,-1050, sword in hand, holding for Billy's named walk. Hunger 16, no food."}
-- Day 716: waited at bed with sword; no walk named by Billy, no food, hunger 16. Still holding. Heard Trini and Laforge also holding for Billy.
