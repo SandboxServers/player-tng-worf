@@ -1,6 +1,41 @@
-Day 733 day. Woke at bed 416,107,-1050, health 20, hunger 16. Billy says no walk until a verified route west is named; cows east at 339,104,-979 he will not walk to yet. Later: moved to bed 416,107,-1050, sleep refused (not night yet). Still holding, hunger 16, no walk named. Night 735: sleep was blocked once, then said not night; morning came. Holding at bed 416,107,-1050, hunger 16. Said I hold at the bed with sword in hand and set a rest intent to wake on speech or damage.
+Day 733 day. Woke at bed 416,107,-1050, health 20, hunger 16. Billy says no walk until a verified route west is named; cows east at 339,104,-979 he will not walk to yet. Later: moved to bed 416,107,-1050, sleep refused (not night yet). Still holding, hunger 16, no walk named. Night 735: sleep was blocked once, then said not night; morning came. Holding at bed 416,107,-1050, hunger 16. Night 735 again: sleep blocked by "the way was blocked" (Wesley standing near). Staying awake, sword in hand. Said I hold at the bed with sword in hand and set a rest intent to wake on speech or damage.
 - 18:28 say: {"text":"Worf holding at the bed, sword in hand. Hunger 16, so I wait until 10 before I ask Zack for potatoes."}
 - 18:36 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, row. Worf going to bed at 416,107,-1050, in sight. Health 20, hunger 16. No walk."}
 - 18:49 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf going to bed at 416,107,-1050, in the row's sight. Health 20, hunger 16. No walk."}
 - 18:49 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1050}}]}
 - 18:49 act: {"actions":[{"do":"sleep"}]}
+- 19:01 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf going to sleep at 416,107,-1050, in sight. Health 20, hunger 16. No walk."}
+- 19:06 say: {"text":"Worf here at the bed, health 20, hunger 16. No verified route west, and I have seen no sheep. Holding with my sword until you name a walk."}
+- 19:14 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Goodnight, row. Worf in bed at 416,107,-1050, in sight. Health 20, hunger 16. No walk."}
+- Dusk 736: sleep worked (1 of 10 asleep) at bed 416,107,-1050. Jason and wcrusher beside me. Health 20, hunger 16, sword in hand.
+- 19:18 act: {"actions":[],"say":"Morning, row. Worf here at bed 416,107,-1050, health 20, hunger 16. Holding with sword, no walk. Will ask Zack for potatoes at hunger 10."}
+- 19:26 act: {"actions":[{"do":"sleep"}],"say":"Worf at bed 416,107,-1050 for the night, sword in hand. Hunger 16, no walk, holding at the row."}
+- 19:42 act: {"actions":[{"do":"sleep"}],"say":"Worf at bed 416,107,-1050 for the night, sword in hand. Hunger 16, no walk."}
+- 19:54 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. Worf in bed at 416,107,-1050, in sight. Health 20, hunger 16. No walk."}
+- 20:06 act: {"actions":[{"do":"sleep"}],"say":"Worf at bed 416,107,-1050 for the night, sword in hand. Hunger 16, no walk."}
+- 20:07 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Sleep was blocked at the bed tonight. Worf staying awake at 416,107,-1050 with sword in hand. Hunger 15, no walk."}
+- Day 737 dusk: sleep refused "not night". Day 738 night: sleep worked (8 of 10 asleep). Night 739: sleep blocked "the way was blocked". Morning 739 at bed 416,107,-1050, health 20, hunger 15, sword in hand, no walk. Zack and Billy holding.
+- Night 739: sleep at 416,107,-1050 blocked "the way was blocked"; then at 415,107,-1051 blocked too. Jason stands right beside me. Holding awake, sword in hand, no walk. Will wait for Jason to move, then try one bed again.
+- Night 741: sleep at 415,107,-1050 blocked "the way was blocked" (Wesley beside). Billy named bed 429,107,-1036; goto there blocked, so I stopped at 418,107,-1047 and hold, sword in hand, hunger 15, no walk.
+- Morning 740: Billy is checking Jason's bed at 416,107,-1050 in daylight. Worf holds at 415,107,-1051, sword in hand, hunger 15, no walk.
+- 20:19 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk, row. Worf going to the bed at 416,107,-1050 for the night, sword in hand. Health 20, hunger 15, no walk."}
+- 20:19 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, row. Sleep was blocked at the first bed, so Worf tries the bed at 415,107,-1051. Sword in hand, no walk."}
+- 20:32 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Worf in the bed at 415,107,-1051, sword in hand, in sight. Health 20, hunger 15, no walk."}
+- 20:48 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, row. Worf going to the bed at 415,107,-1050 for the night, in sight, sword in hand. Health 20, hunger 15, n
+- 20:48 act: {"actions":[],"say":"Night, row. Sleep was blocked again at the bed, with Wesley standing right beside me. Billy, which bed should I use? Holding awake, sword in hand, hunger 15, no walk."}
+- 20:52 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}}],"say":"Morning, row. Worf going to the bed Billy named, 429,107,-1036, in sight. Sword in hand, hunger 15, no walk beyond the row."}
+- 21:04 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, row. Worf going to the bed at 415,107,-1051 once more, in sight. Sword in hand, hunger 15, no walk."}
+- 21:05 act: {"actions":[],"say":"Worf at bed 415,107,-1051 in daylight, sword in hand, health 20, hunger 15. Sleep refused, not night. Waiting for dusk, then one bed in sight. No walk."}
+- Day 743 morning: Jason asked me not to use his bed 416,107,-1050. Night 743 sleep blocked at 415,107,-1051 and 415,107,-1050 (Jason on square). Holding awake, hunger 15, no walk. Next night: try 429,107,-1036 (Billy's named bed) once.
+- Night 743 later: goto to 429,107,-1036 blocked ("the way was blocked"); stopped at 418,107,-1047. Holding awake, sword in hand, hunger 15, no walk. Will not force the route.
+- 21:13 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Worf in the bed at 415,107,-1051, sword in hand, in sight. Health 20, hunger 15, no walk."}
+- 21:29 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Worf in the bed at 415,107,-1051, sword in hand, in sight. Health 20, hunger 15, no walk."}
+- 21:29 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Sleep blocked here, Jason on my square. Worf moves to the bed at 415,107,-1050, in sight, sword in hand. Health 20
+- 21:33 act: {"actions":[],"say":"Morning, Jason. Worf heard you: I keep off your bed at 416,107,-1050. Night 743: sleep blocked at 415,107,-1051 and 415,107,-1050 (someone on the square). Holding, sword in hand, 
+- 21:41 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, row. Worf going to the bed Billy named, 429,107,-1036, once, in sight. Sword in hand, hunger 15, no walk."}
+- 21:54 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk, row. Worf going to the bed at 415,107,-1051, in sight, sword in hand. Health 20, hunger 15, no walk.","inten
+- 22:06 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk, row. Worf to the bed at 415,107,-1051 for the night, in sight, sword in hand. Health 20, hunger 15, no walk.
+- 22:22 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Worf in the bed at 415,107,-1051, in sight, sword in hand. Health 20, hunger 15, no walk."}
+- 22:35 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Worf in the bed at 415,107,-1051, in sight, sword in hand. Health 20, hunger 15, no walk."}
+- 22:39 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Morning, row. Worf moving off Jason's square to the bed at 415,107,-1051. Health 20, hunger 15, sword in hand, no walk."}
+- 22:47 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Worf in the bed at 415,107,-1051, in sight, sword in hand. Health 20, hunger 15, no walk."}
