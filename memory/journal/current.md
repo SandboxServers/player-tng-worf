@@ -7,3 +7,6 @@
 - 11:55 act: {"intent":{"goal":"hold_at_bed_again","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":6000,"max_block_operations"
 - 12:04 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, row. Worf holding at the bed in Billy's sight, sword in hand."}
 - 12:08 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Good morning, row. Worf at the bed, sword in hand, health 20, hunger 16. Still holding for Billy's named walk.","intent":{"goal":
+- 12:16 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, row. Worf at the bed, sword in hand, in Billy's sight. Holding for Billy's word."}
+- 12:20 act: {"actions":[],"say":"Good morning, row. Worf at the bed, sword in hand, health 20, hunger 16. Still holding for Billy."}
+- 12:28 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Worf in my bed, sword in hand, in Billy's sight."}
