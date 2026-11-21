@@ -21,4 +21,6 @@
 - Day 704: sleep at bed 416,107,-1050 worked the night through; Zack, LaForge, Beverly and Picard all hold the row waiting for Billy's named walk.
 - Day 721: sleep at 416,107,-1050 worked again with Jason in sight. Zack will hand a potato over at hunger 10 or under if I step into his sight and say the word.
 - Day 728: sleep at 416,107,-1050 worked at day-end with 3 asleep then 9 of 10 in the row. Billy still names no walk; he asks for hunger reports and wants potatoes to Troi first.
+- Day 730: an intent with max_block_operations 0 is rejected as invalid; use plain say and wait to hold instead.
+- Day 730: Zack gave a potato to Troi at hunger 16 when she asked in his sight. Trini and MacDonald are next in line.
 - Next curiosity: where sheep graze. Nobody in the row has seen any yet.
