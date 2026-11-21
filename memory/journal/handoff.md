@@ -1,1 +1,1 @@
-Day 728 night. Sheltered at bed 416,107,-1050 with sword in hand. Hunger 16, no food. Billy names no walk. Next: hold, ask Troi/Zack for potatoes at hunger 10.
+Handoff, day 735 night. Sleeping at bed 416,107,-1050 in the row's sight, sword in hand. Health 20, hunger 16. No errand out. Billy names no walk; no verified route west. Next: hold; ask Zack for potatoes at hunger 10; sleep at bed.
