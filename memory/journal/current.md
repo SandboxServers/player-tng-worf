@@ -46,3 +46,4 @@ Day 733 day. Woke at bed 416,107,-1050, health 20, hunger 16. Billy says no walk
 - 23:06 say: {"text":"Morning, Billy. Worf at bed 415,107,-1051, health 20, hunger 15, sword in hand, in sight. No walk from me. I will ask Tommy or Zack for potatoes at hunger 10."}
 - 23:14 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Worf in my bed at 415,107,-1051, in sight, sword in hand. Health 20, hunger 15, no walk."}
 - 23:27 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk, row. Worf to bed 415,107,-1050, in sight, sword in hand. Health 20, hunger 15, no walk."}
+- 23:33 act: {"say":"Morning, row. Worf at the bed, sword in hand, health 20, hunger 15. No walk from me until Billy names one."}
