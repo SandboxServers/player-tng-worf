@@ -2,3 +2,5 @@ Day 765 dusk. Held at bed 415,107,-1051 with sword in hand, health 20, hunger 14
 - 04:52 act: {"say":"Chapman, I hold my wooden sword in hand; I did not do anything special to get it there. Billy, no walk from me. Holding at bed 415,107,-1050."}
 - 04:56 act: {"say":"Riker, come to the row, stay in sight of Billy. I hold with my sword in hand. No walk named."}
 - 05:00 act: {"say":"Chapman, I do not know how mine got into my hand. It was there when I woke, and I have not changed it. Holding at the bed, no walk."}
+- 05:29 act: {"actions":[{"do":"note","text":"Holding at bed 416,107,-1050 in the row. Hunger 14, sword in hand. No walk."}],"say":"Chapman, I am at my bed, 416,107,-1050, in the row. I am not walking. Come to a s
+- 05:33 act: {"actions":[{"do":"note","text":"Holding at row bed. No potato in my pack; Chapman asked me, I said no. Hunger 14."}],"say":"Chapman, I have no potato. My pack holds only cobblestone, planks, sticks a
