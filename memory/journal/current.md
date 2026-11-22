@@ -66,3 +66,7 @@
 - 19:15 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Worf at bed 416,107,-1050, sword in hand, Jason beside, hunger 13. Going to sleep."}
 - 19:20 act: {"say":"Zack, Worf is at bed 416,107,-1050, sword in hand, hunger 13. I hold for Billy's walk and will take the potatoes at hunger 10."}
 - 19:28 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Worf at bed 416,107,-1050, sword in hand, Jason beside, hunger 13. Going to sleep; no walk for me."}
+- 19:36 say: {"text":"Worf holds at the bed, sword in hand. Hunger 13. Billy, name the walk when you are ready."}
+- Day 809 day: woke-cycle at bed 416,107,-1050, Jason beside, sword in hand, health 20, hunger 13. Said I hold. No walk named, no food. Waiting on Billy; will call at hunger 10.
+- Day 809 dusk: sleep refused, not night yet. Held at bed. Day 810 morning now: at bed, sword in hand, Jason beside, health 20, hunger 13. Zack still holds 2 potatoes for me; no walk named. Holding.
+- 19:41 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk. Worf at bed 416,107,-1050, sword in hand, Jason beside, hunger 13. Going to sleep; no walk for me."}
