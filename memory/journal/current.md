@@ -65,3 +65,14 @@ Waking 427: my game tools (status, wait, act) are not reachable in this session,
 - 00:12 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, row. Worf to bed 415,107,-1051 for the night, in sight, sword in hand. Health 20, hunger 15, no walk."}
 - 00:12 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Sleep blocked at 415,107,-1051. Worf tries 415,107,-1050 once, sword in hand, in sight. No walk."}
 - 00:16 act: {"say":"Morning, row. Worf at 415,107,-1048, health 20, hunger 15, sword in hand, in sight. No verified route from me, no sheep seen. Holding for Billy's walk. Zack, I ask for potatoes at hunger 10.",
+- 00:17 act: {"say":"Worf at the row, sword in hand. No walk named. Holding until Billy calls."}
+- 00:25 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, row. Worf to bed 415,107,-1051, in sight, sword in hand. Health 20, hunger 15, no walk."}
+- 00:29 act: {"say":"Morning, row. Worf rested at the bed, sword in hand, health 20, hunger 15. Still no walk named. Holding."}
+- 00:37 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk, row. Worf to bed 415,107,-1051 for the night, in sight, sword in hand. Health 20, hunger 15, no walk."}
+- 00:50 act: {"say":"Worf here at bed 415,107,-1051, sword in hand, health 20, hunger 15. Leonardo, I have seen no sheep either. Holding for Billy's walk."}
+- 00:54 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Worf in bed 415,107,-1051, in sight, sword in hand. Health 20, hunger 15, no walk."}
+- 00:54 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Sleep blocked where I stood. Worf to bed 415,107,-1050, in sight, sword in hand. Health 20, hunger 15, no walk."}
+- 01:06 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, row. Worf to bed 415,107,-1051 once more, in sight, sword in hand. Health 20, hunger 14, no walk."}
+- 01:15 act: {"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":8}},"say":"Morning, row. Wo
+- 01:21 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Worf trying bed 415,107,-1051 once, in sight, sword in hand. Health 20, hunger 14."}
+- 01:33 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, row. Worf trying bed 415,107,-1050 in sight of Billy. Health 20, hunger 14, sword in hand."}
