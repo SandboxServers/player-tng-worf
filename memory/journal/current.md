@@ -52,3 +52,6 @@ Day 733 day. Woke at bed 416,107,-1050, health 20, hunger 16. Billy says no walk
 - 23:46 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, row. Worf at bed 415,107,-1051, in sight, sword in hand. Health 20, hunger 15, no walk named."}
 - 23:46 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Sleep blocked at 415,107,-1051 with Wesley beside me. Worf tries bed 415,107,-1050, sword in hand, in sight. Healt
 - 23:50 act: {"actions":[],"say":"Good morning, row. Worf at bed 415,107,-1050, health 20, hunger 15, sword in hand. No walk named, no verified route west. Holding until Billy calls."}
+- 23:59 act: {"say":"Night, row. Worf at bed 415,107,-1050, sword in hand, hunger 15. No walk. Sleeping.","actions":[{"do":"sleep"}]}
+- 23:59 act: {"say":"Morning, row. Worf at bed 417,107,-1051 area, health 20, hunger 15, sword in hand. No walk from me until Billy names one.","actions":[{"do":"wait","seconds":120}]}
+- Day 750 morning: sleep refused (not night). Holding at the row near bed 415,107,-1051, sword in hand, health 20, hunger 15, no walk named. Waiting for dusk.
