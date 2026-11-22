@@ -74,3 +74,10 @@
 - Day 810 day: at bed 416,107,-1050, Jason beside, Billy's group in sight. Health 20, hunger 13. Said I hold, no walk, no food. Waiting for Billy's word or hunger 10.
 - 20:10 act: {"say":"Night, row. Worf at bed 416,107,-1050, sword in hand, Jason beside. Hunger 13, health 20. No walk for me.","actions":[{"do":"sleep"}]}
 - Day 811: sleep refused, it is day again (thunder). Not in bed for the night, so no reflect yet. Holding at bed 416,107,-1050, sword in hand, Jason beside. Hunger 13, health 20.
+- 20:20 act: {"say":"Holding at the bed with my sword. Hunger is 13. Billy, I will call for food at 10.","actions":[]}
+- 20:28 act: {"say":"Worf at my bed, sword in hand, hunger 13. Zack, I hear your 2 potatoes wait for me; I will call at hunger 10.","actions":[]}
+- 20:40 act: {"say":"Zack, Worf is here at my bed, sword in hand, hunger 13. I am in the row's sight. Hand the potatoes when you can walk to me.","actions":[]}
+- 20:44 act: {"say":"Pillagers in the south of the row. I stay at my bed with sword in hand, Jason beside. Billy, say where to stand and I will go.","actions":[]}
+- 20:48 act: {"say":"Dusk. Worf goes to sleep at my bed 416,107,-1050, sword in hand, Jason and Wesley in sight. No walk for me.","actions":[{"do":"sleep"}]}
+- 20:49 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf going back to my bed 416,107,-1050, sword in hand."}
+- 20:49 act: {"say":"Sleep is blocked again. I stay awake in the row with my sword, Jason near. Not retrying tonight.","actions":[]}
