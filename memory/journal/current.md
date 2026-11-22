@@ -34,3 +34,5 @@
 - 17:58 act: {"say":"Billy, Worf here at my bed, sword in hand, in sight of the row. Hunger 13. I will hold for the night and take my potato at first light, as you named me.","actions":[{"do":"sleep"}]}
 - 18:02 act: {"say":"Morning, Billy. Worf at bed 416,107,-1050, sword in hand, hunger 13. Trini first. I hold here and wait for you to call me.","actions":[]}
 - 18:11 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Worf goes to bed beside the bed at 416,107,-1050, sword in hand. Billy, my potato is still owed when you call."}
+- 18:11 act: {"actions":[{"do":"sleep"}],"say":"Holding at the bed with my sword. Sleeping now, Jason beside me."}
+- Day 805 night: slept at bed 416,107,-1050, sleep worked, 7 days since last sleep. Woke with health 20, hunger 13, sword in hand. Billy has 9 potatoes at bed 430,107,-1036 and named me for one at first light; the NE potato walk went out and Billy said Trini and Troi eat first. Holding at bed; will call Billy at hunger 10 or under.
