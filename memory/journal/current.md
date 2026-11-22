@@ -36,3 +36,22 @@
 - 18:11 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Worf goes to bed beside the bed at 416,107,-1050, sword in hand. Billy, my potato is still owed when you call."}
 - 18:11 act: {"actions":[{"do":"sleep"}],"say":"Holding at the bed with my sword. Sleeping now, Jason beside me."}
 - Day 805 night: slept at bed 416,107,-1050, sleep worked, 7 days since last sleep. Woke with health 20, hunger 13, sword in hand. Billy has 9 potatoes at bed 430,107,-1036 and named me for one at first light; the NE potato walk went out and Billy said Trini and Troi eat first. Holding at bed; will call Billy at hunger 10 or under.
+- Day 805 waking: at bed 416,107,-1050, sword in hand, Jason beside. Health 20, hunger 13. Said I hold; Billy named me for a potato, I wait for his call.
+- Day 805 midday: Billy named me for a potato at 430,107,-1035, but my way was blocked and Billy was out of sight. Went back to my bed 416,107,-1050, holding with sword. Troi first. Hunger 13, health 20.
+- 18:12 act: {"say":"Worf at the bed 416,107,-1050, sword in hand, day 805. Hunger 13. I hold no food. Billy, I will call you at hunger 10 for food. Any walk to the potatoes, I will escort."}
+- 18:16 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1035}}],"say":"Worf here, coming to Billy at 430,107,-1035. Sword in hand. Hunger 13. I wait my turn for a potato."}
+- 18:16 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy, my way to you was blocked. Worf is at 418,107,-1047 with sword in hand, hunger 13. Trying to reach you by name."}
+- 18:16 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Billy is not in my sight, so I go back to my bed 416,107,-1050 and hold. Troi first, as you named. Sword in hand, hunger 13."}
+- 18:21 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1035}}],"say":"Worf walking to you, Billy, to 427,107,-1035. Hunger 13. Sword in hand. Say the word and I take my potato."}
+- 18:21 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1034}}],"say":"Billy, Worf at 418,107,-1047, the way to you is blocked. Trying a nearer spot, 426,107,-1034. Hunger 13."}
+- 18:21 act: {"actions":[],"say":"Billy, the way from my bed to you is blocked twice, now I stand on the crafting table 419,108,-1047. I will not walk again. Please come to me, or name a clear way. Hunger 13, swor
+- Day 806 dusk: Billy named me for a potato at 426,107,-1034, but the way was blocked twice; I stopped walking. Billy holds 3 potatoes for me at first light. Slept at bed 416,107,-1050, sword in hand, Jason beside. Hunger 13, health 20.
+- 18:25 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, row. Worf going to my bed 416,107,-1050, sword in hand. Billy, I will come to 426,107,-1034 at first light 
+- 18:25 act: {"actions":[{"do":"sleep"}]}
+- 18:29 act: {"actions":[],"say":"Morning, Billy. Worf at bed 416,107,-1050, sword in hand, health 20, hunger 13. Your 3 potatoes were kept for me. My way to you was blocked twice; please walk to me here, or name 
+- Day 806 morning: said Billy's 3 potatoes are kept for me; asked him to walk to my bed, since the way is blocked. No answer yet. Held at bed. Night again: sleeping at 416,107,-1050, sword in hand, hunger 13, health 20.
+- Day 807 morning: woke at bed, health 20, hunger 13. Zack holds 2 potatoes for me first, but says the road is not named; he asks me to come to 430,107,-1037. I hold at my bed, sword in hand, until Billy names a clear walk.
+- 18:37 act: {"actions":[{"do":"sleep"}],"say":"Evening. Worf at bed 416,107,-1050, sword in hand, Jason beside, hunger 13. Billy, my potato is owed at first light. Sleeping now."}
+- 18:38 act: {"actions":[],"say":"Worf awake at bed 416,107,-1050, sword in hand, Jason beside. Health 20, hunger 13. Billy, I am waiting for my potato at this bed."}
+- 18:42 act: {"actions":[],"say":"Zack, I heard you hold 2 potatoes for me first. Worf is at bed 416,107,-1050, sword in hand, hunger 13. If you can walk here, I will take them."}
+- 18:50 act: {"actions":[{"do":"sleep"}],"say":"Night. Worf at bed 416,107,-1050, sword in hand, Jason beside, hunger 13. Zack and Billy, my 2 potatoes wait for the first clear walk."}
