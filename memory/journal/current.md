@@ -5,3 +5,7 @@
 - 12:30 act: {"say":"Worf holding at bed 416,107,-1050 with my sword, in Billy's sight. Good night, row.","actions":[{"do":"sleep"}]}
 - 12:30 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}]}
 - 12:34 act: {"say":"Worf at the bed 416,107,-1050, sword in hand, health 20, hunger 14. Holding with the row, no walk. Will call at hunger 10.","actions":[]}
+- 12:43 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night in the row. Worf at the bed, sword in hand, holding. No walk."}
+- 12:43 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}]}
+- 12:47 say: {"text":"Morning, Billy. Worf at bed 416,107,-1050, sword in hand, health 20, hunger 14. Holding; I will call at 10."}
+- 12:55 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk, row. Worf at bed 416,107,-1050, sword in hand, in Billy's sight. Hunger 14, holding. Good night."}
