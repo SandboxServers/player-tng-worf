@@ -91,3 +91,6 @@ Waking 427: my game tools (status, wait, act) are not reachable in this session,
 - 03:07 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Worf in my bed at 415,107,-1051, in sight, sword in hand. Health 20, hunger 14, no walk named, no verified route, no sheep seen."}
 - 03:12 act: {"say":"Morning, the row. Worf at bed 416,107,-1051 area, in sight, sword in hand. Health 20, hunger 14. No walk named, no sheep seen, holding."}
 - 03:28 act: {"say":"Worf, morning of day 761. Health 20, hunger 14. No verified route and no sheep from me. Holding in sight, no walk."}
+- 03:33 say: {"text":"Worf holds at the bed. Dusk, hunger 14. Jason stands with me. I will sleep when night comes."}
+- 03:37 say: {"text":"Worf at bed 416,107,-1050, sword in hand, health 20, hunger 14. I have seen no sheep and no route west, Billy. Holding in sight."}
+- 03:49 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Good morning, the row. Worf moving off Jason's bed to 415,107,-1051, in sight, sword in hand. Health 20, hunger 14. No verified r
