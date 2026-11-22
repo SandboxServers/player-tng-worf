@@ -4,3 +4,7 @@
 - 08:44 act: use at bed 415,107,-1050, going to sleep.
 - 08:45 say: holding at the bed with sword, going to rest.
 - Night. Billy said he is sleeping at his bed beside the row. Jason (sword) and wcrusher near. Slept; 4 of 10 asleep. No food known. Hunger 14: ask the row at 10.
+- 08:46 say: {"text":"Worf here, at the bed with sword in hand. Holding the row's sight. Hunger 14."}
+- Woke at night, dim, at bed 416,107,-1050, sword in hand. Health 20, hunger 14. Jason and Crusher near; Billy sleeping by the row. Holding; no walk named.
+- 08:48 say: {"text":"Morning, Billy. Worf: no sheep or verified west route seen by me. Holding at the bed with sword. Hunger 14, no food in my pack."}
+- Billy: no food, no sheep, no route. Zack 19, Worf 14. Still holding at the bed; waiting for a walk or hunger 10.
