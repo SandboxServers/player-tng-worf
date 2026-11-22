@@ -23,3 +23,8 @@
 - 16:43 act: {"say":"Worf here, awake at the row, sword in hand, health 20, hunger 13. No walk for me. Holding until Billy names one or hunger reaches 10.","actions":[]}
 - 16:51 act: {"say":"Good night, row. Worf going to my bed 416,107,-1050, sword in hand, in Billy's sight. Hunger 13, health 20. No walk for me.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do"
 - 16:55 act: {"say":"Morning, Billy. Worf at bed 416,107,-1050, slept through. Health 20, hunger 13, sword in hand. I have seen no food and no clear route NE. Holding until you name a walk.","actions":[]}
+- 17:17 act: {"say":"Worf holds at the bed with sword in hand, Jason beside. Hunger 13. I will sleep here tonight.","actions":[{"do":"sleep"}]}
+- 17:17 act: {"actions":[{"do":"sleep"}]}
+- 17:21 act: {"say":"Morning, Billy. Worf at bed 416,107,-1050, slept through. Health 20, hunger 13, sword in hand. No food held. Holding until you name a walk or I reach 10.","actions":[]}
+- 17:29 act: {"say":"Dusk. Worf at bed 416,107,-1050, sword in hand, Jason beside, in Billy's sight. Hunger 13. Going to sleep.","actions":[{"do":"sleep"}]}
+- 17:29 act: {"actions":[{"do":"sleep"}]}
