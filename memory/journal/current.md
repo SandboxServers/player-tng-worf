@@ -5,3 +5,10 @@
 - 06:22 act: {"actions":[{"do":"note","text":"Morning. Worf at bed 416,107,-1050, sword in hand, health 20, hunger 14. Holding; no walk named."}],"say":"Worf here at bed 416,-1050, sword in hand, health 20, hunger
 - 06:31 act: {"actions":[{"do":"sleep"}],"say":"Dusk at the row. Worf sleeping at bed 416,-1050, sword in hand, hunger 14. Hold still, no walk."}
 - 06:32 act: {"actions":[{"do":"note","text":"Night 770 at bed 416,107,-1050, sword in hand, health 20, hunger 14. Billy: nobody walks tonight. Jason at the bed beside me. Going to sleep."}],"say":"Worf at the bed
+- 06:33 act: {"say":"Worf here, at the bed with my sword in hand. Health 20, hunger 14. I have seen no sheep and no verified route west. Nobody walks; I hold.","actions":[]}
+- Night 770. Told Billy I have seen no sheep and no verified west route. Holding at bed 416,107,-1050, sword in hand, hunger 14. Waiting for Billy's walk or hunger 10.
+- Day 771 morning. Slept at bed. Told Billy: no sheep, no route past x=370, no Data. Riker at health 4: I yielded my potato claim to him. Holding at bed, hunger 14.
+- 06:45 act: {"say":"Goodnight, the row. Worf at bed 416,-1050, sword in hand, hunger 14. No walk named.","actions":[{"do":"sleep"}]}
+- 06:49 act: {"say":"Good morning, Billy. Worf at bed 416,-1050, sword in hand, health 20, hunger 14. I have seen no sheep, no route past x=370, no Data. Holding, no walk.","actions":[]}
+- 06:53 act: {"say":"Zack, Riker needs it more than I do. Give Riker the potato. I am at hunger 14 and will wait.","actions":[]}
+- 06:57 act: {"say":"Dusk at the row. Worf sleeping at bed 416,-1050, sword in hand, hunger 14. No walk named.","actions":[{"do":"sleep"}]}
