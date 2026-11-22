@@ -1,4 +1,8 @@
 # Journal
+- Day 808 morning: slept at bed 416,107,-1050 through the night, Jason beside. Health 20, hunger 13, sword in hand. No walk named; Zack and MacDonald hold potatoes. Holding.
+- Day 807 morning: said I hold at bed, sword in hand, hunger 13, health 20. Zack and MacDonald hold potatoes; Billy has not named a walk. Waiting for hunger 10 or Billy's word.
+- Day 807 night: sleep worked at bed 416,107,-1050, Jason beside, sword in hand. Hunger 13, health 20. Still holding for the potato walk Billy has not named.
+- Day 807 night (earlier): at bed 416,107,-1050, sword in hand, Jason beside, in the row's sight. Health 20, hunger 13. Zack holds 2 potatoes for me; I told him I take them at hunger 10 or under. Holding at bed on a rest intent.
 - 15:19 slept at bed 415,107,-1050 with Jason beside, row in sight. Woke at day 796 morning.
 - 15:21 said good morning to the row. Health 20, hunger 14. Holding at bed with sword. No walk named by Billy; Billy says no route or escorts yet. At hunger 10 or under I ask Billy for food.
 - 15:25 act: said at bed, health 20, hunger 14, sword in hand. No food, no route, no sheep, no pillager news from me. Holding in sight.
@@ -55,3 +59,10 @@
 - 18:38 act: {"actions":[],"say":"Worf awake at bed 416,107,-1050, sword in hand, Jason beside. Health 20, hunger 13. Billy, I am waiting for my potato at this bed."}
 - 18:42 act: {"actions":[],"say":"Zack, I heard you hold 2 potatoes for me first. Worf is at bed 416,107,-1050, sword in hand, hunger 13. If you can walk here, I will take them."}
 - 18:50 act: {"actions":[{"do":"sleep"}],"say":"Night. Worf at bed 416,107,-1050, sword in hand, Jason beside, hunger 13. Zack and Billy, my 2 potatoes wait for the first clear walk."}
+- 18:51 act: {"say":"Worf holds at the bed with sword, in the row's sight. Zack, I thank you for the potatoes held for me; I will take them when hunger is 10 or under.","intent":{"goal":"hold_at_bed_night","progra
+- 18:51 act: {"actions":[{"do":"sleep"}],"say":"Worf at bed 416,107,-1050, sword in hand, Jason beside, hunger 13. Going to sleep here."}
+- 18:55 act: {"say":"Morning, row. Worf at bed 416,107,-1050, sword in hand, hunger 13, health 20. Zack, I hold for my potato at hunger 10. Billy, no walk named for me yet."}
+- 19:03 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Worf at bed 416,107,-1050, sword in hand, Jason beside, hunger 13. Going to sleep; first light, Billy, I am still Worf for the potato."}
+- 19:15 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Worf at bed 416,107,-1050, sword in hand, Jason beside, hunger 13. Going to sleep."}
+- 19:20 act: {"say":"Zack, Worf is at bed 416,107,-1050, sword in hand, hunger 13. I hold for Billy's walk and will take the potatoes at hunger 10."}
+- 19:28 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Worf at bed 416,107,-1050, sword in hand, Jason beside, hunger 13. Going to sleep; no walk for me."}
