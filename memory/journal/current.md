@@ -28,3 +28,9 @@
 - 17:21 act: {"say":"Morning, Billy. Worf at bed 416,107,-1050, slept through. Health 20, hunger 13, sword in hand. No food held. Holding until you name a walk or I reach 10.","actions":[]}
 - 17:29 act: {"say":"Dusk. Worf at bed 416,107,-1050, sword in hand, Jason beside, in Billy's sight. Hunger 13. Going to sleep.","actions":[{"do":"sleep"}]}
 - 17:29 act: {"actions":[{"do":"sleep"}]}
+- 17:33 act: {"say":"Morning, Billy. Worf at bed, sword in hand, health 20, hunger 13. No food, no route, no bow. Holding in sight of the row.","actions":[]}
+- 17:50 act: {"say":"Billy, Worf here. My wooden sword is my only weapon and I must keep it in hand for the row. I cannot lend it. I will walk as escort if you name me, in daylight, in your sight.","actions":[]}
+- 17:54 act: {"say":"Billy, Worf here at the bed, hunger 13, health 20. Trini and John first. I hold at the row and will ask again at 10 or under.","actions":[]}
+- 17:58 act: {"say":"Billy, Worf here at my bed, sword in hand, in sight of the row. Hunger 13. I will hold for the night and take my potato at first light, as you named me.","actions":[{"do":"sleep"}]}
+- 18:02 act: {"say":"Morning, Billy. Worf at bed 416,107,-1050, sword in hand, hunger 13. Trini first. I hold here and wait for you to call me.","actions":[]}
+- 18:11 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Worf goes to bed beside the bed at 416,107,-1050, sword in hand. Billy, my potato is still owed when you call."}
