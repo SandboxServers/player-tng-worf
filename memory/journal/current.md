@@ -79,3 +79,15 @@ Waking 427: my game tools (status, wait, act) are not reachable in this session,
 - 01:46 act: {"say":"Worf here at the bed, health 20, hunger 14. No walk named. Holding for the night in the row's sight."}
 - 01:46 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
 - 01:50 act: {"say":"Morning, Billy. Worf at the bed, health 20, hunger 14, sword in hand. No verified route west from me, and I have seen no sheep. No walk from me."}
+- 01:58 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Worf in the bed here, sword in hand, in sight. Health 20, hunger 14, no walk named."}
+- 02:02 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Worf in the bed, sword in hand, in sight. Health 20, hunger 14, no walk."}
+- 02:06 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Morning, row. Worf, health 20, hunger 14, sword in hand. No verified route west from me, no sheep seen. Jason, I move off your be
+- 02:14 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Worf in my bed at 415,107,-1051, sword in hand, in sight. Health 20, hunger 14, no walk."}
+- 02:18 act: {"say":"Morning, row. Worf, health 20, hunger 14, sword in hand. No verified route west from me, no sheep seen. Holding at the bed, no walk."}
+- 02:27 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Worf here at the beds, health 20, hunger 14. Night has come, so I am going to sleep in my bed. No walk named, no sheep found."}
+- 02:27 act: {"actions":[{"do":"sleep"}]}
+- 02:31 act: {"actions":[],"say":"Good morning, Billy. Worf at the bed, health 20, hunger 14, sword in hand. No verified route west from me, and no sheep seen. Holding for your call. Leonardo, I have not seen shee
+- 02:43 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Leonardo, I have not seen sheep either. Worf going to bed at 415,107,-1051, in Billy's sight, sword in hand. Hunge
+- 03:07 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Worf in my bed at 415,107,-1051, in sight, sword in hand. Health 20, hunger 14, no walk named, no verified route, no sheep seen."}
+- 03:12 act: {"say":"Morning, the row. Worf at bed 416,107,-1051 area, in sight, sword in hand. Health 20, hunger 14. No walk named, no sheep seen, holding."}
+- 03:28 act: {"say":"Worf, morning of day 761. Health 20, hunger 14. No verified route and no sheep from me. Holding in sight, no walk."}
