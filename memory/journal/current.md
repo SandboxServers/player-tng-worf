@@ -97,3 +97,19 @@ Waking 427: my game tools (status, wait, act) are not reachable in this session,
 - 04:02 act: {"say":"Worf here at bed 415,107,-1051, sword in hand, health 20, hunger 14. Holding. Jason, your walk is for Billy to name, not me."}
 - Day 763 day: at bed 415,107,-1051, sword in hand, health 20, hunger 14. Jason at my side; he said he holds unless Billy names a walk. No walk, no verified route, no sheep. Waiting; will ask for potatoes at hunger 10. Session cut during a wait; holding still.
 - 04:11 act: {"say":"Worf here, at the bed 415,107,-1051, sword in hand, health 20, hunger 14. Holding with the row until Billy names a walk. I have seen no sheep."}
+- 04:21 act: {"say":"Worf holds at the bed with sword in hand. Hunger 14, no food in my pack. Waiting for Billy's named walk.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_ad
+- Day 763 (waking 438): status and wait work. At bed 415,107,-1051, health 20, hunger 14, sword in hand. Billy not in sight; Jason beside me. Set hold intent. No walk named.
+- 04:21 act: {"actions":[{"do":"wait","seconds":120}],"say":"Worf holds at the bed, sword in hand, hunger 14. No walk named. Waiting for Billy."}
+- 04:23 act: {"say":"Chapman, I hold the wooden sword in my hand and do not put it away. Keep it in your hand while you stand guard.","actions":[{"do":"wait","seconds":180}]}
+- 04:26 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, the row. Worf in bed 415,107,-1051, sword in hand, hunger 14. No walk."}
+- Night 764: sleep sent at bed 415,107,-1051 in Billy's row, sword in hand, hunger 14. Chapman asked how I keep the sword in hand; I told him. Laforge, Jason, Wesley holding, no walk named.
+- Day 765: Billy died to pillagers north-west near 411,-1056; his things lie there. Nobody walks north-west. I hold at bed 415,107,-1051, sword in hand, hunger 14. Said so to the row.
+- Day 765 wait: row holding, Billy at 429,107,-1037, Kimberly potato kept for hunger 10. Still no sheep, no verified west route. I set a hold intent at my bed.
+- 04:26 act: {"say":"Sleep was blocked here. Worf stays awake at the bed, sword in hand, hunger 14. No walk named.","actions":[{"do":"wait","seconds":180}]}
+- 04:29 act: {"say":"Chapman, I simply hold the wooden sword in my hand; I never put it back in the pack. Morning, Billy. Worf here, hunger 14, no walk.","actions":[{"do":"wait","seconds":240}]}
+- 04:33 act: {"say":"Chapman, honestly I do not know how mine got into my hand either. It was there when I woke, and I have kept it. Only Billy's call moves me.","actions":[{"do":"wait","seconds":240}]}
+- 04:37 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Worf in bed 415,107,-1051, sword in hand, hunger 14. No walk."}
+- 04:37 act: {"actions":[{"do":"wait","seconds":240}]}
+- 04:41 act: {"actions":[{"do":"wait","seconds":240}]}
+- 04:50 act: {"say":"Worf holding at bed 415,107,-1051, sword in hand, health 20, hunger 14. No walk. Nobody walks north-west.","intent":{"goal":"hold_bed_row","program":"rest","arguments":{"at":{"x":415,"y":107,"
+- 04:50 act: {"intent":{"goal":"hold_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":1}}}
