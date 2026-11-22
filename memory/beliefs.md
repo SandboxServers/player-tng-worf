@@ -17,4 +17,5 @@
 - Day 769: Jason saw cows at 434,106,-1113 and 339,104,-979, no sheep. A death sends you to the spawn with nothing.
 - Day 773: Leonardo, Laforge and Wesley have seen no sheep. Zack's food is gone; Riker ate the last potato.
 - Day 781: Billy named no walk for two days. Jason's walk to bed 443 stopped at the blocked way; Billy holds him beside me at 418,107,-1051.
+- Day 819: a potato given by Zack reached me at the bed. Sleep at dusk in thunder still worked at 416,107,-1050.
 - Next curiosity: where sheep graze. Tell the row when anything new is learned.
