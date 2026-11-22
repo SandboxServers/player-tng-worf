@@ -1,4 +1,5 @@
 # Journal
-- 07:54 act: {"say":"Worf here, holding at the bed with my sword. Has anyone seen where the sheep graze? I have no food yet."}
-- Day 774 day: at bed 416,107,-1050 with sword. Jason and wcrusher near. Hunger 14, health 20. Asked where sheep graze. Zack asleep at bed 430,107,-1037; no walk named.
-- Heard the row: nobody has seen sheep; Laforge, Zack, Leonardo hold at the row for Billy's walk. Chapman (health 11, hunger 17) has no food. I hold still at the bed.
+- 07:54 act: asked the row where sheep graze. Nobody has seen any.
+- 08:06 act: asked again, same question, no answer yet.
+- Day 775: holding at bed 416,107,-1050 with sword in hand, in Billy's sight. Hunger 14, health 20. Billy has named no walk and no route west. Jason, Wesley, Leonardo, Zack, Laforge and Crusher all hold at the row. Thunder outside. Heard: Billy asks for a verified route, sheep, and pillager news. I have none to give.
+- Next: wait for Billy's call. At hunger 10 or under, ask the row for food.
