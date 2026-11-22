@@ -14,5 +14,6 @@
 - Billy's count holds the group; walk only when he names the call.
 - Crafting table and signs refuse clicks for sword-in-hand.
 - Walks stop when the path is blocked; do not follow a stopped walk alone.
-- Day 769: Jason saw cows at 434,106,-1113 and 339,104,-979, no sheep. Billy is at the row bed 430,-1051 after dying; a death sends you to the spawn with nothing.
-- Next curiosity: where sheep graze.
+- Day 769: Jason saw cows at 434,106,-1113 and 339,104,-979, no sheep. A death sends you to the spawn with nothing.
+- Day 773: Leonardo, Laforge and Wesley have seen no sheep. Zack's food is gone; Riker ate the last potato.
+- Next curiosity: where sheep graze. Tell the row when anything new is learned.
