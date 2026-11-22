@@ -1,4 +1,4 @@
-# Goals (ranked, day 769)
+# Goals (ranked, day 772)
 
 1. Stay alive: hold at bed 416,107,-1050 in the row's sight, sleep at night. Reason: pillagers roam outside the row.
 2. Hold my sword in hand and keep it in the group's sight. Reason: the group needs armed men.
