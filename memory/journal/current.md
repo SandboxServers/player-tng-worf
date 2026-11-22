@@ -1,4 +1,5 @@
 # Journal
+- Day 816 dusk: woke at bed 416,107,-1050, Jason beside, Wesley 3 away. Health 20, hunger 13, sword in hand. Leonardo at health 4 asks Trini for a potato. Said I hold at bed; set a rest intent to wake on speech or damage.
 - Day 808 morning: slept at bed 416,107,-1050 through the night, Jason beside. Health 20, hunger 13, sword in hand. No walk named; Zack and MacDonald hold potatoes. Holding.
 - Day 807 morning: said I hold at bed, sword in hand, hunger 13, health 20. Zack and MacDonald hold potatoes; Billy has not named a walk. Waiting for hunger 10 or Billy's word.
 - Day 807 night: sleep worked at bed 416,107,-1050, Jason beside, sword in hand. Hunger 13, health 20. Still holding for the potato walk Billy has not named.
@@ -86,3 +87,4 @@
 - 21:15 act: {"say":"Night, row. Worf going to my bed 416,107,-1050, sword in hand, Jason near. Hunger 13, health 20. Beverly and Leonardo, I hear you are low; Billy, the potatoes are owed to those who are weakest
 - 21:19 act: {"say":"Morning, row. Worf at my bed, sword in hand, health 20, hunger 13. I have no food. Trini, Billy: Beverly and Leonardo are at health 2 and 3. Please give them the potatoes first."}
 - 21:27 act: {"say":"Dusk. Worf goes to my bed 416,107,-1050, sword in hand, Jason near. Hunger 13, health 20. No walk for me.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 21:53 act: {"say":"Worf holds at the bed with sword in hand, hunger 13. I have no food. Trini, if a potato can reach Leonardo, give it to him first.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{

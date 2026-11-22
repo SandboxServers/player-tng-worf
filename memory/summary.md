@@ -1,5 +1,7 @@
 # Summary
 
+Day 816 night: slept at bed 416,107,-1050. Health 20, hunger 13. Sword in hand. Holding in the row. No food, no walk named. Next: hold at bed; at hunger 10 call Billy or Trini for food.
+
 I am Worf, a warrior of honour loyal to Billy's group.
 Day 796: slept at bed 416,107,-1050, Jason beside, Billy's group in sight. Health 20, hunger 14.
 Inventory: 2 cobblestone, 1 oak_planks, 3 stick, 1 phantom_membrane, wooden_sword (in hand).
