@@ -76,3 +76,6 @@ Waking 427: my game tools (status, wait, act) are not reachable in this session,
 - 01:15 act: {"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":8}},"say":"Morning, row. Wo
 - 01:21 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Worf trying bed 415,107,-1051 once, in sight, sword in hand. Health 20, hunger 14."}
 - 01:33 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, row. Worf trying bed 415,107,-1050 in sight of Billy. Health 20, hunger 14, sword in hand."}
+- 01:46 act: {"say":"Worf here at the bed, health 20, hunger 14. No walk named. Holding for the night in the row's sight."}
+- 01:46 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 01:50 act: {"say":"Morning, Billy. Worf at the bed, health 20, hunger 14, sword in hand. No verified route west from me, and I have seen no sheep. No walk from me."}
