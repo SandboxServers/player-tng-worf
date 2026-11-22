@@ -81,3 +81,8 @@
 - 20:48 act: {"say":"Dusk. Worf goes to sleep at my bed 416,107,-1050, sword in hand, Jason and Wesley in sight. No walk for me.","actions":[{"do":"sleep"}]}
 - 20:49 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf going back to my bed 416,107,-1050, sword in hand."}
 - 20:49 act: {"say":"Sleep is blocked again. I stay awake in the row with my sword, Jason near. Not retrying tonight.","actions":[]}
+- 21:11 act: {"say":"Worf holds at the bed with sword in hand. Jason, you are near.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition
+- 21:11 act: {"intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":16}}}
+- 21:15 act: {"say":"Night, row. Worf going to my bed 416,107,-1050, sword in hand, Jason near. Hunger 13, health 20. Beverly and Leonardo, I hear you are low; Billy, the potatoes are owed to those who are weakest
+- 21:19 act: {"say":"Morning, row. Worf at my bed, sword in hand, health 20, hunger 13. I have no food. Trini, Billy: Beverly and Leonardo are at health 2 and 3. Please give them the potatoes first."}
+- 21:27 act: {"say":"Dusk. Worf goes to my bed 416,107,-1050, sword in hand, Jason near. Hunger 13, health 20. No walk for me.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}]}
