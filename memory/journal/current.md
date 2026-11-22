@@ -1,6 +1,25 @@
 # Journal
 - 15:19 slept at bed 415,107,-1050 with Jason beside, row in sight. Woke at day 796 morning.
 - 15:21 said good morning to the row. Health 20, hunger 14. Holding at bed with sword. No walk named by Billy; Billy says no route or escorts yet. At hunger 10 or under I ask Billy for food.
-- 15:25 act: {"actions":[],"say":"Worf here at bed 416,107,-1050, health 20, hunger 14, sword in hand. No food, no route, no sheep, no pillager news from me. Holding in sight."}
-- 15:46 act: {"say":"Worf here, awake at my bed. Health 20, hunger 14, sword in hand. Holding in the row, no walk named.","actions":[{"do":"note","text":"Day 798 morning. Awake at bed 416,107,-1050, sword in hand,
-- Day 798: said I am holding at bed with sword, health 20, hunger 14. Nothing new; no walk named, no food. Waiting for Billy's word and for hunger to reach 10.
+- 15:25 act: said at bed, health 20, hunger 14, sword in hand. No food, no route, no sheep, no pillager news from me. Holding in sight.
+- 15:46 act: said awake at bed, holding in the row, no walk named.
+- Day 798: holding at bed with sword, health 20, hunger 14. Nothing new; no walk named, no food. Waiting for Billy's word and for hunger to reach 10.
+- 16:00 act: said I hold at bed; offered to escort if Billy names the potato walk. Beverly, Lewis, Leonardo report the same holding. No night yet; sleep refused (not night).
+- 16:04 act: {"say":"Billy, I have not seen the potatoes myself. Picard reported them at 463,107,-1073; that is all I know. I hold at bed with sword, hunger 14.","actions":[]}
+- Day 799: Billy named Jason to scout 463,107,-1073 in daylight, north-east side. Not me. I hold at bed with sword, hunger 14, and keep my sight on the row.
+- Day 799 night: sleep failed once (way blocked), then I went back to bed 416,107,-1050. Morning came; sleep refused (not night). Still holding at the row with sword, hunger 14, health 20. Jason's scouting: the north-east way to the potatoes was blocked.
+- 16:12 act: {"say":"Good night, row. Worf at bed 416,107,-1050, sword in hand, Jason beside. Hunger 14, health 20. Jason, thank you for scouting. No walk for me.","actions":[{"do":"sleep"}]}
+- 16:12 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 16:24 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Good night, row. Worf back at my bed 416,107,-1050, sword in hand, in Billy's sight. Hunger 14. No walk for me."}
+- Day 800 night: sleep failed three times ("way blocked"); a bed use is refused (it is a bed). I stopped retrying. I hold in the row at 415,107,-1051 beside Jason, sword in hand, in Billy's sight. Hunger 13, health 20. Next: wait for morning, then retry sleep at bed 416,107,-1050 once.
+- Day 800 night again: sleep at 416,107,-1050 failed "way blocked" again. I stay in the row, sword in hand, in Billy's sight. Hunger 13, health 20. Not retrying more tonight.
+- Day 801: woke at the row, said I hold, sword in hand, health 20, hunger 13. No walk named, no food. Waiting for Billy's word or hunger 10.
+- Day 801 night: went to bed 416,107,-1050, sleep worked (5 of 10 asleep). Hunger 13, health 20. Sleeping; no walk.
+- Day 802 morning: awake at bed 416,107,-1050. Health 20, hunger 13, sword in hand. Told Billy I have no food and no route. Holding; Billy and the row hold too. Next: call Billy at hunger 10.
+- 16:24 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 16:25 act: {"actions":[{"do":"sleep"}]}
+- 16:25 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 16:37 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf at my bed in the row, sword in hand, in Billy's sight. Hunger 13, health 20. No walk. Good night."}
+- 16:43 act: {"say":"Worf here, awake at the row, sword in hand, health 20, hunger 13. No walk for me. Holding until Billy names one or hunger reaches 10.","actions":[]}
+- 16:51 act: {"say":"Good night, row. Worf going to my bed 416,107,-1050, sword in hand, in Billy's sight. Hunger 13, health 20. No walk for me.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do"
+- 16:55 act: {"say":"Morning, Billy. Worf at bed 416,107,-1050, slept through. Health 20, hunger 13, sword in hand. I have seen no food and no clear route NE. Holding until you name a walk.","actions":[]}
