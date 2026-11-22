@@ -16,4 +16,5 @@
 - Walks stop when the path is blocked; do not follow a stopped walk alone.
 - Day 769: Jason saw cows at 434,106,-1113 and 339,104,-979, no sheep. A death sends you to the spawn with nothing.
 - Day 773: Leonardo, Laforge and Wesley have seen no sheep. Zack's food is gone; Riker ate the last potato.
+- Day 781: Billy named no walk for two days. Jason's walk to bed 443 stopped at the blocked way; Billy holds him beside me at 418,107,-1051.
 - Next curiosity: where sheep graze. Tell the row when anything new is learned.
