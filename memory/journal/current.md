@@ -70,3 +70,7 @@
 - Day 809 day: woke-cycle at bed 416,107,-1050, Jason beside, sword in hand, health 20, hunger 13. Said I hold. No walk named, no food. Waiting on Billy; will call at hunger 10.
 - Day 809 dusk: sleep refused, not night yet. Held at bed. Day 810 morning now: at bed, sword in hand, Jason beside, health 20, hunger 13. Zack still holds 2 potatoes for me; no walk named. Holding.
 - 19:41 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk. Worf at bed 416,107,-1050, sword in hand, Jason beside, hunger 13. Going to sleep; no walk for me."}
+- 19:58 act: {"say":"Worf here at the row, health 20, hunger 13, sword in hand. No walk from me; I hold until Billy names one."}
+- Day 810 day: at bed 416,107,-1050, Jason beside, Billy's group in sight. Health 20, hunger 13. Said I hold, no walk, no food. Waiting for Billy's word or hunger 10.
+- 20:10 act: {"say":"Night, row. Worf at bed 416,107,-1050, sword in hand, Jason beside. Hunger 13, health 20. No walk for me.","actions":[{"do":"sleep"}]}
+- Day 811: sleep refused, it is day again (thunder). Not in bed for the night, so no reflect yet. Holding at bed 416,107,-1050, sword in hand, Jason beside. Hunger 13, health 20.
