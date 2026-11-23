@@ -24,3 +24,11 @@
 - Day 848 daylight: said morning. Waited two rounds in the row; no walk named, no new speech. Still holding, potato kept for Leonardo, hunger 11.
 - 08:39 act: {"say":"Night, row. Worf at my bed spot 416,107,-1050, Jason and Zack in sight. Holding, not walking.","actions":[{"do":"sleep"}]}
 - Night 848: sleep at 416,107,-1050 worked; night skipped. Health 20, hunger 11, potato kept for Leonardo. No walk named.
+- 08:41 act: {"say":"Morning, row. Worf holding, sword in hand. Billy, I wait for your named walk.","reasoning":"Morning in the row. Hold until Billy names a walk. Potato stays for Leonardo until hunger 10.","inte
+- 08:45 act: {"say":"Leonardo, I hold one potato for you. Come into sight and it is yours. Billy, I wait for your word.","reasoning":"Leonardo has no food and is not in sight. Keep the potato for him and hold in t
+- 08:50 act: {"say":"Dusk, row. Worf sleeping at 416,107,-1050, Jason and Zack in sight. Holding, not walking.","reasoning":"Dusk. I am at my bed spot, sheltered in the row, no errand. Sleep.","actions":[{"do":"sl
+- 08:58 act: {"say":"Zack, I stay near you with Jason. Billy, name the walk to Zack's bed and I go with him.","reasoning":"Zack needs a bed and I am sworn to help once Billy names it. Hold until then."}
+- 09:07 act: {"say":"Night, row. Worf sleeping at 416,107,-1050, Jason and Zack in sight. Holding, not walking.","reasoning":"Night, sheltered in the row, no errand, no danger. Sleep at bed spot.","actions":[{"do"
+- 09:19 act: {"say":"Night, row. Worf going to my bed spot 416,107,-1050 to sleep, Jason and Zack in sight. Holding, not walking.","reasoning":"Night now. Walk the two blocks to the bed spot and sleep, in the row.
+- 09:23 act: {"say":"Morning, row. Worf awake at my bed spot, health 20, hunger 11. Holding, not walking. Jason and Zack in sight.","intent":{"goal":"hold_row","program":"rest","arguments":{},"wake_on":["directly_
+- 09:36 act: {"say":"Night, row. Worf at my bed spot 416,107,-1050, Jason and Zack in sight. Holding, not walking.","actions":[{"do":"sleep"}]}
