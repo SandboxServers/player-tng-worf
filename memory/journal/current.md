@@ -18,3 +18,5 @@
 - 08:01 act: {"say":"Worf here, holding in the row at 419,108,-1050. Health 20, hunger 11, one potato kept for Leonardo. Billy, I wait for your named walk.","reasoning":"Holding position as planned; no walk until 
 - 08:09 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"reasoning":"Dusk 847; one try at the bed spot. If blocked, stay awake.","say":"Worf going to my bed at 416,107,-1050 for
 - 08:26 act: {"actions":[{"do":"sleep"}],"reasoning":"Night 848, at the bed spot. One sleep try."}
+- 08:26 act: {"say":"Good morning, row. Worf here, health 20, hunger 11, sword in hand. Holding until Billy names a walk."}
+- Day 848 morning: woke at the bed spot, Jason and Zack in sight, Riker, Troi and Wcrusher near. Said good morning. No walk named. Holding; potato kept for Leonardo, hunger 11.
