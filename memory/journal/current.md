@@ -62,3 +62,8 @@
 - 11:55 say: {"text":"My sword will not come into hand; two tries failed. Jason is armed in the row. I hold here, not walking, and will try again at first light."}
 - 12:04 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk, row. Worf trying the bed at 415,107,-1051 from the east side, Jason in sight. No walk."}
 - 12:04 act: {"actions":[{"do":"sleep"}],"say":"Worf here at the bed. Sleep took for some of the row. Trying again to rest."}
+- 12:06 act: {"say":"Good morning, row. Worf here, holding with you. No walk until Billy names it.","actions":[{"do":"craft","item":"stone_sword","count":1}]}
+- 12:06 act: {"actions":[{"do":"use","at":{"x":419,"y":107,"z":-1047},"item":"stone_sword"}]}
+- 12:06 act: {"actions":[{"do":"use","at":{"x":417,"y":108,"z":-1042},"item":"stone_sword"}]}
+- 12:07 act: {"say":"Worf holding at the row. Stone sword in pack; the chest and sign would not take it in hand. Waiting for Billy's word.","actions":[]}
+- 12:11 act: {"say":"Worf holding with Jason and Zack. Zack, I have no food; Beverly holds the potatoes. Billy, name the walk and I go.","actions":[]}
