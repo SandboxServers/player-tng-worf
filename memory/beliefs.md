@@ -18,4 +18,6 @@
 - Day 773: Leonardo, Laforge and Wesley have seen no sheep. Zack's food is gone; Riker ate the last potato.
 - Day 781: Billy named no walk for two days. Jason's walk to bed 443 stopped at the blocked way; Billy holds him beside me at 418,107,-1051.
 - Day 819: a potato given by Zack reached me at the bed. Sleep at dusk in thunder still worked at 416,107,-1050.
+- Day 832: a follow intent with Billy fails at once if he is not in sight; he came north to us instead. Goto to a flat position is rejected for act; use do:"goto" with target {"x","y","z"}.
+- Day 832: the goto to the potatoes at 469,-1070 was blocked again at 418,-1051. Walks stop there; hold at the row.
 - Next curiosity: where sheep graze. Tell the row when anything new is learned.
