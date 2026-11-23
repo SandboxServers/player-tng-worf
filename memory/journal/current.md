@@ -125,3 +125,9 @@
 - 15:15 act: {"actions":[{"do":"sleep"}]}
 - 15:15 act: {"actions":[{"do":"sleep"}]}
 - 15:15 act: {"actions":[{"do":"sleep"}]}
+- 15:15 act: {"actions":[{"do":"sleep"}]}
+- 15:19 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1051}}],"say":"Good morning. Worf holds at 418 with Jason and Zack. Billy, I will hand you nothing until you come into my sight; please walk to 
+- 15:24 act: {"actions":[],"say":"Billy, Worf agrees with Zack's plan. Say the word and we walk together to 424 in daylight, sword in hand."}
+- 15:28 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}]}
+- 15:28 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 15:28 act: {"actions":[{"do":"sleep"}]}
