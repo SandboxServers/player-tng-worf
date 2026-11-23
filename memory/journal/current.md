@@ -32,3 +32,5 @@
 - 09:19 act: {"say":"Night, row. Worf going to my bed spot 416,107,-1050 to sleep, Jason and Zack in sight. Holding, not walking.","reasoning":"Night now. Walk the two blocks to the bed spot and sleep, in the row.
 - 09:23 act: {"say":"Morning, row. Worf awake at my bed spot, health 20, hunger 11. Holding, not walking. Jason and Zack in sight.","intent":{"goal":"hold_row","program":"rest","arguments":{},"wake_on":["directly_
 - 09:36 act: {"say":"Night, row. Worf at my bed spot 416,107,-1050, Jason and Zack in sight. Holding, not walking.","actions":[{"do":"sleep"}]}
+- 09:38 act: {"say":"Good morning, row. Worf here, health 20, hunger 11, sword in hand. Holding with Jason and Zack. Billy, I walk when you name it."}
+- 09:48 act: {"say":"Night, row. Worf at my bed spot 416,107,-1050, Jason and Zack in sight. Holding, not walking.","actions":[{"do":"sleep"}]}
