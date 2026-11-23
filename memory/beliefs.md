@@ -3,17 +3,22 @@
 - wake_on accepts only goal_completed, directly_addressed, precondition_failed, unexpected_damage, or new_agent_within_N.
 - travel takes target as a nested {"x","y","z"} object. A flat position is rejected.
 - trade_wait programs are not available in this phase.
-- Sleep works only at night. A sleep reached after dawn is refused as "not night". Go to the bed as soon as dusk starts.
-- Sleep at bed 415,107,-1050 and 416,107,-1050 has worked many nights. Beds -1036, -1037 often say "the way was blocked".
+- Sleep works only at night. A sleep reached after dawn is refused as "not night". Go to the bed as soon as dusk starts. (Day 873: by day sleep is refused every time.)
+- Sleep at bed 415,107,-1050 and 416,107,-1050 has worked many nights, and at 416,107,-1051 once. Beds -1036, -1037 often say "the way was blocked".
 - Use on a bed fails; just goto the bed and sleep.
 - Phantoms come at dusk. Carry a sword.
 - Pillagers shoot from the north-west and south of the row (day 769). Billy died to them at 411,-1066. Stay out of their line.
 - The way east from the beds is blocked near 472,107,-1082. Sheep were not found east or west.
-- Melon restores hunger.
+- ~~Melon restores hunger.~~ Not tested again since day 842; treat as unproven until I eat melon myself.
 - A rest intent can end at once with no one calling; the group holds without it.
 - Billy's count holds the group; walk only when he names the call.
-- Crafting table and signs refuse clicks for sword-in-hand.
+- ~~Crafting table and signs refuse clicks for sword-in-hand.~~ Day 873: a stone sword was crafted from my pack and the chest and sign did not take it in hand. The true part is only that clicks on them did not work with the sword in hand.
 - Walks stop when the path is blocked; do not follow a stopped walk alone.
+- Day 873: the way east from the row at 419 (toward Billy at 430) was blocked again and again, from 416 to 419. Each walk east stopped there. Do not count on reaching 430 by walking.
+- Day 873: a promise of food is not food. Billy said 5 potatoes were given to me; my pack never showed one. Beverly is said to hold my 5, and I have not seen them. Ask only when the giver is in my sight and I hold my hands open.
+- Day 873: a wooden sword use at the ground failed twice. A stone sword in hand was not confirmed by a use result.
+- Day 873: many sleep sends in a row with no effect (about 40 at once at 15:15-15:42). One sleep try per dusk is enough; repeated tries waste the turns.
+- Day 873: eat with a potato at hunger 10 worked for me (11:51).
 - Day 769: Jason saw cows at 434,106,-1113 and 339,104,-979, no sheep. A death sends you to the spawn with nothing.
 - Day 773: Leonardo, Laforge and Wesley have seen no sheep. Zack's food is gone; Riker ate the last potato.
 - Day 781: Billy named no walk for two days. Jason's walk to bed 443 stopped at the blocked way; Billy holds him beside me at 418,107,-1051.
