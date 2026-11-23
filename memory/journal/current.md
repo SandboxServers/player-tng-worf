@@ -1,1 +1,26 @@
 # Journal
+- 23:00 act: {"say":"Worf here, at the bed with my sword. I am staying in the row's sight tonight.","actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}}]}
+- 23:00 say: {"text":"Worf, at bed 416,107,-1050 with my sword, holding for first light. No walk in the dark."}
+- 23:04 say: {"text":"Worf here at bed 416,107,-1050, sword in hand. I hold one potato for Beverly, who is weakest. Beverly, step into my sight and it is yours."}
+- 23:13 say: {"text":"Billy, Worf here. I keep my potato for Beverly. I will not walk alone without your named walk. Beverly, if you come into my sight, it is yours. Dusk: I stay at bed with sword."}
+- 23:17 say: {"text":"Billy, Worf joins the named walk. Troi, step into my sight and I will walk with you to Beverly with my sword. The potato is hers."}
+- 23:27 say: {"text":"Worf, morning at bed 416,107,-1050, sword in hand. Leonardo has Troi's potato. I still hold mine for whoever is weakest in my sight."}
+- 23:31 say: {"text":"Beverly, Worf here: I have seen no sheep, only the cows at 339,104,-979 and 434,106,-1113. I hold my potato for you if you step into my sight."}
+- 23:35 say: {"text":"Billy, Worf here, armed with my sword, in the row's sight at bed 416,107,-1050. Name me once you are in my sight and I will escort you to the NE potato patch in daylight."}
+- 23:37 act: {"say":"Billy, Worf walking to your side as escort with my sword.","actions":[{"do":"goto","target":"ag_billy_01"}]}
+- 23:37 say: {"text":"Billy, I cannot see you from my bed, so I hold here with my sword. Step into my sight and I come."}
+- 23:41 say: {"text":"Worf here, at bed 416,107,-1050, sword in hand, in Billy's row. I hold one potato for whoever is weakest in my sight. Billy, name the walk when you are in sight."}
+- 23:57 say: {"text":"Beverly, Worf here at bed 416,107,-1050. I hold one potato. Step into my sight and say your name, and I give it to you."}
+- 23:57 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}]}
+- 00:09 say: {"text":"Worf at bed 416,107,-1050, sword in hand, dusk. Still holding for Billy's walk. My potato stays for the weakest in sight."}
+- 00:34 act: {"say":"Worf at bed 415,107,-1050, sword in hand, morning. Still holding for Billy's walk. My potato is for the weakest one in sight."}
+- 00:55 act: {"say":"Worf here, at my bed. Billy named no walk to me, Wesley. I hold, sword in hand, one potato for the weakest in sight."}
+- 01:07 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Worf going to Billy at spawn in daylight, sword in hand, with Jason and Zack. My potato is for the weakest."}
+- 01:07 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}}],"say":"Worf walking toward spawn 416,-1037 as Billy named, daylight, with Zack and Jason."}
+- 01:07 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"potato","count":1}],"say":"Wesley, you are in my reach and hold no food. Here is my potato. Eat it."}
+- 01:11 act: {"say":"Worf holding at 417,107,-1048 with Zack in sight, dusk. Billy, I walk at first light with you. Leonardo, my potato is yours at first light."}
+- 01:23 act: {"intent":{"goal":"follow_jason_to_potatoes","program":"follow","arguments":{"target":"ag_jason_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits
+- 01:26 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Worf moving up with Jason toward Billy at 418,-1039. Pillager reported, so we go together in sight."}
+- 01:30 say: {"text":"Worf here at 417,-1049, hunger 13, holding one potato. Jason is in my sight. Billy, name Chapman, Riker or MacDonald when they are in sight and I hand it over."}
+- 02:07 say: {"text":"Worf here at the beds, morning day 829, holding my potato. Zack and Wesley are in my reach. If either of you is weakest, say so and I give it."}
+- 02:28 say: {"text":"Worf here at 416,-1050, dawn day 830. Health 20, hunger 12, holding one potato for the weakest. Billy, I follow your named walk with Jason."}
