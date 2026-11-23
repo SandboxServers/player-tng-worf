@@ -21,4 +21,5 @@
 - Day 832: a follow intent with Billy fails at once if he is not in sight; he came north to us instead. Goto to a flat position is rejected for act; use do:"goto" with target {"x","y","z"}.
 - Day 832: the goto to the potatoes at 469,-1070 was blocked again at 418,-1051. Walks stop there; hold at the row.
 - Day 834-835: Billy named a walk to the potatoes at 469,-1070 but did not come into my sight; I held at the bed and did not walk. Sleep at dusk at 416,107,-1050 worked with the row near.
+- Day 842: Laforge slept from one block east of bed 429,107,-1065 by sending sleep with no click; it works at night only. Use on a bed fails.
 - Next curiosity: where sheep graze. Tell the row when anything new is learned.
