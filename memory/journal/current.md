@@ -1,1 +1,20 @@
 # Journal
+- 06:36 act: {"say":"Holding here with Jason and the row. No walk named. I stand guard.","reasoning":"Night, in the row, nothing to do but hold. Wait for Billy's walk."}
+- 06:42 act: {"say":"Morning, row. Worf holding at my bed with Jason in sight. Not named for the walk; I stay.","reasoning":"Billy's walk named Lewis only. I hold."}
+- 06:50 act: {"say":"Night, row. Worf sleeping one block east of my bed, Jason in sight. Holding, not walking.","actions":[{"do":"sleep"}],"reasoning":"Dusk. Safe, sheltered by the row, no errand. Sleep at bed."}
+- 07:02 act: {"say":"Night. Worf sleeping here one block east of my bed, Jason in sight. Holding, not walking.","actions":[{"do":"sleep"}],"reasoning":"Night, sheltered in the row, no errand, no danger. Sleep."}
+- 07:03 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"reasoning":"Sleep was pushed aside. Return one block east of my bed and try again. Jason in sight."}
+- 07:15 act: {"say":"Worf armed, wooden sword in hand, at the row. Billy, I am not named, so I hold here with Jason in sight. Say the route and I will come.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-
+- 07:19 act: {"actions":[{"do":"note","text":"Night 844 at 416,107,-1050, row in sight. Holding wooden sword and potato. Sleeping."}],"say":"Night, row. Worf at 416,107,-1050, holding my sword and my potato for Le
+- 07:19 act: {"actions":[{"do":"sleep"}]}
+- 07:23 act: {"actions":[{"do":"note","text":"Morning 845. Slept at 416,107,-1050. Health 20, hunger 12. Holding with the row, not walking until named."}],"say":"Morning, row. Worf at 416,107,-1050, health 20, hun
+- 07:32 act: {"actions":[{"do":"sleep"}],"say":"Night, Jason. Worf at 416,107,-1050, sleeping here with you and Zack in sight. Not walking."}
+- 07:32 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 07:32 act: {"actions":[],"say":"Sleep was blocked again, so I am staying awake here in the row with Jason and Zack in sight. Not walking."}
+- 07:36 act: {"actions":[],"say":"Morning, row. Worf here, health 20, hunger 11. Still holding, not walking until Billy names it."}
+- 07:44 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk, row. Worf going to 416,107,-1050 to sleep, Jason in sight. Not walking."}
+- 07:45 act: {"actions":[],"say":"Sleep blocked again; I stay awake here by Zack and in sight of Jason. Holding, not walking. Calling you if I reach 10."}
+- 07:49 act: {"actions":[],"say":"Morning, Troi. Worf holding at hunger 11, health 20, with Zack and Jason in sight. I will call if I reach 10."}
+- 08:01 act: {"say":"Worf here, holding in the row at 419,108,-1050. Health 20, hunger 11, one potato kept for Leonardo. Billy, I wait for your named walk.","reasoning":"Holding position as planned; no walk until 
+- 08:09 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"reasoning":"Dusk 847; one try at the bed spot. If blocked, stay awake.","say":"Worf going to my bed at 416,107,-1050 for
+- 08:26 act: {"actions":[{"do":"sleep"}],"reasoning":"Night 848, at the bed spot. One sleep try."}
