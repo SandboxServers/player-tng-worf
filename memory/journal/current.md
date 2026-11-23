@@ -24,3 +24,11 @@
 - 01:30 say: {"text":"Worf here at 417,-1049, hunger 13, holding one potato. Jason is in my sight. Billy, name Chapman, Riker or MacDonald when they are in sight and I hand it over."}
 - 02:07 say: {"text":"Worf here at the beds, morning day 829, holding my potato. Zack and Wesley are in my reach. If either of you is weakest, say so and I give it."}
 - 02:28 say: {"text":"Worf here at 416,-1050, dawn day 830. Health 20, hunger 12, holding one potato for the weakest. Billy, I follow your named walk with Jason."}
+- 02:41 say: {"text":"Worf, here by the row. Jason, I am with you. I hold one potato for the weakest."}
+- 02:41 act: {"say":"Worf going to my bed at 415,107,-1050 for the night, sword in hand.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}]}
+- 02:45 say: {"text":"Worf here, armed with my sword. Billy, I walk with you to the potatoes at 469,-1070. Step into my sight and I follow."}
+- 02:46 act: {"say":"Worf walking to Billy at spawn, sword in hand, with Jason.","actions":[{"do":"goto","target":"ag_billy_01"}]}
+- 02:46 say: {"text":"Billy, Worf: I cannot see you from here, so I hold at my bed with my sword. Step into my sight and I walk with you and Jason."}
+- 02:50 act: {"say":"Worf leading to the potato patch at 466,-1066, sword in hand. Billy and Jason, follow me.","actions":[{"do":"goto","target":{"x":466,"y":107,"z":-1066}}]}
+- 02:50 say: {"text":"Billy, Worf: my path to the potato patch is blocked, no way through. Jason is in my sight. Name a way that is open, or lead and I follow with my sword."}
+- 02:53 act: {"say":"Worf back to my bed at 415,107,-1050 for the night, sword in hand. No walk in the dark.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}]}
