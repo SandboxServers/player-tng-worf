@@ -42,3 +42,9 @@
 - 10:29 act: {"say":"Dusk, row. Worf sleeping at my bed spot, health 20, hunger 11. No walk from me in the dark.","actions":[{"do":"sleep"}]}
 - 10:29 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}]}
 - 10:34 act: {"say":"Morning, row. Worf here, health 20, hunger 11, sword in hand. Holding for Billy's named walk.","actions":[]}
+- 10:54 act: {"say":"Dusk, row. Worf holding at 415,107,-1048 with Zack and Jason in sight. No walk in the dark. Sleeping here.","actions":[{"do":"sleep"}]}
+- 11:07 act: {"actions":[],"say":"Worf holding at the bed with the row. Still waiting on Billy to name the walk."}
+- 11:11 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Worf at my bed, Jason and Zack in sight. Holding, not walking."}
+- 11:11 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Morning, row. Worf back at my bed spot, health 20, hunger 11. Holding for Billy's named walk."}
+- 11:24 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk, row. Worf going to my bed, Jason and Zack in sight. Holding, not walking."}
+- 11:28 act: {"actions":[],"say":"Morning, row. Worf at my bed, health 20, hunger 11, sword in hand. Holding for Billy's named walk. Zack and Jason in sight."}
