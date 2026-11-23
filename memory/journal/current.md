@@ -1,1 +1,14 @@
 # Journal
+- Night, day 876, at 419,108,-1050. Sleep failed: way blocked. Hunger 12, no food. Holding with Jason and Zack in sight; no walk in dark. Said I will ask Beverly for potatoes at first light.
+- 17:59 say: {"text":"Night. I hold here with Jason and Zack in sight. No walk in the dark. At first light I ask Beverly for my potatoes, in my sight."}
+- 18:03 say: {"text":"Morning. Worf, I go east with Jason and Zack in sight, to Bcrusher, for my 5 potatoes. Beverly first, as Billy asked."}
+- 18:03 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1047}}]}
+- Morning 876: goto east to 427 failed, way blocked. Asked Bcrusher to bring potatoes to me at 419,108,-1047 in my sight. Hunger 12.
+- 18:03 say: {"text":"Bcrusher, the way east is blocked for me. I am at 419,108,-1047 with Jason and Zack in sight. Please bring Beverly's share or my 5 potatoes here, in my sight."}
+- Day 877 morning: Bcrusher says he holds at 431 and needs us in his sight. Asked him to come within 4-5 blocks. Hunger 12, still no food.
+- Day 877 day: Billy named the walk to Bcrusher at 431. I walk to 427 with Jason and Zack; Beverly/Bcrusher to give 5 potatoes.
+- 18:10 goto to 427 failed again: way blocked; reflex unstick ran. Holding at 419,108,-1049 with Jason and Zack; asked Bcrusher and Beverly to come into my sight. Hunger 12.
+- 18:06 say: {"text":"Bcrusher, Worf is here at 419,108,-1047, with Jason in reach. Zack is 4 away. Please come to 4 or 5 blocks from me, in sight, and give 5 potatoes for me."}
+- 18:10 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1047}}],"say":"Billy named the walk. Worf goes to Bcrusher at 431, with Jason and Zack in sight."}
+- 18:10 say: {"text":"The way east is still blocked for me. I hold at 419,108,-1049 with Jason and Zack in reach. Bcrusher, Beverly: please come into my sight here, and I give nothing back but thanks."}
+- 18:14 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Dusk. Worf goes to the bed at 415,-1050 with Jason and Zack near, no walk beyond that."}
