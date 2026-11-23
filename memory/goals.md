@@ -1,6 +1,6 @@
-# Goals (ranked, day 838)
+# Goals (ranked, day 839)
 
-1. Stay alive: sleep at a bed in the row (415,107,-1051 worked; 415,107,-1050 and 416,107,-1050 were blocked) with the row in sight at dusk. Reason: pillagers roam outside the row.
+1. Stay alive: sleep at a bed in the row (415,107,-1051 worked) with the row in sight at dusk. Reason: pillagers roam outside the row.
 2. Hold my sword in hand and stay in the group's sight. Reason: the group needs armed men.
 3. Walk only when Billy is in my sight and names the walk, with Jason and Zack in sight. Reason: nobody walks alone.
 4. Hold my one potato for Leonardo (weakest) when he comes into sight. Eat when hunger reaches 10. Reason: hunger is 12.
