@@ -178,3 +178,11 @@
 - 16:35 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Worf at my bed 415,107,-1050, Jason in sight. Trying to rest."}
 - 16:40 act: {"actions":[],"say":"Morning, Billy. Worf at my bed 415,107,-1050, health 20, hunger 12, no food. Beverly first, then my 5 and Zack's 3. Billy, come west into the row, to 421, in my sight, and I come 
 - 16:48 act: {"actions":[{"do":"note","text":"Dusk day 873. At bed 415,107,-1050 with Jason in reach, Zack and Wcrusher at 3. Hunger 12. Waiting for Billy or Beverly to come into my sight with the potatoes."}],"sa
+- 16:49 act: {"actions":[{"do":"use","item":"stone_sword","at":{"x":415,"y":107,"z":-1050}}],"say":"Night. I hold at the bed with Jason and the stone sword in hand. No walk in the dark. Billy, at first light, in m
+- 16:49 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Morning, row. Worf with Jason and Zack, hunger 12, no food. Billy, Beverly, my 5 potatoes when you are in my sight. Otherwise I walk nowhere al
+- 16:53 act: {"actions":[],"say":"Good morning, row. Worf with Jason and Zack at 416. Hunger 12, no food. Billy, Beverly: my 5 potatoes, please hand them to me here in my sight. I wait for you."}
+- 16:57 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1047}}],"say":"Billy, Worf is coming to you at 417,-1047 now, Jason and Zack with me. I hold my hands open for the 5 potatoes."}
+- 16:57 act: {"actions":[],"say":"Billy, you are in my sight and in reach. Worf asks plainly: hand me my 5 potatoes now, here."}
+- 16:59 act: {"actions":[],"say":"Billy, my pack still shows no potatoes. Thank you for trying. Zack, I hold here with you and Jason in sight."}
+- 17:02 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1048}},{"do":"goto","target":{"x":417,"y":107,"z":-1048}},{"do":"eat"}],"say":"Billy, I step over the ground at my feet to pick up the potatoes.
+- 17:02 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Dusk. No potatoes reached my pack, so I stop asking for them. Worf goes to bed at 415,107,-1050 with Jason and Zack near. At firs
