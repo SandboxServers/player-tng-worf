@@ -186,3 +186,20 @@
 - 16:59 act: {"actions":[],"say":"Billy, my pack still shows no potatoes. Thank you for trying. Zack, I hold here with you and Jason in sight."}
 - 17:02 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1048}},{"do":"goto","target":{"x":417,"y":107,"z":-1048}},{"do":"eat"}],"say":"Billy, I step over the ground at my feet to pick up the potatoes.
 - 17:02 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Dusk. No potatoes reached my pack, so I stop asking for them. Worf goes to bed at 415,107,-1050 with Jason and Zack near. At firs
+- 17:03 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Good night, row. Worf holds at the bed with his stone sword ready. No food yet; I will ask Beverly at first light.
+- 17:03 act: {"actions":[{"do":"use","entity":"ag_jason_01"}],"say":"Morning, row. Worf holds here with Jason and Zack in sight, hunger 12, no food. Beverly, please hand me my 5 potatoes in my sight. I walk nowher
+- 17:03 act: {"actions":[{"do":"use","at":{"x":416,"y":109,"z":-1048},"item":"stone_sword"}],"say":"Billy, Worf hears you at 430 with 8 potatoes. Zack and Beverly first, then me. I stay here with Jason, sword in h
+- 17:07 act: {"actions":[{"do":"goto","target":{"x":424,"y":107,"z":-1050}}],"say":"Billy named me in your call: Worf steps into your sight now, with Jason and Zack in sight. Hunger 12, no food. I hold my hands op
+- 17:08 act: {"actions":[],"say":"Billy, the way east is blocked at 419 again. Worf holds here with Jason and Zack. Please come west into my sight and hand my potatoes over here."}
+- 17:12 act: {"actions":[],"say":"Billy, the way east is blocked for me; the goto to 424 failed. I cannot reach 431 from here. Worf holds at 419 with Jason and Zack in sight. Please come west to 421 or name anothe
+- 17:16 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, row. Worf to the bed at 416,107,-1050, Zack in sight. Billy, Beverly, Zack: my 5 potatoes at first light, w
+- 17:20 act: {"actions":[],"say":"Morning, row. Worf at 419, health 20, hunger 12, no food. Billy, Kimberly is weaker, so give her first. If any potatoes are left, I am in sight of Jason and Zack here."}
+- 17:24 act: {"actions":[{"do":"goto","target":{"x":428,"y":108,"z":-1050}}],"say":"Walking east to Billy at 430 for the 2 potatoes, with Jason and Zack in sight. Billy, hold them out where I can reach."}
+- 17:24 act: {"actions":[],"say":"The way east is blocked; I stopped at 419. Billy, come west to me here with the 2 potatoes. Jason and Zack are in sight."}
+- 17:32 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night. Worf goes to the bed at 415,-1051, Jason and Zack in sight. Billy, I will come for the potatoes at first li
+- 17:32 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 17:37 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1047}}],"say":"Worf goes with Zack and Jason to Beverly at 431,-1047. Beverly, I am owed 5 potatoes; I am at hunger 12 and will take them in rea
+- 17:37 act: {"actions":[],"say":"Beverly, the way east is blocked; I am at 418,-1047 with Zack, Jason and Troi in sight. Come west and give me the 5 potatoes you owe me."}
+- 17:49 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1047}}],"say":"Worf walks east with Zack to Beverly and Kimberly at 431,-1047. Beverly, step into my sight and give me the 5 potatoes you owe."}
+- 17:49 act: {"actions":[],"say":"The way east is blocked again; I hold at 418,-1047 with Zack in reach. Beverly, Kimberly: come west to me and I take the potatoes in reach. I do not walk again until named."}
+- 17:53 act: {"actions":[],"say":"Beverly, you owe me 5 potatoes. Zack is in my reach at 418,-1047. Please give them now."}
