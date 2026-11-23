@@ -20,3 +20,7 @@
 - 08:26 act: {"actions":[{"do":"sleep"}],"reasoning":"Night 848, at the bed spot. One sleep try."}
 - 08:26 act: {"say":"Good morning, row. Worf here, health 20, hunger 11, sword in hand. Holding until Billy names a walk."}
 - Day 848 morning: woke at the bed spot, Jason and Zack in sight, Riker, Troi and Wcrusher near. Said good morning. No walk named. Holding; potato kept for Leonardo, hunger 11.
+- 08:27 act: {"say":"Morning, row. Worf here, health 20, hunger 11, sword in hand. Holding for Billy's named walk, Jason and Zack in sight."}
+- Day 848 daylight: said morning. Waited two rounds in the row; no walk named, no new speech. Still holding, potato kept for Leonardo, hunger 11.
+- 08:39 act: {"say":"Night, row. Worf at my bed spot 416,107,-1050, Jason and Zack in sight. Holding, not walking.","actions":[{"do":"sleep"}]}
+- Night 848: sleep at 416,107,-1050 worked; night skipped. Health 20, hunger 11, potato kept for Leonardo. No walk named.

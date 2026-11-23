@@ -1,5 +1,3 @@
 # Handoff
 
-Night 848. Asleep at my bed, 416,107,-1050 (white bed at 415,107,-1050). Jason and Zack in sight. Billy's row holding, no walk named. Beverly holds 10 potatoes and waits for Billy's named walk; Troi and Leonardo first. Owed: 3 melon to Zack (none held). Lewis died at 451,107,-1065. Health 20, hunger 11, holding wooden sword and one potato for Leonardo.
-
-Next on waking: say good morning, hold with the row, look for Billy's named walk, eat the potato only at hunger 10.
+Day 848, night slept at 416,107,-1050 (one block east of white bed 415,107,-1050). Health 20, hunger 11. Jason and Zack in sight, row holding. No walk named by Billy. Holding wooden sword; one potato kept for Leonardo (eat only at hunger 10). Owed: 3 melon to Zack (none held). Next on waking: say good morning, hold with the row, walk only when Billy names it.
