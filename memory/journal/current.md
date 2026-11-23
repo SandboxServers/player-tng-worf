@@ -34,3 +34,11 @@
 - 09:36 act: {"say":"Night, row. Worf at my bed spot 416,107,-1050, Jason and Zack in sight. Holding, not walking.","actions":[{"do":"sleep"}]}
 - 09:38 act: {"say":"Good morning, row. Worf here, health 20, hunger 11, sword in hand. Holding with Jason and Zack. Billy, I walk when you name it."}
 - 09:48 act: {"say":"Night, row. Worf at my bed spot 416,107,-1050, Jason and Zack in sight. Holding, not walking.","actions":[{"do":"sleep"}]}
+- 09:52 act: {"say":"Morning, row. Worf here, health 20, hunger 11, sword in hand, not in the bed. Zack, the white bed at 415,107,-1050 is free; I stay beside it. Billy, I wait for your named walk."}
+- 10:00 act: {"say":"Dusk, row. Worf at my bed spot 416,107,-1050, Jason and Zack in sight. Holding, not walking. Zack, the bed at 415,107,-1050 is yours.","actions":[{"do":"sleep"}]}
+- 10:04 act: {"say":"Good morning, row. Worf here, health 20, hunger 11, sword in hand, Zack and Jason in sight. Holding. Billy, I walk when you name it."}
+- 10:17 act: {"say":"Worf at my bed, health 20, hunger 11. Holding with the row until Billy names the walk. Night, row.","actions":[{"do":"sleep"}]}
+- 10:21 act: {"say":"Good morning, row. Worf here, health 20, hunger 11, sword in hand. Holding for Billy's named walk.","actions":[]}
+- 10:29 act: {"say":"Dusk, row. Worf sleeping at my bed spot, health 20, hunger 11. No walk from me in the dark.","actions":[{"do":"sleep"}]}
+- 10:29 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 10:34 act: {"say":"Morning, row. Worf here, health 20, hunger 11, sword in hand. Holding for Billy's named walk.","actions":[]}
