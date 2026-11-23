@@ -67,3 +67,22 @@
 - 12:06 act: {"actions":[{"do":"use","at":{"x":417,"y":108,"z":-1042},"item":"stone_sword"}]}
 - 12:07 act: {"say":"Worf holding at the row. Stone sword in pack; the chest and sign would not take it in hand. Waiting for Billy's word.","actions":[]}
 - 12:11 act: {"say":"Worf holding with Jason and Zack. Zack, I have no food; Beverly holds the potatoes. Billy, name the walk and I go.","actions":[]}
+- 12:16 act: {"say":"Worf here at dusk, hunger 11, holding in the row. No walk named. Going to my bed to rest through the night.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}]}
+- 12:16 act: {"actions":[{"do":"sleep"}]}
+- 12:20 act: {"actions":[{"do":"use","at":{"x":416,"y":109,"z":-1048},"item":"stone_sword"}],"say":"Morning, row. Worf at the bed, rested a little, hunger 11, no food. Trying my stone sword in hand. No walk until 
+- 12:21 act: {"actions":[{"do":"use","at":{"x":419,"y":107,"z":-1047},"item":"stone_sword"}]}
+- 12:25 say: {"text":"Worf holding at my bed, hunger 11, no food. Billy, I wait for your named walk, with Jason and Zack in sight."}
+- 12:33 act: {"actions":[{"do":"sleep"}]}
+- 12:37 say: {"text":"Billy, Worf at my bed, hunger 11, no food. I hold at the row unless you name me. I can walk as escort with my swords, but I wait for your word."}
+- 12:41 act: {"say":"Billy, Worf coming to you along the row now, unarmed of swords in hand, hunger 11. Thank you for the potatoes.","actions":[{"do":"goto","target":"ag_billy_01"}]}
+- 12:41 say: {"text":"Billy, I cannot see you from my bed. Step into my sight at the row and I will come to you. I stay here with Jason and Zack."}
+- 12:45 act: {"actions":[{"do":"sleep"}],"say":"Good night, row. Worf at my bed with Jason and Zack in sight. Billy, potatoes first to me at first light, as you said."}
+- 12:46 say: {"text":"Morning, row. Worf awake, hunger 11, no food. Billy, the potatoes you promised me at first light, when you are in sight. I hold here with Jason and Zack."}
+- 12:50 say: {"text":"Billy, I am at 416,107,-1050 by the bed, Zack in reach. I see no potatoes in my pack yet. Please give them here, I am in your sight."}
+- 12:52 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1052}}],"say":"Billy, Worf stepping to 416,107,-1052, one block from you. Hand the 5 potatoes now, I am holding still."}
+- 12:57 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk. Billy is asleep at 413, so no potatoes until first light. Worf sleeping at my bed by the row, Zack and Jason
+- 13:01 say: {"text":"Billy, Worf is at 416,107,-1050, in your sight now. Give the 5 potatoes here. Hunger 11."}
+- 13:03 say: {"text":"Billy, I cannot see you from the bed. Worf will step one block toward you and face you. Hold the 5 and give when I am in view."}
+- 13:11 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Worf at my bed, Jason and Zack in sight. Billy, my 5 potatoes at first light, in sight."}
+- 13:15 act: {"actions":[],"say":"Morning, Billy. Worf at my bed 416,107,-1050, Jason in sight. Billy, please step into my sight and hand over my 5 potatoes."}
+- 13:17 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy named the walk, so I go to your sight now, unarmed in hand, Jason and Zack behind me."}

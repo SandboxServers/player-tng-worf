@@ -1,3 +1,3 @@
 # Handoff
 
-Day 858, night. Slept at the row bed at 415,107,-1051; sleep worked. Health 20, hunger 11. Zack and Jason and Wesley's crusher near. Wooden sword still in pack, not in hand (two equip tries failed earlier). Owed: 3 melon to Zack (none held). Potatoes held by Beverly for Leonardo. Next on waking: say good morning, try the sword once by a new method, hold with the row, walk only when Billy names it. Sheep not yet found.
+Day 863, night. At my bed 416,107,-1050, sheltered, Jason and Zack in reach. Health 20, hunger 11, no food in pack. Sword: stone and wooden in pack, not in hand (equip on sign/chest/table refused). Owed: Billy's 5 potatoes for Worf, then Zack's 3 (Billy never came into my sight this morning; he went to bed at 415,107,-1037 area). Potatoes also held for Leonardo. Owed: 3 melon to Zack when melon held. Sheep not found. Next on waking: say good morning, ask Billy to step into sight for the 5 potatoes, do not walk alone, hold with the row.
