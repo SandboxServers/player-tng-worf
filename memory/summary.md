@@ -1,6 +1,6 @@
 # Summary
 
-Day 832 night, slept in bed 415,107,-1050. Health 20, hunger 12.
+Day 832, slept in bed 415,107,-1050. Health 20, hunger 12.
 
 I am Worf, a warrior of honour loyal to Billy's group.
 Inventory: 2 cobblestone, 1 oak_planks, 3 stick, 1 phantom_membrane, wooden_sword (in hand), 1 potato (for the weakest in sight).
