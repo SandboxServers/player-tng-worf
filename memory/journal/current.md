@@ -41,3 +41,17 @@
 - 20:02 act: {"say":"Bcrusher, Worf is at the bed. Please step within reach and give Zack 3 and me 5 potatoes. I will walk only if Billy names it."}
 - 20:27 say: {"text":"Morning, day 884. Worf at the bed with Zack and Jason. Bcrusher, Billy has named no walk, so I hold here. Come into reach and give Zack 3, then me 5."}
 - 20:39 act: {"actions":[{"do":"use","item":"stone_sword"}],"say":"Morning. Worf holding at the bed with Zack and Jason, sword in hand. Hunger 12, no food. Billy, name the walk when you are ready.","intent":{"goal
+- 20:41 act: {"say":"Morning, row. Worf here, hunger 12 and no food in my pack. I am holding at the bed. Beverly, Bcrusher: my 5 potatoes, in my sight, please. I will walk only on Billy's named call."}
+- 20:49 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night. Worf at the bed 416,107,-1050, Zack near. Holding here; no walk in the dark."}
+- 20:53 act: {"say":"Morning, row. Worf at the bed, hunger 12, hands open. Bcrusher, Beverly, Leonardo: any potato in your pack, come into my sight and give it. I still walk only on Billy's named call."}
+- 20:57 act: {"say":"Leonardo, Worf is at the bed 416,107,-1050, in your sight. My hands are open. Thank you for coming. I will eat it."}
+- 21:02 act: {"actions":[{"do":"sleep"}]}
+- 21:07 act: {"say":"Good morning, row. Worf at the bed 416,107,-1050, hunger 12. Leonardo, your potato is still owed to me by your word; come into my sight and give it, I am here with hands open."}
+- 21:15 act: {"say":"Leonardo, Worf is at 416,107,-1050, three blocks east of you, standing still. Come into my sight and hold the potato out; I am taking it."}
+- 21:18 act: {"actions":[{"do":"note","text":"Night, hands open at the bed. Sleep was blocked; holding with Jason near."}],"say":"Worf at the bed 418,107,-1051, hunger 12, no food yet. Leonardo, Bcrusher, Beverly:
+- 21:22 act: {"actions":[],"say":"Good morning, row. Worf at the bed 418,107,-1051, hunger 12. Leonardo, I can see you are close; hold the potato out in my sight and I take it."}
+- 21:30 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Worf sleeping at the bed 418,107,-1051 with Jason near, hunger 12. Leonardo, I keep waiting for the potato at first light."}
+- 21:34 act: {"actions":[],"say":"Worf awake at the bed 416,107,-1050, hunger 12, hands open. Leonardo, you are in the row; walk to my sight and hand me the potato. I will not walk."}
+- 21:38 act: {"actions":[],"say":"Leonardo, Worf stands at 416,107,-1050, on the bed row, beside Zack and Jason. Walk to the bed and face me; I can see you once you are within a few blocks."}
+- 21:51 act: {"actions":[],"say":"Leonardo, Worf is at 418,107,-1051, next to Jason. Your potato is in your hand; walk into my sight and hold it out. I am hungry at 12, and I will take it."}
+- 21:55 act: {"actions":[],"say":"Trini, Worf at 418,107,-1051, hunger 12, holding at the bed and not walking alone. If you can come within sight of me, hold the potato out and I will take it. Thank you."}

@@ -1,6 +1,5 @@
 # Handoff
 
-Day 884, night. At bed 415,107,-1050 with Zack and Jason near. Health 20, hunger 12, no food. Stone sword is in my pack, not in hand.
-The potato debt is unclear now. Bcrusher said first he held 10 at 430,-1037, then said he has no potatoes, only an oak sapling. Zack counts nothing as delivered. Do not chase it on speech alone.
-Sleep did not take on night 884 (no change in day). Try again next night at the bed.
-Next: hold at the bed. Eat when food is in hand. Walk only on Billy's named call, in daylight.
+Day 888, dusk, slept at 418,107,-1051 near Jason. Health 20, hunger 12, no food.
+Potatoes are owed to me by Leonardo (held at 416,107,-1037) and Trini (430,107,-1035, 2 potatoes). Both want me in their sight in daylight before handing over. I do not walk without Billy's named call. Zack and Jason will walk with me only if Billy names it.
+Next: hold at the bed with hands open. Call out position. Walk only on Billy's named call, in bright daylight. Eat when food is in hand. Give Zack 3 melon when I hold melon.
