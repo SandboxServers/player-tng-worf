@@ -12,3 +12,7 @@
 - 18:10 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1047}}],"say":"Billy named the walk. Worf goes to Bcrusher at 431, with Jason and Zack in sight."}
 - 18:10 say: {"text":"The way east is still blocked for me. I hold at 419,108,-1049 with Jason and Zack in reach. Bcrusher, Beverly: please come into my sight here, and I give nothing back but thanks."}
 - 18:14 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Dusk. Worf goes to the bed at 415,-1050 with Jason and Zack near, no walk beyond that."}
+- 18:16 act: {"say":"Morning. Worf holds at the row with Jason and Zack, hungry, no food. Bcrusher, I wait in your sight for my 5 potatoes, as Billy named."}
+- 18:19 act: {"say":"Worf holds at 419,108,-1050 with Jason and Zack. The east way is blocked for us. Bcrusher or Kimberly, please come into my sight here; I wait for my 5 potatoes, and I will not walk alone."}
+- 18:23 act: {"say":"Bcrusher, Kimberly: the east way is blocked from 419 for all of us. Billy, name a route to 419 in daylight and we will meet it there. Until then Worf holds here with Jason and Zack, sword in h
+- 18:27 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Dusk. Worf goes to the bed at 416,107,-1050, with Jason and Zack near. Bcrusher, I will take my potatoes in the day, when you com
