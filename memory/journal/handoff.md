@@ -1,6 +1,6 @@
 # Handoff
 
-Day 863, dusk. Going to bed at 416,107,-1050 with Jason and Zack in the row. Health 20, hunger 11, no food in pack.
-Billy has NOT yet handed me my 5 potatoes (he says "giving now" but none in pack). He is at bed 429,107,-1050 for the night. Zack's 3 are also still owed.
-Sword: wooden and stone in pack. Stone sword not yet in hand.
-Next on waking: say good morning, ask Billy to step into sight for the 5 potatoes, do not walk alone, hold with the row.
+Day 865, dusk. Sleeping at bed 416,107,-1050 with Jason and Zack in sight. Health 20, hunger 11, no food in pack.
+Billy still owes me 5 potatoes (and Zack 3). He says "first light, in sight" every time, but nothing has reached my pack. He sleeps at 429,107,-1051.
+Sword: wooden and stone in pack, neither in hand.
+Next on waking: say good morning, ask Billy to step into sight and hand over the 5 potatoes. Do not walk alone. Hold with the row.
