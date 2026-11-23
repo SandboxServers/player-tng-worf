@@ -49,3 +49,16 @@
 - 11:24 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk, row. Worf going to my bed, Jason and Zack in sight. Holding, not walking."}
 - 11:28 act: {"actions":[],"say":"Morning, row. Worf at my bed, health 20, hunger 11, sword in hand. Holding for Billy's named walk. Zack and Jason in sight."}
 - 11:37 say: {"text":"Night, row. Worf at my white bed, Jason and Zack in sight, holding. No walk in the dark."}
+- 11:38 say: {"text":"Night, row. Worf holding at the bed with Jason and Zack in sight. No walk."}
+- 11:38 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}]}
+- 11:38 act: {"actions":[{"do":"sleep"}]}
+- 11:38 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1050}}]}
+- 11:42 say: {"text":"Good morning, row. Worf here, health 20, hunger 11, sword in hand. Holding for Billy's named walk."}
+- 11:51 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, row. Worf going to my bed spot, Jason and Zack in sight. No walk in the dark."}
+- 11:51 act: {"actions":[{"do":"eat"}],"say":"Hunger 10, so I eat my potato. Holding with the row, no walk in the dark."}
+- 11:51 say: {"text":"I ate my potato at hunger 10, as I said. I have no food now. My sword is not in hand; I will take it up again."}
+- 11:55 act: {"actions":[{"do":"use","at":{"x":419,"y":107,"z":-1047},"item":"wooden_sword"}]}
+- 11:55 act: {"actions":[{"do":"use","at":{"x":418,"y":106,"z":-1047},"item":"wooden_sword"}]}
+- 11:55 say: {"text":"My sword will not come into hand; two tries failed. Jason is armed in the row. I hold here, not walking, and will try again at first light."}
+- 12:04 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk, row. Worf trying the bed at 415,107,-1051 from the east side, Jason in sight. No walk."}
+- 12:04 act: {"actions":[{"do":"sleep"}],"say":"Worf here at the bed. Sleep took for some of the row. Trying again to rest."}
