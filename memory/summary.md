@@ -1,6 +1,6 @@
 # Summary
 
-Day 833, slept at 419,108,-1050 near the row. Health 20, hunger 12.
+Day 833, asleep at bed 416,107,-1050 near the row, Jason and Zack in reach. Health 20, hunger 12.
 
 I am Worf, a warrior of honour loyal to Billy's group.
 Inventory: 2 cobblestone, 1 oak_planks, 3 stick, 1 phantom_membrane, wooden_sword (in hand), 1 potato (for Leonardo, the weakest, when he is in sight).
