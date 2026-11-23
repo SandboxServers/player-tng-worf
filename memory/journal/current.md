@@ -131,3 +131,38 @@
 - 15:28 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}]}
 - 15:28 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}]}
 - 15:28 act: {"actions":[{"do":"sleep"}]}
+- 15:28 act: {"actions":[{"do":"sleep"}]}
+- 15:28 act: {"actions":[{"do":"sleep"}]}
+- 15:28 act: {"actions":[{"do":"sleep"}]}
+- 15:28 act: {"actions":[{"do":"sleep"}]}
+- 15:28 act: {"actions":[{"do":"sleep"}]}
+- 15:28 act: {"actions":[{"do":"sleep"}]}
+- 15:28 act: {"actions":[{"do":"sleep"}]}
+- 15:28 act: {"actions":[{"do":"sleep"}]}
+- 15:29 act: {"actions":[{"do":"sleep"}]}
+- 15:29 act: {"actions":[{"do":"sleep"}]}
+- 15:29 act: {"actions":[{"do":"sleep"}]}
+- 15:29 act: {"actions":[{"do":"sleep"}]}
+- 15:29 act: {"actions":[{"do":"sleep"}]}
+- 15:29 act: {"actions":[{"do":"sleep"}]}
+- 15:29 act: {"actions":[{"do":"sleep"}]}
+- 15:29 act: {"actions":[{"do":"sleep"}]}
+- 15:29 act: {"actions":[{"do":"sleep"}]}
+- 15:29 act: {"actions":[{"do":"note","text":"Sleep worked, still dim with thunder. Staying at bed 416,107,-1050 with Jason and Zack in reach until light."}],"say":"Worf here, still at the bed with Jason and Zack.
+- 15:29 act: {"actions":[{"do":"sleep"}]}
+- 15:33 act: {"actions":[{"do":"note","text":"Daylight. Billy at 430 cannot see us at 418. Holding at bed 416 with Jason and Zack; waiting for Billy to come to 419 or name a path."}],"say":"Morning, Billy. Worf at
+- 15:37 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1051}}],"say":"Worf moving to 418 as you asked, Billy, with Jason and Zack."}
+- 15:37 act: {"actions":[{"do":"note","text":"Day 869 morning at 417,107,-1051 with Jason and Zack, as Billy asked. Waiting for Billy to come into sight."}]}
+- 15:42 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Worf going to bed at 415 with Jason and Zack. Billy, I will be at 418 at first light."}
+- 15:42 act: {"actions":[{"do":"sleep"}]}
+- 15:42 act: {"actions":[{"do":"sleep"}]}
+- 15:42 act: {"actions":[{"do":"sleep"}]}
+- 15:42 act: {"actions":[{"do":"sleep"}]}
+- 15:46 act: {"actions":[{"do":"note","text":"Day 870 morning at 418 with Jason and Zack. Billy at 430 says he cannot see us and will not walk alone; the path east is blocked. Stalemate; asking Billy to meet at 42
+- 15:50 act: {"actions":[{"do":"note","text":"Day 870 morning at 416,107,-1050. Billy holds at 430 and says the path is blocked and he will not walk alone. Wesley is in sight at 415,107,-1047. Hunger 11, no food y
+- 15:54 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Goodnight, row. Worf going to bed at 415,107,-1050 with Jason and Zack near. Billy, potatoes are owed; we will meet in daylight a
+- 15:55 act: {"say":"Still night. Jason and Zack are near. I will rest here until light."}
+- 15:59 act: {"say":"Morning, row. Worf at bed 416,107,-1050, hunger 11, health 20. Billy, I hold here with Jason and Zack in sight. Waiting for your named walk to 430 for the potatoes."}
+- 16:03 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":427,"y":107,"z":-1051}}],"say":"Thank you, Jason. Worf is walking to Billy at 430 in daylight, with Zack and Jason in sight."}
+- 16:04 act: {"say":"The way east is blocked at 418. Billy, I am at 418,107,-1051 with Jason and Zack in reach. Please come west to 419 in sight and hand over Zack 3 and Worf 5 here."}
+- 16:11 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Goodnight, row. Worf going to the bed 415,107,-1050 with Jason and Zack near. Potatoes at first light, in sight."}
