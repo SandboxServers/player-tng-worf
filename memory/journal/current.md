@@ -86,3 +86,9 @@
 - 13:11 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Worf at my bed, Jason and Zack in sight. Billy, my 5 potatoes at first light, in sight."}
 - 13:15 act: {"actions":[],"say":"Morning, Billy. Worf at my bed 416,107,-1050, Jason in sight. Billy, please step into my sight and hand over my 5 potatoes."}
 - 13:17 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy named the walk, so I go to your sight now, unarmed in hand, Jason and Zack behind me."}
+- 13:26 act: {"say":"Good morning, row. Worf here at my bed 416,107,-1050, health 20, hunger 11, no food. Billy, please step into my sight for the 5 potatoes. I will not walk alone.","reasoning":"Hold in sight of 
+- 13:31 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1049}}],"say":"Billy, Worf stepping one block toward you and Jason, to 417,107,-1049. Give the 5 potatoes now, I hold still.","reasoning":"Billy
+- 13:33 act: {"actions":[{"do":"goto","target":{"x":419,"y":107,"z":-1049}}],"say":"Billy, I have not received the 5 potatoes; my pack is still empty. I step east to 419,107,-1049 toward you, Jason in sight.","rea
+- 13:33 act: {"say":"Billy, I am at 418,107,-1049 with Zack and Jason in reach. I cannot see you now. Still no potatoes in my pack. I hold here until you step into my sight.","reasoning":"Billy is out of my sight;
+- 13:37 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk, row. Worf going to my bed at 416,107,-1050, Jason and Zack in sight. Billy, the 5 potatoes are still owed to
+- 13:37 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Worf at my bed 416,107,-1050, Jason and Zack in sight. First light, Billy, my 5 potatoes.","reasoning":"Sleep was partial; try once more at my bed."}
