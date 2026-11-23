@@ -1,6 +1,6 @@
 # Handoff
 
-Day 871, night. Worf at bed 415,107,-1050 with Jason and Zack near. Hunger 12, health 20. Ate my potato from Jason earlier.
-Billy holds at bed 430,107,-1051 with 8 potatoes. Beverly at 429,107,-1037 holds 10 potatoes and gets the first share.
-Billy owes Zack 3 and Worf 5, in sight, at first light. The way east to 418-430 is blocked for us; we meet at 417-419 or Billy comes west.
-Next on waking: say good morning, wait for Billy to name the walk, go only with Jason and Zack in sight. Do not walk alone.
+Day 873, night. Worf slept at bed 415,107,-1050 (days_since_sleep now 0). Health 20, hunger 12, no food.
+Billy went to bed at 430,107,-1050. He owes Beverly first, then Worf 5 and Zack 3, at first light, in sight.
+The way east to 418-430 is blocked for us. Meet at 417-419 or where Billy names.
+Next on waking: say good morning, wait for Billy to name the walk, go only with Jason and Zack in sight. Eat when food comes. Keep the stone sword in hand when fighting.

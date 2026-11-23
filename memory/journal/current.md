@@ -166,3 +166,15 @@
 - 16:03 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":427,"y":107,"z":-1051}}],"say":"Thank you, Jason. Worf is walking to Billy at 430 in daylight, with Zack and Jason in sight."}
 - 16:04 act: {"say":"The way east is blocked at 418. Billy, I am at 418,107,-1051 with Jason and Zack in reach. Please come west to 419 in sight and hand over Zack 3 and Worf 5 here."}
 - 16:11 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Goodnight, row. Worf going to the bed 415,107,-1050 with Jason and Zack near. Potatoes at first light, in sight."}
+- 16:11 act: {"say":"Good morning. Worf here, hunger 12 and no food in my pack. Beverly says she holds my 5 potatoes. Billy, when you name the walk, I will go with Jason and Zack."}
+- 16:20 say: Good morning to the row. Hunger 12, no food. Beverly holds my 5 potatoes. Waiting for Billy's named walk, Jason and Zack in sight.
+- 16:13 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1051}}],"say":"Billy named the walk. Worf going to you at 430 in daylight, Jason and Zack in sight. I take my 5 potatoes when I am in your view.
+- 16:14 act: {"actions":[],"say":"Billy, the way east is blocked again; I stand at 418,107,-1051 with Jason and Zack. I cannot reach 430. Please come west into my sight and hand over the potatoes here."}
+- 16:17 act: {"actions":[],"say":"Beverly, Worf here at 418,107,-1051, in the row with Jason and Zack. The way east is blocked for us. Please come west into my sight and hand me my 5 potatoes. I will not walk east
+- 16:24 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk. Worf goes to bed at 415,107,-1050 with Jason and Zack near. Beverly, my 5 potatoes at first light, in my sig
+- 16:28 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1051}}],"say":"Morning. Worf at 418 with Jason and Zack, hunger 12, no food. Beverly, you hold my 5 potatoes: walk west to 424 where we can see 
+- 16:32 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Billy named the walk to 424. Worf goes with Jason and Zack now, in daylight, sword in hand. Billy, tell me when you see me."}
+- 16:35 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk, row. Worf goes to my bed at 416,107,-1050 with Jason and Zack near. Beverly and Billy, my 5 potatoes at firs
+- 16:35 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Worf at my bed 415,107,-1050, Jason in sight. Trying to rest."}
+- 16:40 act: {"actions":[],"say":"Morning, Billy. Worf at my bed 415,107,-1050, health 20, hunger 12, no food. Beverly first, then my 5 and Zack's 3. Billy, come west into the row, to 421, in my sight, and I come 
+- 16:48 act: {"actions":[{"do":"note","text":"Dusk day 873. At bed 415,107,-1050 with Jason in reach, Zack and Wcrusher at 3. Hunger 12. Waiting for Billy or Beverly to come into my sight with the potatoes."}],"sa
