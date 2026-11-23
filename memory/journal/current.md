@@ -16,3 +16,28 @@
 - 18:19 act: {"say":"Worf holds at 419,108,-1050 with Jason and Zack. The east way is blocked for us. Bcrusher or Kimberly, please come into my sight here; I wait for my 5 potatoes, and I will not walk alone."}
 - 18:23 act: {"say":"Bcrusher, Kimberly: the east way is blocked from 419 for all of us. Billy, name a route to 419 in daylight and we will meet it there. Until then Worf holds here with Jason and Zack, sword in h
 - 18:27 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Dusk. Worf goes to the bed at 416,107,-1050, with Jason and Zack near. Bcrusher, I will take my potatoes in the day, when you com
+- 18:27 say: {"text":"Worf here. Still holding at the row with Jason and Zack. Bcrusher, Beverly, I am owed 5 potatoes; I wait in your sight."}
+- 18:31 say: {"text":"Bcrusher, I see you now. Billy named it: 5 potatoes to me, please. I hold my hands open at 416,107,-1050."}
+- 18:37 act: {"actions":[{"do":"goto","target":{"x":419,"y":108,"z":-1048}}],"say":"Bcrusher, I am walking to 419 as Billy named, with Jason and Zack. My hands are open. Give my 5 here."}
+- 18:42 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 18:43 act: {"actions":[{"do":"sleep"}]}
+- 18:43 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}]}
+- 18:43 act: {"actions":[{"do":"sleep"}]}
+- 18:44 say: {"text":"Bcrusher, you are in my reach now. Please give me my 5 potatoes, as Billy named."}
+- 18:47 say: {"text":"Morning. Worf, hands open, in Bcrusher's reach. Give my 5 potatoes now, as Billy named."}
+- 18:56 say: {"text":"Holding here, hands open. Bcrusher, I am in your reach. Give my 5 potatoes when Zack's 3 are done."}
+- 19:04 say: {"text":"Bcrusher, I am at 415,107,-1048, in your sight and reach. Worf, 5 potatoes, please give them now."}
+- 19:07 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}}],"say":"Walking to 430,-1036 as Billy named, in daylight, with Zack. Bcrusher, give my 5 when I stand in your sight.","intent":{"goal":"r
+- 19:10 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1049}}],"say":"It is night. I am going back to the bed at 415,107,-1050 with Zack, and I will stay in reach there. Bcrusher, give my 5 potatoes 
+- 19:14 say: {"text":"Bcrusher, it is morning. Worf is at the bed 416,107,-1050 in your sight, hands open. Please come within reach and give my 5 potatoes."}
+- 19:18 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}}],"say":"Walking with Zack to Bcrusher at 430,-1036, in daylight, as Billy named. Bcrusher, give my 5 once I am in reach.","intent":{"goal
+- 19:21 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1049}}],"say":"Dusk. The walk to Bcrusher was blocked. Worf and Zack are going back to our bed to hold for the night. Bcrusher, we will be in yo
+- 19:26 act: {"say":"Worf here, at our bed, morning. Zack is in reach. I will hold here and walk to Bcrusher only on Billy's named word."}
+- 19:30 act: {"say":"Bcrusher, Worf here at 417,107,-1049, Zack beside me. Please come to the bed here in daylight. I hold still and wait for you in sight."}
+- 19:42 act: {"say":"Worf walking to Bcrusher at 430,107,-1037 now, in daylight, on Billy's named word, with Zack beside me.","intent":{"goal":"walk_to_bcrusher","program":"travel","arguments":{"target":{"x":430,"
+- 19:44 act: {"actions":[{"do":"unstick"}],"say":"Bcrusher, my walk is blocked at the table 419,107,-1047. Zack and Jason are with me. Could you come within reach, here?"}
+- 19:48 act: {"say":"Bcrusher, Worf and Zack are at 419,108,-1049, in your sight. Still holding for you to come within reach. I will not walk alone."}
+- 19:56 act: {"say":"Bcrusher, Worf at the bed 415,107,-1050. Zack is beside me. Please come within reach and give. I am not walking."}
+- 20:02 act: {"say":"Bcrusher, Worf is at the bed. Please step within reach and give Zack 3 and me 5 potatoes. I will walk only if Billy names it."}
+- 20:27 say: {"text":"Morning, day 884. Worf at the bed with Zack and Jason. Bcrusher, Billy has named no walk, so I hold here. Come into reach and give Zack 3, then me 5."}
+- 20:39 act: {"actions":[{"do":"use","item":"stone_sword"}],"say":"Morning. Worf holding at the bed with Zack and Jason, sword in hand. Hunger 12, no food. Billy, name the walk when you are ready.","intent":{"goal
