@@ -101,3 +101,21 @@
 - 01:02 act: {"actions":[],"say":"Worf at 415,107,-1047, hands open, with Zack beside me. Billy, I see you at 414,107,-1044. Beverly first, then me for the potato."}
 - 01:08 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1045}}],"say":"Worf moving one step toward you, Billy, at 414,107,-1045. Hands open. Beverly first."}
 - 01:12 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf going to bed at 415,107,-1050 with Jason and Zack near. Handoff is written."}
+- 01:14 act: {"actions":[{"do":"note","text":"Day 898 morning at bed 416,107,-1050. Hunger 12, no food. Billy is at 416,107,-1037 with one potato but not in my sight yet."}],"say":"Morning. Worf at 416,107,-1050, 
+- 01:16 act: {"actions":[],"say":"Worf at 416,107,-1050, hands open, hunger 12. Billy gave his potato to Jason, so I wait now for Leonardo's potato in my sight. Leonardo, step in and hold it out; I eat it at once.
+- 01:23 act: {"actions":[],"say":"Dusk. Leonardo, Worf will not walk south into the pillager either. Keep your potato; I will take it at first light when you are in my sight. Zack and Jason are with me at the bed.
+- 01:23 act: {"actions":[{"do":"sleep"}]}
+- 01:27 act: {"actions":[],"say":"Morning, row. Worf at 416,107,-1050, hunger 12, hands open, sword in hand. Leonardo, your potato is held for me; walk into my sight and hold it out. I eat it at once. Zack, Jason,
+- 01:31 act: {"actions":[],"say":"Worf holds at bed 416,107,-1050, hands open. Leonardo, come north into my sight and hold the potato out. Picard, I have no food either; stay in sight."}
+- 01:37 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk. Worf at bed 416,107,-1050 with Zack and Jason near, hunger 12, no food. Leonardo, the potato waits for first
+- 01:41 act: {"actions":[],"say":"Morning, row. Worf at bed 416,107,-1050, hunger 12, hands open. Leonardo, your potato: walk into my sight and hold it out. Zack, Jason, I am with you."}
+- 01:44 act: {"actions":[],"say":"Leonardo, Worf is at 416,107,-1050, in reach of Zack and Jason. Walk north to me, into sight, and hold the potato out. I will not walk to you; I hold here, hands open."}
+- 01:52 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Worf sleeps at bed 416,107,-1050, Zack and Jason in reach, hunger 12. Leonardo, the potato waits for first light, in my sight."}
+- 01:56 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Morning, row. Worf at bed 416,107,-1050, hunger 12, hands open. Leonardo, your potato: walk into my sight and hold it out. Zack, 
+- 02:00 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1052}}],"say":"Leonardo, I step toward you, one block. Hand the potato across, I hold hands open."}
+- 02:02 act: {"actions":[],"say":"Leonardo, I am at 417,107,-1051, hands open. I do not see you yet. Come into sight, I wait here."}
+- 02:06 say: {"text":"Dusk. Worf to the bed at 416,107,-1050, sleeping. Leonardo, the potato waits for daylight, in sight at the bed."}
+- 02:06 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 02:11 act: {"actions":[],"say":"Leonardo, I do not see you in my sight yet. I am at the bed 416,107,-1050, hands open. Step into view and hand it over."}
+- 02:14 act: {"actions":[],"say":"Leonardo, you are at 423,107,-1050, I hold at 416,107,-1050. Come to 419 or 418, the nearest point you can walk, and hand the potato across. Jason and Zack watch."}
+- 02:22 act: {"actions":[{"do":"sleep"}]}
