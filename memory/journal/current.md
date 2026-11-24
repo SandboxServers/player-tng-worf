@@ -9,3 +9,24 @@
 - Day 933 midday: viewed past the gap; still only planks, no open air. No food held, hunger 11, health 20. Asked Zack and Jason for food. Holding in the row, no walk named.
 - 12:54 act: {"say":"Worf holds in the row for the night. Billy, at first light I will name a route once open air shows. No walks in the dark.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"
 - 12:58 act: {"say":"Worf, day 934. The view past the gap is still only planks, no open air. So no walk named yet. Riker, Picard, Billy: hold in the row. I will name a walk the moment open air shows.","actions":[]
+- 12:59 say: {"text":"Worf here. Morning. No food on me, sorry Picard. I am checking the gap now and will name a route only if I see open air."}
+- 13:03 say: {"text":"Picard, your health is 2. I have no food to give. Still only planks past the gap. Billy, Laforge: the moment I see open air, I will name the walk aloud."}
+- 13:07 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk. Worf holds in the row for the night. No walks in the dark. Picard, I still have no food."}
+- Day 934: still only planks past the gap, no open air, no food. Picard health 2.3. Sleep failed: not night yet. Day again now; holding in the row, waiting for dusk to sleep in my bed.
+- Day 935 morning: sleep at bed 415,107,-1050 failed twice ("way blocked"); I drifted to 418,107,-1047. Still planks all round, no open air, no walk named. Said so to the row. Wrote handoff.md. Holding in the row.
+- 13:15 say: {"text":"Worf, morning. Still only planks past the gap, no open air, so no walk named. Picard, hold on; I have no food yet. I will keep watching the gap."}
+- 13:23 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, night. Holding in my bed in the row. No walk in the dark. Riker, first light I will look at the gap again."}
+- 13:23 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}]}
+- 13:23 act: {"actions":[{"do":"sleep"}]}
+- 13:28 say: {"text":"Worf, morning day 935. Still planks all round; no open air, so no walk named. Leonardo, I hold no food, sorry. Anyone with food: Leonardo at health 1 and Picard first."}
+- 13:36 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Worf, dusk day 935. Going to my bed in the row. No walk in the dark."}
+- 13:36 act: {"actions":[{"do":"sleep"}],"say":"Worf is in bed for the night. Still no food and no open air, so no walk named."}
+- 13:36 act: {"actions":[{"do":"sleep"}]}
+- 13:40 act: {"actions":[],"say":"Worf, morning day 935. I am alive, health 20. The view still shows only planks, no open air, so I name no walk. Billy, Riker: hold in the row. I have no food; I will name a route 
+- 13:50 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, night day 936. Into my bed in the row. Still no open air, so no walk named. Billy, hold till first light."}
+- 13:51 act: {"actions":[],"say":"Worf: my sleep at bed 415,107,-1050 was blocked again; I stand at 419,108,-1050. Jason, Zack, how did you reach that bed? Holding still until first light, no walk in the dark."}
+- 13:55 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1050}}],"say":"Thank you Jason. I will stand at 417,107,-1050 beside the bed and try sleep there at dusk. Billy, Lewis: still no open air, so no
+- 13:59 act: {"actions":[],"say":"Worf, day 936. Zack, Billy, Riker: I still see only planks and no open air, so I cannot name a daylight route to the melon field yet. I owe you the melon, Zack, and I will keep wa
+- 14:03 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 936. Worf sleeps beside the bed at 417,107,-1050 as Jason did. No walk in the dark."}
+- 14:03 act: {"actions":[{"do":"sleep"}]}
+- 14:07 say: {"text":"Worf, morning of day 937. Still in my bed at 415,107,-1050. Still no food. Checking the gap for open air now; no walk named until I see it."}
