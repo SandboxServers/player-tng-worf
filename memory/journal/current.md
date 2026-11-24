@@ -134,3 +134,4 @@
 - 21:53 act: {"say":"Billy, cell 414,107,-1050 is already air, but past it the view is still planks. No open cell beyond, so no walk named yet. Hold by the beds."}
 - 21:57 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night on 960. Worf to bed at 415,107,-1050, in sight of Zack and Jason. No walk in the dark. No food; Picard first
 - 21:58 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1050}}],"say":"Sleep at the bed was blocked again. I hold at 417,107,-1050 in sight of Zack and Jason until light. No walk in the dark."}
+- 22:02 act: {"say":"Morning, row. Worf here, health 20, hunger 10, no food. Still no open cell past the planks, so no walk named. Hold where you stand."}
