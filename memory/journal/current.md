@@ -82,3 +82,5 @@
 - 18:10 act: {"actions":[{"do":"sleep"}]}
 - 18:15 act: {"say":"Worf here. Still no food in my hands. Any of you who has food, tell me where it is; I will look for open ground past the planks at first light."}
 - 18:21 act: {"actions":[{"do":"sleep"}],"say":"Worf, night. Holding in the row by my bed with Jason and Zack close. No walks in the dark. No food; Picard first when any is found."}
+- Day 949 day: woke, sleep at bed blocked ("way blocked"). View still all planks, no open cell, so no walk named. Holding by the beds with Jason and Zack; no food, hunger 10, health 20. Troi says no food either.
+- 18:22 act: {"say":"Still walled in. Jason and Zack are with me. No open cell yet, so no walk today.","intent":{"goal":"hold_and_watch_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpec
