@@ -77,3 +77,6 @@
 - 17:19 act: {"say":"Morning. Worf here, still walled, view shows only planks and glass. No route named. Hold, and keep hands open for food."}
 - 17:36 say: {"text":"Worf here, dawn. Viewing the walls now. No open route named until I see open cells. Holding in the row with Jason and Zack."}
 - 17:48 say: {"text":"Worf, morning of day 948. Viewed again: still walled in planks and glass, no open cell. I name no route yet. Holding in the row."}
+- 17:57 act: {"say":"Worf here. Still walled in, no open cell in sight. Has anyone seen food? Picard needs it first."}
+- 18:09 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, dusk. Going to my bed in the row. No walks in the dark. Still no food; Picard, hold on."}
+- 18:10 act: {"actions":[{"do":"sleep"}]}
