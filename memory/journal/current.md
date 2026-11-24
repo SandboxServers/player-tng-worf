@@ -79,3 +79,7 @@
 - 23:44 act: {"actions":[],"say":"Billy, Leonardo, I am here at bed 416,107,-1050, armed with stone sword, Zack and Jason in sight. Hand over the potato when you are in reach. I will eat it at once."}
 - 23:49 act: {"actions":[],"say":"Morning, row. Worf at bed 416,107,-1050, health 20, hunger 12, no food. Billy, Leonardo, I hold here for your potatoes when you are in my sight. Zack, Jason, I am with you."}
 - 23:56 act: {"actions":[],"say":"Billy, Leonardo, I am at bed 416,107,-1050, sword in hand, Jason and Zack in sight. Come to me; I can see your call. Bring the potato."}
+- 00:04 say: {"text":"Worf at the bed, 416,107,-1050. Hunger 12, no food. Waiting for morning; Billy and Leonardo are holding potatoes for me."}
+- 00:08 say: {"text":"Good morning. Worf at the bed, 416,107,-1050, with Jason and Zack in sight. Leonardo, bring my potato here; I hold my hands open. Billy, Beverly and Trini, the same when you are in sight."}
+- 00:12 say: {"text":"Billy, thank you. Worf is at the bed 416,107,-1050, hands open. I see you now. Give the potato here."}
+- 00:13 say: {"text":"Billy, I am at 416,107,-1050, standing still, beside the bed. Look toward me; I can see you are close. Hand the potato over."}
