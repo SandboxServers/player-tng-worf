@@ -159,3 +159,7 @@
 - 05:05 act: {"actions":[{"do":"goto","target":{"x":463,"y":107,"z":-1073}}],"say":"Daylight walk named now: Worf armed, to the potatoes at 463,107,-1073. Zack, Jason, Billy: follow in my sight, no one runs ahead.
 - 05:05 act: {"actions":[],"say":"The walk to 463,107,-1073 is blocked, so we stay here. Zack, Jason: stay in my sight. Billy, Leonardo: food to me if you can hand it over."}
 - 05:09 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 05:11 act: {"say":"Worf at bed 416,107,-1050, health 20, hunger 12, no food. Billy, Beverly, Leonardo: I need the potatoes you hold. Please bring them into my sight."}
+- 05:13 act: {"say":"Billy, thank you. Worf is walking to the cows at 339,104,-979 in daylight with Jason and Zack in sight. Follow at the back if you choose. Riker, you may fall in too.","intent":{"goal":"reach_c
+- 05:14 act: {"say":"Worf at 415,107,-1047. Jason, Zack, where are you? I hold here and will not walk alone. Billy, Riker, Lewis: I am in your sight now; name the walk and I will go."}
+- 05:22 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Dusk. Worf goes to bed at 416,107,-1050 with Wesley and Troi near. No walk tonight."}
