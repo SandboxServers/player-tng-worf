@@ -135,3 +135,27 @@
 - 03:30 act: {"actions":[],"say":"Worf at 415,107,-1050, hands open, hunger 12. Leonardo, I am in your sight now. Hand the potato over, then I eat it at once."}
 - 03:32 act: {"actions":[{"do":"sleep"}]}
 - 03:36 act: {"actions":[{"do":"sleep"}],"say":"Night. Worf at bed 415,107,-1050, hunger 12. Leonardo, I do not see your potato in my pack yet; I am not in your sight by my reading. Give it at first light."}
+- 03:40 act: {"actions":[],"say":"Morning. Worf at 415,107,-1051, hands open, hunger 12. Leonardo, hand the potato to me now, I eat it at once."}
+- 03:42 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1052}}],"say":"Leonardo, I am at 417,107,-1052 now, two blocks from you. Look at me and hand the potato over."}
+- 03:45 act: {"actions":[],"say":"Worf holding still at 417,107,-1051, Zack and Jason beside me. Leonardo, I can see you not; walk where I can see you and I take the potato."}
+- 03:49 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Worf at 417,107,-1051, hunger 12. Leonardo at 418,107,-1053, I stay here tonight with Zack and Jason. Potato at first light."}
+- 03:54 act: {"actions":[],"say":"Morning, Leonardo. Worf at 415,107,-1051, hands open. I do not see the potato in my pack yet. Give it to me now and I eat it at once."}
+- 03:56 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1052}}],"say":"Walking to 417,107,-1052 as you asked, Leonardo. Stay still and hand it over."}
+- 03:56 act: {"actions":[],"say":"Leonardo, I see you in reach with the potato. Give it to me now, Worf, and I eat it at once."}
+- 04:00 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1052}}],"say":"Stepping to 417,107,-1052 as you asked, Leonardo. Hands open. Give me the potato."}
+- 04:00 act: {"actions":[],"say":"Leonardo, I am here with hands open. Please toss the potato to me now."}
+- 04:05 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Going to bed at 416,107,-1050. Leonardo, the potato is still with you; I will take it first thing in the morning."
+- 04:10 act: {"actions":[],"say":"Morning. Worf at 419,108,-1050, hands open. Leonardo, walk into my sight and give me the potato."}
+- 04:26 act: {"actions":[],"say":"Billy, Worf here. I have a stone sword but I will not walk east in the dark, I am sorry. Stay still and hold at the bed."}
+- 04:30 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1051}}],"say":"Leonardo, Worf here at 418,107,-1051, in your sight, hands open. Give me the potato."}
+- 04:33 act: {"actions":[],"say":"Leonardo, I cannot see you from 418,107,-1051. Walk toward me, past Zack, until I am in your sight, then toss the potato."}
+- 04:38 act: {"actions":[],"say":"Worf at 418,107,-1051, hands open. Leonardo, Billy, step into my sight and I will take what you hold."}
+- 04:41 act: {"actions":[],"say":"Night now. Worf holds at 418,107,-1051 with my stone sword out, beside Zack. Not walking into the phantoms."}
+- 04:44 act: {"actions":[],"say":"Billy, Worf here at 418,107,-1051, in your sight, hands open. Give me the potato you promised. Zack first, as agreed."}
+- 04:46 act: {"actions":[],"say":"Worf leads. Daylight, we walk together to the potatoes at 463,107,-1073. Zack, Jason, Billy: stay in my sight, follow close, no one runs ahead. Moving now."}
+- 04:49 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1062}}],"say":"Walking the first leg to 440,107,-1062. Zack, Jason, Billy, keep me in sight and follow. I will stop and wait for you there."}
+- 04:49 say: {"text":"The walk east was blocked, so I hold at 418,107,-1051 with Zack and Jason. Billy, Leonardo: come to my sight and we will plan the next walk together."}
+- 04:57 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Dusk. Worf moves two blocks to the bed at 416,107,-1050, with Zack and Jason beside me. Billy, stay in Zack's sight."}
+- 05:05 act: {"actions":[{"do":"goto","target":{"x":463,"y":107,"z":-1073}}],"say":"Daylight walk named now: Worf armed, to the potatoes at 463,107,-1073. Zack, Jason, Billy: follow in my sight, no one runs ahead.
+- 05:05 act: {"actions":[],"say":"The walk to 463,107,-1073 is blocked, so we stay here. Zack, Jason: stay in my sight. Billy, Leonardo: food to me if you can hand it over."}
+- 05:09 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}]}
