@@ -109,3 +109,6 @@
 - 19:54 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"intent":{"goal":"rest_in_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"li
 - 19:58 act: {"say":"Morning, row. Worf at 418,107,-1051, health 20, hunger 10, no food. View shows only planks all round, no open cell, so no route named yet. Zack, Jason, stay in sight."}
 - 20:23 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}]}
+- 20:23 act: {"say":"Dark night. I hold by my bed with Jason and Zack in reach. No walks in the dark."}
+- Day 956 dawn: view all planks and glass, still walled, no open cell, no route named. Hunger 10, health 20, no food. Said so to the row; holding by the beds with Jason and Zack.
+- 20:27 act: {"say":"Worf, morning day 956. View still all planks and glass, no open cell, so no route named. No food on me. Picard first when any is found. Jason, Zack, hold by the beds."}
