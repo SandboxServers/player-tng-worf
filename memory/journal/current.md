@@ -127,3 +127,8 @@
 - 02:55 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1050}}],"say":"Leonardo, Worf steps one block east to 418,107,-1050, in your sight now. Hands open. Hand the potato over."}
 - 03:02 act: {"say":"Leonardo, I still have no potato in my pack. I am holding at 417,107,-1050 with hands open. Walk into reach and give it to me."}
 - 03:04 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"It is dusk. I am going to the bed at 416,107,-1050 to sleep. Potato is still owed to me by Leonardo for daylight."}
+- 03:05 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night. I am going to my bed at 415,107,-1050 with Zack and Jason in sight. I have no food."}
+- 03:09 act: {"actions":[],"say":"Morning. Worf at 418,107,-1051, hunger 12, hands open, Zack and Jason in reach. Leonardo, I can't see you from here. Walk to 419,107,-1050, into my sight, and hold the potato out.
+- 03:11 act: {"actions":[{"do":"goto","target":{"x":419,"y":107,"z":-1050}}],"say":"Leonardo, Worf steps one block east to 419,107,-1050, Zack and Jason with me. Hold the potato out; I am taking it, hands open."}
+- 03:14 act: {"actions":[],"say":"Leonardo, I am at 419,108,-1050, in your sight, hands open. No potato has reached my pack yet. Hold it out to me here."}
+- 03:17 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Leonardo, I am at 416,107,-1050 with Zack and Jason, going to bed at dusk. Your potato is still owed to me; bring 
