@@ -8,3 +8,5 @@
 - 09:35 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1051}},{"do":"open","at":{"x":419,"y":107,"z":-1051}}],"say":"Worf, morning. No route is confirmed yet, so I will not name a walk. I am checking
 - 09:36 act: {"actions":[{"do":"open","at":{"x":419,"y":107,"z":-1051}}],"say":"Worf, at the row chest now. I will read what is in it and tell you before anyone moves."}
 - 09:36 say: {"text":"Worf: the row chest opened, but my reading does not show what is inside. I will not guess. Picard, I still have no food for you. Nobody move until I name a route."}
+- Day 923 wait: Tommy says he holds for my route. Said I hold the row, no food, no walk named; set intent to hold until food or a wake.
+- 09:37 act: {"say":"Morning. I hold the row, health 20, hunger 11, no food in my pack. Picard first when food is found. No walk yet; daylight is short and I name no route without confirmed cells.","intent":{"goal
