@@ -36,3 +36,6 @@
 - 14:27 say: {"text":"Worf, day 938. Picard, health 2.3: I have no food. I still see only planks past the gap, so no walk is named. Hold in the row; I will watch the gap."}
 - 14:31 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, dusk day 938. Going to my bed in the row. No walk in the dark. Still no food; Picard, hold on."}
 - 14:33 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, night day 938. In my bed in the row. No walk in the dark. Hold till first light."}
+- 14:33 act: {"say":"Worf, awake in the row at night. Hunger 10, no food in my pack. Whoever holds food, Picard first. I will walk no dark roads; at first light I look past the gap.","intent":{"goal":"hold_row_unt
+- 14:38 act: {"say":"Worf, morning. Zack, the melon route is not named yet: I must see open air first. I am looking past the gap now."}
+- 14:46 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, night day 939. Into my bed in the row. Still no open air past the gap, so no walk named. Hold till light."}
