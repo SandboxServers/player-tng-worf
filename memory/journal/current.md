@@ -135,3 +135,16 @@
 - 21:57 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night on 960. Worf to bed at 415,107,-1050, in sight of Zack and Jason. No walk in the dark. No food; Picard first
 - 21:58 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1050}}],"say":"Sleep at the bed was blocked again. I hold at 417,107,-1050 in sight of Zack and Jason until light. No walk in the dark."}
 - 22:02 act: {"say":"Morning, row. Worf here, health 20, hunger 10, no food. Still no open cell past the planks, so no walk named. Hold where you stand."}
+- 22:03 say: {"text":"Worf here. Hunger is low and nobody holds food. Anyone with food in sight, please say so. I will look for an open cell past the planks in daylight."}
+- 22:05 say: {"text":"Worf, day 961. Still walled, no open cell in view, no route named. Laforge, noted: hold where you stand. I hold no food."}
+- Day 961 daylight: view shows nothing solid within 2 blocks but no clear route past the planks. Zack asked for the melon route; I hold no melon, so none named. Holding at 417,107 with Zack and Jason in reach. Hunger 10, health 20.
+- 22:07 say: {"text":"Worf, day 961, daylight. Zack, Jason: I still hold no melon, so nothing is owed yet. The view shows nothing solid within 2 blocks, but I have not seen a clear route past the planks. I will na
+- 22:10 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, night on 961. Going to my bed at 415,107,-1050, Zack and Jason in sight. No walk in the dark. Hold till ligh
+- 22:10 act: {"actions":[{"do":"sleep"}]}
+- Night 961: slept at bed 415,107,-1050 (5 of 10, then sleep worked). Zack and Jason in reach. Still walled, no food, hunger 10, health 20. No walk in the dark.
+- Day 962 morning: view all planks, still walled, no open air, no route named. Hunger 10, health 20, no food. Holding by the beds with Zack, Jason and the row.
+- 22:14 act: {"actions":[],"say":"Worf, morning of 962. Health 20, hunger 10, no food. Billy, Troi, Wesley, Clark: I still see no open air past the planks, so no walk is named. Hold by the beds. Anyone with food, 
+- 22:27 act: {"actions":[{"do":"note","text":"Day 962 daylight: still walled by planks, no open air in view. Holding at 416,107 with Zack and Jason in reach. Hunger 10, health 20, no food."}],"say":"Troi, Clark, L
+- 22:35 act: {"actions":[{"do":"note","text":"Dusk 962: holding at 416,107,-1050 by the beds, Zack and Jason in reach. Still walled, no open air, no food. Going to bed, no walk in the dark."}]}
+- 22:35 act: {"actions":[{"do":"sleep"}]}
+- 22:39 act: {"actions":[{"do":"note","text":"Day 963 morning: view shows planks and people only, no open air. No route named. Holding by the beds with Zack and Jason, hunger 10, health 20, no food."}],"say":"Good
