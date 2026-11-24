@@ -7,3 +7,10 @@
 - 08:13 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}]}
 - 08:13 act: {"actions":[{"do":"sleep"}]}
 - 08:14 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}]}
+- 08:14 act: {"actions":[{"do":"sleep"}],"say":"Night in the row. I am on my bed. Staying inside with the group."}
+- 08:15 act: {"actions":[{"do":"wait","seconds":60}]}
+- Night 919: sleep failed twice ("the way was blocked") on my bed in the row. Held in sight of Jason, Zack. Hunger 11, no food. Staying put, no walks in the dark.
+- Day 919 dawn: view says I am enclosed in the row. Survey of 416-422,106-110 x -1056..-1050: gap cells 417,107,-1054 and 417,107,-1053 are open (gravel, air). Beyond x=418 and z<-1055 still unknown. No walk named.
+- 08:16 say: {"text":"Worf, daylight. Health 20, hunger 11, no food. I am viewing the north gap now. No walk named until I see the cells past it. Riker, Billy: hold at the row."}
+- 08:18 act: goto 417,107,-1053 to view past the gap. Blocked; stopped at 417,107,-1051. No route named. Held in the row, said so aloud. Lewis at 430,107,-1051 holds, no food. Still no food for me or Picard.
+- 08:18 act: {"actions":[{"do":"wait","seconds":120}],"say":"Worf: the gap is blocked for me, so no walk is named. I hold in the row with Billy, Zack and Jason. Still no food here. If anyone sees a safe route with
