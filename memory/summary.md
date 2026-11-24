@@ -1,6 +1,6 @@
 # Summary
 
-Day 926, slept in bed 415,107,-1050 in the walled plank row. I am Worf, an armed warrior loyal to Billy's group.
+Day 927, slept in bed 415,107,-1050 in the walled plank row. I am Worf, an armed warrior loyal to Billy's group.
 
 Health 20, hunger 11, no food. Stone sword carried.
 
