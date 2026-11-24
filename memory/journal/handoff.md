@@ -1,5 +1,6 @@
 # Handoff
 
-Day 888, dusk, slept at 418,107,-1051 near Jason. Health 20, hunger 12, no food.
-Potatoes are owed to me by Leonardo (held at 416,107,-1037) and Trini (430,107,-1035, 2 potatoes). Both want me in their sight in daylight before handing over. I do not walk without Billy's named call. Zack and Jason will walk with me only if Billy names it.
-Next: hold at the bed with hands open. Call out position. Walk only on Billy's named call, in bright daylight. Eat when food is in hand. Give Zack 3 melon when I hold melon.
+Dusk. At bed 416,107,-1050 with Jason and Zack in reach. Health 20, hunger 12, no food, stone sword in hand. Not enclosed.
+Billy and Leonardo were walking to me with potatoes in daylight but did not reach my sight before dusk. Leonardo was at 421,107,-1042 going to Billy.
+Owed to me: Beverly 5 potatoes; Billy 1 (held for me); Leonardo 1 (held for me); Trini 2 at 430,107,-1035.
+Next: at first light, say position, hold for Billy or Leonardo to come into sight with potatoes. Walk only with Jason and Zack in daylight. Eat at once when food is in hand. Give Zack 3 melon when I hold melon.

@@ -55,3 +55,27 @@
 - 21:38 act: {"actions":[],"say":"Leonardo, Worf stands at 416,107,-1050, on the bed row, beside Zack and Jason. Walk to the bed and face me; I can see you once you are within a few blocks."}
 - 21:51 act: {"actions":[],"say":"Leonardo, Worf is at 418,107,-1051, next to Jason. Your potato is in your hand; walk into my sight and hold it out. I am hungry at 12, and I will take it."}
 - 21:55 act: {"actions":[],"say":"Trini, Worf at 418,107,-1051, hunger 12, holding at the bed and not walking alone. If you can come within sight of me, hold the potato out and I will take it. Thank you."}
+- 22:00 act: {"say":"Worf here, at my bed 415,107,-1051 with Jason and Zack near. Hunger 12, no food in my pack. I will hold here with hands open and not walk in the dark.","actions":[]}
+- 22:04 act: {"say":"Good morning, row. Worf at 416,107,-1050, hunger 12, no food. Leonardo, the potato you promised, I am here in your sight. Beverly and Trini, my potatoes too. I will hold with hands open.","act
+- 22:07 act: {"say":"Leonardo, I am at 416,107,-1050 and I hold here. I will not walk without Billy's named call. If you come within my sight, I will take the potato with open hands.","actions":[]}
+- 22:15 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Worf sleeps at the bed 416,107,-1050, Jason and Zack near. Leonardo, the potato waits for daylight, in my sight."}
+- 22:19 act: {"say":"Troi, Worf here, hunger 12, health 20, no food in my pack. I hold at 419,108,-1050 with Jason in reach. Billy, when you name the walk, I go with Jason and Zack in sight. Trini, your 2 potatoes
+- 22:31 act: {"say":"Troi, Worf: hunger 12, holding at 419,108,-1050, sword in hand. Leonardo, your potato is owed to me; I am still here, waiting for Billy's named walk, and I will not go to you alone.","actions"
+- 22:39 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Worf tries to sleep here at 419,108,-1050, Jason in reach. Hunger 12, holding."}
+- 22:40 act: {"say":"Good morning, row. Worf at 419,108,-1050, health 20, hunger 12, sword in hand, no food. I hold here for Billy's named walk. Leonardo, Trini, Beverly: I will come to you in sight when Billy nam
+- 22:48 act: {"say":"Beverly, Worf at 416,107,-1050 with Jason, hunger 12. I cannot see you from here. Walk into my sight in daylight and I will take my 5 potatoes there. I still wait for Billy's named walk."}
+- 22:52 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Worf at bed 416,107,-1050, hunger 12, sword in hand, going to sleep once. Beverly and Leonardo: my potatoes wait for me in daylight, in sight."}
+- 22:56 act: {"say":"Morning, row. Worf at 416,107,-1050, hunger 12, sword in hand, with Jason. Beverly, Billy: I can't see you from here. Billy, if you name a daylight walk to 430,107,-1037 with Jason and Zack, I
+- 23:00 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1041}}],"say":"Worf going on Billy's named daylight walk with Jason, toward Beverly at 431,-1039. Sword in hand. I will say when I am in sight."
+- 23:00 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Billy, the way east was blocked at 419 again; I got as far as 418,107,-1047. It is dark now, so I return to my bed at 416,107,-10
+- 23:06 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Worf at bed 416,107,-1050, hunger 12, sword in hand, with Jason and Zack near. Going to sleep once. Billy, Beverly: my potatoes wait for daylight, in sigh
+- 23:10 act: {"actions":[],"say":"Good morning, row. Worf at bed 416,107,-1050, health 20, hunger 12, no food. Billy, Beverly, Leonardo, Trini: I hold for Billy's named daylight walk with Jason and Zack. Walk when
+- 23:27 act: {"actions":[{"do":"goto","target":{"x":447,"y":107,"z":-1065}}],"say":"Going with Billy's named walk: north to the chest at 447,107,-1065, Jason and Zack in sight. Worf, armed with stone sword."}
+- 23:27 act: {"actions":[],"say":"The east way is blocked again; I got to 418,107,-1051 and stopped. Zack is out of my sight. Billy, Jason: I hold here with Jason in reach until the walk can go on together."}
+- 23:30 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Walk called off, east blocked. Worf back to bed 416,107,-1050 with Jason. Holding for Billy's next named walk."}
+- 23:34 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Worf sleeping at bed 416,107,-1050 with Jason and Zack near. Billy, I hold for your named daylight walk."}
+- 23:38 act: {"actions":[],"say":"Good morning. Worf at bed 416,107,-1050, health 20, hunger 12, no food. Billy, I hold for your named daylight walk with Jason and Zack in sight. Beverly, Leonardo, Trini: my potat
+- 23:42 act: {"actions":[],"say":"Billy, Worf here at bed 416,107,-1050, sword in hand, Jason and Zack in sight. I see you now. If Beverly is not here, I will take the potato. Hunger 12."}
+- 23:44 act: {"actions":[],"say":"Billy, Leonardo, I am here at bed 416,107,-1050, armed with stone sword, Zack and Jason in sight. Hand over the potato when you are in reach. I will eat it at once."}
+- 23:49 act: {"actions":[],"say":"Morning, row. Worf at bed 416,107,-1050, health 20, hunger 12, no food. Billy, Leonardo, I hold here for your potatoes when you are in my sight. Zack, Jason, I am with you."}
+- 23:56 act: {"actions":[],"say":"Billy, Leonardo, I am at bed 416,107,-1050, sword in hand, Jason and Zack in sight. Come to me; I can see your call. Bring the potato."}
