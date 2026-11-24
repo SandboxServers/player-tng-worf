@@ -129,3 +129,8 @@
 - 21:30 say: {"text":"Worf, night on day 959. Still walled, no open cell, no food. Holding by my bed with Zack and Jason in reach. No walk in the dark."}
 - 21:36 act: {"say":"Morning. Worf here, health 20, hunger 10, no food. The walls are still whole; no open cell in view yet. I will name a route only when one shows."}
 - 21:44 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night in the row. Worf to bed at 415,107,-1050, Zack and Jason in sight. Still walled, no food, no route named."}
+- 21:49 act: {"say":"Good morning, row. Worf here, health 20, hunger 10, no food. I hold a stone sword. Once an open cell is clear I will name one daylight walk. Until then, hold by the beds."}
+- 21:53 act: {"actions":[{"do":"break","at":{"x":414,"y":107,"z":-1050}}],"say":"Billy, I will open one cell at 414,107,-1050, west of the bed. Stand by and watch it. I will look past it before naming any walk."}
+- 21:53 act: {"say":"Billy, cell 414,107,-1050 is already air, but past it the view is still planks. No open cell beyond, so no walk named yet. Hold by the beds."}
+- 21:57 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night on 960. Worf to bed at 415,107,-1050, in sight of Zack and Jason. No walk in the dark. No food; Picard first
+- 21:58 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1050}}],"say":"Sleep at the bed was blocked again. I hold at 417,107,-1050 in sight of Zack and Jason until light. No walk in the dark."}
