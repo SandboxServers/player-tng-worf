@@ -5,3 +5,7 @@
 - 12:24 say: {"text":"Worf, morning. Looking past the gap now. No food yet; Picard first when I find it. No walk named until I see open air."}
 - 12:32 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 932. Worf holds in the row for the night. No walks in the dark."}
 - 12:45 say: {"text":"Worf, day 933. Still only planks past the gap. No walk named. Holding in the row; I will name one the moment open air shows."}
+- 12:50 act: {"say":"Zack, Jason: still no food and still walled in. Does anyone hold food? Picard is hungry first.","actions":[]}
+- Day 933 midday: viewed past the gap; still only planks, no open air. No food held, hunger 11, health 20. Asked Zack and Jason for food. Holding in the row, no walk named.
+- 12:54 act: {"say":"Worf holds in the row for the night. Billy, at first light I will name a route once open air shows. No walks in the dark.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"
+- 12:58 act: {"say":"Worf, day 934. The view past the gap is still only planks, no open air. So no walk named yet. Riker, Picard, Billy: hold in the row. I will name a walk the moment open air shows.","actions":[]
