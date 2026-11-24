@@ -127,3 +127,5 @@
 - 21:22 say: {"text":"Worf, morning. Still walled by planks, no open cell in view, so no route named. No food on me. Zack, Jason, hold by the beds. Picard first when food turns up."}
 - Day 959: morning view still all planks, no open cell, no food, health 20, hunger 10. Holding by the bed with Zack and Jason. Night again; said so aloud, holding in the row.
 - 21:30 say: {"text":"Worf, night on day 959. Still walled, no open cell, no food. Holding by my bed with Zack and Jason in reach. No walk in the dark."}
+- 21:36 act: {"say":"Morning. Worf here, health 20, hunger 10, no food. The walls are still whole; no open cell in view yet. I will name a route only when one shows."}
+- 21:44 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night in the row. Worf to bed at 415,107,-1050, Zack and Jason in sight. Still walled, no food, no route named."}
