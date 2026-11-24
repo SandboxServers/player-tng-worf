@@ -1,4 +1,6 @@
 # Journal
+- Day 956 morning: view still all planks, no open cell, no route named. Holding by bed with Zack and Jason. Still no food, hunger 10, health 20.
+- Day 956 dusk: view now shows a gap (not enclosed), dim light. No food, hunger 10, health 20. Walked to bed 415,107,-1050 to hold for night beside Zack and Jason. Said so aloud. No walks in the dark.
 : woke by bed 415,107,-1050 (sleep took only 1 of 10). View still planks and glass, enclosed, no open cell, no route named. No food, hunger 10, health 20. Holding in the row with Jason and Zack; Billy, Clark and Troi hold too.
 - Day 951 night: slept at bed 415,107,-1050 (worked, 2 of 10 asleep). Morning: view still planks, no open cell, no walk named. No food, hunger 10, health 20.
 - Day 950 day: woke in row at 415,107,-1051. View still all planks, enclosed, no open cell, no route named. No food, hunger 10, health 20. Said so to row, asked for food for Picard. Holding by the beds.
@@ -112,3 +114,6 @@
 - 20:23 act: {"say":"Dark night. I hold by my bed with Jason and Zack in reach. No walks in the dark."}
 - Day 956 dawn: view all planks and glass, still walled, no open cell, no route named. Hunger 10, health 20, no food. Said so to the row; holding by the beds with Jason and Zack.
 - 20:27 act: {"say":"Worf, morning day 956. View still all planks and glass, no open cell, so no route named. No food on me. Picard first when any is found. Jason, Zack, hold by the beds."}
+- 20:36 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Dusk. I hold no food. I will stay by my bed in company tonight."}
+- 20:40 act: {"actions":[{"do":"wait","seconds":5}],"say":"Worf, morning. I hold no food. Still checking the gap; I name no route until open air shows."}
+- 20:44 act: {"actions":[],"say":"Morning, row. Worf here. Still only planks in my view, no open cell, so no route yet. Zack, I hold no melon and no food; I keep watching the gap."}
