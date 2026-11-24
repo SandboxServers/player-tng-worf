@@ -32,3 +32,7 @@
 - 14:07 say: {"text":"Worf, morning of day 937. Still in my bed at 415,107,-1050. Still no food. Checking the gap for open air now; no walk named until I see it."}
 - 14:17 act: {"say":"Worf, dusk day 937. Slept in my bed at 415,107,-1050. Still only planks past the gap, no open air, so no walk named. Holding in the row through the night. No food on me.","actions":[]}
 - 14:18 act: {"actions":[{"do":"note","text":"Dusk day 937, standing on bed 415,107,-1050 in the walled row. Hunger 10, health 20, no food. Sleeping."}],"say":"Dusk. I sleep here in the row. No walk in the dark."}
+- 14:23 say: {"text":"Worf, morning of day 938. Health 20, hunger 10, still no food. I am checking the gap for open air now; no walk named until I see it."}
+- 14:27 say: {"text":"Worf, day 938. Picard, health 2.3: I have no food. I still see only planks past the gap, so no walk is named. Hold in the row; I will watch the gap."}
+- 14:31 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, dusk day 938. Going to my bed in the row. No walk in the dark. Still no food; Picard, hold on."}
+- 14:33 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, night day 938. In my bed in the row. No walk in the dark. Hold till first light."}
