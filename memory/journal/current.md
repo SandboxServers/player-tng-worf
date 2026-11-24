@@ -163,3 +163,8 @@
 - 05:13 act: {"say":"Billy, thank you. Worf is walking to the cows at 339,104,-979 in daylight with Jason and Zack in sight. Follow at the back if you choose. Riker, you may fall in too.","intent":{"goal":"reach_c
 - 05:14 act: {"say":"Worf at 415,107,-1047. Jason, Zack, where are you? I hold here and will not walk alone. Billy, Riker, Lewis: I am in your sight now; name the walk and I will go."}
 - 05:22 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Dusk. Worf goes to bed at 416,107,-1050 with Wesley and Troi near. No walk tonight."}
+- 05:22 act: {"say":"Worf at the bed, 416,107,-1050. Health 20, hunger 12, no food. Beverly, Leonardo, Billy: I still wait for the potatoes owed, in sight. Going to sleep here now.","actions":[{"do":"sleep"}]}
+- 05:27 act: {"say":"Good morning, row. Worf at bed 416,107,-1050, health 20, hunger 12, no food. Beverly, Leonardo, Billy: the potatoes owed to me, hold them in my sight. No walk alone; I wait for a named armed c
+- 05:31 act: {"say":"Daylight walk named: Worf leads, armed with stone sword, to the potatoes at 463,107,-1073. Zack, Jason, Billy: stay in my sight, no one runs ahead. If the way is blocked, we hold.","actions":[
+- 05:31 act: {"say":"The way east is blocked, so we hold here at the bed. Billy, Beverly, Leonardo: bring the potatoes to this row. Hungry, we stay in sight.","actions":[]}
+- 05:39 act: {"say":"Night is here. Worf goes to bed at 416,107,-1050 with Zack and Jason in reach. No walk in the dark.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}]}
