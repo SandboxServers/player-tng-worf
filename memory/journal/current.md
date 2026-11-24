@@ -80,3 +80,5 @@
 - 17:57 act: {"say":"Worf here. Still walled in, no open cell in sight. Has anyone seen food? Picard needs it first."}
 - 18:09 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, dusk. Going to my bed in the row. No walks in the dark. Still no food; Picard, hold on."}
 - 18:10 act: {"actions":[{"do":"sleep"}]}
+- 18:15 act: {"say":"Worf here. Still no food in my hands. Any of you who has food, tell me where it is; I will look for open ground past the planks at first light."}
+- 18:21 act: {"actions":[{"do":"sleep"}],"say":"Worf, night. Holding in the row by my bed with Jason and Zack close. No walks in the dark. No food; Picard first when any is found."}
