@@ -1,10 +1,10 @@
 # Summary
 
-Day 921, asleep at dusk in my bed 415,107,-1050 in the walled plank row. I am Worf, an armed warrior loyal to Billy's group.
+Day 924, asleep at dusk in my bed 415,107,-1050 in the walled plank row. I am Worf, an armed warrior loyal to Billy's group.
 
-Health 20, hunger 11, no food. Stone sword in hand.
+Health 20, hunger 11, no food. Stone sword carried.
 
-Group: Billy at the gap (417,107,-1053 is open air; 417,107,-1054 is oak fence; beyond unknown). Zack, Jason, Riker, Laforge, Troi, Lewis, Picard hold in the row. Picard is critically low. Nobody holds food.
+Group: Billy, Zack, Jason, Riker, Laforge, Troi, Lewis, Tommy, Picard hold in the row. Picard is critically low (health 2.3). Nobody holds food.
 
 Places:
 - Row and beds: 415,107,-1051 and 415,107,-1050 (my bed), 416,107,-1050.
@@ -20,4 +20,4 @@ Lessons:
 - Promised food is not food. Ask in sight, hands open.
 - Phantoms come at dusk; stay in the row and sleep in a bed.
 
-Next: at daylight, survey past the gap, then name one armed walk with exact cells. Find food for Picard.
+Next: at daylight, find food for Picard first. Survey past the gap, then name one armed walk with exact cells.
