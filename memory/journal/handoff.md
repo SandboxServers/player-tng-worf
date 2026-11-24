@@ -1,1 +1,6 @@
-Handoff, day 911, night. At bed 416,107,-1050 with Zack and Jason near. Health 20, hunger 12, no food in hand. Stone sword in hand. East walk to potatoes at 463,107,-1073 was blocked (no path); group holds at the row. Owed: potatoes from Billy, Beverly, Leonardo (none delivered). Owed by me: 3 melon to Zack when I hold melon. Next morning: say position, ask for potatoes in sight, wait for a named daylight walk. No walk alone, none in the dark.
+Handoff, day 913, night. At the row, near bed 416,107,-1050, with Zack and Jason in reach. Health 20, hunger 12, no food. Stone sword in hand, armed.
+Lewis dead at 393,-1047. Macdonald at health 4. Billy, Tommy, Picard, Riker, Troi hold at the row, unarmed, no food.
+Walks blocked: cows at 339,104,-979 (south-west), cows at 434,106,-1113 (north-east, day 912 dawn), potatoes at 463,107,-1073 (east).
+Owed to me: potatoes from Beverly, Leonardo, Billy (none delivered).
+Owed by me: 3 melon to Zack when I hold melon.
+Next: one sleep try at bed 416,107,-1050. At first full light, name one armed daylight walk. No walk in the dark.

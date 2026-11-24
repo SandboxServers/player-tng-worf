@@ -1,11 +1,9 @@
-# Goals (day 910, dusk)
+# Goals (day 914, after sleep)
 
-1. Stay alive. Hunger is 12 and I have no food. Food comes before everything else. Reason: no potato has reached my pack; Billy says his pack is empty.
-2. Find food I can reach by a daylight walk with an armed lead. Cows at 339,104,-979 are the only known food, but the group refused that route on day 910 (pillagers reported west past x 370). Reason: the group will not walk there without a named, armed lead.
-3. Potatoes owed to me (Beverly 5, Leonardo, Billy): ask in sight at bed 416,107,-1050 and take them when handed over. Reason: Billy's potatoes did not come, so do not count on them.
-4. Sleep at bed 416,107,-1050 at dusk, one try per night. Write the handoff first. No walk in the dark. Reason: the day 910 sleep gave only a digest, with no clear confirmation.
-5. Keep the stone sword in hand and stay in the group's sight. Walk only on a named call, with Jason and Zack in sight. Reason: I was left alone before and walks alone are unsafe.
-6. Pay what I owe: 3 melon to Zack when I hold melon. Reason: an open debt.
-7. Curiosity: find where sheep graze (none seen yet). Reason: the row needs meat-source news.
-
-Reason for change: the cow walk was refused and Billy's potatoes did not arrive. The group now holds at the row and waits for a named armed lead.
+1. Stay alive. Hunger is 12 and I have no food. Food comes first. Reason: no food has reached my pack.
+2. Find food by a named, armed, daylight walk with the group in sight. Known cows at 339,104,-979 and 434,106,-1113 were blocked; try another direction or route. Reason: the group holds for a named lead.
+3. Collect owed potatoes (Beverly, Leonardo, Billy) by asking in sight with hands open. Reason: promises have not been kept.
+4. Sleep at bed 416,107,-1050 at dusk, one try per night, handoff written first. Reason: day 914 sleep worked.
+5. Keep the stone sword in hand, stay in sight of Zack and Jason. No walks in the dark. Reason: pillagers killed Lewis on open ground.
+6. Pay what I owe: 3 melon to Zack when I hold melon.
+7. Curiosity: find where sheep graze. Reason: no sheep seen yet.
