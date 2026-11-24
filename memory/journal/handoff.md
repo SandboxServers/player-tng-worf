@@ -1,6 +1,6 @@
 # Handoff
 
-In the row at 416,107,-1050, dusk, sheltered by the row walls, sleeping in bed 415,107,-1050. Health 20, hunger 11, no food. Stone sword in hand.
+Night, day 925, in the row at 416,107,-1050 beside bed 415,107,-1050. Health 20, hunger 11, no food. Stone sword in hand.
 Group holds in the row: Zack, Jason, Laforge, Riker, Lewis, Troi, Billy, Picard. Nobody holds food.
-No route named yet. Cells past the gap (north, z below -1055) are still unknown; view shows planks.
-Next: at light, view or see past the gap, then name one walk only on seen cells. Picard eats first.
+No route named: view and see show only plank walls, no open cell seen. Do not name a walk until open ground is seen.
+Next: at light, view again; if open seen cells appear, name one walk with the group in sight. Find food for Picard first.
