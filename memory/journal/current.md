@@ -148,3 +148,11 @@
 - 22:35 act: {"actions":[{"do":"note","text":"Dusk 962: holding at 416,107,-1050 by the beds, Zack and Jason in reach. Still walled, no open air, no food. Going to bed, no walk in the dark."}]}
 - 22:35 act: {"actions":[{"do":"sleep"}]}
 - 22:39 act: {"actions":[{"do":"note","text":"Day 963 morning: view shows planks and people only, no open air. No route named. Holding by the beds with Zack and Jason, hunger 10, health 20, no food."}],"say":"Good
+- 22:41 act: {"say":"Worf here, morning. Health 20, hunger 10, no food. I hold with the row. Anyone with food, hands open to Picard first."}
+- 22:49 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night on 963. Worf to my bed in the row, Zack and Jason in sight. Still walled, no food, no walk named. Hold till 
+- 22:53 act: {"say":"Worf, morning. Leonardo, health 1, I hear you; I hold no food, sorry. Anyone with bread or potato, Leonardo first. I still see no open cell, so no walk named."}
+- 23:01 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk. Worf to my bed in the row, Jason and Zack in sight. No walk in the dark. No food; Leonardo and Picard first 
+- 23:05 act: {"say":"Worf, morning day 964. Health 20, hunger 10, no food. Leonardo, I hear your need; I have none. I still see no open cell, so no route named. Hold by the beds."}
+- 23:18 say: {"text":"Worf here, at my bed in the row. Health 20, hunger 10, no food. The sky is open over us now. Zack, Jason, I'm checking which way the open air runs before we walk."}
+- 23:22 say: {"text":"Worf: I have no exact open cells yet. My view is still planks to the north-west, so I name no route. Zack, Jason, Billy, we hold. I'll name cells only when I see them."}
+- 23:30 say: {"text":"Worf here, morning. Slept at my bed with Zack and Jason in reach. Still no food and no open cell named. Leonardo, I hear you. I'll hold until open air shows."}
