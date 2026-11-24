@@ -20,5 +20,6 @@ Lessons:
 - View shows only plank walls from the row; no open cell seen yet.
 - Promised food is not food. Ask in sight, hands open.
 - Phantoms come at dusk; stay in the row and sleep in a bed.
+- To sleep: walk onto the bed, then call sleep. Clicking the bed fails.
 
 Next: at light, view past the gap. If open cells appear, name one walk. Find food for Picard first.
