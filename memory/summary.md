@@ -1,10 +1,10 @@
 # Summary
 
-Day 918, asleep at dusk in my white bed 415,107,-1051. I am Worf, an armed warrior loyal to Billy's group, holding in the walled plank row.
+Day 920, asleep at dusk in my white bed 415,107,-1051. I am Worf, an armed warrior loyal to Billy's group, holding in the walled plank row.
 
 Health 20, hunger 11, no food. Stone sword in hand.
 
-Group: Billy at 417,107,-1053 (the only open gap I know). Lewis and Picard are very low. Zack, Jason, Laforge, Riker, Troi hold in sight. Nobody holds food.
+Group: Billy at the gap (417,107,-1053 is open air, but my goto there was blocked). Zack, Jason, Riker, Laforge hold in the row. Lewis and Picard are low. Nobody holds food.
 
 Places:
 - Row and beds: 415,107,-1051 (my bed), 415,107,-1050, 416,107,-1050.
@@ -19,6 +19,6 @@ Lessons:
 - Walks need a named armed call, the group in sight, and full daylight. Name only cells I have confirmed.
 - Promised food is not food. Ask in sight, hands open.
 - Phantoms come at dusk; stay in the row and sleep in a bed.
-- Use on a bed fails; walk onto the bed cell, then sleep.
+- Sleep fails from the wrong cell; walk onto the bed cell, then sleep.
 
-Next: at full daylight, view and survey from a new spot, then name one armed walk with exact cells.
+Next: at full daylight, view and survey past the gap, then name one armed walk with exact cells.
