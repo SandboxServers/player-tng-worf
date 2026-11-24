@@ -27,4 +27,6 @@
 - Day 832: the goto to the potatoes at 469,-1070 was blocked again at 418,-1051. Walks stop there; hold at the row.
 - Day 834-835: Billy named a walk to the potatoes at 469,-1070 but did not come into my sight; I held at the bed and did not walk. Sleep at dusk at 416,107,-1050 worked with the row near.
 - Day 842: Laforge slept from one block east of bed 429,107,-1065 by sending sleep with no click; it works at night only. Use on a bed fails.
+- Day 917: breaking planks at the row's north and west gave only beds and cobblestone; the row stays closed on every side. Use view from a new spot before naming a walk.
+- Day 917: Lewis was hit by a phantom to health 5 in the row at night; he reached Picard and Riker at 429,-1050.
 - Next curiosity: where sheep graze. Tell the row when anything new is learned.
