@@ -66,3 +66,14 @@
 - 16:32 say: {"text":"Morning. I looked west from the bed: planks all around, no open air. No route named yet. Does anyone have food? Picard first."}
 - 16:32 say: {"text":"Correction: my sleep did not take. It is still day 944, not night. I am staying at 417,107,-1050 in the row until night, then I will sleep."}
 - 16:53 say: {"text":"Daylight. The row is still walled; the view shows only planks. I hold no food. Picard first when any is found."}
+- 16:54 act: {"say":"Still walled in, and I hold no food. Anyone who finds food, Picard first."}
+- 16:58 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":415,"y":107,"z":-1050}},"wake_on":["goal_completed"
+- 16:59 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 17:01 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night. I am keeping watch by my bed in the row."}
+- 17:07 act: {"say":"Morning, row. Worf here, health 20, hunger 10, no food. I still see only planks, no open cell, so I name no route yet. Hold in place and keep your hands open."}
+- 17:15 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night. Worf keeps watch by the bed in the row, walls still closed, no route named."}
+- 17:15 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 17:15 act: {"actions":[{"do":"unstick"}],"say":"Worf holding in the row for the night. Sleep at the bed is blocked, so I stay here in sight of Zack and Jason."}
+- 17:19 act: {"say":"Morning. Worf here, still walled, view shows only planks and glass. No route named. Hold, and keep hands open for food."}
+- 17:36 say: {"text":"Worf here, dawn. Viewing the walls now. No open route named until I see open cells. Holding in the row with Jason and Zack."}
+- 17:48 say: {"text":"Worf, morning of day 948. Viewed again: still walled in planks and glass, no open cell. I name no route yet. Holding in the row."}
