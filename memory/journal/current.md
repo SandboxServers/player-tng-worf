@@ -86,3 +86,5 @@
 - 18:22 act: {"say":"Still walled in. Jason and Zack are with me. No open cell yet, so no walk today.","intent":{"goal":"hold_and_watch_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpec
 - 18:23 act: {"actions":[{"do":"note","text":"Day 949 morning: still walled by planks and glass, view all solid. No open cell, no food. Holding by the beds with Jason and Zack."}],"say":"Worf, morning. Still walle
 - 18:28 act: {"actions":[{"do":"note","text":"Day 950 day: still walled, view solid, no food, hunger 10, health 20. Troi, Beverly, Wesley, Billy hold too. No route named."}]}
+- 18:33 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf holding the row tonight. Food first at first light, Picard before anyone."}
+- 18:37 act: {"actions":[],"say":"Worf, morning day 950. Still walled in planks, no open cell in view, so no route named. No food on me. Picard and Billy: hold in the row. Anyone who finds food, Picard first.","in
