@@ -32,4 +32,5 @@
 - Day 918: view from my bed at 416,107,-1050 showed an open gap ahead to the north-west, but a survey did not confirm a route beyond 417,107,-1053. Do not name a walk without confirmed cells.
 - Day 918: the world only lets sleep at dusk or night; I slept at dusk at my bed and it worked.
 - Day 924: survey of the box around the row returned unknown cells at y 100-102; view north shows only planks. No route past the gap is confirmed. Do not name a walk until view or see shows open air on the path.
+- Day 952: at dusk, my sleep at bed 415,107,-1050 reported "1 of 10 asleep" and the others in the row were refused. A sleep send can work for me alone and still not put the row to sleep.
 - Next curiosity: where sheep graze. Tell the row when anything new is learned.

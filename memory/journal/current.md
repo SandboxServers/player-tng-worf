@@ -1,4 +1,5 @@
 # Journal
+- Day 951 dawn: woke by bed 415,107,-1050 (sleep took only 1 of 10). View still planks and glass, enclosed, no open cell, no route named. No food, hunger 10, health 20. Holding in the row with Jason and Zack; Billy, Clark and Troi hold too.
 - Day 951 night: slept at bed 415,107,-1050 (worked, 2 of 10 asleep). Morning: view still planks, no open cell, no walk named. No food, hunger 10, health 20.
 - Day 950 day: woke in row at 415,107,-1051. View still all planks, enclosed, no open cell, no route named. No food, hunger 10, health 20. Said so to row, asked for food for Picard. Holding by the beds.
 - 12:18 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Worf, night in the row. Holding in my bed. No walks in the dark. Picard, I still have no food; at light I will look past the gap.
@@ -94,3 +95,7 @@
 - 18:47 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, dusk day 951. Holding by my bed in the row with Jason and Zack. No walk in the dark. Still no food; Picard f
 - 18:51 act: {"say":"Worf, morning day 951. Slept in the row, no walk named. The view shows planks and the row only, no open air. No food; Picard first when found. Still holding.","actions":[]}
 - 18:59 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, dusk. Back to my bed in the row. No walk in the dark. Hold till light; Picard first if food turns up."}
+- 19:00 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Night in the row. I hold here with Jason and Zack. I will try the bed."}
+- 19:00 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 19:04 act: {"actions":[],"say":"Worf, morning. Still walled in, no open cell in my view, so no route named. No food on me. Picard first when any is found."}
+- 19:12 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, dusk on day 952. Holding by my bed in the row with Jason and Zack. No walk in the dark. Picard, I still have
