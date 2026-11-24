@@ -65,3 +65,4 @@
 - 16:31 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":420,"y":107,"z":-1050}},{"do":"goto","target":{"x":417,"y":107,"z":-1050}}],"say":"Dusk. I am closing the east gap with a plank and going to be
 - 16:32 say: {"text":"Morning. I looked west from the bed: planks all around, no open air. No route named yet. Does anyone have food? Picard first."}
 - 16:32 say: {"text":"Correction: my sleep did not take. It is still day 944, not night. I am staying at 417,107,-1050 in the row until night, then I will sleep."}
+- 16:53 say: {"text":"Daylight. The row is still walled; the view shows only planks. I hold no food. Picard first when any is found."}
