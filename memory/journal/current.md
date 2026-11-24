@@ -83,3 +83,21 @@
 - 00:08 say: {"text":"Good morning. Worf at the bed, 416,107,-1050, with Jason and Zack in sight. Leonardo, bring my potato here; I hold my hands open. Billy, Beverly and Trini, the same when you are in sight."}
 - 00:12 say: {"text":"Billy, thank you. Worf is at the bed 416,107,-1050, hands open. I see you now. Give the potato here."}
 - 00:13 say: {"text":"Billy, I am at 416,107,-1050, standing still, beside the bed. Look toward me; I can see you are close. Hand the potato over."}
+- 00:16 say: {"text":"Worf at bed 416,107,-1050, with Jason and Zack in reach. Hunger 12, no food. Leonardo, I will take your potato at first light, hands open."}
+- 00:20 say: {"text":"Billy, Leonardo: I am at bed 416,107,-1050, hands open, Jason and Zack with me. Walk in; give the potato here and I eat it at once."}
+- 00:22 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1049}}],"say":"Billy, I step one block toward you, to 415,107,-1049, Jason and Zack with me. Hands open. Give the potato when I am in your sight
+- 00:26 say: {"text":"Billy, Beverly first, she is weaker; that is right. I am at 416,107,-1049 with Jason and Zack, hands open. When a potato is free, bring it to me in sight. I will walk only on your named call.
+- 00:30 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Dusk. Worf goes to bed 416,107,-1050 with Jason and Zack near. Billy, Leonardo: I hold my hands open there for the potato at firs
+- 00:30 act: {"actions":[{"do":"sleep"}]}
+- 00:35 act: {"actions":[{"do":"unstick"}],"say":"Worf at 415,107,-1050, by the bed, hands open, holding still. Billy, Leonardo: I am in sight now. Hungry, no food. Give my potato when Beverly is served."}
+- 00:39 act: {"actions":[{"do":"goto","target":{"x":411,"y":107,"z":-1040}}],"say":"Worf moving south-west toward Billy's named call, away from the pillager. Hands open, sword sheathed in hand."}
+- 00:42 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk. Worf going to bed at 415,107,-1050. Billy, Leonardo: potato for Beverly first, then me at first light."}
+- 00:44 act: {"actions":[{"do":"sleep"}]}
+- 00:48 act: {"actions":[],"say":"Morning, day 897. Worf at bed 415,107,-1050, hungry, no food, hands open. Billy, if you can see me, step in and I take the potato after Beverly."}
+- 00:52 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1047}}],"say":"Billy, Worf stepping south to you now, hands open. I am the one with no food."}
+- 00:54 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Billy, I am at 415,107,-1048 and could not see you clearly at dusk. Worf goes to the bed to sleep. Potato at first
+- 00:58 act: {"actions":[{"do":"sleep"}]}
+- 00:58 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1043}}],"say":"Billy, Worf walking to you in daylight at 414,107,-1043, hands open, to take the potato after Beverly."}
+- 01:02 act: {"actions":[],"say":"Worf at 415,107,-1047, hands open, with Zack beside me. Billy, I see you at 414,107,-1044. Beverly first, then me for the potato."}
+- 01:08 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1045}}],"say":"Worf moving one step toward you, Billy, at 414,107,-1045. Hands open. Beverly first."}
+- 01:12 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf going to bed at 415,107,-1050 with Jason and Zack near. Handoff is written."}

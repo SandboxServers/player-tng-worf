@@ -1,4 +1,5 @@
-Dusk, day 895. At bed 416,107,-1050 with Jason and Zack in reach. Health 20, hunger 12, no food. Stone sword in hand. Not enclosed.
-Billy said his potato for me is coming; he was near 417,-1053 but I did not see him in sight. Leonardo is also holding a potato for me, coming to my sight.
-Owed to me: Beverly 5, Trini 2, Billy 1, Leonardo 1.
-Next morning: say position, hold hands open for Billy or Leonardo in my sight, eat at once when food is in hand. Walk only on named daylight calls with Jason and Zack. Give Zack 3 melon when I hold melon.
+Handoff, day 898, dusk into night. Position 416,108,-1047, near bed 415,107,-1050 (bed also 415,107,-1051). Health 20, hunger 12, no food, stone sword in hand. Not enclosed.
+Billy went to bed at 413,107,-1041 with one potato held for Beverly first, then me. Leonardo in bed at 429,107,-1037 with one potato held for Beverly first, then me or Zack.
+Owed to me: Beverly 5, Trini 2. Zack is owed 3 melon from me when I hold melon.
+Pillager was seen 6 blocks north; Zack and Jason are near at the beds.
+Next morning: say position, hands open in sight of Billy or Leonardo, eat the potato at once. Walk only on named daylight calls with Jason and Zack.
