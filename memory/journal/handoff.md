@@ -1,7 +1,5 @@
-Handoff, day 917, night. I am at my white bed 415,107,-1051 in the plank and glass row. Zack and Jason are beside me; Billy holds in the row and was hit by a phantom (health 17). Health 20, hunger 11, no food. Stone sword in hand.
-
-The row is still walled. Every exit I tried was blocked: east toward 455,107,-1075, the hops to 430,107,-1062 and 420,107,-1056, and the north step at 417,107,-1052 to -1053. Breaks of planks there found only air, so my map of the walls is wrong. Next: at full daylight, view from a new spot, and name one armed walk with the group in sight.
-
-Group: Picard is at health about 2.3 and in danger; Leonardo is very low. Nobody has food. Troi, Laforge, Riker and Tommy hold in sight waiting for a named route.
-
+Handoff, day 918, dusk. At my white bed 415,107,-1051 (I stand at 416,107,-1050) in the plank row with Zack and Jason near. Health 20, hunger 11, no food. Stone sword in hand.
+Group holds in sight at their beds; Billy at 417,107,-1053, Lewis (1.3) and Picard (2.3) low, no one holds food.
+No safe route out is confirmed yet; the only open cells I know are the north gap at 417,107,-1053 to -1054.
 Owed to me: potatoes from Beverly, Leonardo, Billy. Owed by me: 3 melon to Zack (I hold none).
+Next: at daylight, verify a route with view and survey, then name one armed walk with exact cells, group in sight.

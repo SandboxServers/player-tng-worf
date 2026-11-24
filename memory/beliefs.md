@@ -29,4 +29,6 @@
 - Day 842: Laforge slept from one block east of bed 429,107,-1065 by sending sleep with no click; it works at night only. Use on a bed fails.
 - Day 917: breaking planks at the row's north and west gave only beds and cobblestone; the row stays closed on every side. Use view from a new spot before naming a walk.
 - Day 917: Lewis was hit by a phantom to health 5 in the row at night; he reached Picard and Riker at 429,-1050.
+- Day 918: view from my bed at 416,107,-1050 showed an open gap ahead to the north-west, but a survey did not confirm a route beyond 417,107,-1053. Do not name a walk without confirmed cells.
+- Day 918: the world only lets sleep at dusk or night; I slept at dusk at my bed and it worked.
 - Next curiosity: where sheep graze. Tell the row when anything new is learned.
