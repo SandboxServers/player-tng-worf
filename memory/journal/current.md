@@ -99,3 +99,13 @@
 - 19:00 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
 - 19:04 act: {"actions":[],"say":"Worf, morning. Still walled in, no open cell in my view, so no route named. No food on me. Picard first when any is found."}
 - 19:12 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, dusk on day 952. Holding by my bed in the row with Jason and Zack. No walk in the dark. Picard, I still have
+- Woke by bed 415,107,-1050, night, dim. Health 20, hunger 10, no food. Still walled. Holding by the bed until first light, then look for food.
+- 19:13 act: {"say":"Troi, I hear you. I am staying by my bed in sight of the row. I have no food; I will look for some at first light.","intent":{"goal":"hold_at_bed_until_light","program":"rest","arguments":{},"
+- 19:17 act: {"say":"Worf, morning of 952. View is still all planks and glass, no open cell, so no route named. No food on me. Picard first when any is found. Jason, Zack, hold by the beds with me."}
+- 19:25 act: {"say":"Worf, day 953. Still only planks and glass in view, no open cell, so no route named. Billy, Lewis, Jason, Zack: hold by the beds. I have no food yet."}
+- 19:37 act: {"say":"Zack, Billy: still walled, no open cell in my view, so I name no route yet. Hold still. Whoever finds food, Picard first."}
+- 19:41 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, night on 953. In my bed in the row with Jason and Zack close. No walk in the dark. Hold till light."}
+- 19:46 act: {"say":"Worf, morning of 954. Still only planks in view, no open cell, so no route named. Zack, Jason, Laforge, Clark: hold by the beds. Anyone with food, Picard and Zack first."}
+- 19:54 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"intent":{"goal":"rest_in_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"li
+- 19:58 act: {"say":"Morning, row. Worf at 418,107,-1051, health 20, hunger 10, no food. View shows only planks all round, no open cell, so no route named yet. Zack, Jason, stay in sight."}
+- 20:23 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}]}
