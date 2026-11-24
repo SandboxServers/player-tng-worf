@@ -119,3 +119,8 @@
 - 20:40 act: {"actions":[{"do":"wait","seconds":5}],"say":"Worf, morning. I hold no food. Still checking the gap; I name no route until open air shows."}
 - 20:44 act: {"actions":[],"say":"Morning, row. Worf here. Still only planks in my view, no open cell, so no route yet. Zack, I hold no melon and no food; I keep watching the gap."}
 - 20:53 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk. Worf goes to bed in the row, in sight of Zack and Jason. No walk in the dark. Still no food."}
+- 21:05 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night in the row. Worf to bed by 415,107,-1050, in sight of Zack and Jason. Still walled, no route named. Billy, I
+- 21:09 act: {"actions":[{"do":"note","text":"Day 958 morning: still walled by planks and glass on every side; view shows no open air. No route named. Holding in the row with Zack in reach."}],"say":"Good morning.
+- 21:17 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1050}}],"say":"Night in the row. Worf going to the bed at 415,107,-1050 from 417,107, with Zack and Jason in sight. Still walled, no route named
+- 21:18 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"At the bed, 417,107. Going to sleep now."}
+- 21:18 act: {"actions":[{"do":"sleep"}]}
