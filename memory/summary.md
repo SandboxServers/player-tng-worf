@@ -1,10 +1,10 @@
 # Summary
 
-Day 920, asleep at dusk in my bed 415,107,-1050 in the walled plank row. I am Worf, an armed warrior loyal to Billy's group.
+Day 921, asleep at dusk in my bed 415,107,-1050 in the walled plank row. I am Worf, an armed warrior loyal to Billy's group.
 
 Health 20, hunger 11, no food. Stone sword in hand.
 
-Group: Billy at the gap (417,107,-1053 is open air; 417,107,-1054 is oak fence; beyond unknown). Zack, Jason, Riker, Laforge, Troi, Lewis, Picard hold in the row. Picard is at health 2.3. Nobody holds food.
+Group: Billy at the gap (417,107,-1053 is open air; 417,107,-1054 is oak fence; beyond unknown). Zack, Jason, Riker, Laforge, Troi, Lewis, Picard hold in the row. Picard is critically low. Nobody holds food.
 
 Places:
 - Row and beds: 415,107,-1051 and 415,107,-1050 (my bed), 416,107,-1050.
