@@ -30,3 +30,4 @@
 - 14:03 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 936. Worf sleeps beside the bed at 417,107,-1050 as Jason did. No walk in the dark."}
 - 14:03 act: {"actions":[{"do":"sleep"}]}
 - 14:07 say: {"text":"Worf, morning of day 937. Still in my bed at 415,107,-1050. Still no food. Checking the gap for open air now; no walk named until I see it."}
+- 14:17 act: {"say":"Worf, dusk day 937. Slept in my bed at 415,107,-1050. Still only planks past the gap, no open air, so no walk named. Holding in the row through the night. No food on me.","actions":[]}
