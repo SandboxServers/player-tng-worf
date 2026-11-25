@@ -12,3 +12,9 @@
 - 13:13 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}}],"say":"Worf: trying the other half of the bed now, Billy and Jason in sight."}
 - 13:17 act: {"actions":[{"do":"note","text":"Day 1007 morning. Survey toward Trini's is ambiguous past x422; no exact open route named by me."}],"say":"Worf: Morning. I have seen no exact open cell past x 422 eit
 - 13:33 act: {"actions":[],"say":"Worf: Morning. I still have no exact open cell past x 422 that I have seen clearly. I name none, so no walk yet. Hold where you are."}
+- 13:39 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Dusk is here. I will try the bed again with Billy and Jason near."}
+- 13:43 act: {"actions":[],"say":"Worf, daylight. Survey: seen open air only at x 420, 421, 422 on z -1051. Past x 422 is still unseen. I name no walk. Holding at my bed with Billy and Jason."}
+- 13:47 act: {"actions":[],"say":"Worf, morning. Exact open cells I have seen: x 420, 421, 422 at z -1051 only. Past 422 I have seen nothing open, so I name no route. Trini, if you can come into sight, say so and 
+- 13:55 act: {"actions":[],"say":"Worf: night has come. I hold at my bed with Billy and Jason in sight. No walk in the dark."}
+- 13:59 act: {"actions":[],"say":"Worf, morning. Still no exact open cell past x 422 seen by me. I name no route. Wesley and Zack, hold in sight; Trini, the potatoes stay with you until a route is named."}
+- 14:07 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}}],"say":"Worf, dusk. Holding at my bed with Billy and Jason near. I will try to rest."}
