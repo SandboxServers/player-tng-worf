@@ -1,4 +1,4 @@
-# Goals (day 1004, after sleep)
+# Goals (day 1005, after sleep)
 
 1. Food: at light, survey toward Trini's bed. When Billy or I see exact open cells, name them, then stand in Trini's sight to receive potatoes: Zack first, Leonardo, then me. Reason: hunger 9, no food.
 2. Find a daylight route with exact open cells seen, with the group in sight and an armed leader. Name no route unseen. Reason: the group waits on a route.
