@@ -159,3 +159,6 @@
 - 23:30 act: {"say":"Worf here, morning. Hunger 10, no food in my pack. I hold only planks and a stone sword. I need food for Leonardo and Picard first. Who has food to share, or knows where melon or crops grow?"}
 - 23:41 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk. Worf goes to my bed in the row with Zack and Jason in sight. Still no food, no open cell. Hold till light."}
 - 23:45 act: {"actions":[{"do":"note","text":"Day 966 dim. View: enclosed except a gap ahead, but the gap is filled with people (M), no open cell named. Holding by bed. No food."}],"say":"Morning, Worf at my bed. 
+- 23:58 act: {"say":"Worf, daylight. Health 20, hunger 9, no food. Still walled. I name no route until I see open cells. Anyone holding food, Leonardo and Picard first.","intent":{"goal":"hold_at_bed_daylight","pr
+- 00:06 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk. Worf to my bed in the row, Zack and Jason in sight. Still walled, no food, no open cell named. Hold till lig
+- 00:10 act: {"say":"Zack, Jason: no melon route yet. Still only planks in my view, no open cell named. I hold no food. Hold at the beds with me."}

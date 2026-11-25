@@ -1,7 +1,9 @@
-# Handoff, day 966 dusk
+# Handoff, day 967
 
-Worf at bed 415,107,-1050 in the walled plank row, sleeping there. Zack and Jason in reach, Wesley in sight. Health 20, hunger 10, no food. Stone sword kept.
+Worf at bed 415,107,-1050 in the walled plank row. Zack and Jason in reach. Health 20, hunger 9, no food. Stone sword kept.
 
-Still walled by planks. The gap ahead is filled with people, so no open cell is named and no daylight route exists. Picard and Leonardo still need food. Owed potatoes (Beverly, Leonardo, Billy) not delivered. Owe Zack 3 melon when I hold melon.
+Still enclosed by planks and glass; no open cell seen, so no walk is named. Sleep at the bed was refused once because it was not night yet; try again at dusk.
 
-Next: at first light view again. Name exact open cells only when seen. Find food.
+Owed: potatoes from Beverly, Leonardo, Billy (not delivered). Owe Zack 3 melon when I hold melon.
+
+Next: at light, view again. Name exact open cells only when seen. Find food for Leonardo and Picard first.
