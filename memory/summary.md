@@ -5,7 +5,7 @@ I am Worf, an armed warrior (stone sword) loyal to Billy's group.
 Where: bed 416,107,-1050 in the walled plank row, with Jason and Zack in reach.
 What I hold: stone sword, 2 planks, 2 sticks, a phantom membrane. No food. Health 20, hunger 9.
 
-Slept at dusk day 977 at my bed; sleep worked. Still walled by planks; no open air confirmed, no walk named.
+Slept at dusk day 977 at my bed; sleep worked. Still walled by planks; no open air confirmed, no walk named. Woke day 977 still hungry (9), holding for the row to see full daylight before I name a walk.
 
 Places:
 - Bed 416,107,-1050 (sleep has worked)
