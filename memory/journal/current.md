@@ -16,3 +16,7 @@
 - Day 993 morning: Riker asked for a walk east to potatoes; I said no route yet. Leonardo at health 1, Trini holds his potatoes. I have no food. Still holding in sight.
 - 08:31 act: {"say":"Worf, morning 992. The north-west gap is still walled past the row; only our own people stand in it. No route named. I have no food either. Zack first when anyone has food. I hold in sight."}
 - 08:43 act: {"say":"Worf, morning. No route named yet: the row is still walled and I have not seen open air to the east. Riker, hold until I name one in daylight with you in sight."}
+- 08:55 act: {"say":"Worf, dusk. Still no daylight route named; the row is walled. I have no food. No walk tonight. Holding at my bed with Billy, Zack and Jason in sight."}
+- Day 994 light: no food held, health 20, hunger 9. Holding at white bed 416,107,-1050 in sight of Billy, Zack, Jason, Wesley. No route named; the row is still walled on
+- 09:08 act: {"actions":[],"say":"Riker, Billy, Jason: I still have no route and no food. I hold at my bed with you in sight until I see open air and a clear way."}
+- 09:12 act: {"actions":[],"say":"Worf here, day 994. I hold no food and no route yet. I am still holding at the row with all of you in sight. Troi, Laforge, Zack, Billy, I hear you."}
