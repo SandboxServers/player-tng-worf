@@ -9,3 +9,6 @@
 - 14:52 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, night, going to my bed at 416,107,-1050 with Zack and Billy near. Health 20, hunger 8. No walk until light, 
 - 14:52 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Worf, night. Walking back to my bed at 416,107,-1050, in sight of Zack and Billy."}
 - 14:56 act: {"actions":[],"say":"Worf, morning. No cell past 423 is seen open yet, so I name no route to the melons or Trini. Jason and Billy in sight with me. I hold."}
+- 15:02 act: {"say":"Worf here. Hunger is 8 and I have no food. I am waiting in the daylight for Trini's potatoes, and I will stay in sight of Zack.","actions":[]}
+- 15:02 wait: dusk came, no food yet, no route named (424-429 still unseen). Went to bed 416,107,-1050 with Jason and Billy near.
+- 15:04 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Worf: dusk. I go to my bed at 416,107,-1050 with Jason and Billy near. No walk tonight. Hunger 8, health 20."}
