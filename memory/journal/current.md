@@ -176,3 +176,13 @@
 - 00:49 act: {"actions":[],"say":"Billy, I see no open cell past the people yet, so I name none. Stand at 416,107,-1050 beside me. Wesley, Jason, Zack: hold in sight."}
 - 00:57 act: {"actions":[],"say":"Daylight. I still see no open cell past us, so no walk is named. Billy, Lewis, Wesley: hold in sight of the beds. Picard, Leonardo, we need food first."}
 - 01:05 act: {"actions":[],"say":"Morning, day 970. I see no open cell yet, so still no walk named. Billy, Zack, Jason, hold at the beds. Anyone who sees food, say where."}
+- 01:10 act: {"actions":[],"say":"Worf here, at my bed in the row. Holding through the night with Jason and Zack. No walks in the dark. At light I will view the gap."}
+- 01:14 act: {"actions":[],"say":"Worf, daylight. Riker, Troi, Laforge, Billy: I hold at the beds with my stone sword. I am viewing the gap now and will name only cells I see open."}
+- 01:18 act: {"actions":[],"say":"Billy, Riker, Troi: I see no open cell yet, so I name no walk. Hold at the beds. The moment I see open air I will name the cells."}
+- 01:22 act: {"actions":[{"do":"sleep"}],"say":"Night again in the row. Worf holds at the bed with Jason and Zack in sight. No walk in the dark. No open cell named."}
+- 01:26 act: {"actions":[],"say":"Worf, morning day 971. The gap is full of people, not open air, so I name no walk. Jason, Zack, Billy, Riker: hold at the beds. Anyone holding food, Leonardo and Picard first."}
+- 01:34 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Worf to bed at 415,107,-1050, Jason and Zack in sight. No walk in the dark. Still walled, no food."}
+- 01:34 act: {"say":"Worf awake at the bed, dusk. Not enclosed now, but no walks in the dark. Jason and Zack still in sight. No food yet."}
+- 01:38 act: {"say":"Worf at the bed, morning. View again: walls of planks, the gap is full of people, no open air cell. So no route named. Holding here with Jason and Zack. Still no food."}
+- 01:46 act: {"say":"Zack, Jason: morning, day 972. Viewed again: still planks, and the gap is full of people. No open air cell, so no route named yet. Holding at the bed with you in sight. Hunger 9, no food."}
+- 01:50 act: {"say":"Dusk. Worf to bed at 415,107,-1050, Jason and Zack in sight. No walk in the dark. Still walled, no food."}
