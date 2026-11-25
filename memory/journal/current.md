@@ -7,3 +7,11 @@
 - Day 1015: survey z -1051, y 107-109: air 420-423 at y107, planks at 431 y108-109, 424-429 still unknown. No route named by anyone. Hunger 8. Holding."}
 - 16:18 act: {"say":"Worf, at 415,107,-1051, health 20, hunger 8, no food. Trini, Zack: when light is full, I ask for one potato, hands open. I walk only on cells seen open."}
 - 16:22 act: {"say":"Worf: view shows planks on every side here, so I name no open cell. Trini, no route from me yet. I hold at the bed with Zack and Billy in sight.","intent":{"goal":"hold_at_row_bed","program":"
+- 16:34 act: {"say":"Worf, day 1016, at the bed, health 20, hunger 8. Billy, I see no open cell past 423 either; my view is planks. I name none. Still holding, hands open for potatoes."}
+- 16:51 act: {"say":"Worf, day 1017, hunger 8, health 20. Zack, I see no open cell past 423 either. I name none. I hold in sight and walk nothing until one is confirmed open and joined."}
+- 17:03 act: {"say":"Worf, day, at the row, health 20, hunger 8. Trini, I see planks too. No open cell is named by me. I hold in sight with Zack and Jason.
+- Day 1018 daylight: survey 420-429 at z -1051 shows air only at 420-423 y107; 424-429 unknown; view is planks. Said hands open for one potato when a route is confirmed. No route named. Holding in sight.
+- Dusk 1018: night is coming. Zack, Trini, Billy each name no open cell past 423. Still at the bed with Zack, Jason, Billy in sight. Walking nothing in the dark. Hunger 8, health 20."}
+- 17:07 act: {"actions":[{"do":"note","text":"Day 1018 daylight: survey 420-429 at z -1051 shows air only at 420-423 y107; 424-429 unknown; view is planks. No open route named."}],"say":"Worf, day 1018, health 20,
+- 17:19 act: {"actions":[{"do":"note","text":"Day 1018: Trini names plank 428,107,-1051 as the cell to break. I have not seen it; my survey 424-429 is unknown. I will not break anything on her word alone."}],"say"
+- 17:27 act: {"actions":[{"do":"note","text":"Day 1019 morning: Jason looked east in daylight and sees planks on every side, nothing open. No cell named open. I hold in sight at the bed, health 20, hunger 8."}],"s
