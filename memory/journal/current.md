@@ -30,3 +30,6 @@
 - 22:24 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Dusk now. I go back onto the bed at 415,107,-1050 to rest for the night, still in the row's sight."}
 - 22:24 act: {"actions":[{"do":"sleep"}]}
 - 22:28 act: {"actions":[],"say":"Worf, morning 1034, at the bed 415,107,-1050, health 20, hunger 8. Thank you, Billy. Trini, I still cannot see you past the planks. Leonardo, name your cell and I will help look f
+- 22:40 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 22:44 act: {"actions":[],"say":"Worf, morning 1035, at the bed 415,107,-1050, health 20, hunger 8. Trini, I am in Billy's and Jason's sight, not yours. I name no open cell either. Keep my potato until someone se
+- 22:52 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Worf, night 1035, going to my bed to sleep. Hunger 8, no food. Still holding for a named open cell in daylight."}
