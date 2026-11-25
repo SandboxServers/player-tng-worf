@@ -40,4 +40,6 @@
 - Day 979: the row is still closed by planks; view showed no open cell. Holding by the beds is safe but leaves hunger at 9 with no food found.
 - Day 984: the plank at 416,107,-1052 opens onto glass pane, not air. Opening it confirmed nothing about a route. Sleep at night worked on the second try after a blocked first try.
 - Day 987: view from bed 416,107,-1050 shows a gap up-left and ahead, still unconfirmed as open air. Dusk-to-night sleep at 416,107,-1050 worked after one "not night" refusal in the morning. Thunder came and went; no harm.
+- Day 996: the row group (Billy, Zack, Jason, Riker, Laforge, Troi, Tommy, Wesley) holds at the beds every day waiting for my named route. I still have none confirmed. Naming one without seen open cells has failed before; keep holding until view or see shows air.
+- Day 996: sleep at dusk-to-night at 416,107,-1050 worked again with company near.
 - Next curiosity: where sheep graze. Tell the row when anything new is learned.
