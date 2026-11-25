@@ -38,4 +38,5 @@
 - Day 976: view from bed 416,107,-1050 at dawn still showed only planks; the gap ahead was not open air. Sleep at dusk worked at 416,107,-1050 with Jason and Zack near.
 - Day 978-979: sleep at dusk was refused as "not night" at the first try; it worked after night fell (day 979, bed 417,107,-1051). Wait for full night, then sleep once.
 - Day 979: the row is still closed by planks; view showed no open cell. Holding by the beds is safe but leaves hunger at 9 with no food found.
+- Day 984: the plank at 416,107,-1052 opens onto glass pane, not air. Opening it confirmed nothing about a route. Sleep at night worked on the second try after a blocked first try.
 - Next curiosity: where sheep graze. Tell the row when anything new is learned.
