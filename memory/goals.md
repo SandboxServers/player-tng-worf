@@ -1,6 +1,6 @@
-# Goals (day 1000, night)
+# Goals (day 1001, night)
 
-1. Food: at first light, view from the row, then stand in Trini's sight and receive potatoes. Zack first (hunger 15), then Leonardo, then me. Reason: no food held, hunger 9.
+1. Food: at light, view from the row. When Billy or I see open cells, name them exactly, then stand in Trini's sight and receive potatoes: Zack first (hunger 15), Leonardo, then me. Reason: no food, hunger 9.
 2. Find a daylight route with exact open cells seen by view, with the group in sight and an armed leader. Name no route unseen. Reason: the group waits on a route.
 3. Stay alive: keep the stone sword, no walks in the dark, sleep by the beds with company. Reason: this has kept me at health 20.
 4. Pay 3 melon to Zack when I hold melon. Reason: owed since day 936.
