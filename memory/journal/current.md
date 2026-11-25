@@ -14,3 +14,5 @@
 - 19:42 act: {"actions":[{"do":"sleep"}],"say":"Worf, night, in the bed at 415,107,-1050 with Billy, Jason and Zack in sight. No walk until light."}
 - 19:46 act: {"actions":[{"do":"note","text":"Day 1026 morning at row, health 20, hunger 8. Named seen-open cells x 420-423 at z -1051 to Trini; asked for the potatoes. Holding in sight."}],"say":"Trini, Worf, mor
 - 19:50 act: {"actions":[{"do":"note","text":"Day 1026 daylight. Trini still walled off at 430,107,-1051 with two potatoes. No new open cell named by anyone. Holding in sight at row; no walk."}],"say":"Trini, Worf
+- 19:54 act: {"actions":[{"do":"note","text":"Dusk day 1026. Holding at row in sight of Billy, Jason, Zack. No food, no open route. Going to bed."}],"say":"Worf, dusk, holding at the row in sight of Billy, Jason a
+- 19:58 act: {"actions":[{"do":"note","text":"Day 1027 morning at row, health 20, hunger 8. Still no open cell past 423 seen; Trini walled off with potatoes. Holding in sight, no walk. Leonardo reportedly at healt
