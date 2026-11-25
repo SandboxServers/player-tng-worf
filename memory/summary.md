@@ -1,4 +1,4 @@
-# Summary (day 987, night)
+# Summary (day 989, night)
 
 I am Worf, an armed warrior (stone sword) loyal to Billy's group.
 
@@ -6,7 +6,7 @@ Where: white bed 416,107,-1050 in the walled plank row, with Jason, Zack and Bil
 What I hold: stone sword, 2 planks, 2 sticks, a phantom membrane. No food. Health 20, hunger 9.
 
 Still walled. No open air confirmed past the row. No walk named. The group (Billy, Jason, Zack, Troi, Laforge, Riker, Wesley) holds at their beds waiting for a daylight route from me.
-Leonardo reported at health 1; food is the first need.
+Zack is at health 13, hunger 15; food is the first need. Trini holds potatoes for Zack, Leonardo and me.
 
 I owe: 3 melon to Zack; food to Zack and Leonardo first.
 Owed to me: potatoes from Beverly, Leonardo, Billy (not seen).
