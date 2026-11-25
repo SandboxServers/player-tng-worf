@@ -6,3 +6,5 @@
 - 04:34 act: {"actions":[{"do":"wait","seconds":120}]}
 - 04:37 act: {"actions":[{"do":"wait","seconds":240}]}
 - 04:41 act: {"say":"Worf, day 980, health 20, hunger 9, no food. Still walled by planks; no open air to name. Holding by my bed with Jason and Zack in sight.","actions":[{"do":"wait","seconds":240}]}
+- 04:52 view: still walled by planks on all sides, no open air. Said hold to group. Waiting at bed with Jason and Zack, no food.
+- 04:49 say: {"text":"Worf, morning of 981. Health 20, hunger 9, no food. Holding at my bed with Jason and Zack. I will look at the walls in daylight and name any open air I see before I walk."}
