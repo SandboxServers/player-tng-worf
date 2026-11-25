@@ -13,3 +13,7 @@
 - 15:02 wait: dusk came, no food yet, no route named (424-429 still unseen). Went to bed 416,107,-1050 with Jason and Billy near.
 - 15:04 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Worf: dusk. I go to my bed at 416,107,-1050 with Jason and Billy near. No walk tonight. Hunger 8, health 20."}
 - 15:05 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Night in the row. I will rest here with Jason and Billy near."}
+- 15:09 act: {"actions":[],"say":"Worf, daylight. Trini, Zack: I am at my bed 416,107,-1050, hunger 8, no food. I hold here in sight and ask for a potato when you are in sight. I name no route past 423."}
+- Day 1012 light: at bed 416,107,-1050 with Billy and Jason near, hunger 8. Trini at 430 cannot see me, and no route past 423 is named, so nobody walks. Said so in the open and I hold, waiting for Trini to come into sight.
+- 15:16 act: {"actions":[],"say":"Worf, daylight, at my bed 416,107,-1050. Survey: 424-429 at z -1051 still unseen. No route named. Trini, Zack: I hold in the row and will take food when you come into sight."}
+- 15:20 act: {"actions":[{"do":"sleep"}],"say":"Worf, night, at my bed 416,107,-1050 with Billy and Jason near. Hunger 8, no food. No walk until light."}

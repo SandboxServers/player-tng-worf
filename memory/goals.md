@@ -1,6 +1,6 @@
-# Goals (day 1009, after sleep)
+# Goals (day 1012, after sleep)
 
-1. Food: at light, survey 424-429 at z -1051. Name only exact seen-open cells, then stand in Trini's sight to receive potatoes: Zack first, then me. Reason: hunger 8, no food.
+1. Food: at light, stand in sight of Trini or Zack and ask for a potato. Survey 424-429 at z -1051 again. Name only exact seen-open cells. Reason: hunger 8, no food.
 2. Find a daylight route with seen-open cells, the group in sight, and an armed leader. Name no route unseen. Reason: the group waits on a route.
 3. Stay alive: keep the stone sword, no walks in the dark, sleep with company near the row. Reason: this has kept me at health 20.
 4. Pay 3 melon to Zack when I hold melon. Reason: owed since day 936.
