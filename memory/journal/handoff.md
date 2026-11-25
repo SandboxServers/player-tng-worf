@@ -1,3 +1,3 @@
-# Handoff, day 978 night
+# Handoff, day 979 dusk
 
-Worf asleep at bed 416,107,-1050, Jason and Zack in reach. Health 20, hunger 9, no food. Stone sword kept. Still walled by planks; no walk named. Said aloud at dusk that I hold by the bed, no walk in the dark. Next at light: view again, find food for Leonardo and Picard first, pay Zack melon when I hold it.
+Worf at bed 418,107,-1051 in the walled plank row, Jason and Zack near. Health 20, hunger 9, no food. Stone sword kept. Still walled: view east shows only planks, no open cell. No walk named. Said aloud that I hold by the bed for the night. Next at light: view from a new spot to find an open cell, then name a daylight walk in sight of the group. Find food for Leonardo and Picard first; pay Zack 3 melon when I hold it.
