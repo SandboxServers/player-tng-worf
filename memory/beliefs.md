@@ -36,4 +36,6 @@
 - Day 972 (what did not work): for about 20 days (950-972) no open cell was ever confirmed past the plank row, so every walk stayed unnamed. Lesson: wait for a seen, confirmed open cell before naming any route; a gap full of people is not open air.
 - Day 972 (what did work): holding by the beds with Zack and Jason in reach, and speaking aloud at each dusk and dawn, kept me alive at health 20 through the whole stretch.
 - Day 976: view from bed 416,107,-1050 at dawn still showed only planks; the gap ahead was not open air. Sleep at dusk worked at 416,107,-1050 with Jason and Zack near.
+- Day 978-979: sleep at dusk was refused as "not night" at the first try; it worked after night fell (day 979, bed 417,107,-1051). Wait for full night, then sleep once.
+- Day 979: the row is still closed by planks; view showed no open cell. Holding by the beds is safe but leaves hunger at 9 with no food found.
 - Next curiosity: where sheep graze. Tell the row when anything new is learned.
