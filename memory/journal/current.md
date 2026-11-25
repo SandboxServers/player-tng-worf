@@ -34,3 +34,4 @@
 - 22:44 act: {"actions":[],"say":"Worf, morning 1035, at the bed 415,107,-1050, health 20, hunger 8. Trini, I am in Billy's and Jason's sight, not yours. I name no open cell either. Keep my potato until someone se
 - 22:52 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Worf, night 1035, going to my bed to sleep. Hunger 8, no food. Still holding for a named open cell in daylight."}
 - 22:57 act: {"actions":[],"say":"Worf, morning 1036, at 416,107,-1050, health 20, hunger 8. I see only planks and people, no open cell past 423. I still walk nowhere. Trini, keep my potato."}
+- 23:29 say: {"text":"Worf, daylight 1037, at 416,107,-1050, health 20, hunger 8. Trini, I see no open cell either. Leonardo's need is greater, so the potato goes to him first."}
