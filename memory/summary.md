@@ -10,6 +10,6 @@ Owe: 3 melon to Zack. Owed to me: potatoes from Beverly, Leonardo, Billy.
 
 Lessons:
 - A walk needs exact cells seen open, full daylight, the group in sight, and an armed leader.
-- The survey shows only what I have seen. East of x=420 is unknown, so no route yet.
+- East of x=420 is unknown, so no route yet.
 - A promise of food is not food. Ask in sight, hands open.
 - Sleeping at the bed works with company near.
