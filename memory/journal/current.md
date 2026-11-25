@@ -1,5 +1,5 @@
 # Journal
-- 10:30 act: {"say":"Zack, Billy, I hold no food. I will look for some in daylight, staying with the group."}
-- Day 998 waking 646. Slept at bed; health 20, hunger 9, no food. Group near in row (Billy, Zack, Jason). Plan: find food in daylight, give to Zack first, then Leonardo. No route named yet.
-- 10:34 act: {"say":"Worf here. The view north-west shows only walls and people; no open cell named yet. I hold no food. No walk until we see air."}
-- Viewed the north-west gap: only walls and people, no open cell. Laforge sees only planks west. Holding at bed, waiting for air to be seen from another side.
+- Day 998 waking 647. Night, dim, at white bed 416,107,-1050 with Billy, Zack, Jason near. Health 20, hunger 9, no food. Riker holds at his bed, no walk till a daylight route is named. Said I hold until daylight and will name exact cells first.
+- Next: at light, view the gap from another side; food first (Zack, then Leonardo).
+- Day 999 morning. View from my bed toward the NW gap: only walls and people, no open cell. No route named. Holding at bed; Trini holds 2 potatoes for Zack and Leonardo.
+- 10:47 say: {"text":"Morning. Worf here at my bed. I will look at the gap from this side before I name any route. Zack, Leonardo first for food; I hold none yet."}
