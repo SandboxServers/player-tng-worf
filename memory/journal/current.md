@@ -10,3 +10,4 @@
 - 19:33 act: {"actions":[],"say":"Trini, Worf here. I thank you for the potatoes. I see no open cell past 423 either, so I hold here in sight. Zack first, as you said."}
 - 19:37 act: {"actions":[],"say":"Trini, Worf. The only cells I have seen open are x 420 to 423 at z -1051. Nothing past 423. Come to 423 if you can reach it safely, and I will meet you there with my sword. Zack, 
 - 19:41 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Trini, I see no way through the planks at 424 to 429 either, so I will break none blind. It is night now. I sleep in the bed at t
+- 19:41 act: {"say":"Worf, night, holding at the row in sight of Zack, Jason and Billy. No walk until light. At light I will ask Trini for the potatoes, hands open.","intent":{"goal":"hold_until_light","program":"
