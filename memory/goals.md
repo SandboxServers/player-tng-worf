@@ -1,8 +1,8 @@
-# Goals (day 965, night)
+# Goals (tidied, day 972)
 
-1. Find food and give it to Leonardo first, then Picard. Reason: Leonardo was at health 1 with hunger 17 this morning, the most urgent need in the row.
-2. Open or find a way past the gap. Name exact open cells and one daylight walk with the group in sight once seen. Reason: the group waits for a named route, and none is seen yet.
-3. Stay alive: keep the stone sword, no walks in the dark, hold by the beds at night. Reason: the row holds in sight of me.
-4. Collect owed potatoes (Beverly, Leonardo, Billy) by asking in sight. Reason: promises not kept.
-5. Pay 3 melon to Zack when I hold melon. Reason: owed.
+1. Find food and give it to Leonardo first (health 1 at day 963), then Picard (health 2.3 at day 938). Reason: they are the most urgent needs; I hold no food.
+2. Find a confirmed open cell past the plank row, then name one daylight walk with the group in sight. Reason: the group waits for a named route; none has been confirmed in 20 days.
+3. Stay alive: keep the stone sword, no walks in the dark, hold by the beds at night with Zack and Jason in reach. Reason: this has kept me at health 20.
+4. Collect the potatoes owed to me (Beverly 5, Leonardo, Billy) by asking in sight with hands open. Reason: promised, never delivered.
+5. Pay 3 melon to Zack when I hold melon. Reason: owed since day 936; I have no melon yet.
 6. Curiosity: find where sheep graze; ask Riker. Reason: no sheep seen yet.

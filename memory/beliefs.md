@@ -4,7 +4,7 @@
 - travel takes target as a nested {"x","y","z"} object. A flat position is rejected.
 - trade_wait programs are not available in this phase.
 - Sleep works only at night. A sleep reached after dawn is refused as "not night". Go to the bed as soon as dusk starts. (Day 873: by day sleep is refused every time.)
-- Sleep at bed 415,107,-1050 and 416,107,-1050 has worked many nights, and at 416,107,-1051 once. Beds -1036, -1037 often say "the way was blocked".
+- Sleep at bed 415,107,-1050 and 416,107,-1050 has worked on many nights, and at 416,107,-1051 once. Beds -1036, -1037 often say "the way was blocked". Day 951-961: sleep at 415,107,-1050 was blocked on several nights; it worked on others.
 - Use on a bed fails; just goto the bed and sleep.
 - Phantoms come at dusk. Carry a sword.
 - Pillagers shoot from the north-west and south of the row (day 769). Billy died to them at 411,-1066. Stay out of their line.
@@ -33,4 +33,6 @@
 - Day 918: the world only lets sleep at dusk or night; I slept at dusk at my bed and it worked.
 - Day 924: survey of the box around the row returned unknown cells at y 100-102; view north shows only planks. No route past the gap is confirmed. Do not name a walk until view or see shows open air on the path.
 - Day 952: at dusk, my sleep at bed 415,107,-1050 reported "1 of 10 asleep" and the others in the row were refused. A sleep send can work for me alone and still not put the row to sleep.
+- Day 972 (what did not work): for about 20 days (950-972) no open cell was ever confirmed past the plank row, so every walk stayed unnamed. Lesson: wait for a seen, confirmed open cell before naming any route; a gap full of people is not open air.
+- Day 972 (what did work): holding by the beds with Zack and Jason in reach, and speaking aloud at each dusk and dawn, kept me alive at health 20 through the whole stretch.
 - Next curiosity: where sheep graze. Tell the row when anything new is learned.
