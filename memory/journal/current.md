@@ -12,3 +12,4 @@
 - 15:02 act: {"say":"Worf here. Hunger is 8 and I have no food. I am waiting in the daylight for Trini's potatoes, and I will stay in sight of Zack.","actions":[]}
 - 15:02 wait: dusk came, no food yet, no route named (424-429 still unseen). Went to bed 416,107,-1050 with Jason and Billy near.
 - 15:04 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Worf: dusk. I go to my bed at 416,107,-1050 with Jason and Billy near. No walk tonight. Hunger 8, health 20."}
+- 15:05 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Night in the row. I will rest here with Jason and Billy near."}
