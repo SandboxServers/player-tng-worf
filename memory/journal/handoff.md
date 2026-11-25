@@ -1,7 +1,9 @@
-# Handoff, day 1005 night
+# Handoff, day 1007
 
-Standing in the walled plank row near my white bed 415,107,-1050, with Billy, Jason and Zack within a few blocks. Health 20, hunger 8, no food. Stone sword kept. No errand running.
+Standing at my white bed 416,107,-1050 in the row, with Billy, Jason and Zack in sight. Health 20, hunger 8, no food. Stone sword kept. No errand running.
 
-Sleep has failed three times: "the way was blocked" at the bed, and "that block is a bed" on use. Not slept. days_since_sleep is 0.
+Bed use refused twice ("that block is a bed"). Sleep tool gives only partial rest. days_since_sleep 1.
 
-Next: at light or when the bed clears, try the bed again with company near. Owed: 3 melon to Zack. Owed to me: potatoes from Beverly, Leonardo, Billy. Trini holds 2 potatoes at 430,107,-1051.
+No route named past x422; survey unclear. Trini holds 2 potatoes at 430,107,-1051 for Zack, then me. Owed: 3 melon to Zack; potatoes from Beverly, Leonardo, Billy.
+
+Next: at light, survey again toward Trini's and name exact open cells only if seen. Then try the bed again with company near.
