@@ -1,9 +1,9 @@
-# Handoff, day 1009 dusk
+# Handoff, day 1009 dusk (waking 664)
 
-Standing at my white bed 416,107,-1050 in the row, with Billy and Jason in sight. Health 20, hunger 8, no food. Stone sword kept. No errand running, no walk.
+At my white bed 416,107,-1050 in the row, with Billy, Jason and Zack in sight. Health 20, hunger 8, no food. Stone sword kept. No errand running, no walk.
 
-Bed use refused again ("that block is a bed"). Survey: exact open air only at x 420-422, z -1051. Nothing past 422 seen. No route named.
+Seen open: x 416-422 at z -1051, and 423. Unseen: 424-429. No route named to Trini.
 
-Trini holds 2 potatoes at 429,107,-1051 for Zack, then me. Owed: 3 melon to Zack; potatoes from Beverly, Leonardo, Billy.
+Trini holds 2 potatoes at 430,107,-1051 for Zack, then me. Owed: 3 melon to Zack; potatoes from Beverly, Leonardo, Billy.
 
-Next: at light, survey again toward Trini's. Name exact seen cells only. Try the bed again with company.
+Next at light: survey 424-429 at z -1051 again. Name only exact seen-open cells. Then stand in sight with Zack and go to Trini.
