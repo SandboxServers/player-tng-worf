@@ -1,18 +1,1 @@
 # Journal
-- 19:15 act: {"actions":[{"do":"note","text":"Day 1024 daylight at row. Hunger 8, health 20. Asking Zack and Jason for food; no route named yet."}],"say":"Zack, Jason, Billy: I have hunger 8 and no food. Hands ope
-- Day 1024 daylight at the row, 416,107,-1050. Hunger 8, health steady at 20. Asked Zack, Jason and Billy aloud for one potato, hands open, and said I would hold in sight. No answer yet. No food, no new route.
-- Answers: Zack, Jason and Billy have no food to spare; Zack is at health 13, hunger 14. No one has named an open cell east past 423, so no walk. Holding at the row bed in sight of the group. Deanna (Troi) is at her bed nearby.
-- Night, day 1025. Zack, Jason and Billy are in beds at the row, in sight. Trini is in bed and keeps two potatoes for me at light. Still hunger 8, health 20, no walk. Going to sleep near the row.
-- Slept at the row bed in company. Nothing new overnight: no food, no open route named. Trini keeps two potatoes for me at light. Next: at light, stay in sight and ask Trini for them, naming only seen-open cells.
-- 19:28 act: {"say":"Night at the row. I hold here in sight of Zack, Jason and Billy, and will ask for a potato at light.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}]}
-- 19:28 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}}]}
-- 19:29 act: {"actions":[{"do":"note","text":"Day 1025 morning at the row, health 20, hunger 8. Holding in sight, no walk. Asked for food."}],"say":"Worf, morning, at the row, health 20, hunger 8, no food. Zack, B
-- 19:33 act: {"actions":[],"say":"Trini, Worf here. I thank you for the potatoes. I see no open cell past 423 either, so I hold here in sight. Zack first, as you said."}
-- 19:37 act: {"actions":[],"say":"Trini, Worf. The only cells I have seen open are x 420 to 423 at z -1051. Nothing past 423. Come to 423 if you can reach it safely, and I will meet you there with my sword. Zack, 
-- 19:41 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Trini, I see no way through the planks at 424 to 429 either, so I will break none blind. It is night now. I sleep in the bed at t
-- 19:41 act: {"say":"Worf, night, holding at the row in sight of Zack, Jason and Billy. No walk until light. At light I will ask Trini for the potatoes, hands open.","intent":{"goal":"hold_until_light","program":"
-- 19:42 act: {"actions":[{"do":"sleep"}],"say":"Worf, night, in the bed at 415,107,-1050 with Billy, Jason and Zack in sight. No walk until light."}
-- 19:46 act: {"actions":[{"do":"note","text":"Day 1026 morning at row, health 20, hunger 8. Named seen-open cells x 420-423 at z -1051 to Trini; asked for the potatoes. Holding in sight."}],"say":"Trini, Worf, mor
-- 19:50 act: {"actions":[{"do":"note","text":"Day 1026 daylight. Trini still walled off at 430,107,-1051 with two potatoes. No new open cell named by anyone. Holding in sight at row; no walk."}],"say":"Trini, Worf
-- 19:54 act: {"actions":[{"do":"note","text":"Dusk day 1026. Holding at row in sight of Billy, Jason, Zack. No food, no open route. Going to bed."}],"say":"Worf, dusk, holding at the row in sight of Billy, Jason a
-- 19:58 act: {"actions":[{"do":"note","text":"Day 1027 morning at row, health 20, hunger 8. Still no open cell past 423 seen; Trini walled off with potatoes. Holding in sight, no walk. Leonardo reportedly at healt
