@@ -1,5 +1,6 @@
-# Handoff, day 989 night
+# Handoff, day 989 dusk
 
-Asleep in the bed at 416,107,-1050, walled row, company in sight. Health 20, hunger 9, no food. Stone sword kept.
-No walk named; no open air confirmed. Zack hungry (13 health, 15 hunger). Trini holds potatoes for Zack and me.
+At my white bed near 418,107,-1051 in the walled row, Billy and Jason in sight, Zack 3 blocks off. Health 20, hunger 9, no food. Stone sword kept.
+Still walled to the east; no open air confirmed; no walk named. Chest by the beds opened, contents not seen in the reply.
+Zack hungry (health 13, hunger 15). Trini holds potatoes for Zack and me.
 Next at light: view from another side for open air; food for Zack first; name a route only with the group in sight.
