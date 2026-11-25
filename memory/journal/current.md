@@ -4,3 +4,8 @@
 - 05:58 say: {"text":"Worf, morning 984. My view shows no open air yet, only walls and people around us, so I name no walk. I will turn and look from another spot first. Zack, I hear you; I will name a route as so
 - 05:59 act: {"say":"Worf here, morning 984. I hold no food either. I will look for food in daylight and bring the first to Zack.","intent":{"goal":"explore_for_food","program":"explore","arguments":{"legs":2,"leg
 - 06:08 act: {"say":"Worf, morning 985. The view west is still planks and glass; no open air confirmed. No food here yet. No walk named. We hold in sight, and I will look again for an open cell."}
+- 06:24 hold intent finished. Zack holds in sight, will not walk until I name a route. Still walled; no food; health 20, hunger 9. Next: find a gap, or wait for daylight to pass.
+- 06:20 explore intent failed: way blocked again (still walled in). Checking view for a new opening; no walk named.
+- 06:17 act: explore_for_food intent (1 leg, 12 blocks, avoid water) set; said I will look for food in daylight and stay in sight of the row. Health 20, hunger 9, no food.
+- 06:17 act: {"say":"Worf here. It is morning and light. I will look for food now, and I will stay in sight of this row. Zack, you first when I find any.","intent":{"goal":"explore_for_food","program":"explore","a
+- 06:18 act: {"say":"Worf: the way is still walled. View shows planks on every side, no open air. No walk named. I hold here in sight of you, Zack and Jason. I will keep looking for a gap.","intent":{"goal":"hold_
