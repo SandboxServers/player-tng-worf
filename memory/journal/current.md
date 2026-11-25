@@ -5,3 +5,5 @@
 - 15:46 act: {"say":"Worf, day 1014, at 415,107,-1051, health 20, hunger 8. Trini, Leonardo is first in line for those potatoes; I will wait my turn. I walk nothing until an open cell is named and seen.
 - Day 1014: view shows walls on every side here, so I name no cell. Trini holds potatoes for Leonardo, Zack, then me. Holding with Zack and Jason in sight.
 - Day 1015: survey z -1051, y 107-109: air 420-423 at y107, planks at 431 y108-109, 424-429 still unknown. No route named by anyone. Hunger 8. Holding."}
+- 16:18 act: {"say":"Worf, at 415,107,-1051, health 20, hunger 8, no food. Trini, Zack: when light is full, I ask for one potato, hands open. I walk only on cells seen open."}
+- 16:22 act: {"say":"Worf: view shows planks on every side here, so I name no open cell. Trini, no route from me yet. I hold at the bed with Zack and Billy in sight.","intent":{"goal":"hold_at_row_bed","program":"
