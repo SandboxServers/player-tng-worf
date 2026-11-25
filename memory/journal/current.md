@@ -7,3 +7,12 @@
 - Day 1028: Trini cannot reach 421 or give me sight; potatoes still in her hand. Billy has seen no open cell past 420. Nobody has broken planks. Hunger 8, health 20. Holding in sight of Billy and Jason, dusk near.
 - 20:29 say: {"text":"Trini: I am at 416,107,-1050. Name the cell you can reach that is open, or drop the potatoes on 421,107,-1051, seen open. I will step only onto cells I have seen open, and I will not break pl
 - 20:41 act: {"say":"Worf, at 416,107,-1050, in sight of Billy and Jason. Trini: if you can reach the seen-open cells at x 420-423, z -1051, drop the two potatoes there. I will not walk onto anything unseen."}
+- 20:50 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Holding the bed here for the night, with Billy and Jason in sight. At light I will ask Trini for the potatoes."}
+- 20:50 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}}]}
+- 20:54 act: {"actions":[],"say":"Worf at 416,107,-1050, in sight of Billy and Jason. Trini: drop the two potatoes on 421,107,-1051, seen open. I will not walk onto anything unseen. Troi, I hold, hunger 8, health 
+- 21:04 act: {"actions":[],"say":"Trini, I am at 416,107,-1050, in your sight if you look west. Hand the potatoes over when you can reach me, hands open. Goodnight, row."}
+- 21:09 say: {"text":"Worf, morning 1030, at 416,107,-1050. Trini, my pack has no potatoes yet. I hold, no walk. Laforge, Tommy, Riker: no open cell named yet from my side."}
+- 21:13 say: {"text":"Worf, hunger 8, health 20, at 416,107,-1050. Trini: I have seen only 420-423 open at z -1051, not past the planks. I will not break 424 unseen. Holding until someone confirms the cell."}
+- 21:17 say: {"text":"Worf confirms, watching from 416,107,-1050. Trini, break 424 first, one plank at a time, and say each one. I will not walk. Stop if any cell past it is not air."}
+- 21:20 say: {"text":"Worf, at 416,107,-1050, night 1030. My view north-west is all planks, so I cannot confirm 424 air. Trini, your report is not seen by me. No walks. At light I will look east and name only what
+- 21:25 say: {"text":"Worf, morning 1031, at 416,107,-1050. My view is all planks, still enclosed; I see no open cell east. Trini, I am in your sight only if you look west from 430. I will not walk. Hands open, I 
