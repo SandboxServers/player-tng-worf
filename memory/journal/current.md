@@ -4,3 +4,8 @@
 - 08:03 say: {"text":"Morning. I hold no food. I am checking the walls for open air, then I name a daylight route for the potatoes with you in sight."}
 - View at bed: walled on left, right and behind; one gap only ahead to the north-west, gravel 5 below. Open air not yet confirmed. No route named yet. Next: stay in sight of the group, look for the gap's far side before any walk.
 - 08:05 act: {"say":"Day 991. Still walled on three sides, one gap to the north-west. No route named yet. I hold here in sight of the row until I see a clear way out."}
+- 08:14 say: {"text":"Worf, at my white bed in the row. Holding for the night with Billy, Zack and Jason. No walk until daylight."}
+- 08:18 say: {"text":"Morning. Worf here. I am looking at the north-west gap now. Billy, Jason, hold in sight; I name no walk until I see the far side."}
+- 08:18 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1051}},{"do":"open","at":{"x":419,"y":107,"z":-1051}}],"say":"Checking the chest by the beds for food, Zack first."}
+- 08:18 say: {"text":"The chest by the beds shows nothing I can take. No food here. The gap to the north-west is still walled on the far side. I name no route yet. Hold in sight."}
+- Day 992 night at bed with Billy, Jason, Zack. Chest empty, no food, no route named. Handoff written. Sleeping at bed in sight of the row.
