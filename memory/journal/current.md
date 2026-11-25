@@ -9,3 +9,10 @@
 - 08:18 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1051}},{"do":"open","at":{"x":419,"y":107,"z":-1051}}],"say":"Checking the chest by the beds for food, Zack first."}
 - 08:18 say: {"text":"The chest by the beds shows nothing I can take. No food here. The gap to the north-west is still walled on the far side. I name no route yet. Hold in sight."}
 - Day 992 night at bed with Billy, Jason, Zack. Chest empty, no food, no route named. Handoff written. Sleeping at bed in sight of the row.
+- 08:27 act: {"say":"Worf, night 992. Holding at my bed in the row with Billy, Jason and Zack in sight. No walk in the dark. At first light I will look at the north-west gap from another side."}
+- Waking 640, night 992, at white bed 416,107,-1050 with Billy, Jason, Zack in sight. Health 20, hunger 9, no food. Said I hold until light. Next: at light, view from another side, then food search.
+- Day 992 light: viewed north-west gap; still walled, only our own people stand in it. No route named. No food. Holding in sight of the row.
+- Night 992 again: still no food, no route, group holding at beds. Waiting in sight; no walk in the dark.
+- Day 993 morning: Riker asked for a walk east to potatoes; I said no route yet. Leonardo at health 1, Trini holds his potatoes. I have no food. Still holding in sight.
+- 08:31 act: {"say":"Worf, morning 992. The north-west gap is still walled past the row; only our own people stand in it. No route named. I have no food either. Zack first when anyone has food. I hold in sight."}
+- 08:43 act: {"say":"Worf, morning. No route named yet: the row is still walled and I have not seen open air to the east. Riker, hold until I name one in daylight with you in sight."}
