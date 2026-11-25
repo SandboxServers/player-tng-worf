@@ -6,3 +6,7 @@
 - Slept at the row bed in company. Nothing new overnight: no food, no open route named. Trini keeps two potatoes for me at light. Next: at light, stay in sight and ask Trini for them, naming only seen-open cells.
 - 19:28 act: {"say":"Night at the row. I hold here in sight of Zack, Jason and Billy, and will ask for a potato at light.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}]}
 - 19:28 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}}]}
+- 19:29 act: {"actions":[{"do":"note","text":"Day 1025 morning at the row, health 20, hunger 8. Holding in sight, no walk. Asked for food."}],"say":"Worf, morning, at the row, health 20, hunger 8, no food. Zack, B
+- 19:33 act: {"actions":[],"say":"Trini, Worf here. I thank you for the potatoes. I see no open cell past 423 either, so I hold here in sight. Zack first, as you said."}
+- 19:37 act: {"actions":[],"say":"Trini, Worf. The only cells I have seen open are x 420 to 423 at z -1051. Nothing past 423. Come to 423 if you can reach it safely, and I will meet you there with my sword. Zack, 
+- 19:41 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Trini, I see no way through the planks at 424 to 429 either, so I will break none blind. It is night now. I sleep in the bed at t
