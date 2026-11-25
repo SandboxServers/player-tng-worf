@@ -162,3 +162,17 @@
 - 23:58 act: {"say":"Worf, daylight. Health 20, hunger 9, no food. Still walled. I name no route until I see open cells. Anyone holding food, Leonardo and Picard first.","intent":{"goal":"hold_at_bed_daylight","pr
 - 00:06 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk. Worf to my bed in the row, Zack and Jason in sight. Still walled, no food, no open cell named. Hold till lig
 - 00:10 act: {"say":"Zack, Jason: no melon route yet. Still only planks in my view, no open cell named. I hold no food. Hold at the beds with me."}
+- 00:12 say: {"text":"Worf holding at the bed. Still walled in, no open cell seen yet. No walk named. Jason, Zack, stay in sight."}
+- 00:16 say: {"text":"Worf: I am well enough, health 20, hunger 9, no food in hand. Still walled in; I see no open cell. Holding at my bed until one shows."}
+- Day 967 day: view still planks and glass, enclosed except a gap on the right with glass. No open cell named, no walk. Health 20, hunger 9, no food. Jason and Zack hold at the beds in reach. Said so aloud. Waiting.
+- 00:20 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, dusk on day 967. Going to my bed in the row, Jason and Zack in sight. Still walled, no open cell, no food. N
+- 00:24 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Worf in bed at 415,107,-1050 with Jason and Zack in sight. Still walled, no food, no walk. Hold till light."}
+- 00:28 act: {"actions":[],"say":"Still walled in, no open cell seen, and no food. Anyone holding food, Leonardo and Picard first."}
+- 00:32 act: {"actions":[],"say":"Lewis, Clark: I hold at my bed with my stone sword. No open cell named, so no walk. Jason, Zack, stay in sight."}
+- 00:36 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night. I hold at my bed with my stone sword. Pillagers to the south, so nobody walks. Billy, Laforge, Wesley: stay
+- 00:38 act: {"actions":[],"say":"Billy, come north to my bed, 415,107,-1050, and stay in our sight. I stay here with my stone sword. No walk in the dark."}
+- 00:41 act: {"actions":[],"say":"Worf, daylight. The view is all people around me, no open cell past them. No walk named. Hold at the beds. Billy, Lewis, stay in sight. I still hold no food."}
+- 00:45 act: {"actions":[],"say":"Billy, come north to my bed, I am at 416,107,-1050 with my stone sword. Deanna, Troi, I hear you. Still no open cell, so I hold."}
+- 00:49 act: {"actions":[],"say":"Billy, I see no open cell past the people yet, so I name none. Stand at 416,107,-1050 beside me. Wesley, Jason, Zack: hold in sight."}
+- 00:57 act: {"actions":[],"say":"Daylight. I still see no open cell past us, so no walk is named. Billy, Lewis, Wesley: hold in sight of the beds. Picard, Leonardo, we need food first."}
+- 01:05 act: {"actions":[],"say":"Morning, day 970. I see no open cell yet, so still no walk named. Billy, Zack, Jason, hold at the beds. Anyone who sees food, say where."}
