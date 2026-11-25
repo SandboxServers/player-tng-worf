@@ -1,9 +1,8 @@
-# Handoff, day 1012 (going to bed at night)
+# Handoff, day 1014 night
 
-At bed 416,107,-1050 in the row, with Billy and Jason near. Health 20, hunger 8, no food. Stone sword kept. No errand running, no walk.
+At bed 415,107,-1051 in the row, with Zack and Jason in sight. Health 20, hunger 8, no food. Stone sword kept. No errand, no walk.
 
-Seen open at z -1051: x 420-423 (air). Chest at 419 blocks the way. 424-429 still unseen (survey confirmed). No route named.
+Sleep has failed 3 times in a row ("way was blocked"), so I am holding still with company until light.
+Survey 424-429 at z -1051 still unknown. No route named by anyone. Trini holds 2 potatoes for Leonardo first, then Zack, then me; she walks only on a named route.
 
-Trini holds 2 potatoes at 430,107,-1051 for Leonardo, Zack, then me. She cannot see me from her bed and will not hand them out until a route is named in sight. Zack and Wesley are holding too.
-
-Next at light: stand in sight of Trini or Zack, ask for food, and survey 424-429 again. Name only exact seen-open cells.
+Next at light: ask Trini or Zack again in sight. Survey 420-429 again. Name only exact seen-open cells.
