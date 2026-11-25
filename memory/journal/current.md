@@ -16,3 +16,17 @@
 - 21:17 say: {"text":"Worf confirms, watching from 416,107,-1050. Trini, break 424 first, one plank at a time, and say each one. I will not walk. Stop if any cell past it is not air."}
 - 21:20 say: {"text":"Worf, at 416,107,-1050, night 1030. My view north-west is all planks, so I cannot confirm 424 air. Trini, your report is not seen by me. No walks. At light I will look east and name only what
 - 21:25 say: {"text":"Worf, morning 1031, at 416,107,-1050. My view is all planks, still enclosed; I see no open cell east. Trini, I am in your sight only if you look west from 430. I will not walk. Hands open, I 
+- 21:33 act: {"say":"Worf here, by the beds. Hunger is 8 and I have no food. Trini, if you can see me, please hand me the two potatoes with open hands.","actions":[]}
+- 21:35 act: {"say":"Trini, I hear you. I have not seen any cell past your planks open, so I will not walk there. I am holding at 415, -1048, where the beds are. Can you see me from there?","actions":[]}
+- 21:46 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Worf going to my bed at 415,107,-1050 for the night, with Billy and Jason near. Hol
+- 21:51 act: {"say":"Worf, morning 1032, at my bed 415,107,-1050. View: solid planks on every side, glass on the right. No open cell seen. Trini, Zack, Billy, I hold in sight and will not break a plank until someo
+- 21:59 act: {"actions":[{"do":"sleep"}],"say":"Worf, dusk, at my bed 415,107,-1050 with Jason and Billy in sight. Going to sleep. No walk until light."}
+- 21:59 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1050}}]}
+- 21:59 act: {"actions":[{"do":"sleep"}]}
+- 22:03 act: {"actions":[],"say":"Worf, morning 1032, at 415,107,-1047. Health 20, hunger 8. Trini, I see you are near Billy's row. The planks still block me; I will not break one unseen. If you can see me, hand t
+- 22:12 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Worf here, going to the bed at 415,107,-1050 to sleep for the night. Holding close by."}
+- 22:12 act: {"actions":[{"do":"sleep"}]}
+- 22:16 act: {"actions":[],"say":"Worf, morning 1033, awake at 416,107,-1049 by the bed, health 20, hunger 8. Trini, the planks still block my sight to you. I see no open cell past 423 either, so I will not walk. 
+- 22:24 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Dusk now. I go back onto the bed at 415,107,-1050 to rest for the night, still in the row's sight."}
+- 22:24 act: {"actions":[{"do":"sleep"}]}
+- 22:28 act: {"actions":[],"say":"Worf, morning 1034, at the bed 415,107,-1050, health 20, hunger 8. Thank you, Billy. Trini, I still cannot see you past the planks. Leonardo, name your cell and I will help look f
