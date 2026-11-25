@@ -43,4 +43,6 @@
 - Day 996: the row group (Billy, Zack, Jason, Riker, Laforge, Troi, Tommy, Wesley) holds at the beds every day waiting for my named route. I still have none confirmed. Naming one without seen open cells has failed before; keep holding until view or see shows air.
 - Day 996: sleep at dusk-to-night at 416,107,-1050 worked again with company near.
 - Day 998: view from bed 416,107,-1050 still showed planks all round, no open cell. Sleep at night at this bed worked with company near.
+- Day 1000: at dawn, Trini's bed is 430,107,-1051 and her 2 potatoes are there; she gives them when the receiver stands in her sight. No clear cell from the row to her bed is known; holding is right until one is seen.
+- Day 1000: sleep at night at 416,107,-1050 worked with company near (3 of 10 asleep on the first try, then the night passed).
 - Next curiosity: where sheep graze. Tell the row when anything new is learned.
