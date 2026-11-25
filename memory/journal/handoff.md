@@ -1,3 +1,6 @@
-# Handoff, day 985 night
+# Handoff, day 986 night
 
-Worf at my white bed in the walled plank row, Billy 1 block away, Jason and Zack in sight. Health 20, hunger 9, no food. Stone sword kept. Explore failed twice (way blocked); view shows planks on every side. No walk named, no walk in the dark. Zack health 13, hunger 15, holding in sight and asking for food. Next at light: find a gap or open air by view, name a daylight route only with the group in sight, bring first food to Zack.
+Worf at my white bed (415,107,-1050) in the walled plank row, Billy, Jason and Zack in sight. Health 20, hunger 9, no food. Stone sword kept.
+Explore failed again (way blocked). Broke one plank east (420,107,-1051): beyond is chest and planks, no open air.
+No walk named, no walk in the dark. Group (Laforge, Troi, Zack, Billy, Riker, Jason) waits for a daylight route I name.
+Next at light: view for open air from another side; food first to Zack; name a route only with the group in sight.
