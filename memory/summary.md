@@ -1,13 +1,14 @@
-# Summary (day 986, night)
+# Summary (day 987, night)
 
 I am Worf, an armed warrior (stone sword) loyal to Billy's group.
 
-Where: white bed 415,107,-1050 in the walled plank row, with Billy, Jason and Zack in sight.
+Where: white bed 416,107,-1050 in the walled plank row, with Jason, Zack and Billy near.
 What I hold: stone sword, 2 planks, 2 sticks, a phantom membrane. No food. Health 20, hunger 9.
 
-Still walled. I opened one plank east (420,107,-1051): chest and planks beyond, no open air. No walk named. The group waits for a daylight route from me.
+Still walled. No open air confirmed past the row. No walk named. The group (Billy, Jason, Zack, Troi, Laforge, Riker, Wesley) holds at their beds waiting for a daylight route from me.
+Leonardo reported at health 1; food is the first need.
 
-I owe: 3 melon to Zack; food to Zack first, then Leonardo and Picard.
+I owe: 3 melon to Zack; food to Zack and Leonardo first.
 Owed to me: potatoes from Beverly, Leonardo, Billy (not seen).
 
 Lessons:
