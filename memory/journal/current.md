@@ -1,12 +1,1 @@
 # Journal
-- Day 998 waking 647. Night at white bed 416,107,-1050. Health 20, hunger 9, no food.
-- Day 999 morning. View from bed toward NW gap: walls and people, no open cell. No route named. Holding at bed; Trini holds 2 potatoes for Zack and Leonardo.
-- 10:47 say: morning, holding at my bed, will look from this side before naming a route.
-- 10:52 say: asked Zack and Billy where food is; I hold none. Owe Zack melon.
-- Next: wait for replies; food first; no walk without exact cells and an armed leader.
-- 10:54 act: {"say":"Worf: dusk. I stay at my bed with Billy, Zack and Jason near; no walk in the dark. Trini, thank you. At light I will take the potatoes in your sight, and we give Leonardo first if he comes."}
-- 10:55 say: {"text":"Worf here at my bed in the row. Holding until light, no walk in the dark. Hunger 9, no food yet."}
-- Day 999 day. View: walled on all sides, only a gap up ahead. No route named. Said so to the row; asked Trini for potatoes in sight. Holding at bed.
-- 10:59 say: {"text":"Worf: it is day. My view from the bed shows walls all round with only a gap up ahead, no open cell on the ground. No route named yet. Trini, may I see your potatoes at light, and we give Leon
-- 11:03 say: {"text":"Worf: Trini, thank you. Zack is hungrier than I am, so the potatoes go to Zack first if Leonardo is not here. I hold at my bed and name no route until I see open cells."}
-- 11:07 say: {"text":"Worf: dusk. I have seen no clear cell from the row to Trini's bed, so none is named. Zack, hold with me here. No walk in the dark. I will sleep at my bed with company near."}
