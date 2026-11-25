@@ -48,4 +48,6 @@
 - Day 1000 (morning): at first light the row still showed only walls and players from the bed view. Billy names the walks; I named none and walked none. Trini's potatoes wait at her bed for a receiver in her sight.
 - Day 1009: survey 423-429 at z -1051 shows only 423 seen open; 424-429 unseen. Trini asks for a named seen-open route before handing potatoes. Holding is right until more is seen.
 - Day 1019: sleep at bed 415,107,-1051 at dusk, then a second try once night fell, worked with Zack, Billy and Jason in sight.
+- Day 1021: at light, six people in the row (Billy, Zack, Jason, Riker, Laforge, Troi) all reported no food. Asking the row for food found none. Hunger 8 holds steady; health 20.
+- Day 1021: sleep at dusk at 416,107,-1050 worked with Billy, Zack and Jason near.
 - Next curiosity: where sheep graze. Tell the row when anything new is learned.

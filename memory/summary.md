@@ -12,3 +12,4 @@ Lessons:
 - Only x 420-423 at z -1051 is seen open. 424-429 is still unknown, so no route yet.
 - A promise of food is not food. Ask in sight, hands open.
 - Sleep at dusk at this bed has worked. Hunger has not eased while the row waits.
+- Day 1021: the whole row reports no food. Hold, ask at light, do not walk unseen.
