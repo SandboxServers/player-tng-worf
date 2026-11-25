@@ -8,3 +8,6 @@
 - 12:56 act: {"actions":[],"say":"Worf: I surveyed. Seen open, y 107: x 420, 421, 422 at z -1051. Beyond x 422 toward Trini's bed is unseen, so no route yet. I hold here."}
 - 13:04 act: {"actions":[],"say":"Worf, daylight. I looked east with view: solid planks all round, no open cell past x 422. No route named. I hold at my bed with Jason and Zack."}
 - 13:12 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}]}
+- 13:13 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Worf here, at the bed with Billy and Jason near. Trying to sleep now."}
+- 13:13 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}}],"say":"Worf: trying the other half of the bed now, Billy and Jason in sight."}
+- 13:17 act: {"actions":[{"do":"note","text":"Day 1007 morning. Survey toward Trini's is ambiguous past x422; no exact open route named by me."}],"say":"Worf: Morning. I have seen no exact open cell past x 422 eit
