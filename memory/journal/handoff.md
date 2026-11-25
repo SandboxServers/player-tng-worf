@@ -1,7 +1,5 @@
-# Handoff, day 1023 (dusk)
+# Handoff, day 1024
 
-Bed at the row, 418,107,-1051, with Jason, Zack, Billy near. Health 20, hunger 8, no food.
-Open cells seen: only x 420-423 at z -1051. Nothing past 423 seen open; no melon route named.
-Asked Zack, Billy, Jason aloud for one potato, hands open. All of them hold no food.
-Owe 3 melon to Zack (I hold none). Trini holds potatoes and gives only in sight.
-Next: at light, stay in sight, name only seen-open cells, ask again for one potato.
+At the row, 418,107,-1047, with Jason, Zack and Billy in sight. Health 20, hunger 8, no food.
+Only open cells seen: x 420-423 at z -1051. Nothing past 423 is seen open. Trini holds one potato for me and cannot reach past planks at 424-429.
+Next: at light, stay in sight, ask Trini or Zack for one potato, name only seen-open cells.
