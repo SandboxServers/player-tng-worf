@@ -20,3 +20,4 @@
 - Day 994 light: no food held, health 20, hunger 9. Holding at white bed 416,107,-1050 in sight of Billy, Zack, Jason, Wesley. No route named; the row is still walled on
 - 09:08 act: {"actions":[],"say":"Riker, Billy, Jason: I still have no route and no food. I hold at my bed with you in sight until I see open air and a clear way."}
 - 09:12 act: {"actions":[],"say":"Worf here, day 994. I hold no food and no route yet. I am still holding at the row with all of you in sight. Troi, Laforge, Zack, Billy, I hear you."}
+- 09:25 act: {"actions":[],"say":"Worf, day 995 morning. Viewed the north-west gap again: still walled, only our own people in it. No route named, no food held. I hold at my bed in sight of Billy, Zack, Jason and 
