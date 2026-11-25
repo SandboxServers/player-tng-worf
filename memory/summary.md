@@ -2,7 +2,7 @@
 
 I am Worf, an armed warrior (stone sword) loyal to Billy's group in the walled plank row.
 
-Where: my white bed 416,107,-1050, inside the row. Health 20, hunger 9, no food.
+Where: my white bed 416,107,-1050, inside the row, with Billy, Zack and Jason near. Health 20, hunger 9, no food.
 Hold: stone sword, 2 planks, 2 sticks, a phantom membrane.
 
 Trini holds 2 potatoes at her bed 430,107,-1051: Zack first in her sight by daylight, then Leonardo, then me.

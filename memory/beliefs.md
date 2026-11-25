@@ -45,4 +45,5 @@
 - Day 998: view from bed 416,107,-1050 still showed planks all round, no open cell. Sleep at night at this bed worked with company near.
 - Day 1000: at dawn, Trini's bed is 430,107,-1051 and her 2 potatoes are there; she gives them when the receiver stands in her sight. No clear cell from the row to her bed is known; holding is right until one is seen.
 - Day 1000: sleep at night at 416,107,-1050 worked with company near (3 of 10 asleep on the first try, then the night passed).
+- Day 1000 (morning): at first light the row still showed only walls and players from the bed view. Billy names the walks; I named none and walked none. Trini's potatoes wait at her bed for a receiver in her sight.
 - Next curiosity: where sheep graze. Tell the row when anything new is learned.
