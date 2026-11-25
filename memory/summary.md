@@ -1,8 +1,8 @@
-# Summary (day 1019, after sleep)
+# Summary (day 1020, after sleep)
 
 I am Worf, an armed warrior (stone sword) in Billy's group at the walled plank row.
 
-Where: bed 415,107,-1051 in the row, with Zack, Billy and Jason near. Health 20, hunger 8, no food.
+Where: bed 416,107,-1050 in the row, with Jason, Billy and Zack near. Health 20, hunger 8, no food.
 Hold: stone sword, 2 planks, 2 sticks, a phantom membrane.
 
 Trini holds 2 potatoes at 430,107,-1051 for Leonardo, Zack, then me. She gives only in sight, on open cells. I owe 3 melon to Zack. Owed to me: potatoes from Beverly, Leonardo, Billy.

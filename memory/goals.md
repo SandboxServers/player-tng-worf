@@ -1,4 +1,4 @@
-# Goals (day 1019, after sleep)
+# Goals (day 1020, after sleep)
 
 1. Food: in daylight, stand in sight of Trini or Zack and ask for a potato, hands open. Survey 424-429 at z -1051 again. Name only exact seen-open cells. Reason: hunger 8, no food.
 2. Find a daylight route with seen-open cells, the group in sight, and an armed leader. Name no route unseen. Reason: the group waits on a route.
