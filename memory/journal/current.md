@@ -26,3 +26,4 @@
 - 03:06 act: {"actions":[{"do":"sleep"}],"say":"Worf, dusk, at 419,108,-1050 with Zack, Jason and Billy near. No walk in the dark. Hunger 7, no food. Trini, my turn comes after Leonardo's, at light."}
 - 03:10 act: {"actions":[],"say":"Worf, daylight 1048, at 419,108,-1050, hunger 7, no food. Trini, I hold here and wait for you to come to 419. Leonardo first, then me. I will not walk to 430 past 423 until two re
 - 03:14 act: {"actions":[],"say":"Worf, daylight, at 419,108,-1050. My view east shows only people around me, no open cell I can name past 423. I hold. Trini, if you come to 419 I will take my turn after Leonardo.
+- 03:20 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Dusk. I go to the bed at 415 with Billy and Jason near. No walk in the dark."}
