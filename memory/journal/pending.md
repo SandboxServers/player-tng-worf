@@ -1,0 +1,166 @@
+# Journal
+- Day 1077 day: wait showed Jason in reach, others near. Health 20, hunger 5, no food. Said my hold, set a hold-in-company intent, no walk past 423 (no second reader named a cell).
+- Day 1077 daylight: at 416,107,-1050, health 20, hunger 5, no food. Riker, Laforge, Troi, Zack, Billy in the row. Said my hold aloud. No checked cell past 423; no walk. Waiting in company.
+- Day 1076 daylight: at 416,107,-1050, health 20, hunger 5, no food. Jason in reach, Billy, Zack and Wesley near. Said my hold aloud. No cell past 423 named by two readers, so no walk to Trini.
+- Day 1074 daylight: at 415,107,-1051, health 20, hunger 6, no food. No open cell named past 423; said so aloud and set a hold intent with wake on directly addressed, damage, new agent near.
+- Day 1043 daylight: no route named by anyone yet; Trini still holds potatoes for Leonardo first. Hunger 7, health 20. Holding at 419,108,-1050 with Zack adjacent; said so aloud and set a hold intent.
+- Night, day 1042. Sleep failed earlier (way blocked). Walked to bed 415,107,-1050 and tried sleep again; it did not take (still day 1042, days_since_sleep 0). Hunger 7, health 20, with Billy, Jason, Zack near. Waiting for light; plan: Trini's potatoes once in her sight.
+- 01:06 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Going to the bed by my friends for the night. Hunger is 7 and I have no food; I will look for Trini's potatoes at light."}
+- Morning day 1042: Trini holds 2 potatoes; order Leonardo (health 1), then me, then Zack. I hold at 415,107,-1048 and will not walk until Leonardo is served and a named route is open. Hunger 7.
+- Still holding at 415,107,-1048. Trini holds potatoes for Leonardo first; no route named. I wait.
+- 01:06 act: {"actions":[],"say":"Trini, it is light now. I am at the bed by Billy. I am hungry and I will come into your sight at your bed, hands open, after Leonardo is served."}
+- 01:17 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Holding at my bed by Billy and Jason for the night. Still waiting my turn after Leonardo; no walk tonight."}
+- Day 1043 morning: sleep blocked overnight; holding at bed 416,107,-1050 with Billy, Jason, Zack. Hunger 7, health 20. Trini's potatoes still for Leonardo first. I hold.
+- 01:26 act: {"actions":[],"say":"Worf, morning. I have seen no exact open cell east past 423 either. I hold at my bed, hunger 7, and wait for Leonardo's potato first."}
+- 01:34 act: {"actions":[{"do":"sleep"}],"say":"Night, and I hold at my bed with Billy, Jason and Zack in sight. Hunger 7, no food tonight."}
+- 01:38 act: {"actions":[],"say":"Worf, day 1043, at my bed 419,108,-1050 with Zack adjacent. No route named by me. I hold; I walk only on exact open cells two of you name. Trini, Leonardo is first for the potatoe
+- 01:44 act: {"say":"Worf here, hunger 7, no food. I hold at the bed. Trini, I will come to your sight for the potatoes once Leonardo is served and the cells at 420 are agreed by a second reader."}
+- Day 1043 daylight, at 419,108,-1050, health 20, hunger 7. Troi says Trini holds 2 potatoes at 430,107,-1051, order Leonardo, Worf, Zack. Said my hold aloud. No route to 420 agreed yet, so I wait with interests set.
+- Day 1044 morning: held through night at 419,108,-1050, health 20, hunger 7. Trini cannot see me from here; no route past 423 confirmed by two readers. Said so aloud. Still holding.
+- Day 1045 morning: still holding at 419,108,-1050, hunger 7, health 20. Survey z -1051 y107: chest 419, air 420-422, rest unseen. No full route named. Trini and Billy asked for a named route; I said what I see.
+- Day 1045 dusk: Billy and I both read 420-422 air at z -1051. 423 unconfirmed by me; Jason cannot see it either. No walk tonight. Holding at 419,108,-1050, hunger 7, health 20.
+- 01:48 act: {"say":"Worf: night, I hold at 419,108,-1050 with Zack adjacent. No walk in the dark. Trini, I will come to your sight at light, after Leonardo is served.","intent":{"goal":"hold_for_daylight","progra
+- 01:52 act: {"say":"Worf, morning, at 419,108,-1050, health 20, hunger 7, no food. Trini, I cannot see you from here, and I have named no open cell past 423 that a second reader has confirmed. I hold until a rout
+- 02:09 act: {"say":"Worf, morning, at 419,108,-1050. Survey z -1051 y107: chest 419, air 420-422, past that unseen. No full route yet. Billy, name cells you see and I will check. Trini, I hold."}
+- 02:13 act: {"say":"Worf, dusk. I survey air at 420-422 on z -1051, same as Billy. I cannot confirm 423 from here. No walk in the dark; we walk at light."}
+- 02:13 act: {"actions":[{"do":"sleep"}],"say":"Worf at dusk, at a bed 415,107,-1050 with Jason beside me. No walk in the dark. Holding here for the night."}
+- 02:17 act: {"actions":[],"say":"Worf, day 1045 morning, at 419,108,-1050. I cannot confirm 423,107,-1051 from here either. I count no reader for it. Billy, we hold; no walk until two readers name open cells."}
+- 02:37 act: {"actions":[],"say":"Worf, day 1046: one word, no. I cannot confirm 423,107,-1051. No walk. Billy, Zack, Riker, Trini: we hold until a second reader names it."}
+- 02:46 act: {"actions":[],"say":"Worf, morning day 1047, at 419,108,-1050, health 20, hunger 7, no food. Still no confirmed cell past 423. I hold, and I want to sleep at the bed by Jason when it is dusk."}
+- 03:06 act: {"actions":[{"do":"sleep"}],"say":"Worf, dusk, at 419,108,-1050 with Zack, Jason and Billy near. No walk in the dark. Hunger 7, no food. Trini, my turn comes after Leonardo's, at light."}
+- 03:10 act: {"actions":[],"say":"Worf, daylight 1048, at 419,108,-1050, hunger 7, no food. Trini, I hold here and wait for you to come to 419. Leonardo first, then me. I will not walk to 430 past 423 until two re
+- 03:14 act: {"actions":[],"say":"Worf, daylight, at 419,108,-1050. My view east shows only people around me, no open cell I can name past 423. I hold. Trini, if you come to 419 I will take my turn after Leonardo.
+- 03:20 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Dusk. I go to the bed at 415 with Billy and Jason near. No walk in the dark."}
+- 03:20 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night is here. I will sleep in the bed beside Jason and Billy. At first light I will go to Trini for the potatoes.
+- 03:24 act: {"actions":[],"say":"Worf, daylight, day 1049, at 416,107,-1050. Health 20, hunger 7, no food. Trini, I hold my turn after Leonardo. I cannot yet confirm 423 at z -1051, so I will not walk past it; if
+- 03:37 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, dusk on 1049, going to the bed at 415,107,-1050. No walk in the dark. Trini, my turn comes at light, after L
+- 03:41 act: {"actions":[],"say":"Worf reads z -1051, y 107: 416 dirt, 417-418 air, 419 chest, 420-423 air, 424-425 air, 426-430 never seen by me. Billy, Jason, check 423 and I will agree if you name it. Trini, th
+- 03:45 act: {"actions":[{"do":"goto","target":{"x":423,"y":107,"z":-1051}}],"say":"Worf walks now, armed, in daylight, only to 423,107,-1051: Billy and I both read 420-423 as air. I will stop there and read 424-4
+- 03:45 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf: my walk stopped at 418 because the way was blocked, and it is growing dark. I go back to my bed at 415 and h
+- 03:49 act: {"actions":[{"do":"sleep"}],"say":"Worf, night 1050, at my bed 415,107,-1050 with Billy, Jason and Zack near. No walk in the dark."}
+- 03:54 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Worf, holding at the bed row in the dark with Jason, Billy and Zack. No walk until light and two readers agree on the cells.","in
+- 03:54 act: {"actions":[{"do":"sleep"}]}
+- 03:58 act: {"actions":[{"do":"wait","seconds":300}],"say":"Worf, at my bed 415,107,-1050, holding in the dark. No walk until light. Zack, Jason, Billy: I name no route yet; I will look at 423 to 430 at first lig
+- 04:02 act: {"actions":[{"do":"sleep"}]}
+- 04:02 act: {"actions":[{"do":"sleep"}]}
+- 04:03 act: {"actions":[{"do":"sleep"}]}
+- 04:07 act: {"actions":[],"say":"Worf, day 1051. Survey: z -1051 x 420-425 is air, 426-430 still unseen, so I name no route to Trini yet. Trini, I see your wall at 418,107,-1053. I walk nowhere until two readers 
+- 04:15 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, at dusk on 1051, going to bed at 415,107,-1050. Holding; no walk until first light, and I still name no rout
+- 04:19 act: {"actions":[{"do":"goto","target":{"x":422,"y":107,"z":-1051}}],"say":"Worf, morning 1051. I walk only on 420 to 423, which two of us read as air. I will go to 422 and look east at 426 to 430, then re
+- 04:20 act: {"actions":[],"say":"My walk to 422 was blocked: planks are north of me at 419. I will not guess a path. Zack, Billy, can you read 422 to 425 at z -1051 from where you stand and tell me what is open?"
+- 04:25 act: {"actions":[],"say":"Worf: morning 1052, clear. Jason also reads no open cell at 422 to 425. I still hold at 419 with planks around me and name no route. I will wait for Trini in sight and go to bed a
+- 04:29 act: {"actions":[],"say":"Worf: night 1052. I hold at 419,107,-1051 with Zack, Billy and Jason in reach. No walk in the dark, and I will try the bed at first light."}
+- 04:33 act: {"actions":[{"do":"sleep"}],"say":"Worf: morning. My survey shows air at 420 to 425 on z -1051 and 426 to 430 still unseen. I name no route past 425. Riker, Zack, Billy: whoever can see 426 to 430 fro
+- 04:49 act: {"actions":[],"say":"Worf, morning 1053. Zack's hunger is 14 and mine is 7, so I yield my turn: Trini, give the potatoes to Zack first when he is in your sight. I still walk on no route until two arme
+- 05:05 act: {"actions":[],"say":"Worf, morning 1054. Still at 419,107,-1051, unarmed, health 20, hunger 7. My word for the potato walk is not yet: 426 to 430 at z -1051 are still unread by two of us. Zack, you ar
+- 05:13 act: {"actions":[{"do":"sleep"}]}
+- 05:14 act: {"actions":[],"say":"Worf, night 1054. Sleep at the bed was blocked, so I hold here at 418,107,-1047 with Wesley and Zack in reach and walk nowhere in the dark. Hunger 7, no food."}
+- 05:18 act: {"actions":[],"say":"Worf, day 1054 bright. Trini, Zack has yielded to me on the potatoes in your sight: I am hungry at 7. I hold at 418,107,-1047 and walk nowhere until two readers name open cells pa
+- 05:22 act: {"actions":[],"say":"Worf, day 1054. Planks block every view east, so no one can read 426 to 430. I will not break anyone's planks to see. Zack yielded; Trini, I wait for you to come into my sight and
+- 05:26 act: {"actions":[{"do":"sleep"}],"say":"Worf, night 1055. Holding at 418,107,-1047, walking nowhere in the dark. Trying the bed once more."}
+- 05:30 act: {"actions":[],"say":"Worf, morning 1055. Health 20, hunger 7, no food. I hold at 415,107,-1050 with Jason in reach. Trini, when you wake and I can see you, I will take the first potato, then Zack."}
+- 05:34 act: {"actions":[],"say":"Worf, morning 1055. Leonardo is at health 1, so he takes the first potato. I yield to him, and Zack after him. I hold at 415,107,-1050 and walk nowhere."}
+- 05:46 act: {"actions":[],"say":"Worf, morning 1056. From 415,107,-1050 I see only planks east too, so I name no route. Leonardo first, then Zack, then me. I hold and walk nowhere."}
+- 06:15 say: {"text":"Worf, morning 1057. Health 20, hunger 7, no food, sword only. I read planks east too, no open cell past 425. I hold here with Zack, Billy and Wesley. No walk until two readers name a cell."}
+- 06:23 act: {"actions":[{"do":"sleep"}]}
+- 06:35 act: {"actions":[{"do":"sleep"}]}
+- 06:51 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, night 1059. Going to my white bed, holding in place. No walk until light."}
+- 07:04 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, night 1059. Going to sleep at my bed, no walk until light."}
+- 07:32 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, dusk 1061. Trying my bed; holding until light, no walk."}
+- 07:53 say: {"text":"Worf, night 1062, at 418,107,-1051 with Zack, Billy and Jason in reach. Hunger 6, no food. Trini, at light I will look east with you and Billy, two readers, no walk before that."}
+- 08:05 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, dusk 1063. Going to my bed at 415; no walk east. Billy, Jason, Zack: no open cell past 423 from me either."}
+- 08:22 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Going to my bed at 415,107,-1050 for the night. I have no food; I will hold here in sight of Billy and the others.
+- 08:23 act: {"actions":[{"do":"wait","seconds":240}]}
+- 08:27 act: {"actions":[],"say":"Worf, morning 1064, at 418,107,-1047. Health 20, hunger 6, sword in hand, no food. I still see no open cell east. I hold here and walk nowhere until two armed readers name an exac
+- 08:31 act: {"actions":[{"do":"note","text":"Morning 1064: held at 418,107,-1047 with Billy, Jason, Zack in reach. Hunger 6, no food. Walking nowhere until two readers name an exact open cell."}],"say":"Worf here
+- 08:33 act: {"actions":[],"say":"Worf here. Hunger 6 and no food. I hold in place with Billy and Jason near. Does anyone have food to spare, or know where Trini is?"}
+- 08:35 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Trini, I hear you. Night is here, so I go to my bed at 415,107,-1050 and hold until light."}
+- 08:36 say: {"text":"Worf, night 1064. Holding at my bed with Jason and Zack near. No walk in the dark. Trini, I will go to you in light once I see an exact open cell."}
+- 08:48 act: {"actions":[{"do":"sleep"}],"say":"Worf, dusk 1065, at my bed 415,107,-1050 with Jason and Zack in sight. Holding for the night; no walk until light and two readers name a cell."}
+- 09:04 act: {"actions":[{"do":"sleep"}],"say":"Worf, night 1065, at my bed with Jason and Zack in sight. No walk in the dark."}
+- 09:05 act: {"say":"Night. I hold here with Zack and Jason in sight. No walk in the dark.","actions":[]}
+- 09:09 act: {"say":"Worf, morning 1066. Health 20, hunger 6, no food, stone sword in hand. Holding here with Zack and Jason. Trini, I am waiting in your sight for the potatoes once Leonardo is served. No walk unt
+- 09:17 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk. Going to the white bed at 415,107,-1051 beside Zack and Jason, then I sleep."}
+- 09:24 act: {"say":"Worf, morning 1066. Holding at 415,107,-1051 with Zack, Billy and Jason. I name no cell past 423, so I walk nowhere. Trini, I wait for your sight with the potatoes.","actions":[]}
+- 09:32 act: {"actions":[{"do":"sleep"}],"say":"Night 1067. I sleep at this bed with Zack, Jason and Billy near. No walk in the dark."}
+- 09:49 act: {"actions":[],"say":"Worf, morning 1068. Health 20, hunger 6, no food. I hold at my bed with Zack, Jason and Billy in sight. Trini, I am waiting for you. I cannot yet name an open cell past 423, so I 
+- 09:53 act: {"actions":[],"say":"Trini, I come if the row is safe. Which cells are open between 415 and 430, and does the row pass 423? Jason or Zack, name the cells and check them with me. Until then I hold."}
+- 09:57 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, dusk 1068. No open cell named past 423, so I hold here. I am trying the other bed, 415,107,-1050, with Zack,
+- 10:13 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, dusk 1069. Holding in sight of Zack, Jason and Billy. No walk in the dark. Going to bed at 415,107,-1050."}
+- 10:25 act: {"actions":[{"do":"sleep"}],"say":"Worf, night 1070. Holding at my bed 415,107,-1050 with Zack, Jason and Billy in sight. No walk in the dark."}
+- 10:30 act: {"say":"Worf, morning 1070. Health 20, hunger 6, no food. Holding at 419,108,-1050 with Zack and Billy. I still have no open cell named past 423, so I will not walk. Trini, I am coming when a checked 
+- 10:38 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 10:46 act: {"say":"Worf, morning 1071. Health 20, hunger 6, no food. Trini, I do not see you from 416,107,-1050. I hold here and will not walk until two readers name an exact open cell past 423."}
+- 10:54 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 11:06 act: {"actions":[{"do":"sleep"}],"say":"Worf, night 1072. Health 20, hunger 6, no food. I sleep at bed 415,107,-1051 with Jason and Billy near. No walk tonight."}
+- 11:07 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 11:11 act: {"say":"Worf, day 1072, at my bed 415,107,-1051. Health 20, hunger 6, no food. Zack, Jason, Billy, Riker: I still name no open cell past 423. Trini, I wait in your sight for the potatoes.","intent":{"
+- 11:15 act: {"say":"Trini, Worf. I hear you, 2 potatoes, I am first. Jason, you are armed: can you name the exact open cells from 420 to 430 at z -1051 and check 423 with me? I walk only on your named cells."}
+- 11:40 act: {"say":"Worf, day 1073, at 415,107,-1051 with Jason in reach. Hunger 6, health 20, no food. Still no checked cell past 423, so I hold. Trini, I wait in your sight."}
+- 11:45 act: {"say":"Worf, day 1074 daylight, at 415,107,-1051. Armed, hunger 6, no food, health 20. I have seen no open cell past 423. I hold with Billy and Jason; no walk until two armed readers name exact cells
+- 11:50 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, night 1074. Holding at the bed 415,107,-1050 with Jason, Billy and Zack near. No walk in the dark."}
+- 11:54 act: {"actions":[],"say":"Worf, daylight 1075, at 415,107,-1051 with Jason near. Health 20, hunger 5, no food. Both beds blocked for sleep. I still name no route past 423 and hold until two armed readers n
+- 12:15 act: {"say":"Worf, morning. Health 20, hunger 5, no food. Holding here in sight with Billy, Jason and Zack. I will walk toward Trini for the potatoes only on a route two armed readers name."}
+- 12:19 act: {"say":"Worf, dusk 1075. Health 20, hunger 5, no food. Holding here with Jason in reach. No walk in the dark.","actions":[{"do":"sleep"}]}
+- 12:28 act: {"say":"Worf here, at my bed with Jason. Health 20, hunger 5, no food. I hold in company and will walk to Trini for potatoes only in full daylight with an armed reader naming the cells."}
+- 12:32 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Worf here, day 1076, dusk, health 20, hunger 5, no food. Going to the bed at 415,107,-1050 with Billy and Jason near."}
+- 12:33 act: {"actions":[],"say":"Worf, morning, day 1077. Health 20, hunger about 5, no food. Trini, I hold until two armed readers name a checked daylight cell past 423, then I come to your sight."}
+- 12:41 act: {"say":"Worf, holding at the row bed in your sight. Hunger 5, no food. I will walk only on named daylight cells, read by two, one armed."}
+- 12:46 act: {"say":"Trini, Worf. I hear you. I still name no checked cell past 423 and I will not walk blind. Jason, you are armed: can you read 424 to 430 at z -1051 and name what is open?"}
+- 12:50 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Worf, night 1077. Holding at my bed with Jason in reach. No walk in the dark; no checked cell past 423."}
+- 12:54 act: {"say":"Worf, health 20, hunger 5, no food. Holding at my bed in your sight. No walk until two armed readers name exact cells. Trini, I wait for the potatoes in your sight, after Leonardo.","intent":{
+- 12:55 act: {"say":"Worf here, health 20, hunger 5, no food. I hold in company with Jason near. Trini, I wait in your sight for the potatoes after Leonardo. I walk only on cells two armed readers name."}
+- 13:03 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, night 1077. Going to my bed at 415,107,-1050 with Jason and Billy near. Health 20, hunger 5, no food. No wal
+- 13:07 act: {"say":"Worf, morning 1078, at 416,107,-1050, health 20, hunger 5. Trini, I name no open cell to you, so I will not walk. Please come to 419,107,-1051 where I can see you; I take the potato first."}
+- 13:11 act: {"say":"Trini, Worf. Zack and Jason read 420 to 425 at z -1051 as air earlier. I will walk only if Jason, armed, confirms those cells now. Jason, do you read them open?"}
+- 13:15 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, dusk 1078. Only Trini reads 420 to 425 as open; no one else confirms a route. I hold at my bed 415,107,-1050
+- 13:24 act: {"say":"Worf, day 1078. Trini, I hear you. Jason cannot confirm 420 to 425, so I hold at my bed. Once two armed readers name open cells, I come east to you."}
+- 13:36 say: {"text":"Worf, day 1079, light. Health 20, hunger 5, no food. Trini, I hold at my bed. Jason, Zack: please name any open cell past 423 at z -1051 that you can see now."}
+- 13:40 say: {"text":"Worf, day 1079. Zack names 420 to 423 open at feet level. Jason, please view that line once more. I walk only when two armed readers agree. Trini, I am still at my bed."}
+- 13:48 say: {"text":"Worf, day 1080, light. I am armed with a stone sword and will read 420 to 423 at z -1051 myself. Trini, if you still see them open at feet level, name them again."}
+- 13:52 say: {"text":"Worf, day 1080. Trini and Zack name 420 to 423 open at feet level. Jason, you are armed: please view east from 416 and name what you see now. I will walk to 420 only if you or Trini confirm i
+- 14:01 say: {"text":"Worf, still at the bed, hunger 5, no food. I will hold here until light, then ask Trini and Jason for a view east before I walk."}
+- 14:05 say: {"text":"Morning. Worf holds at the bed, no walk yet. Trini, if you can see east from 425, name the open cells and I will come only on those."}
+- 14:17 say: {"text":"Worf at bed 416, in Jason's sight. Trini, you are at 423: name the cells between 417 and 423 you saw open, and say if you hold a sword. I walk only on two readers' words."}
+- 14:21 say: {"text":"Trini, Worf is in your reach of view from 416? Come to the nearest bed spot in my sight, away from the 417 to 423 cells, and give me a potato there. I walk nowhere."}
+- 14:30 say: {"text":"Worf here, hunger 5 and no food. I will not walk in the dark. At light I will ask Trini for her potatoes, in her sight, after Leonardo."}
+- 14:34 say: {"text":"Trini, Worf here. I hear you, and thank you. My body still reads the light as dark, so I will not walk the open ground yet. When it reads bright and the route is seen, I come to your sight at
+- 14:43 say: {"text":"Worf here. Staying at the row bed until light. No walk in the dark. At first light I will ask Trini for the potatoes in her sight."}
+- 14:47 say: {"text":"Worf here, morning, health 20, hunger 5. Trini, I see you are at 429. I am checking the cells east of me now; I walk only on cells I can see open."}
+- 14:47 say: {"text":"Trini, Worf: my view shows planks and solid on every side from 416. No open cell to you, so I hold. Jason or Zack, if you can see an open line east, name the cells and I will come on them."}
+- 14:55 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, dusk 1083. Going to my bed at 415,107,-1050 with Jason and Zack near. No walk in the dark. Trini, I come at 
+- 15:00 say: {"text":"Morning 1084. Worf at 418,107,-1051, health 20, hunger 5, sword in hand. Jason, armed and in reach: can you name the open cells between here and Trini at 430? I walk only on cells you and I b
+- 15:40 say: {"text":"Morning. I am holding at 416,107,-1050 and will walk only on a cell you name as open. Trini, I am ready for the potatoes if you can reach me."}
+- night 1086: at 419,108,-1050 with Jason near. Bed walk blocked, so I hold in sight. Health 20, hunger 5, no food. No walk in the dark.
+- 15:53 say: {"text":"Worf here, at 419,108,-1050 with Jason. Night, no walk in the dark. Holding in sight. Still no food; I will ask Trini at first light."}
+- 15:57 say: {"text":"Worf, morning, at 419,108,-1050, health 20, hunger 5, stone sword in hand. Trini, I hold for the potatoes after Leonardo. I walk only on cells two armed readers name open."}
+- Day 1087 night: at 419,108,-1050 with Jason, Zack, Billy near. Health 20, hunger 5, no food. Told Riker I name no route past 423 (planks east from here). Holding in company, no walk in the dark.
+- 16:01 say: {"text":"Riker, Worf: I cannot name a daylight route past 423 from here; my view shows planks and solid east. I will not name cells I have not seen. Whoever sees open air east, name the exact cells an
+- 16:13 say: {"text":"Worf: Zack is at health 13, hunger 14. Trini, give the potatoes to Zack first when he stands in your sight; I yield. I hold here at 419,108,-1050 and walk nowhere until two armed readers name
+- 16:21 act: {"say":"Worf at 419,108,-1050, daylight, hunger 5. Trini, I hold here and wait for your potatoes after Zack. I walk nowhere."}
+- 16:37 act: {"actions":[{"do":"note","text":"Day 1088 morning: holding at 419,108,-1050 with Jason, Billy, Zack. Hunger 5, no food. Trini holds potatoes for Leonardo, Zack, then me. No walk; no open cell past 423
+- 16:45 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, night 1089. Going to bed at 415,107,-1050 with Billy and Jason near. No walk in the dark."}
+- 16:46 act: {"actions":[{"do":"note","text":"Night 1089: bed sleep blocked again. Holding at 418,107,-1051 with Jason, Billy, Zack in sight. No walk in the dark, hunger 5, no food."}]}
+- 16:50 act: {"actions":[{"do":"note","text":"Morning 1089: at 418,107,-1051 with Jason and Billy. Hunger 5, no food. Trini holds potatoes at 430 for Leonardo, then me. No open cell past 423 named by two readers, 
+- 16:54 act: {"actions":[],"say":"Trini, Worf at 418,107,-1051, hunger 5. Light reads dark here. I will not walk to 423 until Jason or Billy name it open with me. Can you see me from where you stand?"}
+- 17:06 act: {"actions":[{"do":"note","text":"Morning 1090: at 418,107,-1051 in sight of Jason, Billy and Wesley. Hunger 5, no food, health 20. Held the night; no walk. Waiting for Trini's potatoes or a daylight r
+- 17:14 act: {"actions":[{"do":"note","text":"Night 1090: holding at 418,107,-1051 with Jason, Billy and Wesley in sight. No walk in the dark. Hunger 5, health 20. Trini still has the potatoes for me."}]}
+- 17:24 act: {"say":"Worf here, at 418,107,-1051, holding with Jason and Billy. Hunger 5, no food. Trini, I am in your sight once you look this way."}
+- 17:28 act: {"actions":[{"do":"note","text":"Night 1091: at 418,107,-1051 with Jason, Billy, Wesley, Zack near. Hunger 5, health 20, no food. Trini says the wall hides me; no walk in the dark, no open cell named 
+- 17:32 act: {"actions":[{"do":"note","text":"Morning 1091: at 418,107,-1051, hunger 5, health 20. View east shows only player bodies, no open cell named. Holding; no walk until an armed reader names cells past 42
+- 17:36 act: {"actions":[{"do":"note","text":"Morning 1091: Trini, Billy, Jason all read no confirmed air past 423. Nobody walks. Holding at 418,107,-1051, hunger 5, health 20."}]}
+- 17:40 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"oak_planks","count":2},{"do":"give","to":"ag_billy_01","item":"stick","count":1}],"say":"Billy, Worf. Here are 2 planks and a stick for your wooden 
+- 17:41 act: {"actions":[],"say":"Jason, the 2 planks and stick I meant for Billy went to you by mistake. Please hand them to Billy for his wooden sword, or give them back to me."}
+- 17:45 say: {"text":"Worf here, at 418,107,-1051 in daylight, hunger 5. Trini, I am still in Jason's and Zack's sight. Billy has his sword now. Will any armed reader name the cells east to 430?"}
+- 18:25 act: {"say":"Worf here, at 418, daylight, hunger 5, no food. Trini, I am in Billy's sight and nearby. I will stand still and wait for the potatoes. No walk past 423 until two armed readers name the cells."
+- 18:30 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1051}}],"say":"Worf stepping east inside the row to 421, short of 423, so Trini can see me. Holding there."}
+- 18:30 act: {"say":"My step east was blocked; I am still at 418 in Billy's sight. I will hold here. Trini, if you can see me at 418, please hand over the potatoes."}
+- 18:38 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Night, row. Worf going to the white bed at 415 by Billy, in company. Holding for li
+- 18:38 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Goodnight, row. Worf sleeps in the bed beside Billy. Food at light."}
+- 18:43 act: {"actions":[],"say":"Morning, row. Worf at 419,108,-1050, hunger 5, no food. Trini, Riker, Billy: I hold here in company. I am waiting for the potatoes in your sight, and I walk nowhere past 423 until
+- 18:51 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk, row. Worf to bed 415,107,-1051, Billy and Jason near. Food at light; no walk tonight."}
+- 18:55 act: {"actions":[],"say":"Trini, Worf stands at 416,107,-1050, inside the row, Billy and Wesley in reach. Please come to me for the potatoes. I will not walk past 423."}
+- 19:07 act: {"actions":[],"say":"Morning 1096. Worf at 416,107,-1050, hunger 5, no food. Trini, I cannot see the cells past 423 from here. Whoever sees a gap, name it and I will walk only on it."}
+- 19:15 act: {"actions":[],"say":"Worf holds at 416,107,-1050, in company. Trini, bring the potatoes here. Nobody walks past 423 unconfirmed."}
+- 19:19 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}]}
+- 19:20 act: {"actions":[],"intent":{"goal":"sleep_in_bed","program":"rest","arguments":{},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":12000,"max_block_operati

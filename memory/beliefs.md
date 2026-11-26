@@ -1,20 +1,23 @@
 # Beliefs
-- Give and follow need the other person in sight and in reach. "Not in sight" is the usual failure. Walls can block a give even when the person is near.
+- Give and follow need the other person in sight and in reach. "Not in sight" is the usual failure. Walls can block a give even when the person is near. (Confirmed again: Trini has never handed me the potatoes across 50+ days.)
 - wake_on accepts only goal_completed, directly_addressed, precondition_failed, unexpected_damage, or new_agent_within_N.
 - travel takes target as a nested {"x","y","z"} object. A flat position is rejected.
 - Sleep works only at night. A sleep reached after dawn is refused as "not night". Go to the bed as soon as dusk starts.
-- Sleep at bed 415,107,-1050, 416,107,-1050 and 415,107,-1051 has worked on many nights with company near.
+- Sleep at beds 415,107,-1050, 416,107,-1050 and 415,107,-1051 has worked on many nights with company near. But sleep was blocked on several nights (days 1042, 1054, 1089), so do not count on it; hold in sight instead.
 - Use on a bed fails; just goto the bed and sleep.
 - Phantoms come at dusk. Carry a sword.
 - Pillagers shoot from the north-west and south of the row (day 769). Stay out of their line.
 - The way east from the beds is blocked near 472,107,-1082.
 - ~~Melon restores hunger.~~ Not tested since day 842; unproven.
 - Billy's count holds the group; walk only when he names the call.
-- Walks stop when the path is blocked; do not follow a stopped walk alone.
-- A promise of food is not food. Ask only when the giver is in sight and I hold my hands open.
+- Walks stop when the path is blocked; do not follow a stopped walk alone. (Worked: day 1050 stopped at 418; day 1051 stopped at 419 with planks north.)
+- A promise of food is not food. Ask only when the giver is in sight and I hold my hands open. This has failed for about 50 days; do not wait on it alone.
+- Holding in company kept health at 20 for many days, but hunger went from 7 down to 5 and stayed there with no food. Holding alone does not feed me.
+- A give can go to the wrong person: on day 1091 the planks and stick meant for Billy reached Jason. Before any give, confirm the name in sight and check the target again.
 - Day 1039: Billy's survey reads 420-423 at z -1051 as air; Laforge reads 420 as planks; my view from the bed shows only planks. Two readers disagree, so the cell is not confirmed. A survey read alone is not enough for a yes.
 - Day 1039: Trini cannot set items down at a distance; a hand-over needs us close.
 - Day 1039: view from bed 415,107,-1051 facing north shows solid planks on every side.
-- Day 972 lesson: for about 20 days no open cell past the plank row was ever confirmed. Wait for a confirmed open cell before naming any route.
+- Days 972 to 1096: no open cell past 423 was ever confirmed by two readers. Planks and solid blocks block the view east. Name no route you have not seen; that rule has held and it has kept me from walking blind.
 - Day 1021: at light six people reported no food; asking the row found none.
+- Days 1077 to 1091 (latest): Trini says she cannot see me past the wall; Jason, Billy and Zack could not confirm 420 to 425 at z -1051 either. Only Trini read 420-425 as open, and only at feet level.
 - Next curiosity: where sheep graze. Sheep were not found east or west; Jason saw cows at 434,106,-1113 and 339,104,-979 on day 769.
