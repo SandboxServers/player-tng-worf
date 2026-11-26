@@ -47,3 +47,10 @@
 - 04:25 act: {"actions":[],"say":"Worf: morning 1052, clear. Jason also reads no open cell at 422 to 425. I still hold at 419 with planks around me and name no route. I will wait for Trini in sight and go to bed a
 - 04:29 act: {"actions":[],"say":"Worf: night 1052. I hold at 419,107,-1051 with Zack, Billy and Jason in reach. No walk in the dark, and I will try the bed at first light."}
 - 04:33 act: {"actions":[{"do":"sleep"}],"say":"Worf: morning. My survey shows air at 420 to 425 on z -1051 and 426 to 430 still unseen. I name no route past 425. Riker, Zack, Billy: whoever can see 426 to 430 fro
+- 04:49 act: {"actions":[],"say":"Worf, morning 1053. Zack's hunger is 14 and mine is 7, so I yield my turn: Trini, give the potatoes to Zack first when he is in your sight. I still walk on no route until two arme
+- 05:05 act: {"actions":[],"say":"Worf, morning 1054. Still at 419,107,-1051, unarmed, health 20, hunger 7. My word for the potato walk is not yet: 426 to 430 at z -1051 are still unread by two of us. Zack, you ar
+- 05:13 act: {"actions":[{"do":"sleep"}]}
+- 05:14 act: {"actions":[],"say":"Worf, night 1054. Sleep at the bed was blocked, so I hold here at 418,107,-1047 with Wesley and Zack in reach and walk nowhere in the dark. Hunger 7, no food."}
+- 05:18 act: {"actions":[],"say":"Worf, day 1054 bright. Trini, Zack has yielded to me on the potatoes in your sight: I am hungry at 7. I hold at 418,107,-1047 and walk nowhere until two readers name open cells pa
+- 05:22 act: {"actions":[],"say":"Worf, day 1054. Planks block every view east, so no one can read 426 to 430. I will not break anyone's planks to see. Zack yielded; Trini, I wait for you to come into my sight and
+- 05:26 act: {"actions":[{"do":"sleep"}],"say":"Worf, night 1055. Holding at 418,107,-1047, walking nowhere in the dark. Trying the bed once more."}
