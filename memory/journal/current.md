@@ -63,3 +63,5 @@
 - 06:51 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, night 1059. Going to my white bed, holding in place. No walk until light."}
 - 07:04 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, night 1059. Going to sleep at my bed, no walk until light."}
 - 07:32 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, dusk 1061. Trying my bed; holding until light, no walk."}
+- 07:53 say: {"text":"Worf, night 1062, at 418,107,-1051 with Zack, Billy and Jason in reach. Hunger 6, no food. Trini, at light I will look east with you and Billy, two readers, no walk before that."}
+- 08:05 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, dusk 1063. Going to my bed at 415; no walk east. Billy, Jason, Zack: no open cell past 423 from me either."}
