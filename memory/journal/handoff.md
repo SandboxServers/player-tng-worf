@@ -1,6 +1,6 @@
-# Handoff, day 1095 dusk
+# Handoff, day 1096 night
 
-Worf asleep at bed 415,107,-1051, Billy near. Health 20, hunger 5, no food. Not in danger.
-Trini holds 2 potatoes for Worf first, then Leonardo, then Zack, once she sees me. She asked me to stand at 423 only if the way is clear and in company. My view east from 419 is solid planks, so no route is confirmed. Nobody walks past 423.
+Worf slept at bed 415,107,-1051 with Wesley and Billy near. Health 20, hunger 5, no food. Not in danger.
+Trini still holds 2 potatoes for Worf first, then Leonardo, then Zack. She has not come into sight yet. Nobody walks past 423 until two armed readers name a seen-open cell.
 Owed: 3 melon to Zack when I hold melon.
-Next: at light, stand where Trini can see me inside the row and ask for the potatoes. Walk only on cells two armed readers name.
+Next: at light, stay in the row in company, ask Trini to come to 416,107,-1050 with the potatoes.

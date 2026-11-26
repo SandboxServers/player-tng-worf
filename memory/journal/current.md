@@ -160,3 +160,7 @@
 - 18:43 act: {"actions":[],"say":"Morning, row. Worf at 419,108,-1050, hunger 5, no food. Trini, Riker, Billy: I hold here in company. I am waiting for the potatoes in your sight, and I walk nowhere past 423 until
 - 18:51 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk, row. Worf to bed 415,107,-1051, Billy and Jason near. Food at light; no walk tonight."}
 - 18:55 act: {"actions":[],"say":"Trini, Worf stands at 416,107,-1050, inside the row, Billy and Wesley in reach. Please come to me for the potatoes. I will not walk past 423."}
+- 19:07 act: {"actions":[],"say":"Morning 1096. Worf at 416,107,-1050, hunger 5, no food. Trini, I cannot see the cells past 423 from here. Whoever sees a gap, name it and I will walk only on it."}
+- 19:15 act: {"actions":[],"say":"Worf holds at 416,107,-1050, in company. Trini, bring the potatoes here. Nobody walks past 423 unconfirmed."}
+- 19:19 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}]}
+- 19:20 act: {"actions":[],"intent":{"goal":"sleep_in_bed","program":"rest","arguments":{},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":12000,"max_block_operati
