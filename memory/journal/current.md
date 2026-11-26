@@ -1,4 +1,5 @@
 # Journal
+- Day 1077 day: wait showed Jason in reach, others near. Health 20, hunger 5, no food. Said my hold, set a hold-in-company intent, no walk past 423 (no second reader named a cell).
 - Day 1077 daylight: at 416,107,-1050, health 20, hunger 5, no food. Riker, Laforge, Troi, Zack, Billy in the row. Said my hold aloud. No checked cell past 423; no walk. Waiting in company.
 - Day 1076 daylight: at 416,107,-1050, health 20, hunger 5, no food. Jason in reach, Billy, Zack and Wesley near. Said my hold aloud. No cell past 423 named by two readers, so no walk to Trini.
 - Day 1074 daylight: at 415,107,-1051, health 20, hunger 6, no food. No open cell named past 423; said so aloud and set a hold intent with wake on directly addressed, damage, new agent near.
@@ -107,3 +108,4 @@
 - 12:41 act: {"say":"Worf, holding at the row bed in your sight. Hunger 5, no food. I will walk only on named daylight cells, read by two, one armed."}
 - 12:46 act: {"say":"Trini, Worf. I hear you. I still name no checked cell past 423 and I will not walk blind. Jason, you are armed: can you read 424 to 430 at z -1051 and name what is open?"}
 - 12:50 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Worf, night 1077. Holding at my bed with Jason in reach. No walk in the dark; no checked cell past 423."}
+- 12:54 act: {"say":"Worf, health 20, hunger 5, no food. Holding at my bed in your sight. No walk until two armed readers name exact cells. Trini, I wait for the potatoes in your sight, after Leonardo.","intent":{
