@@ -27,3 +27,5 @@
 - 03:10 act: {"actions":[],"say":"Worf, daylight 1048, at 419,108,-1050, hunger 7, no food. Trini, I hold here and wait for you to come to 419. Leonardo first, then me. I will not walk to 430 past 423 until two re
 - 03:14 act: {"actions":[],"say":"Worf, daylight, at 419,108,-1050. My view east shows only people around me, no open cell I can name past 423. I hold. Trini, if you come to 419 I will take my turn after Leonardo.
 - 03:20 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Dusk. I go to the bed at 415 with Billy and Jason near. No walk in the dark."}
+- 03:20 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night is here. I will sleep in the bed beside Jason and Billy. At first light I will go to Trini for the potatoes.
+- 03:24 act: {"actions":[],"say":"Worf, daylight, day 1049, at 416,107,-1050. Health 20, hunger 7, no food. Trini, I hold my turn after Leonardo. I cannot yet confirm 423 at z -1051, so I will not walk past it; if
