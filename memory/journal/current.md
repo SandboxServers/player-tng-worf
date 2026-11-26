@@ -95,3 +95,5 @@
 - 11:15 act: {"say":"Trini, Worf. I hear you, 2 potatoes, I am first. Jason, you are armed: can you name the exact open cells from 420 to 430 at z -1051 and check 423 with me? I walk only on your named cells."}
 - 11:40 act: {"say":"Worf, day 1073, at 415,107,-1051 with Jason in reach. Hunger 6, health 20, no food. Still no checked cell past 423, so I hold. Trini, I wait in your sight."}
 - 11:45 act: {"say":"Worf, day 1074 daylight, at 415,107,-1051. Armed, hunger 6, no food, health 20. I have seen no open cell past 423. I hold with Billy and Jason; no walk until two armed readers name exact cells
+- 11:50 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, night 1074. Holding at the bed 415,107,-1050 with Jason, Billy and Zack near. No walk in the dark."}
+- 11:54 act: {"actions":[],"say":"Worf, daylight 1075, at 415,107,-1051 with Jason near. Health 20, hunger 5, no food. Both beds blocked for sleep. I still name no route past 423 and hold until two armed readers n
