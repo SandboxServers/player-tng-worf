@@ -7,3 +7,5 @@
 - 20:50 act: {"say":"Worf, midday 1101, at 419,108,-1047, still holding. Trini, I can't see you from here either. I'm not walking or breaking anything. If you can see my cell, say so and I'll come to the open side
 - 20:58 act: {"say":"Worf, light 1101, at 419,108,-1047. Trini, Riker: whoever can see my cell, say so. I'll walk only to a cell you both name. Hunger 5, no food yet."}
 - 21:02 act: {"say":"Worf, light 1101. I am walled in by planks on every side, so I can't see Trini at 423. I hold at 419,108,-1047 and break nothing."}
+- 21:07 act: {"say":"Holding here with the row for the night. No walks in the dark.","intent":{"goal":"hold_at_bed_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precon
+- Night 1102 at 416,107,-1050: Riker, Zack, Jason and Wcrusher near. Health 20, hunger 5, no food. Holding in company, no walks. Trini's potatoes still unreached.
