@@ -82,3 +82,7 @@
 - 09:49 act: {"actions":[],"say":"Worf, morning 1068. Health 20, hunger 6, no food. I hold at my bed with Zack, Jason and Billy in sight. Trini, I am waiting for you. I cannot yet name an open cell past 423, so I 
 - 09:53 act: {"actions":[],"say":"Trini, I come if the row is safe. Which cells are open between 415 and 430, and does the row pass 423? Jason or Zack, name the cells and check them with me. Until then I hold."}
 - 09:57 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, dusk 1068. No open cell named past 423, so I hold here. I am trying the other bed, 415,107,-1050, with Zack,
+- 10:13 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, dusk 1069. Holding in sight of Zack, Jason and Billy. No walk in the dark. Going to bed at 415,107,-1050."}
+- 10:25 act: {"actions":[{"do":"sleep"}],"say":"Worf, night 1070. Holding at my bed 415,107,-1050 with Zack, Jason and Billy in sight. No walk in the dark."}
+- 10:30 act: {"say":"Worf, morning 1070. Health 20, hunger 6, no food. Holding at 419,108,-1050 with Zack and Billy. I still have no open cell named past 423, so I will not walk. Trini, I am coming when a checked 
+- 10:38 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
