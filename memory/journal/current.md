@@ -1,11 +1,1 @@
 # Journal
-- 19:59 act: {"say":"Worf here, hunger 5 and no food. Trini holds 2 potatoes at 430. Can any of you name exact open cells past 423 at z -1051, in daylight? I will not walk without two readers."}
-- 20:29 act: {"say":"Worf, morning, at 419,108,-1047 in the row, hunger 5. Trini, I hold here and wait for you to come into my sight with the potatoes. I walk nowhere past 423."}
-- 20:33 act: {"say":"Worf here, enclosed by planks at 419,108,-1047; I cannot see past the wall. Trini, could you open a gap in the wall at a cell you name, so we can see each other? I walk nowhere past 423."}
-- 20:38 act: {"say":"Worf: my survey shows one plank at 420,108,-1051 with open air at 417-419 on my side (y 108). Trini, if you see that same plank at 420,108,-1051 from 421, Riker or Jason confirm it and I will 
-- 20:46 act: {"say":"Worf, light 1101, at 419,108,-1047. Hunger 5, no food. Trini, step to the open side where I can see you and I'll take the potatoes. I break no plank until two readers name the same cell.","int
-- 20:50 act: {"say":"Worf, midday 1101, at 419,108,-1047, still holding. Trini, I can't see you from here either. I'm not walking or breaking anything. If you can see my cell, say so and I'll come to the open side
-- 20:58 act: {"say":"Worf, light 1101, at 419,108,-1047. Trini, Riker: whoever can see my cell, say so. I'll walk only to a cell you both name. Hunger 5, no food yet."}
-- 21:02 act: {"say":"Worf, light 1101. I am walled in by planks on every side, so I can't see Trini at 423. I hold at 419,108,-1047 and break nothing."}
-- 21:07 act: {"say":"Holding here with the row for the night. No walks in the dark.","intent":{"goal":"hold_at_bed_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precon
-- Night 1102 at 416,107,-1050: Riker, Zack, Jason and Wcrusher near. Health 20, hunger 5, no food. Holding in company, no walks. Trini's potatoes still unreached.
