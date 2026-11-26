@@ -101,3 +101,5 @@
 - 12:15 act: {"say":"Worf, morning. Health 20, hunger 5, no food. Holding here in sight with Billy, Jason and Zack. I will walk toward Trini for the potatoes only on a route two armed readers name."}
 - 12:19 act: {"say":"Worf, dusk 1075. Health 20, hunger 5, no food. Holding here with Jason in reach. No walk in the dark.","actions":[{"do":"sleep"}]}
 - 12:28 act: {"say":"Worf here, at my bed with Jason. Health 20, hunger 5, no food. I hold in company and will walk to Trini for potatoes only in full daylight with an armed reader naming the cells."}
+- 12:32 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Worf here, day 1076, dusk, health 20, hunger 5, no food. Going to the bed at 415,107,-1050 with Billy and Jason near."}
+- 12:33 act: {"actions":[],"say":"Worf, morning, day 1077. Health 20, hunger about 5, no food. Trini, I hold until two armed readers name a checked daylight cell past 423, then I come to your sight."}
