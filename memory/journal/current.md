@@ -152,3 +152,7 @@
 - 17:40 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"oak_planks","count":2},{"do":"give","to":"ag_billy_01","item":"stick","count":1}],"say":"Billy, Worf. Here are 2 planks and a stick for your wooden 
 - 17:41 act: {"actions":[],"say":"Jason, the 2 planks and stick I meant for Billy went to you by mistake. Please hand them to Billy for his wooden sword, or give them back to me."}
 - 17:45 say: {"text":"Worf here, at 418,107,-1051 in daylight, hunger 5. Trini, I am still in Jason's and Zack's sight. Billy has his sword now. Will any armed reader name the cells east to 430?"}
+- 18:25 act: {"say":"Worf here, at 418, daylight, hunger 5, no food. Trini, I am in Billy's sight and nearby. I will stand still and wait for the potatoes. No walk past 423 until two armed readers name the cells."
+- 18:30 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1051}}],"say":"Worf stepping east inside the row to 421, short of 423, so Trini can see me. Holding there."}
+- 18:30 act: {"say":"My step east was blocked; I am still at 418 in Billy's sight. I will hold here. Trini, if you can see me at 418, please hand over the potatoes."}
+- 18:38 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Night, row. Worf going to the white bed at 415 by Billy, in company. Holding for li
