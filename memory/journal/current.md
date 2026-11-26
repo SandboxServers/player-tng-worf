@@ -156,3 +156,7 @@
 - 18:30 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1051}}],"say":"Worf stepping east inside the row to 421, short of 423, so Trini can see me. Holding there."}
 - 18:30 act: {"say":"My step east was blocked; I am still at 418 in Billy's sight. I will hold here. Trini, if you can see me at 418, please hand over the potatoes."}
 - 18:38 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Night, row. Worf going to the white bed at 415 by Billy, in company. Holding for li
+- 18:38 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Goodnight, row. Worf sleeps in the bed beside Billy. Food at light."}
+- 18:43 act: {"actions":[],"say":"Morning, row. Worf at 419,108,-1050, hunger 5, no food. Trini, Riker, Billy: I hold here in company. I am waiting for the potatoes in your sight, and I walk nowhere past 423 until
+- 18:51 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk, row. Worf to bed 415,107,-1051, Billy and Jason near. Food at light; no walk tonight."}
+- 18:55 act: {"actions":[],"say":"Trini, Worf stands at 416,107,-1050, inside the row, Billy and Wesley in reach. Please come to me for the potatoes. I will not walk past 423."}
