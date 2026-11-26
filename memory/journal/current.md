@@ -145,3 +145,10 @@
 - 16:54 act: {"actions":[],"say":"Trini, Worf at 418,107,-1051, hunger 5. Light reads dark here. I will not walk to 423 until Jason or Billy name it open with me. Can you see me from where you stand?"}
 - 17:06 act: {"actions":[{"do":"note","text":"Morning 1090: at 418,107,-1051 in sight of Jason, Billy and Wesley. Hunger 5, no food, health 20. Held the night; no walk. Waiting for Trini's potatoes or a daylight r
 - 17:14 act: {"actions":[{"do":"note","text":"Night 1090: holding at 418,107,-1051 with Jason, Billy and Wesley in sight. No walk in the dark. Hunger 5, health 20. Trini still has the potatoes for me."}]}
+- 17:24 act: {"say":"Worf here, at 418,107,-1051, holding with Jason and Billy. Hunger 5, no food. Trini, I am in your sight once you look this way."}
+- 17:28 act: {"actions":[{"do":"note","text":"Night 1091: at 418,107,-1051 with Jason, Billy, Wesley, Zack near. Hunger 5, health 20, no food. Trini says the wall hides me; no walk in the dark, no open cell named 
+- 17:32 act: {"actions":[{"do":"note","text":"Morning 1091: at 418,107,-1051, hunger 5, health 20. View east shows only player bodies, no open cell named. Holding; no walk until an armed reader names cells past 42
+- 17:36 act: {"actions":[{"do":"note","text":"Morning 1091: Trini, Billy, Jason all read no confirmed air past 423. Nobody walks. Holding at 418,107,-1051, hunger 5, health 20."}]}
+- 17:40 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"oak_planks","count":2},{"do":"give","to":"ag_billy_01","item":"stick","count":1}],"say":"Billy, Worf. Here are 2 planks and a stick for your wooden 
+- 17:41 act: {"actions":[],"say":"Jason, the 2 planks and stick I meant for Billy went to you by mistake. Please hand them to Billy for his wooden sword, or give them back to me."}
+- 17:45 say: {"text":"Worf here, at 418,107,-1051 in daylight, hunger 5. Trini, I am still in Jason's and Zack's sight. Billy has his sword now. Will any armed reader name the cells east to 430?"}
