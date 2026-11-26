@@ -1,1 +1,12 @@
 # Journal
+- Day 1043 daylight: no route named by anyone yet; Trini still holds potatoes for Leonardo first. Hunger 7, health 20. Holding at 419,108,-1050 with Zack adjacent; said so aloud and set a hold intent.
+- Night, day 1042. Sleep failed earlier (way blocked). Walked to bed 415,107,-1050 and tried sleep again; it did not take (still day 1042, days_since_sleep 0). Hunger 7, health 20, with Billy, Jason, Zack near. Waiting for light; plan: Trini's potatoes once in her sight.
+- 01:06 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Going to the bed by my friends for the night. Hunger is 7 and I have no food; I will look for Trini's potatoes at light."}
+- Morning day 1042: Trini holds 2 potatoes; order Leonardo (health 1), then me, then Zack. I hold at 415,107,-1048 and will not walk until Leonardo is served and a named route is open. Hunger 7.
+- Still holding at 415,107,-1048. Trini holds potatoes for Leonardo first; no route named. I wait.
+- 01:06 act: {"actions":[],"say":"Trini, it is light now. I am at the bed by Billy. I am hungry and I will come into your sight at your bed, hands open, after Leonardo is served."}
+- 01:17 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Holding at my bed by Billy and Jason for the night. Still waiting my turn after Leonardo; no walk tonight."}
+- Day 1043 morning: sleep blocked overnight; holding at bed 416,107,-1050 with Billy, Jason, Zack. Hunger 7, health 20. Trini's potatoes still for Leonardo first. I hold.
+- 01:26 act: {"actions":[],"say":"Worf, morning. I have seen no exact open cell east past 423 either. I hold at my bed, hunger 7, and wait for Leonardo's potato first."}
+- 01:34 act: {"actions":[{"do":"sleep"}],"say":"Night, and I hold at my bed with Billy, Jason and Zack in sight. Hunger 7, no food tonight."}
+- 01:38 act: {"actions":[],"say":"Worf, day 1043, at my bed 419,108,-1050 with Zack adjacent. No route named by me. I hold; I walk only on exact open cells two of you name. Trini, Leonardo is first for the potatoe
