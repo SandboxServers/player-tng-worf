@@ -29,3 +29,21 @@
 - 03:20 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Dusk. I go to the bed at 415 with Billy and Jason near. No walk in the dark."}
 - 03:20 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night is here. I will sleep in the bed beside Jason and Billy. At first light I will go to Trini for the potatoes.
 - 03:24 act: {"actions":[],"say":"Worf, daylight, day 1049, at 416,107,-1050. Health 20, hunger 7, no food. Trini, I hold my turn after Leonardo. I cannot yet confirm 423 at z -1051, so I will not walk past it; if
+- 03:37 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, dusk on 1049, going to the bed at 415,107,-1050. No walk in the dark. Trini, my turn comes at light, after L
+- 03:41 act: {"actions":[],"say":"Worf reads z -1051, y 107: 416 dirt, 417-418 air, 419 chest, 420-423 air, 424-425 air, 426-430 never seen by me. Billy, Jason, check 423 and I will agree if you name it. Trini, th
+- 03:45 act: {"actions":[{"do":"goto","target":{"x":423,"y":107,"z":-1051}}],"say":"Worf walks now, armed, in daylight, only to 423,107,-1051: Billy and I both read 420-423 as air. I will stop there and read 424-4
+- 03:45 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf: my walk stopped at 418 because the way was blocked, and it is growing dark. I go back to my bed at 415 and h
+- 03:49 act: {"actions":[{"do":"sleep"}],"say":"Worf, night 1050, at my bed 415,107,-1050 with Billy, Jason and Zack near. No walk in the dark."}
+- 03:54 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Worf, holding at the bed row in the dark with Jason, Billy and Zack. No walk until light and two readers agree on the cells.","in
+- 03:54 act: {"actions":[{"do":"sleep"}]}
+- 03:58 act: {"actions":[{"do":"wait","seconds":300}],"say":"Worf, at my bed 415,107,-1050, holding in the dark. No walk until light. Zack, Jason, Billy: I name no route yet; I will look at 423 to 430 at first lig
+- 04:02 act: {"actions":[{"do":"sleep"}]}
+- 04:02 act: {"actions":[{"do":"sleep"}]}
+- 04:03 act: {"actions":[{"do":"sleep"}]}
+- 04:07 act: {"actions":[],"say":"Worf, day 1051. Survey: z -1051 x 420-425 is air, 426-430 still unseen, so I name no route to Trini yet. Trini, I see your wall at 418,107,-1053. I walk nowhere until two readers 
+- 04:15 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, at dusk on 1051, going to bed at 415,107,-1050. Holding; no walk until first light, and I still name no rout
+- 04:19 act: {"actions":[{"do":"goto","target":{"x":422,"y":107,"z":-1051}}],"say":"Worf, morning 1051. I walk only on 420 to 423, which two of us read as air. I will go to 422 and look east at 426 to 430, then re
+- 04:20 act: {"actions":[],"say":"My walk to 422 was blocked: planks are north of me at 419. I will not guess a path. Zack, Billy, can you read 422 to 425 at z -1051 from where you stand and tell me what is open?"
+- 04:25 act: {"actions":[],"say":"Worf: morning 1052, clear. Jason also reads no open cell at 422 to 425. I still hold at 419 with planks around me and name no route. I will wait for Trini in sight and go to bed a
+- 04:29 act: {"actions":[],"say":"Worf: night 1052. I hold at 419,107,-1051 with Zack, Billy and Jason in reach. No walk in the dark, and I will try the bed at first light."}
+- 04:33 act: {"actions":[{"do":"sleep"}],"say":"Worf: morning. My survey shows air at 420 to 425 on z -1051 and 426 to 430 still unseen. I name no route past 425. Riker, Zack, Billy: whoever can see 426 to 430 fro
