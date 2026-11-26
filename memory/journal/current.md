@@ -19,3 +19,10 @@
 - 01:52 act: {"say":"Worf, morning, at 419,108,-1050, health 20, hunger 7, no food. Trini, I cannot see you from here, and I have named no open cell past 423 that a second reader has confirmed. I hold until a rout
 - 02:09 act: {"say":"Worf, morning, at 419,108,-1050. Survey z -1051 y107: chest 419, air 420-422, past that unseen. No full route yet. Billy, name cells you see and I will check. Trini, I hold."}
 - 02:13 act: {"say":"Worf, dusk. I survey air at 420-422 on z -1051, same as Billy. I cannot confirm 423 from here. No walk in the dark; we walk at light."}
+- 02:13 act: {"actions":[{"do":"sleep"}],"say":"Worf at dusk, at a bed 415,107,-1050 with Jason beside me. No walk in the dark. Holding here for the night."}
+- 02:17 act: {"actions":[],"say":"Worf, day 1045 morning, at 419,108,-1050. I cannot confirm 423,107,-1051 from here either. I count no reader for it. Billy, we hold; no walk until two readers name open cells."}
+- 02:37 act: {"actions":[],"say":"Worf, day 1046: one word, no. I cannot confirm 423,107,-1051. No walk. Billy, Zack, Riker, Trini: we hold until a second reader names it."}
+- 02:46 act: {"actions":[],"say":"Worf, morning day 1047, at 419,108,-1050, health 20, hunger 7, no food. Still no confirmed cell past 423. I hold, and I want to sleep at the bed by Jason when it is dusk."}
+- 03:06 act: {"actions":[{"do":"sleep"}],"say":"Worf, dusk, at 419,108,-1050 with Zack, Jason and Billy near. No walk in the dark. Hunger 7, no food. Trini, my turn comes after Leonardo's, at light."}
+- 03:10 act: {"actions":[],"say":"Worf, daylight 1048, at 419,108,-1050, hunger 7, no food. Trini, I hold here and wait for you to come to 419. Leonardo first, then me. I will not walk to 430 past 423 until two re
+- 03:14 act: {"actions":[],"say":"Worf, daylight, at 419,108,-1050. My view east shows only people around me, no open cell I can name past 423. I hold. Trini, if you come to 419 I will take my turn after Leonardo.
