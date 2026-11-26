@@ -97,3 +97,5 @@
 - 11:45 act: {"say":"Worf, day 1074 daylight, at 415,107,-1051. Armed, hunger 6, no food, health 20. I have seen no open cell past 423. I hold with Billy and Jason; no walk until two armed readers name exact cells
 - 11:50 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, night 1074. Holding at the bed 415,107,-1050 with Jason, Billy and Zack near. No walk in the dark."}
 - 11:54 act: {"actions":[],"say":"Worf, daylight 1075, at 415,107,-1051 with Jason near. Health 20, hunger 5, no food. Both beds blocked for sleep. I still name no route past 423 and hold until two armed readers n
+- 12:15 act: {"say":"Worf, morning. Health 20, hunger 5, no food. Holding here in sight with Billy, Jason and Zack. I will walk toward Trini for the potatoes only on a route two armed readers name."}
+- 12:19 act: {"say":"Worf, dusk 1075. Health 20, hunger 5, no food. Holding here with Jason in reach. No walk in the dark.","actions":[{"do":"sleep"}]}
