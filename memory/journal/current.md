@@ -58,3 +58,7 @@
 - 05:34 act: {"actions":[],"say":"Worf, morning 1055. Leonardo is at health 1, so he takes the first potato. I yield to him, and Zack after him. I hold at 415,107,-1050 and walk nowhere."}
 - 05:46 act: {"actions":[],"say":"Worf, morning 1056. From 415,107,-1050 I see only planks east too, so I name no route. Leonardo first, then Zack, then me. I hold and walk nowhere."}
 - 06:15 say: {"text":"Worf, morning 1057. Health 20, hunger 7, no food, sword only. I read planks east too, no open cell past 425. I hold here with Zack, Billy and Wesley. No walk until two readers name a cell."}
+- 06:23 act: {"actions":[{"do":"sleep"}]}
+- 06:35 act: {"actions":[{"do":"sleep"}]}
+- 06:51 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, night 1059. Going to my white bed, holding in place. No walk until light."}
+- 07:04 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, night 1059. Going to sleep at my bed, no walk until light."}
