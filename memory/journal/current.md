@@ -68,3 +68,4 @@
 - 08:22 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Going to my bed at 415,107,-1050 for the night. I have no food; I will hold here in sight of Billy and the others.
 - 08:23 act: {"actions":[{"do":"wait","seconds":240}]}
 - 08:27 act: {"actions":[],"say":"Worf, morning 1064, at 418,107,-1047. Health 20, hunger 6, sword in hand, no food. I still see no open cell east. I hold here and walk nowhere until two armed readers name an exac
+- 08:31 act: {"actions":[{"do":"note","text":"Morning 1064: held at 418,107,-1047 with Billy, Jason, Zack in reach. Hunger 6, no food. Walking nowhere until two readers name an exact open cell."}],"say":"Worf here
