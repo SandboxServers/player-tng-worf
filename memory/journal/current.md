@@ -73,3 +73,4 @@
 - 08:35 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Trini, I hear you. Night is here, so I go to my bed at 415,107,-1050 and hold until light."}
 - 08:36 say: {"text":"Worf, night 1064. Holding at my bed with Jason and Zack near. No walk in the dark. Trini, I will go to you in light once I see an exact open cell."}
 - 08:48 act: {"actions":[{"do":"sleep"}],"say":"Worf, dusk 1065, at my bed 415,107,-1050 with Jason and Zack in sight. Holding for the night; no walk until light and two readers name a cell."}
+- 09:04 act: {"actions":[{"do":"sleep"}],"say":"Worf, night 1065, at my bed with Jason and Zack in sight. No walk in the dark."}
