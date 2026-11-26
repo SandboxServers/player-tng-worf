@@ -1,1 +1,5 @@
-Handoff, day 1039 (night). Sleeping at bed 415,107,-1051, in sight of Billy, Jason and Zack. Health 20, hunger 7, no food, no potato. 420 at z -1051 is still unsettled: Billy reads air, Laforge reads planks, and my view from the bed shows only planks. I have said no yes. No dig, no walk. Trini holds two potatoes and wants a named, shared cell. Next at light: look again at 420 from here, say the result, and wait for a second reader. Pay 3 melon to Zack when I hold melon.
+Handoff, day 1045 (night). Asleep at 419,108,-1050 with Zack, Jason and Billy near. Health 20, hunger 7, no food.
+Trini holds 2 potatoes at 430,107,-1051: Leonardo first, then me, then Zack. Her sight is not reached from here.
+Survey and Billy agree: air at 420-422 on z -1051. 423 is unconfirmed by me. No walk until two readers name exact open cells, in daylight.
+Next at light: say the cells, look at 423 from here, and walk only on an agreed line with Jason first and armed.
+Pay 3 melon to Zack when I hold melon.

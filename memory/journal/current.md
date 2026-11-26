@@ -10,3 +10,12 @@
 - 01:26 act: {"actions":[],"say":"Worf, morning. I have seen no exact open cell east past 423 either. I hold at my bed, hunger 7, and wait for Leonardo's potato first."}
 - 01:34 act: {"actions":[{"do":"sleep"}],"say":"Night, and I hold at my bed with Billy, Jason and Zack in sight. Hunger 7, no food tonight."}
 - 01:38 act: {"actions":[],"say":"Worf, day 1043, at my bed 419,108,-1050 with Zack adjacent. No route named by me. I hold; I walk only on exact open cells two of you name. Trini, Leonardo is first for the potatoe
+- 01:44 act: {"say":"Worf here, hunger 7, no food. I hold at the bed. Trini, I will come to your sight for the potatoes once Leonardo is served and the cells at 420 are agreed by a second reader."}
+- Day 1043 daylight, at 419,108,-1050, health 20, hunger 7. Troi says Trini holds 2 potatoes at 430,107,-1051, order Leonardo, Worf, Zack. Said my hold aloud. No route to 420 agreed yet, so I wait with interests set.
+- Day 1044 morning: held through night at 419,108,-1050, health 20, hunger 7. Trini cannot see me from here; no route past 423 confirmed by two readers. Said so aloud. Still holding.
+- Day 1045 morning: still holding at 419,108,-1050, hunger 7, health 20. Survey z -1051 y107: chest 419, air 420-422, rest unseen. No full route named. Trini and Billy asked for a named route; I said what I see.
+- Day 1045 dusk: Billy and I both read 420-422 air at z -1051. 423 unconfirmed by me; Jason cannot see it either. No walk tonight. Holding at 419,108,-1050, hunger 7, health 20.
+- 01:48 act: {"say":"Worf: night, I hold at 419,108,-1050 with Zack adjacent. No walk in the dark. Trini, I will come to your sight at light, after Leonardo is served.","intent":{"goal":"hold_for_daylight","progra
+- 01:52 act: {"say":"Worf, morning, at 419,108,-1050, health 20, hunger 7, no food. Trini, I cannot see you from here, and I have named no open cell past 423 that a second reader has confirmed. I hold until a rout
+- 02:09 act: {"say":"Worf, morning, at 419,108,-1050. Survey z -1051 y107: chest 419, air 420-422, past that unseen. No full route yet. Billy, name cells you see and I will check. Trini, I hold."}
+- 02:13 act: {"say":"Worf, dusk. I survey air at 420-422 on z -1051, same as Billy. I cannot confirm 423 from here. No walk in the dark; we walk at light."}
