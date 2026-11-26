@@ -123,3 +123,5 @@
 - 14:05 say: {"text":"Morning. Worf holds at the bed, no walk yet. Trini, if you can see east from 425, name the open cells and I will come only on those."}
 - 14:17 say: {"text":"Worf at bed 416, in Jason's sight. Trini, you are at 423: name the cells between 417 and 423 you saw open, and say if you hold a sword. I walk only on two readers' words."}
 - 14:21 say: {"text":"Trini, Worf is in your reach of view from 416? Come to the nearest bed spot in my sight, away from the 417 to 423 cells, and give me a potato there. I walk nowhere."}
+- 14:30 say: {"text":"Worf here, hunger 5 and no food. I will not walk in the dark. At light I will ask Trini for her potatoes, in her sight, after Leonardo."}
+- 14:34 say: {"text":"Trini, Worf here. I hear you, and thank you. My body still reads the light as dark, so I will not walk the open ground yet. When it reads bright and the route is seen, I come to your sight at
