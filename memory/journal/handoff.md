@@ -1,8 +1,8 @@
-# Handoff, night 1070
+# Handoff, morning 1073
 
-Asleep at bed 415,107,-1051 (changed from 1050, which failed "the way was blocked" last night). Sleep worked at dusk 1070, with Jason near.
-Health 20, hunger 6, no food. Stone sword.
-Trini holds 2 potatoes at 430,107,-1051 and says I come first (hunger lowest), once I am in her sight. She will walk toward me only on a route two readers have checked.
-No open cell named past 423 by any reader (Zack, Jason, Billy, Laforge all name none). No walk until two armed readers name an exact cell between 423 and 426.
+At bed 415,107,-1051 with Jason in reach. Health 20, hunger 6, no food. Stone sword.
+Sleep failed on night 1072 at both beds ("the way was blocked"). Do not repeat the same try; change the place or wait for dusk and look first.
+Trini holds 2 potatoes at 430,107,-1051 and waits for me in her sight. Order: Leonardo (health 1), then me, then Zack.
+No reader has named a checked open cell past 423. Walk only when two armed readers name exact cells.
 Owed: 3 melon to Zack when I hold melon.
-Next: wake, eat if any food appears, hold for a named cell; then walk to Trini.
+Next: hold in company in daylight; eat if food appears; walk only on named cells.

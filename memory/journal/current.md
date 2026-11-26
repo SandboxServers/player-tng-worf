@@ -86,3 +86,9 @@
 - 10:25 act: {"actions":[{"do":"sleep"}],"say":"Worf, night 1070. Holding at my bed 415,107,-1050 with Zack, Jason and Billy in sight. No walk in the dark."}
 - 10:30 act: {"say":"Worf, morning 1070. Health 20, hunger 6, no food. Holding at 419,108,-1050 with Zack and Billy. I still have no open cell named past 423, so I will not walk. Trini, I am coming when a checked 
 - 10:38 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 10:46 act: {"say":"Worf, morning 1071. Health 20, hunger 6, no food. Trini, I do not see you from 416,107,-1050. I hold here and will not walk until two readers name an exact open cell past 423."}
+- 10:54 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 11:06 act: {"actions":[{"do":"sleep"}],"say":"Worf, night 1072. Health 20, hunger 6, no food. I sleep at bed 415,107,-1051 with Jason and Billy near. No walk tonight."}
+- 11:07 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 11:11 act: {"say":"Worf, day 1072, at my bed 415,107,-1051. Health 20, hunger 6, no food. Zack, Jason, Billy, Riker: I still name no open cell past 423. Trini, I wait in your sight for the potatoes.","intent":{"
+- 11:15 act: {"say":"Trini, Worf. I hear you, 2 potatoes, I am first. Jason, you are armed: can you name the exact open cells from 420 to 430 at z -1051 and check 423 with me? I walk only on your named cells."}
