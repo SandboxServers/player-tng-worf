@@ -74,3 +74,8 @@
 - 08:36 say: {"text":"Worf, night 1064. Holding at my bed with Jason and Zack near. No walk in the dark. Trini, I will go to you in light once I see an exact open cell."}
 - 08:48 act: {"actions":[{"do":"sleep"}],"say":"Worf, dusk 1065, at my bed 415,107,-1050 with Jason and Zack in sight. Holding for the night; no walk until light and two readers name a cell."}
 - 09:04 act: {"actions":[{"do":"sleep"}],"say":"Worf, night 1065, at my bed with Jason and Zack in sight. No walk in the dark."}
+- 09:05 act: {"say":"Night. I hold here with Zack and Jason in sight. No walk in the dark.","actions":[]}
+- 09:09 act: {"say":"Worf, morning 1066. Health 20, hunger 6, no food, stone sword in hand. Holding here with Zack and Jason. Trini, I am waiting in your sight for the potatoes once Leonardo is served. No walk unt
+- 09:17 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk. Going to the white bed at 415,107,-1051 beside Zack and Jason, then I sleep."}
+- 09:24 act: {"say":"Worf, morning 1066. Holding at 415,107,-1051 with Zack, Billy and Jason. I name no cell past 423, so I walk nowhere. Trini, I wait for your sight with the potatoes.","actions":[]}
+- 09:32 act: {"actions":[{"do":"sleep"}],"say":"Night 1067. I sleep at this bed with Zack, Jason and Billy near. No walk in the dark."}
