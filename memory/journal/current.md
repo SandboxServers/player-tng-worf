@@ -62,3 +62,4 @@
 - 06:35 act: {"actions":[{"do":"sleep"}]}
 - 06:51 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, night 1059. Going to my white bed, holding in place. No walk until light."}
 - 07:04 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, night 1059. Going to sleep at my bed, no walk until light."}
+- 07:32 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, dusk 1061. Trying my bed; holding until light, no walk."}
