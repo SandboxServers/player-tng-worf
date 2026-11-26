@@ -125,3 +125,9 @@
 - 14:21 say: {"text":"Trini, Worf is in your reach of view from 416? Come to the nearest bed spot in my sight, away from the 417 to 423 cells, and give me a potato there. I walk nowhere."}
 - 14:30 say: {"text":"Worf here, hunger 5 and no food. I will not walk in the dark. At light I will ask Trini for her potatoes, in her sight, after Leonardo."}
 - 14:34 say: {"text":"Trini, Worf here. I hear you, and thank you. My body still reads the light as dark, so I will not walk the open ground yet. When it reads bright and the route is seen, I come to your sight at
+- 14:43 say: {"text":"Worf here. Staying at the row bed until light. No walk in the dark. At first light I will ask Trini for the potatoes in her sight."}
+- 14:47 say: {"text":"Worf here, morning, health 20, hunger 5. Trini, I see you are at 429. I am checking the cells east of me now; I walk only on cells I can see open."}
+- 14:47 say: {"text":"Trini, Worf: my view shows planks and solid on every side from 416. No open cell to you, so I hold. Jason or Zack, if you can see an open line east, name the cells and I will come on them."}
+- 14:55 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, dusk 1083. Going to my bed at 415,107,-1050 with Jason and Zack near. No walk in the dark. Trini, I come at 
+- 15:00 say: {"text":"Morning 1084. Worf at 418,107,-1051, health 20, hunger 5, sword in hand. Jason, armed and in reach: can you name the open cells between here and Trini at 430? I walk only on cells you and I b
+- 15:40 say: {"text":"Morning. I am holding at 416,107,-1050 and will walk only on a cell you name as open. Trini, I am ready for the potatoes if you can reach me."}
