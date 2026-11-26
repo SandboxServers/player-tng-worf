@@ -69,3 +69,5 @@
 - 08:23 act: {"actions":[{"do":"wait","seconds":240}]}
 - 08:27 act: {"actions":[],"say":"Worf, morning 1064, at 418,107,-1047. Health 20, hunger 6, sword in hand, no food. I still see no open cell east. I hold here and walk nowhere until two armed readers name an exac
 - 08:31 act: {"actions":[{"do":"note","text":"Morning 1064: held at 418,107,-1047 with Billy, Jason, Zack in reach. Hunger 6, no food. Walking nowhere until two readers name an exact open cell."}],"say":"Worf here
+- 08:33 act: {"actions":[],"say":"Worf here. Hunger 6 and no food. I hold in place with Billy and Jason near. Does anyone have food to spare, or know where Trini is?"}
+- 08:35 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Trini, I hear you. Night is here, so I go to my bed at 415,107,-1050 and hold until light."}
