@@ -54,3 +54,7 @@
 - 05:18 act: {"actions":[],"say":"Worf, day 1054 bright. Trini, Zack has yielded to me on the potatoes in your sight: I am hungry at 7. I hold at 418,107,-1047 and walk nowhere until two readers name open cells pa
 - 05:22 act: {"actions":[],"say":"Worf, day 1054. Planks block every view east, so no one can read 426 to 430. I will not break anyone's planks to see. Zack yielded; Trini, I wait for you to come into my sight and
 - 05:26 act: {"actions":[{"do":"sleep"}],"say":"Worf, night 1055. Holding at 418,107,-1047, walking nowhere in the dark. Trying the bed once more."}
+- 05:30 act: {"actions":[],"say":"Worf, morning 1055. Health 20, hunger 7, no food. I hold at 415,107,-1050 with Jason in reach. Trini, when you wake and I can see you, I will take the first potato, then Zack."}
+- 05:34 act: {"actions":[],"say":"Worf, morning 1055. Leonardo is at health 1, so he takes the first potato. I yield to him, and Zack after him. I hold at 415,107,-1050 and walk nowhere."}
+- 05:46 act: {"actions":[],"say":"Worf, morning 1056. From 415,107,-1050 I see only planks east too, so I name no route. Leonardo first, then Zack, then me. I hold and walk nowhere."}
+- 06:15 say: {"text":"Worf, morning 1057. Health 20, hunger 7, no food, sword only. I read planks east too, no open cell past 425. I hold here with Zack, Billy and Wesley. No walk until two readers name a cell."}
