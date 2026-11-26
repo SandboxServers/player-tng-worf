@@ -2,52 +2,19 @@
 - Give and follow need the other person in sight and in reach. "Not in sight" is the usual failure. Walls can block a give even when the person is near.
 - wake_on accepts only goal_completed, directly_addressed, precondition_failed, unexpected_damage, or new_agent_within_N.
 - travel takes target as a nested {"x","y","z"} object. A flat position is rejected.
-- trade_wait programs are not available in this phase.
-- Sleep works only at night. A sleep reached after dawn is refused as "not night". Go to the bed as soon as dusk starts. (Day 873: by day sleep is refused every time.)
-- Sleep at bed 415,107,-1050 and 416,107,-1050 has worked on many nights, and at 416,107,-1051 once. Beds -1036, -1037 often say "the way was blocked". Day 951-961: sleep at 415,107,-1050 was blocked on several nights; it worked on others.
+- Sleep works only at night. A sleep reached after dawn is refused as "not night". Go to the bed as soon as dusk starts.
+- Sleep at bed 415,107,-1050, 416,107,-1050 and 415,107,-1051 has worked on many nights with company near.
 - Use on a bed fails; just goto the bed and sleep.
 - Phantoms come at dusk. Carry a sword.
-- Pillagers shoot from the north-west and south of the row (day 769). Billy died to them at 411,-1066. Stay out of their line.
-- The way east from the beds is blocked near 472,107,-1082. Sheep were not found east or west.
-- ~~Melon restores hunger.~~ Not tested again since day 842; treat as unproven until I eat melon myself.
-- A rest intent can end at once with no one calling; the group holds without it.
+- Pillagers shoot from the north-west and south of the row (day 769). Stay out of their line.
+- The way east from the beds is blocked near 472,107,-1082.
+- ~~Melon restores hunger.~~ Not tested since day 842; unproven.
 - Billy's count holds the group; walk only when he names the call.
-- ~~Crafting table and signs refuse clicks for sword-in-hand.~~ Day 873: a stone sword was crafted from my pack and the chest and sign did not take it in hand. The true part is only that clicks on them did not work with the sword in hand.
 - Walks stop when the path is blocked; do not follow a stopped walk alone.
-- Day 873: the way east from the row at 419 (toward Billy at 430) was blocked again and again, from 416 to 419. Each walk east stopped there. Do not count on reaching 430 by walking.
-- Day 873: a promise of food is not food. Billy said 5 potatoes were given to me; my pack never showed one. Beverly is said to hold my 5, and I have not seen them. Ask only when the giver is in my sight and I hold my hands open.
-- Day 873: a wooden sword use at the ground failed twice. A stone sword in hand was not confirmed by a use result.
-- Day 873: many sleep sends in a row with no effect (about 40 at once at 15:15-15:42). One sleep try per dusk is enough; repeated tries waste the turns.
-- Day 873: eat with a potato at hunger 10 worked for me (11:51).
-- Day 769: Jason saw cows at 434,106,-1113 and 339,104,-979, no sheep. A death sends you to the spawn with nothing.
-- Day 773: Leonardo, Laforge and Wesley have seen no sheep. Zack's food is gone; Riker ate the last potato.
-- Day 781: Billy named no walk for two days. Jason's walk to bed 443 stopped at the blocked way; Billy holds him beside me at 418,107,-1051.
-- Day 819: a potato given by Zack reached me at the bed. Sleep at dusk in thunder still worked at 416,107,-1050.
-- Day 832: a follow intent with Billy fails at once if he is not in sight; he came north to us instead. Goto to a flat position is rejected for act; use do:"goto" with target {"x","y","z"}.
-- Day 832: the goto to the potatoes at 469,-1070 was blocked again at 418,-1051. Walks stop there; hold at the row.
-- Day 834-835: Billy named a walk to the potatoes at 469,-1070 but did not come into my sight; I held at the bed and did not walk. Sleep at dusk at 416,107,-1050 worked with the row near.
-- Day 842: Laforge slept from one block east of bed 429,107,-1065 by sending sleep with no click; it works at night only. Use on a bed fails.
-- Day 917: breaking planks at the row's north and west gave only beds and cobblestone; the row stays closed on every side. Use view from a new spot before naming a walk.
-- Day 917: Lewis was hit by a phantom to health 5 in the row at night; he reached Picard and Riker at 429,-1050.
-- Day 918: view from my bed at 416,107,-1050 showed an open gap ahead to the north-west, but a survey did not confirm a route beyond 417,107,-1053. Do not name a walk without confirmed cells.
-- Day 918: the world only lets sleep at dusk or night; I slept at dusk at my bed and it worked.
-- Day 924: survey of the box around the row returned unknown cells at y 100-102; view north shows only planks. No route past the gap is confirmed. Do not name a walk until view or see shows open air on the path.
-- Day 952: at dusk, my sleep at bed 415,107,-1050 reported "1 of 10 asleep" and the others in the row were refused. A sleep send can work for me alone and still not put the row to sleep.
-- Day 972 (what did not work): for about 20 days (950-972) no open cell was ever confirmed past the plank row, so every walk stayed unnamed. Lesson: wait for a seen, confirmed open cell before naming any route; a gap full of people is not open air.
-- Day 972 (what did work): holding by the beds with Zack and Jason in reach, and speaking aloud at each dusk and dawn, kept me alive at health 20 through the whole stretch.
-- Day 976: view from bed 416,107,-1050 at dawn still showed only planks; the gap ahead was not open air. Sleep at dusk worked at 416,107,-1050 with Jason and Zack near.
-- Day 978-979: sleep at dusk was refused as "not night" at the first try; it worked after night fell (day 979, bed 417,107,-1051). Wait for full night, then sleep once.
-- Day 979: the row is still closed by planks; view showed no open cell. Holding by the beds is safe but leaves hunger at 9 with no food found.
-- Day 984: the plank at 416,107,-1052 opens onto glass pane, not air. Opening it confirmed nothing about a route. Sleep at night worked on the second try after a blocked first try.
-- Day 987: view from bed 416,107,-1050 shows a gap up-left and ahead, still unconfirmed as open air. Dusk-to-night sleep at 416,107,-1050 worked after one "not night" refusal in the morning. Thunder came and went; no harm.
-- Day 996: the row group (Billy, Zack, Jason, Riker, Laforge, Troi, Tommy, Wesley) holds at the beds every day waiting for my named route. I still have none confirmed. Naming one without seen open cells has failed before; keep holding until view or see shows air.
-- Day 996: sleep at dusk-to-night at 416,107,-1050 worked again with company near.
-- Day 998: view from bed 416,107,-1050 still showed planks all round, no open cell. Sleep at night at this bed worked with company near.
-- Day 1000: at dawn, Trini's bed is 430,107,-1051 and her 2 potatoes are there; she gives them when the receiver stands in her sight. No clear cell from the row to her bed is known; holding is right until one is seen.
-- Day 1000: sleep at night at 416,107,-1050 worked with company near (3 of 10 asleep on the first try, then the night passed).
-- Day 1000 (morning): at first light the row still showed only walls and players from the bed view. Billy names the walks; I named none and walked none. Trini's potatoes wait at her bed for a receiver in her sight.
-- Day 1009: survey 423-429 at z -1051 shows only 423 seen open; 424-429 unseen. Trini asks for a named seen-open route before handing potatoes. Holding is right until more is seen.
-- Day 1019: sleep at bed 415,107,-1051 at dusk, then a second try once night fell, worked with Zack, Billy and Jason in sight.
-- Day 1021: at light, six people in the row (Billy, Zack, Jason, Riker, Laforge, Troi) all reported no food. Asking the row for food found none. Hunger 8 holds steady; health 20.
-- Day 1021: sleep at dusk at 416,107,-1050 worked with Billy, Zack and Jason near.
-- Next curiosity: where sheep graze. Tell the row when anything new is learned.
+- A promise of food is not food. Ask only when the giver is in sight and I hold my hands open.
+- Day 1039: Billy's survey reads 420-423 at z -1051 as air; Laforge reads 420 as planks; my view from the bed shows only planks. Two readers disagree, so the cell is not confirmed. A survey read alone is not enough for a yes.
+- Day 1039: Trini cannot set items down at a distance; a hand-over needs us close.
+- Day 1039: view from bed 415,107,-1051 facing north shows solid planks on every side.
+- Day 972 lesson: for about 20 days no open cell past the plank row was ever confirmed. Wait for a confirmed open cell before naming any route.
+- Day 1021: at light six people reported no food; asking the row found none.
+- Next curiosity: where sheep graze. Sheep were not found east or west; Jason saw cows at 434,106,-1113 and 339,104,-979 on day 769.
