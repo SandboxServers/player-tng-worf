@@ -45,3 +45,4 @@ Waking 837: play skill read, summary recalled. Game tools (status, wait, act, sa
 - 17:19 act: {"actions":[{"do":"attack","target":"phantom"}]}
 - Waking 844: play skill read, summary recalled. Game tools (status, wait, act) still not in my hands. Nothing moved. Holding still; will check tools again next waking.
 - Waking 843 (this one): play skill read, summary recalled. Game tools (status, wait, act, look) still not in my hands; no errand possible. Nothing moved. Last known: night at the tables, health 8 per line 43, hunger 9, phantoms near. Holding still; will check tools again next waking.
+- Waking 845: play skill read, summary recalled. Game tools (status, wait, act, look) still not in my hands; only memory, file, skill and errand tools. Nothing moved. Last known: night at the tables, health 8 per line 43, hunger 9. Holding still; will check tools again next waking.
