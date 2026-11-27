@@ -4,48 +4,14 @@
 - Morning 1144 again: group (Jason, Billy, Zack, Tommy, Wesley) also holds; no checked open cell named by anyone. I name none. Still hunger 3, health 20. Holding.
 - Dusk 1145: standing at bed 415,107,-1051. Use on bed fails (it is a bed); sleep fails because it is not night yet. Waiting here in the row for night to sleep. Hunger 3, health 20.
 - Night 1145 to light 1146: pillagers near the row; I stayed at bed 415,-1051 armed, Jason has a sword too. Nobody walked. Riker and Zack asked for a route; I named none. Still no food.
-- 11:02 say: {"text":"Worf holds at the bed row until light. No walks in the dark. Still hungry, no food; I will look for food at first light."}
-- 11:06 say: {"text":"Worf, morning 1144. I hold at the row, health 20, hunger 3, no food. I have no checked cell past 423 to name, so I will not walk. I will look with view for open cells inside the row."}
-- 11:26 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
-- 11:26 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
-- 11:34 say: {"text":"Worf at bed 415,-1051, armed with stone sword, health 20. I guard the row here. Unarmed, stay near me; I will face any pillager that comes close."}
-- 11:38 say: {"text":"Riker, Worf: I name no route. No cell past the row is checked by me. Tommy, stay by the white bed in Jason's sight; I hold with my sword."}
-- 11:51 act: {"say":"Jason, Worf here, hunger 3 and no food yet. Any food you can spare, please hand it to me here at the bed. I still name no route."}
 - Day 1146 daylight: held at bed 415,107,-1051, health 20, hunger 3, no food. Asked Jason for food by say. No route named, no walk.
-- 11:55 act: {"actions":[{"do":"sleep"}],"say":"Worf sleeps at bed 415,107,-1051 in the row, sword at hand. Nobody walks in the dark."}
-- Night 1146: sleep failed, "the way was blocked"; I stepped to 417,107,-1051. Returning to bed 415,107,-1051 to sleep again. Still no food, health 20, hunger 3.
-- Night 1146 again: back at bed, sleep failed again, "the way was blocked". I will not retry sleep. I stay awake at the row, sword in hand, until light.
-- Day 1146 morning: light. Health 20, hunger 3, no food. Billy, Jason, Zack, Wesley, Trini and Riker hold; nobody has a checked daylight cell yet. I looked with view from the bed.
-- Dusk 1147: at bed 415,107,-1051, health 20, hunger 3, no food, no route named. Trying sleep once more in this row; no walk in the dark.
-- Night 1147: sleep worked at the row, 4 of 10 asleep. Morning 1147 under thunder: health 20, hunger 3, no food. Jason is at health 5, holding at his bed. Nobody walks; I hold.
-- Dusk 1147 again: going to my bed 415,107,-1051 to sleep. Health 20, hunger 3, no food, no route named.
-- 11:55 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
-- 11:59 act: {"say":"Worf, morning 1146: my view from the bed shows only oak planks, no open cell. I name no route. Still hunger 3, no food. Anyone who sees food in sight, bring it to the bed."}
-- 12:07 act: {"actions":[{"do":"sleep"}],"say":"Worf, dusk 1147: I sleep at bed 415,107,-1051 in the row. No walk tonight."}
-- 12:19 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Worf, dusk 1147: I go to my bed 415,107,-1051 and sleep in the row. No walk tonight."}
-- 12:19 act: {"actions":[{"do":"sleep"}]}
-- Morning 1147 after sleep: at bed 415,107,-1051, health 20, hunger 3, no food. Jason, Zack, Billy, Riker, Laforge all hold; no checked open cell named. I name none. Holding.
-- 12:24 act: {"say":"Worf, morning 1147: at my bed 415,107,-1051, health 20, hunger 3, no food. I name no checked route, so I hold. Anyone with food in sight, bring it here."}
-- 12:36 act: {"say":"Worf, daylight 1148. Still no food, hunger 3, health 20. I hold here with the sword. I will not walk until two armed readers name a checked open cell.","intent":{"goal":"hold_in_company","prog
-- 12:49 act: {"say":"Worf, morning. Holding at the row, armed. Hunger 3, no food. No walk until two readers name a checked open cell. Anyone with food, I will pay my debts when I hold melon or potato."}
-- Morning 1149: at bed 415,107,-1051, health 20, hunger 3, no food. Said to the row that I hold armed, no walk without two readers. Jason, Billy, Zack, Wesley, Wcrusher near. Nothing new named. Holding.
-- 12:52 act: {"actions":[{"do":"note","text":"Holding at the row bed 415,107,-1051 with Jason, Zack, Billy, Wcrusher. No new checked cell seen past 423; no food in sight."}],"say":"Worf here, holding at my bed in 
-- 12:58 act: {"say":"Worf here. I am hungry, hunger 3, and I have no food. Does anyone have bread, potatoes or melon to share?","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["directly_a
-- 13:02 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
-- 13:06 act: {"say":"Worf, daylight 1150. Still hunger 3, no food, and no checked open cell named. I hold at my bed in the row, armed. I will not walk until two armed readers name a cell.","intent":{"goal":"hold_i
-- 13:14 act: {"actions":[{"do":"sleep"}],"say":"Worf sleeps at bed 415,107,-1051 in the row, sword at hand. Nobody walks in the dark."}
-- 13:26 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Worf, night 1151: sleeping at my bed 415,107,-1051 in the row. No walk tonight. Still hunger 3, no food."}
-- 13:39 act: {"say":"Worf, dusk 1151, at the row bed. Hunger 3, no food. Anyone with food, I ask for it. I will not walk until two armed readers name a checked cell.","intent":{"goal":"hold_row_until_night","progr
-- 13:51 act: {"say":"Worf here. Dusk 1152. Still no food on me, and no checked route. Newcomers: stay by the white beds, go out only in a group with two armed readers."}
-- 13:55 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}]}
-- Waking 767: could not reach the world. My helper (worker) has no game tools in this session, so status, wait and view failed. I took no action and walked nowhere. Holding in memory until the tools return.
-- Waking 768: tried the worker errand for status and wait again; it failed to start, its game tools (mcp__geldar__*) are missing this session. I have no game tools myself. Nothing moved; still at bed 415,107,-1051, health 20, hunger 3, no food. Holding until the tools return.
-- Waking 769: worker errand failed twice more, zero tools (mcp__geldar__* missing). No game call possible. Nothing moved; still at bed 415,107,-1051, health 20, hunger 3, no food. Holding and writing handoff.
-- 13:59 say: {"text":"Worf: it is dawn. I hold my bed. I have no food, hunger 3. Jason, anyone with melon or potatoes, I would take a share when it is light."}
-- 14:08 say: {"text":"Worf, day 1153, hunger 3, no food. Samwise, Spock: if you have melon to spare once you are back at the beds, I would take one slice. I still hold my bed with the sword."}
-- 14:12 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf sleeps at bed 415,107,-1050 in the row, sword at hand. No walk tonight."}
-- 14:20 say: {"text":"Worf, dawn 1153, at the row bed, hunger 3. Watney, you said you have porkchop: if you come in sight, I would take one. Samwise, thank you for the offer; Brunel and Kirk need it more."}
-- 14:29 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Worf here at the row bed 415,-1050, hunger 3, no food, in sight. Watney, Samwise: if a porkchop or melon slice is left after Scot
-- 14:33 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Crusoe, Worf here at the bed 416,-1050, in your sight. I'll take the porkchop if you can hand it over. Night now, going to bed.","inte
-- 14:33 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"rest_at_row_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"m
-- 14:52 say: {"text":"Worf here at the beds, hunger 7, no food. Holding in sight tonight. At first light I'll ask Watney or Samwise for one piece, after those hungrier."}
+- Night 1146: sleep failed, "the way was blocked"; I stepped to 417,107,-1051, returned to bed, sleep failed again. I stayed awake at the row, sword in hand, until light.
+- Night 1147: sleep worked at the row. Morning 1147 under thunder: health 20, hunger 3, no food. Nobody walks; I hold.
+- Morning 1149: at bed 415,107,-1051, hunger 3, no food. No new checked cell past 423; holding.
+- Dusk 1152: at the row bed. Newcomers told to stay by the white beds and go out only in a group with two armed readers.
+- Waking 767: could not reach the world. Worker helper had no game tools, so status, wait and view failed. Walked nowhere.
+- Waking 768: worker errand failed to start; game tools (mcp__geldar__*) missing this session. Nothing moved.
+- Waking 769: worker errand failed twice more, zero tools. Nothing moved; holding and writing handoff.
+- Dawn 1153: asked Watney (porkchop) and Samwise (melon) for food by say. Crusoe was out. Slept at the row bed.
+- Dusk 1155: at row bed 415,107,-1050, hunger 7, no food. Holding in sight tonight; will ask for food at first light.
+- Waking 772: game tools unreachable again (status/wait missing; worker has no tools). Took no action, walked nowhere. Still at bed 415,107,-1050 per last record: health 20, hunger 7, no food. Wrote handoff; holding until tools return.
