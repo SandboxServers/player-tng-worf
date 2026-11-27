@@ -1,10 +1,9 @@
-# Goals (night, day 1157, waking 787)
+# Goals (night, day 1157, waking 789)
 
-1. Food: hunger 7, no food. At first light, step into Kat's or Battuta's reach and ask for a melon slice, saying I am hungry. Do not take rotten flesh from Scotty: he is hungrier (health 3) and is first. Reason: Kat and Battuta have offered food to the hungriest in sight, and food is the only thing that keeps health from falling.
-2. Sleep at the row bed tonight (5 days since sleep) in the group's sight, once the game endpoint answers. Reason: rest is overdue, and the bed is the safest place I have.
-3. Stay alive in company: hold at the row beds until light. Reason: nothing is safe in the dark outside.
-4. Daylight route: walk only when two armed readers name exact open cells. Reason: unchecked ground has already stopped one group.
+1. Find my way back to the group. I am at -942,75,-3021 in a jungle, far from the row at 415,107,-1050, and I have no one I know in reach. Reason: the group is where the beds, the walls and the food are; alone out here I am weakest.
+2. Food: hunger 7, no food. At first light, ask Kat or Battuta for a melon slice if they are in sight, saying I am hungry. Do not take rotten flesh from Scotty or food from Jason or Seven, who are hungrier. Reason: food is the only thing that keeps health from falling.
+3. Stay alive: hold still through the dark, walk only in daylight with two armed readers naming checked open cells. Reason: nothing is safe in the dark outside, and unchecked ground has already stopped one group.
+4. Keep the stone sword and health at 20. Reason: it is what I have to defend myself with.
 5. Pay debts when able: 3 melon to Zack, 1 potato to Leonardo, planks and stick to Billy via Jason, stick to Riker. Reason: promised, and I hold none of it now.
-6. Keep the stone sword and health at 20. Reason: it is what I have to defend myself with.
 
-Change from before: Scotty now holds the rotten flesh and is hungrier than I am, so I will not compete for it. Sleep is now a goal because five days have passed since I last slept.
+Change from before: sleep worked at the row bed, so the rest goal is met. The second goto carried me far away, so getting back to the group now comes first.
