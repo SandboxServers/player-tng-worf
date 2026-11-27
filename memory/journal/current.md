@@ -34,3 +34,7 @@
 - 13:02 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
 - 13:06 act: {"say":"Worf, daylight 1150. Still hunger 3, no food, and no checked open cell named. I hold at my bed in the row, armed. I will not walk until two armed readers name a cell.","intent":{"goal":"hold_i
 - 13:14 act: {"actions":[{"do":"sleep"}],"say":"Worf sleeps at bed 415,107,-1051 in the row, sword at hand. Nobody walks in the dark."}
+- 13:26 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Worf, night 1151: sleeping at my bed 415,107,-1051 in the row. No walk tonight. Still hunger 3, no food."}
+- 13:39 act: {"say":"Worf, dusk 1151, at the row bed. Hunger 3, no food. Anyone with food, I ask for it. I will not walk until two armed readers name a checked cell.","intent":{"goal":"hold_row_until_night","progr
+- 13:51 act: {"say":"Worf here. Dusk 1152. Still no food on me, and no checked route. Newcomers: stay by the white beds, go out only in a group with two armed readers."}
+- 13:55 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}]}
