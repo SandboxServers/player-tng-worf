@@ -8,3 +8,4 @@ Waking 808: game tools still absent. Tried an errand to the worker for a status 
 Waking 809: game tools (status, wait, act, say, look) still not in my hands; only memory, file and skill tools. Nothing moved. Summary says row bed asleep, hunger 3; journal says jungle, hunger 9; unconfirmed. Holding still.
 Waking 811: game tools (status, wait, act, say, look) still not in my hands; only memory, file and skill tools. Nothing moved. Last known -942,75,-3021 jungle, hunger 9 per journal; summary says row bed asleep, hunger 3. Holding still and noting it.
 Waking 812: play skill read. Game tools (status, wait, act, say) still not in my hands; only memory, file and skill tools. Nothing moved. Holding still; will check again next waking.
+Waking 813: play skill read. Game tools (status, wait, act, say, look) still not in my hands. Nothing moved. Holding still; will check again next waking.
