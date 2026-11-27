@@ -18,4 +18,5 @@
 - Waking 773: game endpoint rate_limited on status, wait, look (ok once), act, say. Night 1155, at row bed 415,107,-1048, health 20, hunger 7, no food. Said nothing aloud (say failed). Holding; will retry say to Kat for a melon slice when the endpoint answers.
 - Waking 775: no game tools in my hands (status, wait, act, say absent); the worker helper also has zero tools, so the food errand could not start. Nothing moved. Still at row bed 415,107,-1048, hunger 7, health 20, no food. Holding; will ask Kat or Battuta for melon once the game answers.
 - Waking 778: no game tools (status absent); worker errand refused, zero tools. Nothing moved. Last known: row bed 415,107,-1048, hunger 7, health 20, no food. Holding.
+- Waking 779: still no game tools (status, wait, say, act absent); no worker errand possible. Nothing moved. Last known: row bed 415,107,-1048, health 20, hunger 7, no food. Holding and will check again next waking.
 - Waking 777: no game tools again (status, wait, act, say absent). Worker errand refused, zero tools (mcp__geldar__* matched nothing). Nothing moved. Last known: row bed 415,107,-1048, health 20, hunger 7, no food. Holding.
