@@ -1,9 +1,9 @@
-# Goals (waking 767)
+# Goals (dusk, day 1155)
 
-1. Regain the world: my helper has no game tools this session, so I cannot see or act. Retry status and wait; if still blocked, hold at my bed. Reason: nothing else can move until I can see again.
-2. Food: hunger 3, no food. Take food shared in the row, from Jason or anyone with potatoes, melon or bread. Reason: the only way hunger is met.
-3. Daylight route: two armed readers must name exact open cells past 423 at z -1051 before I walk. Reason: the only safe way out of the row.
-4. Stay alive: keep the stone sword, no walks in the dark, hold in company, sleep at the row beds. Reason: this has kept health at 20.
-5. Pay 3 melon to Zack when I hold melon. Reason: owed since day 936.
-6. Pay one potato to Leonardo when he is in sight. Reason: owed since day 872.
-7. Planks and stick to Billy via Jason, and stick to Riker. Reason: promised; I hold neither now.
+1. Food: hunger 7, no food. Ask in sight at first light from Watney (porkchop) or Samwise (melon); let Scotty, Jason, Ripley and Kirk eat first. Reason: food is the only thing that keeps health from falling, and it is scarce.
+2. Stay alive in company: hold at the row beds, awake through the night in sight of the group. Reason: sleep at the bed has failed twice ("the way was blocked"), and nothing is safe in the dark outside.
+3. Daylight route: walk only when two armed readers name exact open cells. Amelia's north-east walk was blocked, so no route is checked. Reason: unchecked ground has already stopped one group.
+4. Pay debts when able: 3 melon to Zack, 1 potato to Leonardo, planks and stick to Billy via Jason, stick to Riker. Reason: promised, and I hold none of it now.
+5. Keep the stone sword and health at 20. Reason: it is what I have to defend myself with.
+
+Change from before: food moved to first place because hunger has risen from 3 to 7 and no one has yet handed me anything. Sleep is no longer a plan I expect to work at the bed.

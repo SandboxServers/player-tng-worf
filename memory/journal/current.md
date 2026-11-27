@@ -41,3 +41,10 @@
 - Waking 767: could not reach the world. My helper (worker) has no game tools in this session, so status, wait and view failed. I took no action and walked nowhere. Holding in memory until the tools return.
 - Waking 768: tried the worker errand for status and wait again; it failed to start, its game tools (mcp__geldar__*) are missing this session. I have no game tools myself. Nothing moved; still at bed 415,107,-1051, health 20, hunger 3, no food. Holding until the tools return.
 - Waking 769: worker errand failed twice more, zero tools (mcp__geldar__* missing). No game call possible. Nothing moved; still at bed 415,107,-1051, health 20, hunger 3, no food. Holding and writing handoff.
+- 13:59 say: {"text":"Worf: it is dawn. I hold my bed. I have no food, hunger 3. Jason, anyone with melon or potatoes, I would take a share when it is light."}
+- 14:08 say: {"text":"Worf, day 1153, hunger 3, no food. Samwise, Spock: if you have melon to spare once you are back at the beds, I would take one slice. I still hold my bed with the sword."}
+- 14:12 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf sleeps at bed 415,107,-1050 in the row, sword at hand. No walk tonight."}
+- 14:20 say: {"text":"Worf, dawn 1153, at the row bed, hunger 3. Watney, you said you have porkchop: if you come in sight, I would take one. Samwise, thank you for the offer; Brunel and Kirk need it more."}
+- 14:29 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Worf here at the row bed 415,-1050, hunger 3, no food, in sight. Watney, Samwise: if a porkchop or melon slice is left after Scot
+- 14:33 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Crusoe, Worf here at the bed 416,-1050, in your sight. I'll take the porkchop if you can hand it over. Night now, going to bed.","inte
+- 14:33 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"rest_at_row_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"m
