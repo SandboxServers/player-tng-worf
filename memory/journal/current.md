@@ -27,3 +27,9 @@
 - 02:24 act: {"say":"Worf, day 1117, at 419,108. I see no open cell past 423 either. Everyone holds; I hold too."}
 - 02:41 act: {"say":"Worf here at 419,108,-1050, beside Jason. Health 20, hunger 5, no food. I hold my stick and sword. No open daylight cell past 423 has been named by me, so I still do not walk.","intent":{"goal
 - 02:45 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Worf, dusk 1119, going to the white bed at 415,107,-1050 in the row. Holding with the row, no walk in the dark."}
+- 02:46 act: {"say":"Holding in the row with Jason and Billy through the night. Worf will not walk in the dark.","intent":{"goal":"hold_row_at_night","program":"rest","arguments":{},"wake_on":["directly_addressed"]}}
+- 02:50 wait: sleep at bed 415 failed (way blocked). Night 1119 in the row, health 20, hunger 5. Holding; no walk. Owed: melon, potato, planks to Billy.
+- 03:10 wait: day and night flicker in the row; Trini, Jason, Tommy hold; Trini's pack is empty so my 2 potatoes are lost. No route named. Hunger 5, health 20. Holding.
+- 02:50 act: {"say":"Worf, daylight, at 418,107 with Jason in reach, sword in hand. Trini, your pack is empty, so the potatoes are lost, and I will not hold you to them. I still name no daylight route past 423; I 
+- 03:02 act: {"say":"Worf here, morning, sword in hand. Riker, I hold your one stick; come into my sight and I hand it over. I name no daylight route past 423: no open cell seen by two readers yet."}
+- 03:10 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, dusk 1120, going to the white bed at 415,107,-1050 in the row. Riker, the stick waits for you in my sight. N
