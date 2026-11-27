@@ -29,3 +29,5 @@
 - Waking 786: game tools still absent (status missing; worker refused, zero tools). Nothing moved. Last known: row bed 415,107,-1048, health 20, hunger 7, no food. Holding; will check again next waking.
 - 15:08 act: {"say":"Kat, thank you. I am at the row bed 415,-1048, in your sight if you walk to the white beds. I do not see you from here. I am Worf, hunger 7."}
 - 15:28 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1048}}],"say":"Worf, hunger 7, no food. Jason and Seven are hungrier; I hold here with my sword and will not take what they need. Whoever has a 
+- 15:35 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf here, at the row bed, hunger 7, holding in the group's sight through the night."}
+- 15:35 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
