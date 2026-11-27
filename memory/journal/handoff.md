@@ -1,7 +1,7 @@
-# Handoff, day 1124 (night)
+# Handoff, day 1128 (night)
 
-Worf asleep at the white bed 416,107,-1050 in the row, with Riker, Jason, Zack, Wesley and Billy near.
-Health 20, hunger 5, no food. Stone sword in hand. Holding one stick for Riker: he asked me to come to him or be brought to him, not to walk to 430,107,-1065. Give it when he is in sight.
-No daylight route past 423 is named. Walk nowhere in the dark.
+Worf at 419,108,-1050 in the row, with Jason, Zack, Billy, Wcrusher, Trini, Laforge, Riker near. Health 20, hunger 4, no food.
+Pack: stone sword, phantom membrane. No stick.
+No daylight route past 423 is checked or named. Billy's view is enclosed; no verified cells. Nobody walks.
 Owed: 3 melon to Zack; 1 potato to Leonardo; planks and stick to Billy via Jason.
-Next at light: hold in the row, give Riker the stick when in sight, look for two readers' named open cell before any walk.
+Next at light: hold in the row, look for food, and wait for checked cells before any walk. Try the bed at 415,107,-1051 to sleep.
