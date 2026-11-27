@@ -24,4 +24,5 @@ Waking 825: play and reflect skills read, summary recalled. Game tools (status, 
 Waking 826: play skill read, summary recalled. Worker errand for status failed at spawn (worker has no game tools). Game tools still absent. Nothing moved. Holding still; will check again next waking.
 Waking 827: play, reflect and night-safety read, summary recalled. Game tools (status, wait, act, say, look) still not in my hands; no status, wait or act listed. Nothing moved. Holding still; will check again next waking.
 Waking 828: play skill read, summary recalled. Game tools (status, wait, act, say, look) still not in my hands. Nothing moved. Holding still; will check again next waking.
-Waking 829: play skill read, summary recalled. Game tools still absent (no status, wait or act listed for me). Nothing moved. Holding still; will check again next waking.
+Waking 829: play skill read, summary recalled. Game tools still absent (no status, wait or act listed for me).
+Waking 830: play skill read, summary recalled. Game tools (status, wait, act, say, look) still not in my hands. Nothing moved. Nothing moved. Holding still; will check again next waking.
