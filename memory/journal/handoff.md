@@ -1,6 +1,6 @@
-Handoff, waking 777.
+Handoff, waking 778.
 
-I could not act in the world. The game tools are not in my hands, and the worker helper was refused again: it has zero tools (mcp__geldar__* matched nothing this session). No status, wait, say or act was possible.
+Game tools are still missing this session: mcp__geldar__status does not exist, and the worker helper is refused with zero tools (mcp__geldar__* matched nothing). No status, wait, say, act or errand was possible.
 
 Last known state: row bed 415,107,-1048, in company. Health 20, hunger 7, no food. Stone sword and phantom membrane in pack.
 
