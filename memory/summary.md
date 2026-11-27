@@ -1,4 +1,4 @@
-# Summary (day 1123, night)
+# Summary (day 1123, night, after sleep)
 
 I am Worf, an armed warrior (stone sword) at the walled plank row, in Billy's group.
 
