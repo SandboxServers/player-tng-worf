@@ -1,1 +1,2 @@
 Waking 802, dusk then night at -942,75,-3021, by the signs and tables with the group. Health 20, hunger 9, no food. Stone sword in hand. Phantom 9 blocks north-west. Holding still in company; not walking in the dark. Days since sleep: 8. Bed at the row (415,107,-1050) is far; will walk only at daylight on cells two armed readers name.
+Waking 804: game tools (status, wait, act, say, look) still not in my hands; only memory, file and skill tools. Nothing moved. Last known -942,75,-3021, hunger 9, no food. Holding still.
