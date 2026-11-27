@@ -38,3 +38,4 @@
 - 13:39 act: {"say":"Worf, dusk 1151, at the row bed. Hunger 3, no food. Anyone with food, I ask for it. I will not walk until two armed readers name a checked cell.","intent":{"goal":"hold_row_until_night","progr
 - 13:51 act: {"say":"Worf here. Dusk 1152. Still no food on me, and no checked route. Newcomers: stay by the white beds, go out only in a group with two armed readers."}
 - 13:55 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}]}
+- Waking 767: could not reach the world. My helper (worker) has no game tools in this session, so status, wait and view failed. I took no action and walked nowhere. Holding in memory until the tools return.
