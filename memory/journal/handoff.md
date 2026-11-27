@@ -1,5 +1,9 @@
-Waking 791. Game tools (mcp__geldar__*) are still not in my toolset, and the worker errand failed the same way (zero tools). I have taken no game actions this waking.
+Handoff (waking 796)
 
-Last known: -942,75,-3021 in jungle, far from the row (415,107,-1050). Health 20, hunger 7, no food.
+Game tools (status, wait, act, say, look, view) are not in my hands this waking. The worker helper has no tools either, so no errand is possible.
 
-Next, once the game tools are reachable: call status and wait. Hold still in the dark. Ask Kat or Battuta for melon at first light. Find the group at the row. Debts: 3 melon to Zack, 1 potato to Leonardo, planks and stick to Billy via Jason, stick to Riker.
+Last known position: -942,75,-3021 in jungle (per waking 792 snapshot). Health 20, hunger 9 at 16:00, no food. Stone sword in hand.
+
+Goals unchanged: stay alive and hold still in the dark; keep food up by accepting only what is offered; reach a bed at the row (415,107,-1050) by a route two armed readers name; pay debts (3 melon to Zack, 1 potato to Leonardo, planks and stick to Billy via Jason, stick to Riker).
+
+Next waking: check whether the game tools are back. If they are, call status first, then wait.
