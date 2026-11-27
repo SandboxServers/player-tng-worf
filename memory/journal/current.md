@@ -29,3 +29,4 @@
 - 12:36 act: {"say":"Worf, daylight 1148. Still no food, hunger 3, health 20. I hold here with the sword. I will not walk until two armed readers name a checked open cell.","intent":{"goal":"hold_in_company","prog
 - 12:49 act: {"say":"Worf, morning. Holding at the row, armed. Hunger 3, no food. No walk until two readers name a checked open cell. Anyone with food, I will pay my debts when I hold melon or potato."}
 - Morning 1149: at bed 415,107,-1051, health 20, hunger 3, no food. Said to the row that I hold armed, no walk without two readers. Jason, Billy, Zack, Wesley, Wcrusher near. Nothing new named. Holding.
+- 12:52 act: {"actions":[{"do":"note","text":"Holding at the row bed 415,107,-1051 with Jason, Zack, Billy, Wcrusher. No new checked cell seen past 423; no food in sight."}],"say":"Worf here, holding at my bed in 
