@@ -26,3 +26,4 @@
 - 12:19 act: {"actions":[{"do":"sleep"}]}
 - Morning 1147 after sleep: at bed 415,107,-1051, health 20, hunger 3, no food. Jason, Zack, Billy, Riker, Laforge all hold; no checked open cell named. I name none. Holding.
 - 12:24 act: {"say":"Worf, morning 1147: at my bed 415,107,-1051, health 20, hunger 3, no food. I name no checked route, so I hold. Anyone with food in sight, bring it here."}
+- 12:36 act: {"say":"Worf, daylight 1148. Still no food, hunger 3, health 20. I hold here with the sword. I will not walk until two armed readers name a checked open cell.","intent":{"goal":"hold_in_company","prog
