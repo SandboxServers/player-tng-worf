@@ -24,4 +24,5 @@
 - Waking 781: status tool still absent (mcp__geldar__status not found); no wait, act or say either. Nothing moved. Last known: row bed 415,107,-1048, health 20, hunger 7, no food. Holding; will check again next waking.
 - Waking 782: status tool absent again (mcp__geldar__status not found); no game tools in hand. Nothing moved. Last known: row bed 415,107,-1048, health 20, hunger 7, no food. Holding; will check again next waking.
 - 15:06 act: {"say":"Worf, hunger 7, no food. Kat or Battuta, if you have a melon slice, I am hungry and in your sight here at the beds. I hold; I will not walk until a route is named clear."}
+- Waking 786: game tools still absent (status missing; worker refused, zero tools). Nothing moved. Last known: row bed 415,107,-1048, health 20, hunger 7, no food. Holding; will check again next waking.
 - 15:08 act: {"say":"Kat, thank you. I am at the row bed 415,-1048, in your sight if you walk to the white beds. I do not see you from here. I am Worf, hunger 7."}
