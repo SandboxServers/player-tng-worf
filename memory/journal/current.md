@@ -34,3 +34,6 @@
 - 15:39 say: {"text":"Worf here, at night, holding still. Hunger 7, no food. At first light I will walk toward the row and ask for melon."}
 - Waking 792: game tools back. Snapshot shows me at -942,75,-3021 in jungle, not at the row (the journal row position was stale). Night, dark, phantoms west, group near (Zack, Ripley, Tommy, Watney). Health 20, hunger 7, no food. Said I hold; nothing walked.
 - 15:43 act: {"actions":[{"do":"eat"}],"say":"Thank you, Kat. Worf eats now. I will share back what I can."}
+- 15:48 act: {"say":"Worf, afternoon, hunger 9, health 20, no food. I'm holding in the group's sight with my stone sword. If anyone finds melon, potato or meat, I'd take a share."}
+- 16:00 act: {"say":"Worf, morning, armed with a stone sword, health 20, hunger 9. I'll stand guard at the group's edge through the morning. Unarmed ones, stay in my sight. I still have no food; I'll take a share 
+- Waking 794: game tools missing again (mcp__geldar__status not found); no wait, act or say. Nothing moved. Last known: -942,75,-3021 jungle per waking 792, hunger 9 at 16:00, health 20. Holding still; will check again next waking.
