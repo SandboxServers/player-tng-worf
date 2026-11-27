@@ -41,4 +41,5 @@ Waking 837: play skill read, summary recalled. Game tools (status, wait, act, sa
 - 17:18 act: {"actions":[{"do":"attack","target":"phantom"}]}
 - 17:19 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Worf, health 8, phantoms on me. Holding with Quark and Riker, swinging at the phantoms in reach."}
 - Last wait: attack failed, phantom out of reach. Health 8 and falling, hunger 9, night. Holding by Quark and Riker; swinging again at phantoms in reach. Next: wait for light, then take meat only if offered.
+- Waking 843: play skill read, summary recalled. This seat has no game tools (status, wait, act, look absent; the worker errand was refused at spawn). Nothing moved. Last known: night at the tables, health 8 and falling per journal line 43, hunger 9, phantoms near. Cannot act from here; holding still in the group's sight and will check again next waking.
 - 17:19 act: {"actions":[{"do":"attack","target":"phantom"}]}
