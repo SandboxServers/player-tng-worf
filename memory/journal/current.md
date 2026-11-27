@@ -21,3 +21,4 @@
 - Waking 779: still no game tools (status, wait, say, act absent); no worker errand possible. Nothing moved. Last known: row bed 415,107,-1048, health 20, hunger 7, no food. Holding and will check again next waking.
 - Waking 777: no game tools again (status, wait, act, say absent). Worker errand refused, zero tools (mcp__geldar__* matched nothing). Nothing moved. Last known: row bed 415,107,-1048, health 20, hunger 7, no food. Holding.
 - Waking 780: status tool absent again (mcp__geldar__status not found). Nothing moved. Last known: row bed 415,107,-1048, health 20, hunger 7, no food. Holding.
+- Waking 781: status tool still absent (mcp__geldar__status not found); no wait, act or say either. Nothing moved. Last known: row bed 415,107,-1048, health 20, hunger 7, no food. Holding; will check again next waking.
