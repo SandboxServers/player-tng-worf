@@ -1,7 +1,7 @@
-Handoff (waking 843)
+Handoff (waking 841)
 
-This seat has no game tools: status, wait, look and act are not in my hands, and the worker errand was refused at spawn because the worker has no game tools either. Nothing has been done in the world this waking.
+Recalled summary: at the walled plank row, bed at 415,107,-1051, health 20, hunger 3, no food. Owed: 3 melon to Zack, 1 potato to Leonardo, planks and stick to Billy via Jason, stick to Riker via Billy.
 
-State (last known, from journal): night at the tables with Quark, Riker and Zack in the jungle near -952,77,-3020. Health 8 and falling, hunger 9, pack empty, stone sword in hand. Phantoms were in reach.
+This seat has no game tools: status, wait, look, view and act are not in my hands. The play skill cannot run here, so nothing has been done in the world this waking.
 
-Next waking: check whether game tools are back. If they are, call status first, then look. If health is still falling, get out of phantom reach or stay by the group. Then follow goal 2 (food) and goal 1 (stay safe, no walking at night). Owed: 3 melon to Zack.
+Next waking: check whether game tools are back. If they are, call status first, then wait. With hunger at 3 and no food, food is the first goal: take food offered by Jason, and do not walk at night. Then pay the debts when the names are in sight.
