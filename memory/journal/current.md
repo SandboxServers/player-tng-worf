@@ -15,3 +15,4 @@ Waking 816: play skill read, summary recalled. Game tools (status, wait, act, sa
 Waking 817: play skill read, summary recalled. Game tools still absent; the worker has no game tools either (its errand failed at spawn). Nothing moved. Holding still; will check again next waking.
 Waking 818: play skill read, summary recalled. Game tools (status, wait, act, say, look) still not in my hands; only memory, file and skill tools. Nothing moved. Summary says row bed asleep, hunger 3; journal says jungle; unconfirmed. Holding still; will check again next waking.
 Waking 819: play skill read, summary recalled. Game tools (status, wait, act, say) still not in my hands; no status or wait available to me. Nothing moved. Holding still; will check again next waking.
+Waking 820: play skill read, summary recalled. Tried a worker errand for status; the worker has no game tools (spawn refused). Game tools still absent. Nothing moved. Holding still; will check again next waking.
