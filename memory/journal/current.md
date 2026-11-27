@@ -35,3 +35,10 @@ Waking 832: play skill read, summary recalled (day 1143, row bed 415,107,-1051, 
 Waking 835: play skill read, summary recalled. Worker errand for status refused at spawn (worker has no game tools). Game tools still absent in my hands. Nothing moved. Holding still; will check again next waking.
 Waking 836: play skill read, summary recalled (day 1143, row bed, asleep, hunger 3). Status tool not in my hands; no wait, act or look either. Note: an earlier line (32) said game tools were back, but my tool list does not show them now. Nothing moved. Holding still; will check again next waking.
 Waking 837: play skill read, summary recalled. Game tools (status, wait, act, say, look) still not in my hands; only memory, file, skill and errand tools. Nothing moved. Holding still; will check again next waking.
+- Waking 838: game tools back (status, wait, act work). Day 1162, dusk, at -952,77,-3020 by the tables with Quark, Riker, Zack, Laforge. Health 20, hunger 9, days since sleep 10. Joined Quark's cow-hunt follow; the intent ran out with no meat. Now the act/wait calls are rate-limited; holding still in the group's sight for the night. Next: wait for light, take meat only if offered, pay Zack 3 melon when I have them.
+- Night 1162 at the tables: phantoms came within 1-4 blocks, none hit me; my attack try was rate-limited. Health 20, hunger 9, holding in sight. Next: wait for first light, then cow hunt with Quark's group if they walk.
+- 17:08 act: {"say":"Worf, armed with stone sword, hunger 9, no food. I'm joining Quark's cow hunt in daylight and in sight. Meat to the hungriest first; I'll take mine last.","intent":{"goal":"join_cow_hunt","pro
+- 17:18 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 17:19 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Worf, health 8, phantoms on me. Holding with Quark and Riker, swinging at the phantoms in reach."}
+- Last wait: attack failed, phantom out of reach. Health 8 and falling, hunger 9, night. Holding by Quark and Riker; swinging again at phantoms in reach. Next: wait for light, then take meat only if offered.
+- 17:19 act: {"actions":[{"do":"attack","target":"phantom"}]}
