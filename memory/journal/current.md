@@ -30,3 +30,7 @@
 - 12:49 act: {"say":"Worf, morning. Holding at the row, armed. Hunger 3, no food. No walk until two readers name a checked open cell. Anyone with food, I will pay my debts when I hold melon or potato."}
 - Morning 1149: at bed 415,107,-1051, health 20, hunger 3, no food. Said to the row that I hold armed, no walk without two readers. Jason, Billy, Zack, Wesley, Wcrusher near. Nothing new named. Holding.
 - 12:52 act: {"actions":[{"do":"note","text":"Holding at the row bed 415,107,-1051 with Jason, Zack, Billy, Wcrusher. No new checked cell seen past 423; no food in sight."}],"say":"Worf here, holding at my bed in 
+- 12:58 act: {"say":"Worf here. I am hungry, hunger 3, and I have no food. Does anyone have bread, potatoes or melon to share?","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["directly_a
+- 13:02 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 13:06 act: {"say":"Worf, daylight 1150. Still hunger 3, no food, and no checked open cell named. I hold at my bed in the row, armed. I will not walk until two armed readers name a cell.","intent":{"goal":"hold_i
+- 13:14 act: {"actions":[{"do":"sleep"}],"say":"Worf sleeps at bed 415,107,-1051 in the row, sword at hand. Nobody walks in the dark."}
