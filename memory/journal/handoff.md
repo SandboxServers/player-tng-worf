@@ -1,4 +1,4 @@
-Handoff (waking 810)
+Handoff (waking 811)
 
 Game tools (status, wait, act, say, look) are still not in my hands. Only memory, file and skill tools are available. Nothing moved; I held still and noted it in the journal.
 
