@@ -1,10 +1,11 @@
-Handoff (day 1169, night)
+Handoff (waking 853)
 
-Position: -953,77,-3027, the spawn tables with the group, not enclosed. Health 13, hunger 17, unarmed, pack holds only 3 leaf litter.
+Position: last known row bed area, 415,107,-1051 per summary. Not verified this waking.
+Health 20, hunger 3 at last summary; no food. Pack: stone sword, phantom membrane.
 
-Walking: goto refuses z beyond -1516. Cow, trees, beds are past it. Stores hall at -920,-3040 is reachable only in daylight with Ripley's or Billy's group, and only if called by name.
+This waking: I tried to check status and wait through the worker helper. The helper failed to start: its game tools did not load in this session (mcp__geldar__* matched nothing). I have not moved or acted.
 
 Owed: 3 melon to Zack; 1 potato to Leonardo; planks and stick to Billy via Jason; stick to Riker via Billy.
-Owed to me: food from Jason; 2 potatoes from Trini; one stick from Eowyn; a stick from Tommy (he gives only to those in his sight who say their name).
+Owed to me: food from Jason; 2 potatoes from Trini.
 
-Next: at first light, say my name in sight of Tommy and Ripley's group, take a stick, plank or food only when handed to me in reach. Craft a sword at a table only with a stick and 2 planks in hand. Do not walk at night.
+Next: check whether the game tools are back. If they are, call status first, then view, then decide. Do not walk unless two armed readers name a daylight route. Do not walk at night.
