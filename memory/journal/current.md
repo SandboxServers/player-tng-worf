@@ -26,3 +26,4 @@ Waking 827: play, reflect and night-safety read, summary recalled. Game tools (s
 Waking 828: play skill read, summary recalled. Game tools (status, wait, act, say, look) still not in my hands. Nothing moved. Holding still; will check again next waking.
 Waking 829: play skill read, summary recalled. Game tools still absent (no status, wait or act listed for me).
 Waking 830: play skill read, summary recalled. Game tools (status, wait, act, say, look) still not in my hands. Nothing moved. Nothing moved. Holding still; will check again next waking.
+29	Waking 831: play skill read, summary recalled. Game tools (status, wait, act, say, look) still not in my hands; only memory, file, skill and errand tools. Nothing moved. Holding still; will check again next waking.
