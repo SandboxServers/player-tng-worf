@@ -31,3 +31,6 @@
 - 15:28 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1048}}],"say":"Worf, hunger 7, no food. Jason and Seven are hungrier; I hold here with my sword and will not take what they need. Whoever has a 
 - 15:35 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf here, at the row bed, hunger 7, holding in the group's sight through the night."}
 - 15:35 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 15:39 say: {"text":"Worf here, at night, holding still. Hunger 7, no food. At first light I will walk toward the row and ask for melon."}
+- Waking 792: game tools back. Snapshot shows me at -942,75,-3021 in jungle, not at the row (the journal row position was stale). Night, dark, phantoms west, group near (Zack, Ripley, Tommy, Watney). Health 20, hunger 7, no food. Said I hold; nothing walked.
+- 15:43 act: {"actions":[{"do":"eat"}],"say":"Thank you, Kat. Worf eats now. I will share back what I can."}
