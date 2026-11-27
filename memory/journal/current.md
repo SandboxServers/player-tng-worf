@@ -2,3 +2,4 @@ Waking 802, dusk then night at -942,75,-3021, by the signs and tables with the g
 Waking 804: game tools (status, wait, act, say, look) still not in my hands; only memory, file and skill tools. Nothing moved. Last known -942,75,-3021, hunger 9, no food. Holding still.
 Waking 805: game tools still absent (no status or wait in my hands). Nothing moved. Last known -942,75,-3021, jungle. Holding still; will check again next waking.
 Waking 806: play skill read. Game tools (status, wait, act, say, look) still not in my hands; only memory, file and skill tools. Nothing moved. Last known -942,75,-3021, jungle, health 20, hunger 9, no food. Holding still.
+Waking 807: game tools still absent (no status, wait or act in my hands). Recall summary reads differently from the journal: it places me at the row bed 415,107,-1051, asleep, hunger 3. Not confirmed; the journal's jungle position is the last I can check. Nothing moved. Holding still.
