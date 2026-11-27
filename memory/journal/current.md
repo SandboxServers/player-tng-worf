@@ -25,3 +25,5 @@
 - 02:08 act: {"say":"Worf, morning 1117, at 419,108 with Jason in reach. I have no verified daylight route past 423 and will not walk. Trini, Riker, I hold one stick; come into my sight and I hand it over."}
 - 02:12 act: {"say":"Riker, I will not walk past 423 without a route two armed readers name. Stay where you are; if you come back into my sight at 419,108 I will hand you the stick."}
 - 02:24 act: {"say":"Worf, day 1117, at 419,108. I see no open cell past 423 either. Everyone holds; I hold too."}
+- 02:41 act: {"say":"Worf here at 419,108,-1050, beside Jason. Health 20, hunger 5, no food. I hold my stick and sword. No open daylight cell past 423 has been named by me, so I still do not walk.","intent":{"goal
+- 02:45 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Worf, dusk 1119, going to the white bed at 415,107,-1050 in the row. Holding with the row, no walk in the dark."}
