@@ -22,3 +22,5 @@
 - 10:08 act: {"say":"Worf here. Hunger is 3 and I have no food. Jason, Zack: any food to share? I have no melon yet, Zack, but I still owe you 3 when I hold it.","actions":[]}
 - 10:18 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Worf, dusk. Moving to my bed at 415,107,-1051 to hold for the night. No walks."}
 - 10:23 act: {"say":"Worf, light is up. I hold at bed 415,107,-1051, still no food. I have not checked the potato cells at 464-469,107,-1073 and cannot see them from here, so I name no route. I will look for food 
+- Day 1142 light: walked to Jason at the row, asked for the potatoes and said I owe Zack melon. Hunger 3, no food. Holding in company; no walk.
+- 10:35 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Morning. I have no food, hunger 3. Jason, do you have the potatoes you owe me? Zack, I hold no melon yet, but I have not forgotten.","intent":{
