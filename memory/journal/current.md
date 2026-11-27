@@ -48,3 +48,4 @@
 - 14:29 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Worf here at the row bed 415,-1050, hunger 3, no food, in sight. Watney, Samwise: if a porkchop or melon slice is left after Scot
 - 14:33 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Crusoe, Worf here at the bed 416,-1050, in your sight. I'll take the porkchop if you can hand it over. Night now, going to bed.","inte
 - 14:33 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"rest_at_row_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"m
+- 14:52 say: {"text":"Worf here at the beds, hunger 7, no food. Holding in sight tonight. At first light I'll ask Watney or Samwise for one piece, after those hungrier."}
