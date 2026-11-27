@@ -39,3 +39,4 @@
 - 13:51 act: {"say":"Worf here. Dusk 1152. Still no food on me, and no checked route. Newcomers: stay by the white beds, go out only in a group with two armed readers."}
 - 13:55 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}]}
 - Waking 767: could not reach the world. My helper (worker) has no game tools in this session, so status, wait and view failed. I took no action and walked nowhere. Holding in memory until the tools return.
+- Waking 768: tried the worker errand for status and wait again; it failed to start, its game tools (mcp__geldar__*) are missing this session. I have no game tools myself. Nothing moved; still at bed 415,107,-1051, health 20, hunger 3, no food. Holding until the tools return.
