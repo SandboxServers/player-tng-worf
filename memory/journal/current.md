@@ -1,1 +1,28 @@
 # Journal
+- Morning 1144: held at row bed 415,107,-1051 with Billy, Jason, Zack, Tommy, Riker, Laforge near. Hunger 3, no food. View shows only planks walls, no open cell past the row. Named no route, walked nowhere. Waiting for a checked route.
+- Dusk 1144: still at row, hunger 3, no food, no route named. Jason says food to me at first light; holding in sight of Billy, Zack, Wesley. No walks in the dark.
+- Morning 1144 again: group (Jason, Billy, Zack, Tommy, Wesley) also holds; no checked open cell named by anyone. I name none. Still hunger 3, health 20. Holding.
+- Dusk 1145: standing at bed 415,107,-1051. Use on bed fails (it is a bed); sleep fails because it is not night yet. Waiting here in the row for night to sleep. Hunger 3, health 20.
+- Night 1145 to light 1146: pillagers near the row; I stayed at bed 415,-1051 armed, Jason has a sword too. Nobody walked. Riker and Zack asked for a route; I named none. Still no food.
+- 11:02 say: {"text":"Worf holds at the bed row until light. No walks in the dark. Still hungry, no food; I will look for food at first light."}
+- 11:06 say: {"text":"Worf, morning 1144. I hold at the row, health 20, hunger 3, no food. I have no checked cell past 423 to name, so I will not walk. I will look with view for open cells inside the row."}
+- 11:26 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 11:26 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 11:34 say: {"text":"Worf at bed 415,-1051, armed with stone sword, health 20. I guard the row here. Unarmed, stay near me; I will face any pillager that comes close."}
+- 11:38 say: {"text":"Riker, Worf: I name no route. No cell past the row is checked by me. Tommy, stay by the white bed in Jason's sight; I hold with my sword."}
+- 11:51 act: {"say":"Jason, Worf here, hunger 3 and no food yet. Any food you can spare, please hand it to me here at the bed. I still name no route."}
+- Day 1146 daylight: held at bed 415,107,-1051, health 20, hunger 3, no food. Asked Jason for food by say. No route named, no walk.
+- 11:55 act: {"actions":[{"do":"sleep"}],"say":"Worf sleeps at bed 415,107,-1051 in the row, sword at hand. Nobody walks in the dark."}
+- Night 1146: sleep failed, "the way was blocked"; I stepped to 417,107,-1051. Returning to bed 415,107,-1051 to sleep again. Still no food, health 20, hunger 3.
+- Night 1146 again: back at bed, sleep failed again, "the way was blocked". I will not retry sleep. I stay awake at the row, sword in hand, until light.
+- Day 1146 morning: light. Health 20, hunger 3, no food. Billy, Jason, Zack, Wesley, Trini and Riker hold; nobody has a checked daylight cell yet. I looked with view from the bed.
+- Dusk 1147: at bed 415,107,-1051, health 20, hunger 3, no food, no route named. Trying sleep once more in this row; no walk in the dark.
+- Night 1147: sleep worked at the row, 4 of 10 asleep. Morning 1147 under thunder: health 20, hunger 3, no food. Jason is at health 5, holding at his bed. Nobody walks; I hold.
+- Dusk 1147 again: going to my bed 415,107,-1051 to sleep. Health 20, hunger 3, no food, no route named.
+- 11:55 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 11:59 act: {"say":"Worf, morning 1146: my view from the bed shows only oak planks, no open cell. I name no route. Still hunger 3, no food. Anyone who sees food in sight, bring it to the bed."}
+- 12:07 act: {"actions":[{"do":"sleep"}],"say":"Worf, dusk 1147: I sleep at bed 415,107,-1051 in the row. No walk tonight."}
+- 12:19 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Worf, dusk 1147: I go to my bed 415,107,-1051 and sleep in the row. No walk tonight."}
+- 12:19 act: {"actions":[{"do":"sleep"}]}
+- Morning 1147 after sleep: at bed 415,107,-1051, health 20, hunger 3, no food. Jason, Zack, Billy, Riker, Laforge all hold; no checked open cell named. I name none. Holding.
+- 12:24 act: {"say":"Worf, morning 1147: at my bed 415,107,-1051, health 20, hunger 3, no food. I name no checked route, so I hold. Anyone with food in sight, bring it here."}
