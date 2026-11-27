@@ -27,3 +27,6 @@
 - 05:46 act: {"actions":[],"say":"Morning. Worf, still at the bed in the row. I have no food and no route checked past 423. Nobody walks until cells are named and checked."}
 - 05:54 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
 - 05:58 act: {"actions":[],"say":"Morning. Worf, holding at the bed in the row. I have no checked daylight cell past 423 and no food. No one walks until cells are checked."}
+- 06:03 act: {"say":"Worf, morning. Holding in the row with Jason, Zack and Wcrusher. No checked daylight cell past 423, so nobody walks. I have no food either."}
+- 06:07 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 1129. Worf at the row bed with Jason, Zack and Wcrusher near. Health 20, hunger 4, no food. No walk in the dark. Sleeping here."}
+- Day 1129, light: woke at the row bed, health 20, hunger 4, no food. Billy, Jason, Wesley, Riker, Laforge, Trini all hold in the row. Still no checked daylight cell past 423; nobody walks. Holding the stone sword; no stick, the stick went to Billy by mistake.
