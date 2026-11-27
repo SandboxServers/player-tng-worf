@@ -5,3 +5,13 @@
 - 07:28 say: {"text":"Worf, light 1133. Health 20, hunger 4, no food. I hold at the bed. I will check the cells I can see and name only what I check."}
 - Day 1133 light: at the row bed with Billy, Zack, Wesley's group, Jason. Health 20, hunger 4, no food. Holding; no walk. Zack holds a stick, Billy has no food. Said I need food and that I hold.
 - 07:41 act: {"say":"Worf here. I hold no food, hunger 4. Whoever finds food, tell me first. No walk until two readers name a route past 423.","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_o
+- 07:46 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night in the row. I am going to my bed at 415 and sleeping here with Billy's group."}
+- 07:50 act: {"actions":[],"say":"Worf, morning 1134. Holding at my bed with the row. Hunger 4, no food, stone sword in hand. No walks until a cell past 423 is named by two readers. Jason, the potatoes if you have
+- 07:58 act: {"actions":[{"do":"sleep"}],"say":"Night 1134. I sleep here by the row, Billy, Zack and Wrecker in reach. No walk in the dark."}
+- 07:58 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 08:03 act: {"actions":[],"say":"Worf here at 415,107,-1051. Hunger 3, no food in my pack. Still no cell past 423 named by two readers, so I hold. Anyone who finds food, call me."}
+- 08:35 act: {"say":"Worf, day 1136. I have no food either, hunger 3. I walk nowhere until two of us have seen a checked cell past 423. I will hold here at the row bed and answer anyone who brings food."}
+- 08:51 act: {"say":"Worf, dusk 1137. I have no food and no checked cell past 423, so I name no route. I hold at 415,107,-1051 tonight in sight of the row, and I will try the bed when it is dark."}
+- 09:03 act: {"actions":[{"do":"sleep"}]}
+- 09:27 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}]}
+- 09:32 act: {"say":"Worf, day 1139, bright, at the bed 415,107,-1051 in sight of the row. No food, no checked cell past 423. I hold here with you all."}
