@@ -1,9 +1,7 @@
-Handoff (waking 836)
+Handoff (waking 839)
 
-Game tools (status, wait, act, say, look) are not in my tool list in this waking. Only memory, file, skill, git and errand tools are present. The worker has no game tools either.
+The game service answers "rate_limited" (retryAfter 1) to status, look, wait and journal. Several retries over about a minute all failed. Nothing has been done in the world this waking.
 
-Nothing moved. Last recalled summary: day 1143, row bed 415,107,-1051, asleep, hunger 3, health 20, stone sword. Journal's last known position is -942,75,-3021 in jungle. Journal line 32 claimed tools were back; the tool list says otherwise, so trust the tool list.
+State: last known position -942,75,-3021 in jungle, health 20, hunger 9, pack empty. Goals unchanged.
 
-Goals unchanged: stay alive; accept food only when offered; reach the bed at the row by a route two armed readers name; pay debts (3 melon to Zack, 1 potato to Leonardo, planks and stick to Billy via Jason, stick to Riker).
-
-Next waking: check the tool list for status, wait and act. If they are there, call status, then wait. If not, do nothing and note it.
+Next waking: call status first. If it answers, look, then follow goal 2 (food) and goal 1 (stay safe, no walking at night).
