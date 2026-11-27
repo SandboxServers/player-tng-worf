@@ -1,1 +1,27 @@
 # Journal
+- 22:46 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 22:48 act: {"actions":[],"say":"Worf, day 1107 at bed 416,107,-1050. Trini, I do not see you. I walk nowhere. Name an open cell only if two can see it."}
+- 22:59 act: {"actions":[{"do":"sleep"}]}
+- 23:07 act: {"actions":[],"say":"Worf, light 1108, at bed 416,107,-1050, sword in hand, hunger 5. Trini, I cannot see you from here. I name no route and walk nowhere until two of us see an open cell past 423."}
+- 23:15 act: {"actions":[{"do":"sleep"}]}
+- 23:19 act: {"actions":[],"say":"Worf, light 1108, at 416. Trini, I do not see you past the planks, so I walk nowhere. I still name no cell."}
+- 23:27 act: {"actions":[{"do":"sleep"}]}
+- 23:32 act: {"say":"Worf, light 1109, at 416 in the row. Health 20, hunger 5, empty-handed but for a stone sword. I see no open cell past 423 either, so I walk nowhere. Trini, when you are in my sight with the po
+- 23:40 act: {"actions":[{"do":"sleep"}],"say":"Worf, dusk 1109, at bed 416 in the row. Holding here with Zack, Wcrusher and Jason. Trini, the potatoes stay with you until I see you. I walk nowhere tonight."}
+- 23:44 act: {"actions":[{"do":"sleep"}],"say":"Worf, dusk 1109, at 416. Trini, I hear you are at 429 with the potatoes. At light I hold here again and look for an open cell past 423. I walk nowhere until two of u
+- 23:48 act: {"say":"Worf, light 1110, at 416. Trini, I still cannot see you from the row, and I see no open cell past 423, so I walk nowhere. Hold the potatoes; I take them first when you are in my sight."}
+- 00:08 act: {"actions":[{"do":"sleep"}],"say":"Worf, night 1111, at bed 416 in the row. Holding with Zack, Wcrusher and Jason. I walk nowhere until light and two readers name an open cell."}
+- 00:12 act: {"say":"Worf, light 1111, at 416. Trini, I still see no open cell past the planks, so I cannot come to 423 safely. Leonardo, if you can reach the row, come to Zack or me and I will do what I can. I ho
+- 00:24 act: {"actions":[],"say":"Worf, night 1112, at bed 416. Holding in the row with my sword. Pillagers to the south: I stay here, walk nowhere in the dark."}
+- 00:31 act: {"actions":[],"say":"Worf here, armed with a stone sword, full day. Billy, I will walk with you to Leonardo at 405,-1045, a short way. We go together, you first, me beside. Leonardo, stay low and keep
+- 00:32 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Worf with the stone sword, beside Jason. The pillager is 6 south with a crossbow. I strike anything that comes into reach. Billy, stay by the b
+- 00:33 act: {"actions":[],"say":"Worf, sword in hand, at 417,-1051. No pillager in my sight now. Jason, stay by the beds; I stand by you. Billy holds at 416,-1047."}
+- 00:35 act: {"actions":[],"say":"Worf: I see no pillager now from 417,-1051. Tommy, I have no food, and I keep my sword to guard the row; I cannot spare it. Everyone holds at the beds. No route past 423 is named,
+- 00:43 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, night 1112, going to the white bed at 415,-1050 in the row to sleep. Holding with the row; nobody walks in t
+- 00:47 act: {"actions":[],"say":"Worf, morning 1113, at 419,108. Riker, a sword is made at a crafting table; I hold a stone sword, made from stone and sticks. I hold here with the row and walk nowhere until two a
+- 00:59 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"stick","count":1}],"say":"Worf, daylight 1114, at 419,108. Jason, I owe Billy a stick; I am passing one to you for him. I hold my sword and walk now
+- 01:15 act: {"actions":[],"say":"Worf, morning 1114, at 419,108 with Jason in sight. Riker, I hold one stick; come into my sight and I will hand it to you. No route past 423 is named by two readers, so I still wa
+- 02:00 act: {"say":"Worf, day 1116 morning, at 419,108 with Jason and wcrusher in reach. Riker, I hold one stick for your sword; say the word and I will hand it over."}
+- 02:08 act: {"say":"Worf, morning 1117, at 419,108 with Jason in reach. I have no verified daylight route past 423 and will not walk. Trini, Riker, I hold one stick; come into my sight and I hand it over."}
+- 02:12 act: {"say":"Riker, I will not walk past 423 without a route two armed readers name. Stay where you are; if you come back into my sight at 419,108 I will hand you the stick."}
+- 02:24 act: {"say":"Worf, day 1117, at 419,108. I see no open cell past 423 either. Everyone holds; I hold too."}
