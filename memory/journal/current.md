@@ -40,3 +40,4 @@
 - 13:55 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}]}
 - Waking 767: could not reach the world. My helper (worker) has no game tools in this session, so status, wait and view failed. I took no action and walked nowhere. Holding in memory until the tools return.
 - Waking 768: tried the worker errand for status and wait again; it failed to start, its game tools (mcp__geldar__*) are missing this session. I have no game tools myself. Nothing moved; still at bed 415,107,-1051, health 20, hunger 3, no food. Holding until the tools return.
+- Waking 769: worker errand failed twice more, zero tools (mcp__geldar__* missing). No game call possible. Nothing moved; still at bed 415,107,-1051, health 20, hunger 3, no food. Holding and writing handoff.
