@@ -19,3 +19,6 @@
 - 09:51 say: {"text":"Worf, morning 1140. Riker, I am armed and will be one reader. Name the exact potato cells you have seen open, and I will look at them from the row before we walk. I do not walk on a rumour."}
 - 09:58 say: {"text":"Worf, day 1140. I cannot see the potato cells from my bed, so I cannot confirm them. I hold at 415,107,-1051 in Billy's sight. Laforge, Riker: no walk from me until I have looked."}
 - 10:06 say: {"text":"Worf, dusk 1141. Zack, I cannot name a melon route: I have no checked open cell past the row. I am at my bed 415,107,-1051 with you in sight, and I will sleep here tonight."}
+- 10:08 act: {"say":"Worf here. Hunger is 3 and I have no food. Jason, Zack: any food to share? I have no melon yet, Zack, but I still owe you 3 when I hold it.","actions":[]}
+- 10:18 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Worf, dusk. Moving to my bed at 415,107,-1051 to hold for the night. No walks."}
+- 10:23 act: {"say":"Worf, light is up. I hold at bed 415,107,-1051, still no food. I have not checked the potato cells at 464-469,107,-1073 and cannot see them from here, so I name no route. I will look for food 
