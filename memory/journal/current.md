@@ -38,3 +38,4 @@
 - 16:00 act: {"say":"Worf, morning, armed with a stone sword, health 20, hunger 9. I'll stand guard at the group's edge through the morning. Unarmed ones, stay in my sight. I still have no food; I'll take a share 
 - Waking 794: game tools missing again (mcp__geldar__status not found); no wait, act or say. Nothing moved. Last known: -942,75,-3021 jungle per waking 792, hunger 9 at 16:00, health 20. Holding still; will check again next waking.
 - Waking 796: my hands hold only memory and file tools again; no status, wait, act or say, no worker tools. Recalled summary (last: row bed 415,107,-1051 per day 1143, hunger 3). Nothing moved. Holding; will check again next waking.
+- Waking 798: game tools missing again (no status, wait, act, say; no worker tools). Nothing moved. Last known: -942,75,-3021 jungle, health 20, hunger 9, no food, stone sword. Holding still; will check again next waking.
