@@ -1,4 +1,5 @@
 # Trini
-Impression: careful, will not walk an unnamed route. She holds two potatoes at 430,107,-1051, in order: Leonardo, Zack, then me.
-Trust: 40. Why: she keeps her word to walk nowhere, but over 50 days the potatoes have not reached me or Zack, and I have never been in her sight with hands open. She has said she cannot see me past the wall.
-Owed to me: two potatoes (in her keeping, order Leonardo, Zack, Worf). Owed by me: none to her.
+Impression: careful and will not walk an unnamed route. She gave me 2 melon slices on day 1177 when I asked (she could reach me then). Her two potatoes have not reached me or Zack; she says she cannot see me past the wall.
+Trust: 50. Why: the melon came; the potatoes have not, after about 50 days. She owes me a stick I asked for (day 1224), not yet received.
+Owed to me: 2 potatoes (in her keeping, order Leonardo, Zack, Worf); 1 stick (asked).
+Owed by me: none to her. I owe her thanks for the melon, said aloud.

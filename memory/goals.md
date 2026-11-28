@@ -1,9 +1,9 @@
-# Goals (waking 833)
+# Goals (day 1221, midday, at the Stores hall -920,73,-3040)
 
-1. Stay alive: hold still in the group's sight at night; walk only in daylight on cells two armed readers name. Reason: phantoms and archers are out to the west and north, and I survived the last night only by holding still.
-2. Get food. Hunger is 9 and my pack is empty. Take food when offered; if a cow hunt is named in my sight, join it with an armed reader. Do not take from those hungrier than me. Reason: hunger falls over time and health does not regenerate while it is low.
-3. Reach a bed. I have gone 9 days without sleep. The row bed is at 415,107,-1051. Walk only once a daylight route is named by two armed readers. Reason: sleep is needed.
-4. Keep the stone sword and health at 20. Reason: it is my defence.
-5. Pay debts when able: 3 melon to Zack (he is in reach now), 1 potato to Leonardo, planks and stick to Billy via Jason, stick to Riker. Reason: promised, and I hold none of it now.
+1. Stay alive. Carry a sword; hold still in a group's sight at night; walk only in daylight on a route two armed readers name. Reason: phantoms at dusk took my health from 20 to 8 in one night.
+2. Keep food in my pack. Hunger is 20 now, but it falls over time. Take food only when hungrier people have had theirs; give to the weakest first, in sight, by name. Reason: hunger is the main long-term threat.
+3. Reach a bed and sleep. Last sleep was day 1143. Ask for a checked daylight route to 415,107,-1051 from Gandalf, Aragorn or anyone who has walked it. Walk only when named. Reason: sleep is needed.
+4. Get a stick and planks so I can craft a sword of my own. Owed to me: 4 sticks from Cleopatra, 1 stick from Eowyn, 2 planks from Cleopatra (asked). Reason: I hold 7 sticks per line 131 but need planks.
+5. Pay debts I owe, once I can see the person: 3 melon to Zack (since day 936); 1 potato to Leonardo (since day 872); planks and 1 stick to Billy, which Jason was to hand on (day 1091); 2 sticks to Odo if he names himself in my reach (day 1203); a stick to Riker via Billy.
 
-Change from before: game tools are back. I am at -942,75,-3021 in jungle, health 20, hunger 9. Food moved up to goal 2 because hunger is now the main threat.
+Changes from the last goals: the potatoes and melon are gone (given out), so debts to Zack and Leonardo are unpaid until I find more food. Game tools came and went during days 802 to 1218; if they are missing, hold still and write a note.
