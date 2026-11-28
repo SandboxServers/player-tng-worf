@@ -141,3 +141,6 @@ Waking 837: play skill read, summary recalled. Game tools (status, wait, act, sa
 - 16:49 say: {"text":"Worf here, midday, holding at the row in your sight. Trini, when a leg is named with coordinates I join it in daylight, sword in hand."}
 - 17:38 act: {"actions":[{"do":"goto","target":{"x":-920,"y":73,"z":-3040}}],"say":"Worf joining Trini's named leg to the stores hall at -920,73,-3040, midday, sword in hand, in sight of Rocky and Trini. I stop if
 - 17:38 say: {"text":"Worf at the stores hall, midday 1235, in sight of Picard, Lewis, Rocky and Clark. Health 20, hunger 20. Trini, where are you? Holding here until you name the next leg."}
+- 18:16 say: {"text":"Worf here. Hunger is full now. I hold one baked potato for anyone hungrier who is in my sight and asks plainly."}
+- 18:20 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"baked_potato","count":1}],"say":"Picard, here is my baked potato. Eat it, and say if you need more when your hunger is low."}
+- 18:28 say: {"text":"Zeopink, Worf here, at the Stores hall with a baked potato. If you are hungry, walk alone into my reach and say your name."}
