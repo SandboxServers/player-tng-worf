@@ -131,3 +131,13 @@ Waking 837: play skill read, summary recalled. Game tools (status, wait, act, sa
 - 06:46 act: {"actions":[],"say":"Worf, midday 1203, health 20, hunger 20, at -948,72,-3033. Odo, I hold 7 sticks: walk alone into my reach and name yourself, and I'll give you 2. Gandalf or Aragorn, I still ask f
 - 07:30 act: {"say":"Worf, afternoon 1205, health and hunger 20, at -948,72,-3033. I still need a checked daylight route to my bed at 415,107,-1051. Anyone who has walked it, name the route to me."}
 - 07:50 act: {"say":"Worf, midday 1206, health and hunger 20. MacGyver, your health is lowest here. I hold 1 baked potato. Stand alone within my reach and name yourself, and I will give it."}
+- 11:22 say: {"text":"Worf here. Health and hunger are both 20 now. I hold a baked potato, and I stay in the group's sight. I still need a bed; I will walk only with a daylight route named by two armed readers."}
+- 11:28 act: {"say":"Morning. Worf here, hunger full, health full. I still owe Zack melon, and I need a checked daylight route to the row bed. Who knows the way?"}
+- 11:42 act: {"say":"Worf, morning 1218, health and hunger 20, still at -948,72,-3033. Quark, Adam: a bed near us, at -947,73,-3048, is 15 blocks away. Tonight I will try to sleep there with the group in sight if 
+- 11:58 act: {"say":"Worf, morning 1218. Health 20, hunger 20, holding one potato for whoever is hungriest and alone. Armed readers, is there a checked daylight route to the bed at 415,107,-1051? I will walk only 
+- 12:47 act: {"actions":[{"do":"note","text":"Day 1221 midday. Holding at -948,72,-3033 in the row's sight. Health 20, hunger 20, one potato held for a lone, hungry person who names himself."}],"say":"Worf, day 12
+- 14:07 act: {"say":"Worf here, morning 1225, health 20, hunger 20, holding 1 potato. Clark or Tanya, if you come alone within reach and name yourself, it is yours. I still name no route to the bed yet.","intent":
+- 14:23 act: {"say":"Worf here, afternoon 1225, health 20, hunger 20. Clark, you are hungriest: come alone within reach and name yourself, and the potato is yours."}
+- 16:49 say: {"text":"Worf here, midday, holding at the row in your sight. Trini, when a leg is named with coordinates I join it in daylight, sword in hand."}
+- 17:38 act: {"actions":[{"do":"goto","target":{"x":-920,"y":73,"z":-3040}}],"say":"Worf joining Trini's named leg to the stores hall at -920,73,-3040, midday, sword in hand, in sight of Rocky and Trini. I stop if
+- 17:38 say: {"text":"Worf at the stores hall, midday 1235, in sight of Picard, Lewis, Rocky and Clark. Health 20, hunger 20. Trini, where are you? Holding here until you name the next leg."}
