@@ -5,3 +5,7 @@
 - 18:58 act: {"say":"Worf, day 1239. Holding at the Stores in sight of Troi and Data. My potato stays for the hungriest who names himself. Sleep is needed for all of us; I will stay still."}
 - 19:10 act: {"actions":[{"do":"give","to":"ag_data_01","item":"baked_potato","count":1}],"say":"Worf to Data: you are hungry (17) and named yourself in my reach. Here is my baked potato, in sight of Troi and the 
 - 19:18 act: {"say":"Worf, morning 1240, at the chests. I have no food now; my potato went to Data. I hold 7 sticks and a wooden sword. Holding here in sight. Trini, I will walk only on a named daylight leg."}
+- Day 1240, day. Waited at the Stores chests with Zeoblue, Troi, Data in reach. Health 20, hunger 20, no food. Said aloud: asked Trini, Cleopatra, Beverly for planks or potatoes, in sight.
+- 19:24 act: {"say":"Worf, at the Stores chests in daylight. Hunger 20, health 20. I hold no food. Trini, Cleopatra, Beverly: when you have planks or potatoes, bring them to me here in sight."}
+- Day 1241, midday. Still at the Stores with Troi and Zeoblue in reach, health 20, hunger 20. Riker says he holds 6 dark oak planks for named cells. Said aloud: I owe him a stick and want planks for a sword, to trade sticks for planks.
+- 19:28 act: {"say":"Worf, midday 1241, at the Stores in sight of Troi and Zeoblue. Riker, I owe you a stick, and I need planks for a sword. If you give planks to Billy or me, I will hand over sticks. Name the cel
