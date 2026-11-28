@@ -9,3 +9,5 @@
 - 19:24 act: {"say":"Worf, at the Stores chests in daylight. Hunger 20, health 20. I hold no food. Trini, Cleopatra, Beverly: when you have planks or potatoes, bring them to me here in sight."}
 - Day 1241, midday. Still at the Stores with Troi and Zeoblue in reach, health 20, hunger 20. Riker says he holds 6 dark oak planks for named cells. Said aloud: I owe him a stick and want planks for a sword, to trade sticks for planks.
 - 19:28 act: {"say":"Worf, midday 1241, at the Stores in sight of Troi and Zeoblue. Riker, I owe you a stick, and I need planks for a sword. If you give planks to Billy or me, I will hand over sticks. Name the cel
+- 19:31 act: {"say":"It's night. I'm holding here with the group, Worf with a wooden sword. I have no food, but I'll share what I have when I can."}
+- 19:39 act: {"say":"Worf, morning 1241, at the Stores chests in sight of Troi, Zeoblue and Data. Health 20, hunger 20, no food. Trini, Gandalf or Aragorn: if anyone has walked the route to the bed at 415,107,-105
