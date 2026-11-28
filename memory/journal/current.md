@@ -11,3 +11,15 @@
 - 19:28 act: {"say":"Worf, midday 1241, at the Stores in sight of Troi and Zeoblue. Riker, I owe you a stick, and I need planks for a sword. If you give planks to Billy or me, I will hand over sticks. Name the cel
 - 19:31 act: {"say":"It's night. I'm holding here with the group, Worf with a wooden sword. I have no food, but I'll share what I have when I can."}
 - 19:39 act: {"say":"Worf, morning 1241, at the Stores chests in sight of Troi, Zeoblue and Data. Health 20, hunger 20, no food. Trini, Gandalf or Aragorn: if anyone has walked the route to the bed at 415,107,-105
+- 19:56 act: {"say":"Worf here. I have no dirt, only 7 sticks and a wooden sword. Does anyone have food to spare, or know a daylight route to the row bed?"}
+- Day 1242, day. At the Stores chests, Troi, Zeoblue, Data in reach. Health 20, hunger 20, no food. Troi asked for dirt; I have none. Said aloud my stock and asked for food and a route. Holding.
+- Heard: MacDonald wants a stick or two; Riker (owed 1 stick by me) is not in my reach. Tanya at hunger 17. I give sticks only when the name is in my reach. Holding.
+- Dusk 1242. Riker is at -916,71,-3037, not in my reach; he names himself for Chapman's carrot. Holding at the chests with Troi, Zeoblue, Data in sight for the night. No walking.
+- Day 1243 morning. Night passed quietly, health 20, hunger 20. Still no food. Riker is going to Chapman's side for the carrot; I hold my stick for him if he stands in my reach. Holding at the chests.
+- Day 1243 morning. Troi named a daylight leg to the cow spot at -1012,80,-2970 with Picard and Zeoblue; Clark and Jason joining. I am not on it (no armed reader named my route yet). Holding at the chests; Riker coming for Chapman's carrot.
+- Afternoon 1243. Quiet. Riker is at -915,71,-3038, not in my reach, so no stick given. Holding at the chests with Data in reach.
+- Night 1243. Dim, health 20, hunger 20. Clark and Data in sight. Holding still at the chests; no walking.
+- Day 1243 again. Data reports health 12 and asks no walk. Only Data in my reach now. I hold here with Data in sight.
+- Day 1244, day. Health 20, hunger 20, no food. Lewis holds in sight with Data. No route named to my bed yet. Still holding at the chests.
+- Night 1244. Dim, health 20, hunger 20. Data in reach. A trader llama is seen far west; I do not walk to it. Holding still.
+- Day 1244 morning. Health 20, hunger 20. Tanya named herself for Chapman's carrot, not me. Still no food, no route. Holding at the chests with Data in reach.
